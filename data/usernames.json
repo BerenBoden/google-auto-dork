@@ -1,0 +1,137 @@
+[
+  {
+    "dork": "intitle:index of \\/usernames"
+  },
+  {
+    "dork": "intitle:index of contacts.txt"
+  },
+  {
+    "dork": "intext:-----BEGIN CERTIFICATE----- ext:txt"
+  },
+  {
+    "dork": "intitle:index of db.properties | db.properties.BAK"
+  },
+  {
+    "dork": "intitle:index of credentials.xml | credentials.inc | credentials.txt"
+  },
+  {
+    "dork": "intitle:index of password.yml"
+  },
+  {
+    "dork": "jdbc:sqlserver:\\/\\/localhost:1433 + username + password ext:yml | ext:java"
+  },
+  {
+    "dork": "'dsn: mysql:host=localhost;dbname= ext:yml | ext:txt password:"
+  },
+  {
+    "dork": "intitle:index of sitemanager.xml | recentservers.xml"
+  },
+  {
+    "dork": "intitle:index of filezilla.xml"
+  },
+  {
+    "dork": "inurl:user intitle:index of ext:sql | xls | xml | json | csv"
+  },
+  {
+    "dork": "filetype:csv intext:Secret access key"
+  },
+  {
+    "dork": "DefaultPassword ext:reg [HKEY_LOCAL_MACHINESOFTWAREMicrosoftWindows NTCurrentVersionWinlogon]"
+  },
+  {
+    "dork": "jdbc:mysql:\\/\\/localhost:3306\\/ + username + password ext:yml | ext:java -git -gitlab"
+  },
+  {
+    "dork": "intitle:index of \\/parameters.yml*"
+  },
+  {
+    "dork": "CREATE ROLE + ENCRYPTED PASSWORD ext:sql | ext:txt | ext:ini -git -gitlab"
+  },
+  {
+    "dork": "File contains Sensitive Information"
+  },
+  {
+    "dork": "index of users.frm"
+  },
+  {
+    "dork": "intitle:index of tomcat-users.xml"
+  },
+  {
+    "dork": "intitle:index of \\/ftpusers"
+  },
+  {
+    "dork": "intitle:index of users.sql"
+  },
+  {
+    "dork": "allintext:username filetype:log"
+  },
+  {
+    "dork": "intitle:index of service.grp"
+  },
+  {
+    "dork": "intitle:index.of users.db"
+  },
+  {
+    "dork": "username.xlsx ext:xlsx"
+  },
+  {
+    "dork": "inurl:\\/_layouts\\/mobile\\/view.aspx?List="
+  },
+  {
+    "dork": "authentication failure; logname= ext:log"
+  },
+  {
+    "dork": "inurl:\\/profile.php?lookup=1"
+  },
+  {
+    "dork": "inurl:\\/root\\/etc\\/passwd intext:home\\/*:"
+  },
+  {
+    "dork": "intext:root:x:0:0:root:\\/root:\\/bin\\/bash inurl:*=\\/etc\\/passwd"
+  },
+  {
+    "dork": "site:extremetracking.com inurl:login="
+  },
+  {
+    "dork": "intext:SteamUserPassphrase= intext:SteamAppUser= -username -user"
+  },
+  {
+    "dork": "inurl:root.asp?acs=anon"
+  },
+  {
+    "dork": "filetype:conf inurl:proftpd.conf -sample"
+  },
+  {
+    "dork": "filetype:log username putty"
+  },
+  {
+    "dork": "filetype:reg reg +intext:internet account manager"
+  },
+  {
+    "dork": "filetype:reg reg HKEY_CURRENT_USER username"
+  },
+  {
+    "dork": "+intext:webalizer +intext:Total Usernames +intext:Usage Statistics for"
+  },
+  {
+    "dork": "inurl:php inurl:hlstats intext:Server Username"
+  },
+  {
+    "dork": "index of \\/ lck"
+  },
+  {
+    "dork": "index.of perform.ini"
+  },
+  {
+    "dork": "inurl:admin inurl:userlist"
+  },
+  {
+    "dork": "inurl:admin filetype:asp inurl:userlist"
+  },
+  {
+    "dork": "intitle:index.of .sh_history"
+  },
+  {
+    "dork": "intitle:index.of .bash_history"
+  }
+]

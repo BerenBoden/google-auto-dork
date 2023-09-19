@@ -1,0 +1,80 @@
+[
+  {
+    "dork": "site:.co.nz intext:\"powered by Shopify\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by WooCommerce\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by Magento\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by BigCommerce\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by Volusion\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by PrestaShop\""
+  },
+  {
+    "dork": "site:.co.nz intitle:\"shop\""
+  },
+  {
+    "dork": "site:.co.nz intitle:\"store\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"shop now\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"buy now\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"add to cart\""
+  },
+  {
+    "dork": "site:.co.nz intext category"
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by Authorize.Net\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by PayPal\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by Stripe\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by 2Checkout\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"powered by Square\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"free shipping\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"ships worldwide\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"ships internationally\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"same-day shipping\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"next-day delivery\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"sale\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"discount\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"clearance\""
+  },
+  {
+    "dork": "site:.co.nz intext:\"special offer\""
+  }
+]

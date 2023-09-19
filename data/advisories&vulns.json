@@ -1,0 +1,6656 @@
+[
+  {
+    "dork": "PHP Projectworlds 1.0"
+  },
+  {
+    "dork": "inurl:quicklinks.aspx"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/Ultimate-member"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wpdiscuz\\/"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/1-flash-gallery"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/123ContactForm"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wp-super-edit\\/superedit\\/ | inurl:wp-content\\/plugins\\/wp-super-edit\\/superedit\\/tinymce_plugins\\/mse\\/fckeditor\\/editor\\/filemanager\\/upload\\/"
+  },
+  {
+    "dork": "citsmart.local"
+  },
+  {
+    "dork": "inurl:telerik.web.ui.webresource.axd?type=rau"
+  },
+  {
+    "dork": "inurl:\\/lib\\/editor\\/atto\\/plugins\\/managefiles\\/ | inurl:calendar\\/view.php?view=month"
+  },
+  {
+    "dork": "inurl:\\/ics?tool=search"
+  },
+  {
+    "dork": "inurl:\\/calendar\\/calendar_form.php"
+  },
+  {
+    "dork": "Powered By Best Support System"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/super-forms\\/"
+  },
+  {
+    "dork": "inurl:uno.php"
+  },
+  {
+    "dork": "inurl:\\/console\\/login\\/LoginForm.jsp"
+  },
+  {
+    "dork": "machform inurl:view.php"
+  },
+  {
+    "dork": "intext:Incom CMS 2.0"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/altair\\/"
+  },
+  {
+    "dork": "inurl:\\/pro_users\\/login"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/manlist?section"
+  },
+  {
+    "dork": "Powered by vBulletin(R) Version 5.6.3"
+  },
+  {
+    "dork": "intitle:Please Login Use FTM Push"
+  },
+  {
+    "dork": "inurl:opac_css"
+  },
+  {
+    "dork": "intitle:Powered by Pro Chat Rooms"
+  },
+  {
+    "dork": "inurl:woocommerce-exporter"
+  },
+  {
+    "dork": "Server: Mida eFramework"
+  },
+  {
+    "dork": "intitle:Sphider Admin Login"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-file-manager\\/readme.txt"
+  },
+  {
+    "dork": "intext:Published with Textpattern CMS"
+  },
+  {
+    "dork": "intext:Powered by Piwigo"
+  },
+  {
+    "dork": "intext:Powered by Typesetter"
+  },
+  {
+    "dork": "inurl:images\\/lists?cid=13"
+  },
+  {
+    "dork": "inurl:device ext:rsp"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-file-manager\\/lib\\/php\\/connector.minimal.php - Wordpress File Manager"
+  },
+  {
+    "dork": "inurl: login.rsp"
+  },
+  {
+    "dork": "inurl:''com_gmapfp''"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wpdiscuz"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/easy-media-gallery-pro"
+  },
+  {
+    "dork": "inurl:\\/vam\\/index_vam_op.php"
+  },
+  {
+    "dork": "intitle:ePMP 1000 intext:Log In -site:*.com -site:com.*"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/redirection"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/updraftplus"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/my-calendar"
+  },
+  {
+    "dork": "Index of : wp-content\\/plugins\\/wpmudev-updates\\/"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/arforms"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/safe-svg"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/sfwd-lms"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/iwp-client"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/email-subscribers"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wpjobboard"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/idx-broker-platinum"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/async-javascript"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/all-in-one-wp-migration"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/lifterlms"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wd-google-maps"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/sendpress"
+  },
+  {
+    "dork": "allintext: wp-content\\/themes\\/injob"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/knight-lab-timelinejs"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wise-chat"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/kingcomposer"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/knight-lab-timelinejs"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/gravityforms"
+  },
+  {
+    "dork": "allintext:wp-content\\/plugins\\/angwp"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/angwp"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/corona"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/realestate-7"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/angwp"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/angwp"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wp-live-chat-support"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/form-maker"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/newsletter"
+  },
+  {
+    "dork": "allintext:wp-content\\/plugins\\/acf-to-rest-api"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/sparky"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/nexos"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/careerfy"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/security-malware-firewall"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/careerup"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/testimonials-widget"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wp-jobsearch"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/payment-form-for-paypal-pro"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wpforms-lite"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/form-maker"
+  },
+  {
+    "dork": "intitle:IceWarp WebClient"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/coming-soon"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/traveler"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/gift"
+  },
+  {
+    "dork": "intext:piwik Sign in"
+  },
+  {
+    "dork": "intext:Powered by 2Moons 2009-2013"
+  },
+  {
+    "dork": "intext:Centreon 2005-2019"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/citybook"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/traveler"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wpDiscuz"
+  },
+  {
+    "dork": "inurl:\\/webmail intext:Tecnologia fornecida por IceWarp Server"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wp-pro-quiz"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/YITH-WooCommerce-Ajax-Product-Filter"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/ar-contactus"
+  },
+  {
+    "dork": "intext:Basato su IceWarp Server"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/testimonial-rotator"
+  },
+  {
+    "dork": "intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net"
+  },
+  {
+    "dork": "intext:Basato su Comunicazioni Integrate IceWarp"
+  },
+  {
+    "dork": "intext:TopManage (R) 2002 - 2020"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/kingcomposer"
+  },
+  {
+    "dork": "intext:powered by JoomSport - sport WordPress plugin"
+  },
+  {
+    "dork": "inurl:wp-content\\/themes\\/newspaper"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/elementor"
+  },
+  {
+    "dork": "powered by Typo3"
+  },
+  {
+    "dork": "index of plugins\\/wp-rocket"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/brizy"
+  },
+  {
+    "dork": "index of \\/wp-content\\/uploads\\/backupbuddy"
+  },
+  {
+    "dork": "inurl:wp-contentpluginsphoto-gallery"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/sportspress"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/adrotate"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/mappress-google-maps-for-wordpress"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/yop-poll"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/ajax-load-more\\/lang\\/"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/woocommerce"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/simple-file-list"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/final-tiles-grid-gallery-lite"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-ecommerce-shop-styling\\/"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wp-jobsearch"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/final-tiles-grid-gallery-lite"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/bbPress"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/gtranslate"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/iframe"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/woo-order-export-lite"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/grand-media"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/drag-and-drop-multiple-file-upload-contact-form-7"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/siteorigin-panels"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/form-maker"
+  },
+  {
+    "dork": "inurl:index.php?option=com_ccnewsletter inurl:sbid"
+  },
+  {
+    "dork": "intitle:Index of intitle:UserPro -uploads"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/thirstyaffiliates"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/official-mailerlite-sign-up-forms"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/visualcomposer"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/ajax-load-more"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/paid-memberships-pro"
+  },
+  {
+    "dork": "intext:Created by John Caruso intext:Created with Simple PHP Photo Gallery"
+  },
+  {
+    "dork": "LMS v3.0 - Xerone IT"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jssupportticket"
+  },
+  {
+    "dork": "inurl:index.php?option=com_fabrik"
+  },
+  {
+    "dork": "inurl:human.aspx intext:moveit"
+  },
+  {
+    "dork": "inurl:sites\\/all\\/modules\\/ckeditor -drupalcode.org"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/photo-gallery"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/easy-login-woocommerce"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/wp-product-review"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/team-members"
+  },
+  {
+    "dork": "inurl:index.php?option=com_hdwplayer"
+  },
+  {
+    "dork": "inurl:index.php?option=com_newsfeeds"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/easy-testimonials"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/google-site-kit"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/page-builder"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/chopslider"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/elementor-pro"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/ultimate-elementor"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/traveler\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/fruitful\\/"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/learnpress"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/ninja-forms"
+  },
+  {
+    "dork": "index of \\/wp-content\\/themes\\/avada"
+  },
+  {
+    "dork": "index of \\/wp-content\\/themes\\/onetone\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/listingpro\\/"
+  },
+  {
+    "dork": "intitle:qdPM 9.1. Copyright (c) 2020 qdpm.net"
+  },
+  {
+    "dork": "inurl:zdm logon"
+  },
+  {
+    "dork": "inurl:www\\/delivery filetype:php"
+  },
+  {
+    "dork": "intext:Please Login inurl:\\/remote\\/login"
+  },
+  {
+    "dork": "inurl:\\/course\\/jumpto.php?jump="
+  },
+  {
+    "dork": "intitle:elFinder 2.1.x"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/CherryFramework"
+  },
+  {
+    "dork": "inurl:\\/webmail\\/ intext:Powered by IceWarp Server"
+  },
+  {
+    "dork": "intitle:My Book World Edition - MyBookWorld"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jsjobs"
+  },
+  {
+    "dork": "inurl:wp-contentpluginsall-in-one-seo-pack"
+  },
+  {
+    "dork": "Powered by SePortal 2.5"
+  },
+  {
+    "dork": "Powered by PHPBack"
+  },
+  {
+    "dork": "Powered by Lanius CMS"
+  },
+  {
+    "dork": "filetype:php inurl:\\/general\\/login.php?PHPSESSID="
+  },
+  {
+    "dork": "inurl:php-bin\\/webclient.php"
+  },
+  {
+    "dork": "inurl:\\/?op=registration"
+  },
+  {
+    "dork": "intext:Powered by YouPHPTube"
+  },
+  {
+    "dork": "Powered by sNews CMS"
+  },
+  {
+    "dork": "Powered by Podcast Generator"
+  },
+  {
+    "dork": "Powered By Liferay"
+  },
+  {
+    "dork": "Powered by Zimplit CMS"
+  },
+  {
+    "dork": "inurl:ReportViewer.aspx"
+  },
+  {
+    "dork": "intext:Please enable JavaScript in your browser before using Citrix Receiver. AND intext:www.citrix.com"
+  },
+  {
+    "dork": "intitle:kentico database setup"
+  },
+  {
+    "dork": "inurl:\\/cmsinstall\\/install ext:aspx"
+  },
+  {
+    "dork": "inurl:index.cfm?action= intext:Exception in onError"
+  },
+  {
+    "dork": "intext:Powered By vBulletin 5.5.4 inurl:forum."
+  },
+  {
+    "dork": "inurl:zoom.us\\/j and intext:scheduled for"
+  },
+  {
+    "dork": "inurl:\\/secure\\/ContactAdministrators!default.jspa intext:Request Details -intext:Your Jira administrator has not yet configured this contact form"
+  },
+  {
+    "dork": "intitle:report (qualys | acunetix | nessus | netsparker | nmap) filetype:pdf"
+  },
+  {
+    "dork": "site:connect.garmin.com inurl:\\/modern\\/profile\\/"
+  },
+  {
+    "dork": "site:connect.garmin.com inurl:\\/modern\\/activity\\/"
+  },
+  {
+    "dork": "inurl:dnn.js"
+  },
+  {
+    "dork": "intext:Powered by 74cms v5.0.1"
+  },
+  {
+    "dork": "site:www.openbugbounty.org + intext:Open Redirect + intext:Unpatched"
+  },
+  {
+    "dork": "inurl:wls-wsat intext:weblogic.wsee.wstx.wsat"
+  },
+  {
+    "dork": "inurl:\\/uddiexplorer\\/searchpublicregistries.jsp"
+  },
+  {
+    "dork": "inurl=\\/uddiexplorer\\/SetupUDDIExplorer.jsp"
+  },
+  {
+    "dork": "Powered by 2Moons"
+  },
+  {
+    "dork": "intitle:WAGO Ethernet web-based-management"
+  },
+  {
+    "dork": "intitle:Nport web console"
+  },
+  {
+    "dork": "inurl:mgl-instagram-gallery\\/single-gallery.php?media"
+  },
+  {
+    "dork": "inurl:\\/testssi.ssi"
+  },
+  {
+    "dork": "filetype:php Git Deployment Script v0.1"
+  },
+  {
+    "dork": "inurl:\\/wp-admin\\/setup-config.php intitle:Setup Configuration File"
+  },
+  {
+    "dork": "filetype:ini wordfence"
+  },
+  {
+    "dork": "intitle:Index of \\/ mod_ssl 2.2.22 OpenSSL\\/1.0.1"
+  },
+  {
+    "dork": "inurl:pubdlcnt.php?file= ext:php"
+  },
+  {
+    "dork": "inurl:exit.php?url= -entry_id"
+  },
+  {
+    "dork": "allinurl:\\/wp-content\\/plugins\\/wp-noexternallinks"
+  },
+  {
+    "dork": "intitle:index of AND (intext:mirai.x86 OR intext:mirai.mips OR intext:mirai.mpsl OR intext:mirai.arm OR intext:mirai.arm7 OR intext:mirai.ppc OR intext:mirai.spc OR intext:mirai.m68k OR intext:mirai.sh4)"
+  },
+  {
+    "dork": "Access Denied Powered by Incapsula ext:php"
+  },
+  {
+    "dork": "inurl:\\/load.cgi ext:cgi"
+  },
+  {
+    "dork": "inurl:exit.php?site="
+  },
+  {
+    "dork": "inurl:\\/admin\\/index.php?msg= inurl:%20"
+  },
+  {
+    "dork": "inurl:.php?cat= inurl:'"
+  },
+  {
+    "dork": "CF-Host-Origin-IP CF-Int-Brand-ID CF-RAY CF-Visitor github -site:github.com -site:cloudfare.com"
+  },
+  {
+    "dork": "inurl:sendmessage.php?type=skype"
+  },
+  {
+    "dork": "inurl:\\/index.php?option=com_artforms"
+  },
+  {
+    "dork": "inurl:sgms\\/auth"
+  },
+  {
+    "dork": "index of bigdump.php"
+  },
+  {
+    "dork": "intext:Hello visitor from ext:asp"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/levoslideshow\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-mobile-detector\\/ ext:php"
+  },
+  {
+    "dork": "inurl:\\/webmail\\/ intitle:Mail - AfterLogic WebMail -site:afterlogic.org -site:afterlogic.com"
+  },
+  {
+    "dork": "ext:php inurl:api.php?action="
+  },
+  {
+    "dork": "intext:Forum software by XenForo\\u2122"
+  },
+  {
+    "dork": "inurl:.asp?strParents="
+  },
+  {
+    "dork": "inurl:\\/node\\/add\\/event"
+  },
+  {
+    "dork": "intext:Powered By OpenCart -site:opencart.com -inurl:Powered By OpenCart -intitle:OpenCart -intitle:powered by"
+  },
+  {
+    "dork": " Proudly Served by LiteSpeed Web Server intitle:index.of.\\/"
+  },
+  {
+    "dork": "intitle:Dashboard [Jenkins] Credentials"
+  },
+  {
+    "dork": "powered by joomla 3.2 OR powered by joomla 3.3 OR powered by joomla 3.4"
+  },
+  {
+    "dork": "inurl:cgi-bin\\/webproc?getpage="
+  },
+  {
+    "dork": "ganglia mobile.php"
+  },
+  {
+    "dork": "allinurl:wp-content\\/plugins\\/wptf-image-gallery\\/"
+  },
+  {
+    "dork": "inurl:\\/plugins\\/aviary-image-editor-add-on-for-gravity-forms\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/inboundio-marketing\\/"
+  },
+  {
+    "dork": "inurl:EndUserPortal.jsp"
+  },
+  {
+    "dork": "inurl:index.php intext:ApPHP Hotel Site -site:apphp.com"
+  },
+  {
+    "dork": "inurl:courier\\/web\\/ inurl:wmLogin.html filetype:html"
+  },
+  {
+    "dork": "inurl:\\/wp-admin\\/post.php?post="
+  },
+  {
+    "dork": "inurl:\\/wp-admin\\/admin-ajax.php?action=revslider_ajax_action"
+  },
+  {
+    "dork": "inurl:fckeditor -intext:ConfigIsEnabled = False intext:ConfigIsEnabled"
+  },
+  {
+    "dork": "intitle:pChart 2.x - examples intext:2.1.3"
+  },
+  {
+    "dork": "inurl:tiki-index.php filetype:php This is TikiWiki 1.9"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/age-verification\\/age-verification.php"
+  },
+  {
+    "dork": "inurl:\\/showPlayer.php?id= intext:powered by ellistonSPORT"
+  },
+  {
+    "dork": "inurl:mod.php?mod=blog intext:powered by DIY-CMS"
+  },
+  {
+    "dork": "Powered by kryCMS"
+  },
+  {
+    "dork": "Powered by SLAED CMS"
+  },
+  {
+    "dork": "error_log inurl:\\/wp-content"
+  },
+  {
+    "dork": "intitle:vtiger CRM 5 - Commercial Open Source CRM"
+  },
+  {
+    "dork": "inurl:clsUploadtest.asp"
+  },
+  {
+    "dork": "inurl:fbconnect_action=myhome"
+  },
+  {
+    "dork": "index.php?option=com_ignitegallery"
+  },
+  {
+    "dork": "intext:Powered by FXRecruiter"
+  },
+  {
+    "dork": "site by Designscope"
+  },
+  {
+    "dork": "intext:Powered by Inventory Mojo Software."
+  },
+  {
+    "dork": "intext:Site by Triware Technologies Inc"
+  },
+  {
+    "dork": "intext:Powered by VoiceCMS"
+  },
+  {
+    "dork": "intext:Powered by OnePlug CMS"
+  },
+  {
+    "dork": "POWERED BY LOG1 CMS"
+  },
+  {
+    "dork": "ADAN (view.php ) Sql Injection Vulnerability"
+  },
+  {
+    "dork": "inurl:sitegenius\\/topic.php"
+  },
+  {
+    "dork": "intext:Powered by EZPub"
+  },
+  {
+    "dork": "intext:Web Design by Webz filetype:asp"
+  },
+  {
+    "dork": "Powered by SOFTMAN"
+  },
+  {
+    "dork": "POWERED BY ZIPBOX MEDIA inurl:album.php"
+  },
+  {
+    "dork": "powered by zipbox media"
+  },
+  {
+    "dork": "made visual by sightFACTORY"
+  },
+  {
+    "dork": "site:ebay.com inurl:callback"
+  },
+  {
+    "dork": "Powered By Dew-NewPHPLinks v.2.1b"
+  },
+  {
+    "dork": "allintext: \\/qcodo\\/_devtools\\/codegen.php"
+  },
+  {
+    "dork": "http:\\/\\/www.google.com\\/#sclient=psy&hl=en&safe=off&site=&source=hp&q=:inurl%3Amj_wwwusr&aq=f&aqi=&aql=&oq=&pbx=1&fp=2dcb6979649afcb0"
+  },
+  {
+    "dork": "Photo Gallery powered by TinyWebGallery 1.8.3"
+  },
+  {
+    "dork": "inurl:ab_fct.php?fct="
+  },
+  {
+    "dork": "Powered by: PHP Link Directory"
+  },
+  {
+    "dork": "inurl:cultbooking.php"
+  },
+  {
+    "dork": "inurl:\\/plugins\\/ImageManager\\/manager.php"
+  },
+  {
+    "dork": "intext:Powered by DZOIC Handshakes Professional"
+  },
+  {
+    "dork": "inurl:\\/modules.php?name= Maximus CMS"
+  },
+  {
+    "dork": "TinyBB 2011 all rights reserved"
+  },
+  {
+    "dork": "inurl:jscripts\\/tiny_mce\\/plugins\\/tinybrowser\\/ OR inurl:jscripts\\/tiny_mce\\/plugins\\/tinybrowser\\/ index of"
+  },
+  {
+    "dork": "Powered by phpMySport"
+  },
+  {
+    "dork": "POWERED BY ALITALK"
+  },
+  {
+    "dork": "Powered by YourTube v1.0"
+  },
+  {
+    "dork": "inurl:\\/gadmin\\/index.php"
+  },
+  {
+    "dork": "inurl:com_eventcal"
+  },
+  {
+    "dork": "Powered by UNO.com.my"
+  },
+  {
+    "dork": "\\/index.php?id=cmp-noticias"
+  },
+  {
+    "dork": "Powered by KaiBB 1.0.1"
+  },
+  {
+    "dork": "Website Design by Rocktime"
+  },
+  {
+    "dork": "Powered by CubeCart 3.0.4"
+  },
+  {
+    "dork": "allinurl:index.php?db=information_schema"
+  },
+  {
+    "dork": "Powered by: IRIran.net"
+  },
+  {
+    "dork": "inurl:com_jeauto"
+  },
+  {
+    "dork": "inurl:produtos.asp?produto="
+  },
+  {
+    "dork": "powered by simpleview CMS"
+  },
+  {
+    "dork": "Powered By PageAdmin CMS Free Version"
+  },
+  {
+    "dork": "intext: Copyright+MantisBT Group"
+  },
+  {
+    "dork": "inurl:panorama-viewer.php?id="
+  },
+  {
+    "dork": "inurl:showcat.asp?id="
+  },
+  {
+    "dork": "POWERED BY: WEBINSPIRE"
+  },
+  {
+    "dork": "inurl:com_amresurrected"
+  },
+  {
+    "dork": "Powered by SOOP Portal Raven 1.0b"
+  },
+  {
+    "dork": "PhpMyAdmin Client Side 0Day Code Injection and Redirect Link Falsification"
+  },
+  {
+    "dork": "inurl:page.php?intPageID="
+  },
+  {
+    "dork": "SOOP Portal 2.0"
+  },
+  {
+    "dork": "inurl:index.php?option=com_lqm showResults"
+  },
+  {
+    "dork": "php Kolay Forum (php KF) \\u00a9 2007 - 2010 phpKF Ekibi"
+  },
+  {
+    "dork": "Powered By Dejcom Market CMS"
+  },
+  {
+    "dork": "inurl:index.php?option=com_annuaire"
+  },
+  {
+    "dork": "Site produced by GeneralProducts.co.uk"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jeajaxeventcalendar"
+  },
+  {
+    "dork": "Powered by SiteEngine"
+  },
+  {
+    "dork": "inurl:index.php?option=com_competitions"
+  },
+  {
+    "dork": "inurl:index.php?option=com_storedirectory"
+  },
+  {
+    "dork": "inurl:index.php?option=com_catalogue"
+  },
+  {
+    "dork": "inurl:index.php?option=com_doqment&cid="
+  },
+  {
+    "dork": "inurl:?delete +intext:PHP version +intext:Safe_mode"
+  },
+  {
+    "dork": "inurl:?act=phpinfo"
+  },
+  {
+    "dork": "inurl:jscripts\\/tiny_mce\\/plugins\\/tinybrowser\\/"
+  },
+  {
+    "dork": "Powered by ispCP Omega"
+  },
+  {
+    "dork": "powered by ezUserManager"
+  },
+  {
+    "dork": "UPublisher"
+  },
+  {
+    "dork": "intext:Design by BB Media.Org"
+  },
+  {
+    "dork": "Copyright-2008@zeejobsite.com"
+  },
+  {
+    "dork": "[ Powered By x10media.com ]"
+  },
+  {
+    "dork": "This site is powered by CMS Made Simple version 1."
+  },
+  {
+    "dork": "Powered by: PreProjects"
+  },
+  {
+    "dork": "intitle:Answer Builder Ask a question"
+  },
+  {
+    "dork": "calendar.asp?eventdetail"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jp_jobs"
+  },
+  {
+    "dork": "inurl:\\/modules\\/camportail\\/"
+  },
+  {
+    "dork": "Jax Calendar v1.34 by Jack (tR)"
+  },
+  {
+    "dork": "allintitle: MCgallery 0.5b"
+  },
+  {
+    "dork": "inurl:tinybrowser.php?"
+  },
+  {
+    "dork": "Powered by Multi Website 1.5"
+  },
+  {
+    "dork": "http:\\/\\/www.google.com\\/search?source=ig&hl=fr&rlz=&q=allinurl:+Category.php%3FIndustrYID%3D"
+  },
+  {
+    "dork": "Copyright \\u00a9 2007 by Horst-D. Kr\\u00f6ller \\u00b7 CMS: php WCMS"
+  },
+  {
+    "dork": "Powered by Platinum 7.6.b.5"
+  },
+  {
+    "dork": "TRUC 0.11.0 :: \\u00c2\\u00a9 2006 by ASDIS :"
+  },
+  {
+    "dork": "Powered by ECShop v2.5.0"
+  },
+  {
+    "dork": "Powered by iScripts VisualCaster"
+  },
+  {
+    "dork": "index2.php?option=com_joomlaboard"
+  },
+  {
+    "dork": "inurl:com_booklibrary"
+  },
+  {
+    "dork": "allinurl: index php p shopcateg"
+  },
+  {
+    "dork": "contact_frm.php"
+  },
+  {
+    "dork": "powered by Photo-Graffix Flash Image Gallery"
+  },
+  {
+    "dork": "Powered by DesClub.com - phpLinkat"
+  },
+  {
+    "dork": "inurl:cameralife\\/index.php"
+  },
+  {
+    "dork": "inurl:\\/modules\\/myads\\/"
+  },
+  {
+    "dork": "Rash Version: 1.2.1"
+  },
+  {
+    "dork": "Powered by Natterchat v1.12"
+  },
+  {
+    "dork": "inc_webblogmanager.asp"
+  },
+  {
+    "dork": "Powered by: Zanfi Solutions"
+  },
+  {
+    "dork": "inurl:option=com_huruhelpdesk"
+  },
+  {
+    "dork": "Ladder Scripts by http:\\/\\/www.mygamingladder.com"
+  },
+  {
+    "dork": "Powered by: mevin productions"
+  },
+  {
+    "dork": "Instant Free File Uploader"
+  },
+  {
+    "dork": "inurl:tr.php?id="
+  },
+  {
+    "dork": "inurl:com_equipment"
+  },
+  {
+    "dork": "inurl:inc_membersareamanager.asp"
+  },
+  {
+    "dork": "Powered By PHPDug version 2.0.0"
+  },
+  {
+    "dork": "inurl:catalog\\/product\\/detail.php?cat="
+  },
+  {
+    "dork": "Powered by Webiz inurl:'wmt\\/webpages"
+  },
+  {
+    "dork": "inurl:index.php?mod=jeuxflash"
+  },
+  {
+    "dork": "Everyone should be on TV! Now you can upload 2 TV"
+  },
+  {
+    "dork": "Tanyakan Pada Rumput Yang Bergoyang"
+  },
+  {
+    "dork": "allinurl:show_memorial.php?id="
+  },
+  {
+    "dork": "inurl: user_info.php?user_id=  Or  inurl: index.php?catid= "
+  },
+  {
+    "dork": "Powered by xchangeboard"
+  },
+  {
+    "dork": "allinurl :modules\\/gallery"
+  },
+  {
+    "dork": " created by creato.biz "
+  },
+  {
+    "dork": "inurl:\\/component\\/jesectionfinder\\/"
+  },
+  {
+    "dork": "intext:Powered by Mobilelib Gold v3"
+  },
+  {
+    "dork": "Powered by:Traidnt Gallery Version 1.0."
+  },
+  {
+    "dork": "allinurl: com_mcquiz tid"
+  },
+  {
+    "dork": "intext:Design by MMA Creative"
+  },
+  {
+    "dork": "Powered by: Southburn"
+  },
+  {
+    "dork": "intitle:phpMyAdmin"
+  },
+  {
+    "dork": "php-addressbook"
+  },
+  {
+    "dork": "intitle: phpBazar-AdminPanel"
+  },
+  {
+    "dork": "inurl:com_productbook"
+  },
+  {
+    "dork": "inurl:tr.php?id="
+  },
+  {
+    "dork": "infusions\\/raidtracker_panel\\/thisraidprogress.php?"
+  },
+  {
+    "dork": "inurl:com_phocagallery"
+  },
+  {
+    "dork": "inurl:com_jsjobs"
+  },
+  {
+    "dork": "allinurl: index.php?showlinklinks"
+  },
+  {
+    "dork": "inurl: com_alphacontent"
+  },
+  {
+    "dork": "''com_noticias''"
+  },
+  {
+    "dork": "inurl:phpsecurepages"
+  },
+  {
+    "dork": "inurl:member.php?page=comments"
+  },
+  {
+    "dork": "inurl:com_iproperty"
+  },
+  {
+    "dork": "Aurora CMS"
+  },
+  {
+    "dork": "Powered by: PreProjects"
+  },
+  {
+    "dork": "MobPartner Counter upload files"
+  },
+  {
+    "dork": "allinurl: index.php?mod=galerieaction=gal"
+  },
+  {
+    "dork": "''webboard question.asp QID''"
+  },
+  {
+    "dork": "index.php?option=com_altas"
+  },
+  {
+    "dork": "alegrocart"
+  },
+  {
+    "dork": "Powered by SoftbizScripts inurl:store_info.php"
+  },
+  {
+    "dork": "allinurl: modules\\/glossaires"
+  },
+  {
+    "dork": "Site cr\\u00e9\\u00e9 avec GuppY v4.5.18 \\u00a9"
+  },
+  {
+    "dork": "inurl:index.php?option=com_ponygallery"
+  },
+  {
+    "dork": "inurl:index.php?module=pnFlashGames"
+  },
+  {
+    "dork": "inurl:\\/hbcms\\/php\\/"
+  },
+  {
+    "dork": "inurl:com_avosbillets"
+  },
+  {
+    "dork": "inurl:com_netinvoice"
+  },
+  {
+    "dork": "intext:Powered by WSN Links Basic Edition"
+  },
+  {
+    "dork": "PowerMovieList 0.14 Beta Copyright"
+  },
+  {
+    "dork": "Design by Satcom Co"
+  },
+  {
+    "dork": "inurl:list.php?lcat_id="
+  },
+  {
+    "dork": "Powered By Aardvark Topsites PHP 4.2.2"
+  },
+  {
+    "dork": "inurl:\\/index.php?option=com_rsfiles"
+  },
+  {
+    "dork": "powered by MODx"
+  },
+  {
+    "dork": "intitle:ppc engine admin login form"
+  },
+  {
+    "dork": "Designed and Developed by karkia E-commerce"
+  },
+  {
+    "dork": "inurl:com_projectfork"
+  },
+  {
+    "dork": "inurl:com_beamospetition"
+  },
+  {
+    "dork": "Powered By AstroSPACES"
+  },
+  {
+    "dork": "Powered by words tag script"
+  },
+  {
+    "dork": "powered by Albinator"
+  },
+  {
+    "dork": "hlstats.php?mode=dailyawardinfo&award= hlstatsx"
+  },
+  {
+    "dork": "intext:Powered by PHPCityPortal.com"
+  },
+  {
+    "dork": "com_lmo"
+  },
+  {
+    "dork": "Powered by FluentCMS"
+  },
+  {
+    "dork": "FrontAccounting"
+  },
+  {
+    "dork": "inurl:\\/modules\\/library\\/"
+  },
+  {
+    "dork": "Powered by Plogger!"
+  },
+  {
+    "dork": "intitle:jGallery"
+  },
+  {
+    "dork": "Powered by Clicknet CMS"
+  },
+  {
+    "dork": "inurl:dpage.php?docID"
+  },
+  {
+    "dork": "Powered by Egorix"
+  },
+  {
+    "dork": "inurl:\\/modules\\/repository\\/"
+  },
+  {
+    "dork": "Help Desk Software by Kayako SupportSuite v3.70.02"
+  },
+  {
+    "dork": "Powered by Download 3000"
+  },
+  {
+    "dork": "Igloo (interest group glue)"
+  },
+  {
+    "dork": "inurl:index.php?option=com_iproperty"
+  },
+  {
+    "dork": "inurl:kgb19"
+  },
+  {
+    "dork": "index.php?option=com_vr"
+  },
+  {
+    "dork": "powered by dataface powered by xataface"
+  },
+  {
+    "dork": "intitle:zFeeder admin panel"
+  },
+  {
+    "dork": "inurl:com_acstartseite"
+  },
+  {
+    "dork": "Powered by WebStudio eCatalogue"
+  },
+  {
+    "dork": "allinurl:buyer\\/index.php?ProductID="
+  },
+  {
+    "dork": "BioScripts"
+  },
+  {
+    "dork": "inurl:weblink_cat_list.php?bcat_id="
+  },
+  {
+    "dork": "Powered by WebStudio"
+  },
+  {
+    "dork": "Powered by Populum"
+  },
+  {
+    "dork": "powered by JAF CMS \\u00a9 2004 - 2006"
+  },
+  {
+    "dork": "powered by Sitellite"
+  },
+  {
+    "dork": "powered by vBulletin 3.8.6"
+  },
+  {
+    "dork": "allinurl:\\/lildbi\\/"
+  },
+  {
+    "dork": "inurl:select_file2.php"
+  },
+  {
+    "dork": "Powered by PWP Version 1-5-1 AND inurl:\\/wiki\\/run.php"
+  },
+  {
+    "dork": "Powered by NovaBoard v1.1.2"
+  },
+  {
+    "dork": "Powered by Comdev News Publisher"
+  },
+  {
+    "dork": "Powered by 2532|Gigs v1.2.2"
+  },
+  {
+    "dork": "Copyrights \\u00c2\\u00a9 2005 Belgische Federale Overheidsdiensten"
+  },
+  {
+    "dork": "powered by Gradman"
+  },
+  {
+    "dork": "intext:Design by BB Media.Org"
+  },
+  {
+    "dork": "inurl:\\/downlot.php?file="
+  },
+  {
+    "dork": "Powered By: AJ Square Inc"
+  },
+  {
+    "dork": "Powered by bp blog 6.0"
+  },
+  {
+    "dork": "JBC explorer [ by Psykokwak & XaV ]"
+  },
+  {
+    "dork": "Designed and Developed by Debliteck Ltd"
+  },
+  {
+    "dork": "inurl:com_acprojects"
+  },
+  {
+    "dork": "inurl:read.asp?fID="
+  },
+  {
+    "dork": "inurl:option=com_huruhelpdesk"
+  },
+  {
+    "dork": "inurl:com_soundset"
+  },
+  {
+    "dork": "powered by Blue Dove Web Design"
+  },
+  {
+    "dork": "Powered by mlffat"
+  },
+  {
+    "dork": "inurl:com_acteammember"
+  },
+  {
+    "dork": "Powered By The Black Lily 2007"
+  },
+  {
+    "dork": "inurl:inc_securedocumentlibrary.asp"
+  },
+  {
+    "dork": "inurl:\\/modules\\/zmagazine\\/"
+  },
+  {
+    "dork": "Powered by Fantastic News v2.1.2 or Powered by Fantastic News v2.1.3"
+  },
+  {
+    "dork": "inurl:\\/squirrelcart\\/ -squirrelcart.com"
+  },
+  {
+    "dork": "Powered by Maian Weblog v4.0"
+  },
+  {
+    "dork": "inurl:simpleblog3"
+  },
+  {
+    "dork": "Powered by Dolphin"
+  },
+  {
+    "dork": "Powered by iScripts eSwap."
+  },
+  {
+    "dork": "inurl:treplies.asp?message= intitle:ASP Talk"
+  },
+  {
+    "dork": "Engine powered by easyLink V1.1.0."
+  },
+  {
+    "dork": "Powered by: Maian Recipe v1.2"
+  },
+  {
+    "dork": "allinurl:\\/m2f_usercp.php?"
+  },
+  {
+    "dork": "inurl:php\\/showContent.php?linkid="
+  },
+  {
+    "dork": "Powered by Online Grades"
+  },
+  {
+    "dork": "MidiCart PHP Database Management"
+  },
+  {
+    "dork": "allintext: This site is powered by IndexScript"
+  },
+  {
+    "dork": "Powered by: Maian Search v1.1"
+  },
+  {
+    "dork": "powered by Dreampics Builder"
+  },
+  {
+    "dork": "sitou timou tumou tou"
+  },
+  {
+    "dork": "inurl:\\/modules\\/wflinks"
+  },
+  {
+    "dork": "[ Web Wiz Forums\\u00ae version 9.64 [Free Express Edition] ]"
+  },
+  {
+    "dork": "\\u00c2\\u00a92005 Ocean12 Technologies. All rights reserved"
+  },
+  {
+    "dork": "Powered by: Maian Links v3.1"
+  },
+  {
+    "dork": "inurl:classifide_ad.php"
+  },
+  {
+    "dork": "inurl:index.php?option=com_lowcosthotels"
+  },
+  {
+    "dork": "inurl:\\/modules\\/myconference\\/"
+  },
+  {
+    "dork": "Copyright 2006 \\u00c2\\u00a9 Flax Article Manager v1.1"
+  },
+  {
+    "dork": "powered by PassWiki"
+  },
+  {
+    "dork": "Powered by: Maian Uploader v4.0"
+  },
+  {
+    "dork": "inurl:\\/jobsearchengine\\/"
+  },
+  {
+    "dork": "Vibro-School CMS by nicLOR.net"
+  },
+  {
+    "dork": "inurl:com_gameserver"
+  },
+  {
+    "dork": "allinurl:readmore.php?news_id"
+  },
+  {
+    "dork": "software 2004-2005 by randshop"
+  },
+  {
+    "dork": "Powered By Steamcast 0.9.75 beta"
+  },
+  {
+    "dork": "allinurl:com_n-gallery"
+  },
+  {
+    "dork": "Absolute Poll Manager XE"
+  },
+  {
+    "dork": "inurl:com_annonces"
+  },
+  {
+    "dork": "Powered by Elgg"
+  },
+  {
+    "dork": "powered by phpEmployment"
+  },
+  {
+    "dork": "Powered by Maian Guestbook v3.2"
+  },
+  {
+    "dork": "inurl:com_pinboard"
+  },
+  {
+    "dork": "Copyright 2010. Software Index"
+  },
+  {
+    "dork": "inurl:fclick.php?fid"
+  },
+  {
+    "dork": "inurl:\\/index.php?option=com_yellowpages"
+  },
+  {
+    "dork": "inurl:wp-download.php?dl_id="
+  },
+  {
+    "dork": "inurl:acrotxt.php wbb"
+  },
+  {
+    "dork": "\\u00c2\\u00a9 2005-2006 Powered by eSyndiCat Link Exchange Script"
+  },
+  {
+    "dork": "inurl:com_linkdirectory"
+  },
+  {
+    "dork": "powered by DreamAccount 3.1"
+  },
+  {
+    "dork": "Emanuele Guadagnoli CcMail"
+  },
+  {
+    "dork": "\\u00a9 2004 PHPKick.de Version 0.8"
+  },
+  {
+    "dork": "Designed by:InterTech Co"
+  },
+  {
+    "dork": "cat_sell.php?cid= or selloffers.php?cid="
+  },
+  {
+    "dork": "inurl:com_manager"
+  },
+  {
+    "dork": "allinurl:article.download.php"
+  },
+  {
+    "dork": "This FAQ is powered by CascadianFAQ"
+  },
+  {
+    "dork": "Powered by VS PANEL"
+  },
+  {
+    "dork": "allinurl: cidmodules\\/classifieds\\/index.php?pa=Adsview"
+  },
+  {
+    "dork": "Powered By Azadi Network"
+  },
+  {
+    "dork": "Developed by Infoware Solutions"
+  },
+  {
+    "dork": "inurl:com_jp_jobs"
+  },
+  {
+    "dork": "site powered by intuitive-websites.com"
+  },
+  {
+    "dork": "powered by phpmydirectory OR intext:2001-2006 phpMyDirectory.com"
+  },
+  {
+    "dork": "News powered by ashnews"
+  },
+  {
+    "dork": "Powered by i-pos Storefront"
+  },
+  {
+    "dork": "allinurl:verliadmin"
+  },
+  {
+    "dork": "Cms.tut.su"
+  },
+  {
+    "dork": "Copyright \\u00a9 2010 ASP SiteWare. All rights reserved."
+  },
+  {
+    "dork": "intext:Kalimat news system v 1.0"
+  },
+  {
+    "dork": "allinurl: modules MyAnnonces index php pa view"
+  },
+  {
+    "dork": "intitle:ASP inline corporate calendar inurl:.asp?id="
+  },
+  {
+    "dork": "Powered by UNAK-CMS"
+  },
+  {
+    "dork": "Powered By Aqua Cms"
+  },
+  {
+    "dork": "Powered by: PhotoPost PHP 4.6"
+  },
+  {
+    "dork": "News Managed by Ditto News"
+  },
+  {
+    "dork": "inurl:friend.php?op=FriendSend"
+  },
+  {
+    "dork": "inurl:com_quickfaq"
+  },
+  {
+    "dork": "inurl:com_jbudgetsmagic"
+  },
+  {
+    "dork": "intext:RPG Inferno is not available to guests or intext:Battle Ground \\u00c2\\u00b7 Clans \\u00c2\\u00b7 Store \\u00c2\\u00b7 Jobs \\u00c2\\u00b7 Auction \\u00c2\\u00b7 Spells Shop \\u00c2\\u00b7 Statistics \\u00c2\\u00b7 Member List"
+  },
+  {
+    "dork": "Powered by Maian Recipe v1.0"
+  },
+  {
+    "dork": "Coded By WebLOADER"
+  },
+  {
+    "dork": "inurl:com_gamesbox"
+  },
+  {
+    "dork": "Powered by EZCMS"
+  },
+  {
+    "dork": "inurl:com_soundset"
+  },
+  {
+    "dork": "inurl:com_jstore"
+  },
+  {
+    "dork": "Powered by CommonSense CMS"
+  },
+  {
+    "dork": "Powered by Philboard inurl:philboard_forum.asp"
+  },
+  {
+    "dork": "Powered by INVOhost"
+  },
+  {
+    "dork": "inurl:index.php?menu=adorder"
+  },
+  {
+    "dork": "Powered by MyPHP Forum v3.0"
+  },
+  {
+    "dork": "APBoard 2.1.0 \\u00a9 2003-2010 APP - Another PHP Program"
+  },
+  {
+    "dork": "Eyeland Studio Inc. All Rights Reserved. inurl:game.php"
+  },
+  {
+    "dork": "inurl:com_jjgallery"
+  },
+  {
+    "dork": "Powered by WebStudio eHotel"
+  },
+  {
+    "dork": "allinurl:com_accombo"
+  },
+  {
+    "dork": "Powered by CMS.GE"
+  },
+  {
+    "dork": "allintext:Browse our directory of our members top sites or create your own for free!"
+  },
+  {
+    "dork": "powered by Pagetool"
+  },
+  {
+    "dork": "intext:jPORTAL 2 inurl:mailer.php"
+  },
+  {
+    "dork": "inurl:com_redshop"
+  },
+  {
+    "dork": "Powered by Scratcher"
+  },
+  {
+    "dork": "Site powered by GuppY"
+  },
+  {
+    "dork": "ParsBlogger ? 2006. All rights reserved"
+  },
+  {
+    "dork": "powered by jshop"
+  },
+  {
+    "dork": "inurl:CuteSoft_Client\\/CuteEditor"
+  },
+  {
+    "dork": "Powered by yacs"
+  },
+  {
+    "dork": "Powered by How2asp"
+  },
+  {
+    "dork": "inurl:com_surveymanager"
+  },
+  {
+    "dork": "Powered by: PhotoPost PHP 4.6 or Powered by: PhotoPost PHP 4.5"
+  },
+  {
+    "dork": "\\/modules\\/mx_links\\/"
+  },
+  {
+    "dork": "Actionn\\u00c3\\u0192\\u00c2\\u00a9e par smartblog"
+  },
+  {
+    "dork": "(C) by CyberTeddy"
+  },
+  {
+    "dork": "Powered by PHPBasket"
+  },
+  {
+    "dork": "Powered by PHP F1 (Max's Image Uploader)"
+  },
+  {
+    "dork": "Powered by PG Online Training Solution - learning management system"
+  },
+  {
+    "dork": "inurl:?pageNum_RSnews&view"
+  },
+  {
+    "dork": "inurl:tr.php?id="
+  },
+  {
+    "dork": "Powered by Shout!"
+  },
+  {
+    "dork": "inurl:?option=com_bsadv"
+  },
+  {
+    "dork": "inurl:cart.php?m=features&id="
+  },
+  {
+    "dork": "inurl:index.php?option=com_directory"
+  },
+  {
+    "dork": "inurl:tr.php?id="
+  },
+  {
+    "dork": "2007 BookmarkX script"
+  },
+  {
+    "dork": "Powered by Dayfox Designs"
+  },
+  {
+    "dork": "Powered by PHP Live! v3.3"
+  },
+  {
+    "dork": "Bu Site Ticimax E-Ticaret yaz?l?m? ile haz?rlanm??t?r."
+  },
+  {
+    "dork": "Powered By DynamicPAD"
+  },
+  {
+    "dork": "allintext:Browse Blogs by Category"
+  },
+  {
+    "dork": "Doop CMS"
+  },
+  {
+    "dork": "PHPNews Version 0.93"
+  },
+  {
+    "dork": "insite: SmarterMail Enterprise 7.1"
+  },
+  {
+    "dork": "Powered by: Arab Portal inurl:mod.php?mod=html"
+  },
+  {
+    "dork": "Powered by : elkagroup.com"
+  },
+  {
+    "dork": "inurl:option=com_mydyngallery"
+  },
+  {
+    "dork": "powered by sazcart"
+  },
+  {
+    "dork": "\\/nuke\\/iframe.php"
+  },
+  {
+    "dork": "Powered by Online Grades"
+  },
+  {
+    "dork": "Powered by NKINFOWEB VSp \\u00a9 2009"
+  },
+  {
+    "dork": "com_joom12pic"
+  },
+  {
+    "dork": "inurl:index.php?mod=sondages"
+  },
+  {
+    "dork": "inurl:com_community"
+  },
+  {
+    "dork": "Sad Raven's Click Counter v1.0"
+  },
+  {
+    "dork": "Copyright KerviNet"
+  },
+  {
+    "dork": "Powered by: PHPDirector 0.30 or nurl:videos.php?id="
+  },
+  {
+    "dork": "Starting bid Powered by SoftbizScripts"
+  },
+  {
+    "dork": "inurl:tr1.php?id= Forced Matrix"
+  },
+  {
+    "dork": "allinurl:\\/questcms\\/"
+  },
+  {
+    "dork": "Powered by dB Masters' Curium CMS 1"
+  },
+  {
+    "dork": "allinurl:option=com_rsmonials"
+  },
+  {
+    "dork": "Powered by RedCat inurl:index.php?contentId="
+  },
+  {
+    "dork": "Liberum Help Desk"
+  },
+  {
+    "dork": "allintext:SuperCali Event Calendar"
+  },
+  {
+    "dork": "inurl:news.php?mode=voir"
+  },
+  {
+    "dork": "Powered by XT-Commerce"
+  },
+  {
+    "dork": "Powered by F3Site"
+  },
+  {
+    "dork": "powered by x7 chat 1.3.6b"
+  },
+  {
+    "dork": "allinurl:jokes.php?catagorie="
+  },
+  {
+    "dork": "inurl:com_ckforms"
+  },
+  {
+    "dork": " Powered by Pie Cart Pro "
+  },
+  {
+    "dork": "Yogurt build"
+  },
+  {
+    "dork": "Powered by ProjectCMS"
+  },
+  {
+    "dork": "intext:Powered by Infront"
+  },
+  {
+    "dork": "Created by weenCompany"
+  },
+  {
+    "dork": "inurl:com_prayercenter"
+  },
+  {
+    "dork": "inurl:index.php?ini[langpack]="
+  },
+  {
+    "dork": "inurl:e107_plugins"
+  },
+  {
+    "dork": "Powered by PunBB"
+  },
+  {
+    "dork": "Powered by Info Fisier."
+  },
+  {
+    "dork": "intext:Powered by eStore v1.0.2"
+  },
+  {
+    "dork": "ADP Forum 2.0.3 is powered by VzScripts"
+  },
+  {
+    "dork": "allinurl:channel_detail.php?chid="
+  },
+  {
+    "dork": "Scientific Image DataBase"
+  },
+  {
+    "dork": "Developed by rbk"
+  },
+  {
+    "dork": "Powered by WHMCompleteSolution - or inurl:WHMCS"
+  },
+  {
+    "dork": "Powered by: Elite Gaming Ladders v3.2"
+  },
+  {
+    "dork": "inurl:com_ccnewsletter"
+  },
+  {
+    "dork": "inurl:apages.php"
+  },
+  {
+    "dork": "Powered by phpMyRealty"
+  },
+  {
+    "dork": "Powered by Elvin Bug Tracking Server."
+  },
+  {
+    "dork": "inurl:product_desc.php?id= Powered by Zeeways.com"
+  },
+  {
+    "dork": "php-addressbook v3.1.5"
+  },
+  {
+    "dork": "inurl:add_soft.php"
+  },
+  {
+    "dork": "Designed & Developed by net-finity"
+  },
+  {
+    "dork": "Powered by myUPB"
+  },
+  {
+    "dork": "Powered By PHPFanBase"
+  },
+  {
+    "dork": "Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media"
+  },
+  {
+    "dork": "Powered by ParsBlogger"
+  },
+  {
+    "dork": "pages.php?id= Multi Vendor Mall"
+  },
+  {
+    "dork": "intext:Powered by CPA Site Solutions"
+  },
+  {
+    "dork": "inurl:com_simpledownload"
+  },
+  {
+    "dork": "Powered by wpQuiz"
+  },
+  {
+    "dork": "Desenvolvido por WeBProdZ"
+  },
+  {
+    "dork": "intitle:vrnews v1"
+  },
+  {
+    "dork": "Search Affiliate Programs:"
+  },
+  {
+    "dork": "ClearBudget v0.6.1"
+  },
+  {
+    "dork": "Powered by Flinx"
+  },
+  {
+    "dork": "inurl:com_ezine"
+  },
+  {
+    "dork": "inurl:inurl:file.php?recordID="
+  },
+  {
+    "dork": "inurl:customer_testimonials.php"
+  },
+  {
+    "dork": "intitle:Dacio's Image Gallery"
+  },
+  {
+    "dork": "inurl:func=selectcat + com_remository"
+  },
+  {
+    "dork": "allinurl:com_restaurante"
+  },
+  {
+    "dork": "Powered by ClanTiger"
+  },
+  {
+    "dork": "Powered by myBusinessAdmin and Red Cow Technologies"
+  },
+  {
+    "dork": "Powered by Espinas IT"
+  },
+  {
+    "dork": "Website by Spokane Web Communications"
+  },
+  {
+    "dork": "ShopMaker v1.0"
+  },
+  {
+    "dork": "Powered by MyHobbySite 1.01"
+  },
+  {
+    "dork": "Power by:RichStrong CMS"
+  },
+  {
+    "dork": "Powered by cityadmin and Red Cow Technologies"
+  },
+  {
+    "dork": "Powered by iNetScripts"
+  },
+  {
+    "dork": "powered by: elkagroup"
+  },
+  {
+    "dork": "Powered by jSite 1.0 OE"
+  },
+  {
+    "dork": "inurl:index.php?myPlantId="
+  },
+  {
+    "dork": "powered:powered by CMS"
+  },
+  {
+    "dork": "Powered by RealAdmin and Red Cow Technologies"
+  },
+  {
+    "dork": "Maintained with the Ocean12 Poll Manager Pro v1.00"
+  },
+  {
+    "dork": "allinurl:\\/myspeach\\/"
+  },
+  {
+    "dork": "Powered by Online Email Manager"
+  },
+  {
+    "dork": "powered by real-estate-website"
+  },
+  {
+    "dork": "Powered by Grayscale Blog"
+  },
+  {
+    "dork": "mod.php?mod=publisher&op=printarticle&artid="
+  },
+  {
+    "dork": "allinurl: com_glossary"
+  },
+  {
+    "dork": "Powered by Revsense"
+  },
+  {
+    "dork": "Web Site Design by Red Cat Studios"
+  },
+  {
+    "dork": "This site is powered by CMS Made Simple version 1.2.2"
+  },
+  {
+    "dork": "Powered by UCenter 1.5.0 \\u00a9 2001 - 2008 Comsenz Inc."
+  },
+  {
+    "dork": "inurl:index.php?option=com_spa"
+  },
+  {
+    "dork": "\\u00a9 2009 Azimut Technologie"
+  },
+  {
+    "dork": "724CMS Powered"
+  },
+  {
+    "dork": "inurl:webboard\\/view.php?topic="
+  },
+  {
+    "dork": "infusions\\/manuals\\/manuals.php?manual="
+  },
+  {
+    "dork": "inurl:roschedule.php"
+  },
+  {
+    "dork": "inurl:photo_album.php?alb_id="
+  },
+  {
+    "dork": "inurl:buyer\\/about_us.php?BuyerID"
+  },
+  {
+    "dork": "index.php?option=com_facileforms"
+  },
+  {
+    "dork": "\\/index.php?option=com_restaurante"
+  },
+  {
+    "dork": "allinurl:\\/modernbill\\/"
+  },
+  {
+    "dork": "PHP Project Management 0.8.10"
+  },
+  {
+    "dork": "intext : Website by conceptinternetltd"
+  },
+  {
+    "dork": "Maintained with the Ocean12 Calendar Manager Gold v2.04"
+  },
+  {
+    "dork": "Powered By phUploader"
+  },
+  {
+    "dork": "inurl:com_portfol"
+  },
+  {
+    "dork": "Powered by EasySiteNetwork"
+  },
+  {
+    "dork": "inurl:com_seyret"
+  },
+  {
+    "dork": "Powered by PHP Melody 1.5.3"
+  },
+  {
+    "dork": "pagerank-0-topliste.html OR pagerank-0-tipp.html"
+  },
+  {
+    "dork": "inurl:myLDlinker.php"
+  },
+  {
+    "dork": "intitle:DUcalendar 1.0"
+  },
+  {
+    "dork": "inurl:main_forum.php?cat="
+  },
+  {
+    "dork": "download this free gallery at matteobinda.com"
+  },
+  {
+    "dork": "inurl:guestbook.admin.php?action=settings"
+  },
+  {
+    "dork": "Copyright \\u00c2\\u00a9 2007 BrowserCRM Ltd"
+  },
+  {
+    "dork": "inurl:com_idoblog"
+  },
+  {
+    "dork": "inurl:\\/infusions\\/e_cart"
+  },
+  {
+    "dork": "eCommerce Engine \\u00a9 2006 xt:Commerce Shopsoftware"
+  },
+  {
+    "dork": "Nwahy.com 2.1 "
+  },
+  {
+    "dork": "Developed by Bispage.com"
+  },
+  {
+    "dork": "Powered by UCenter inurl:shop.php?ac=view"
+  },
+  {
+    "dork": "\\/modules\\/xhresim\\/"
+  },
+  {
+    "dork": "allinurl:flashblog.html flashblog"
+  },
+  {
+    "dork": "intitle:Powered by Open Bulletin Board"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jombib"
+  },
+  {
+    "dork": "Script cr\\u00e9\\u00e9 par Funewik - Dezign-Box \\u00a9 France"
+  },
+  {
+    "dork": "Sinapis by scripter.ch"
+  },
+  {
+    "dork": "Powered by FubarForum v1.5"
+  },
+  {
+    "dork": "com_easybook"
+  },
+  {
+    "dork": "My Photo v1.46.4 \\u00c2\\u00a9 Big Resources"
+  },
+  {
+    "dork": "nukeai beta3"
+  },
+  {
+    "dork": "Powered by BosClassifieds Classified Ads System"
+  },
+  {
+    "dork": "\\/modules\\/amevents\\/print.php?id="
+  },
+  {
+    "dork": "inurl:index.php?option=com_nicetalk"
+  },
+  {
+    "dork": "Powered by Fantastic News v2.1.4"
+  },
+  {
+    "dork": "Powered by UPB"
+  },
+  {
+    "dork": "Powered by RGameScript"
+  },
+  {
+    "dork": "allinurl: com_gallery func"
+  },
+  {
+    "dork": "Powered by CMScout (c)2005 CMScout Group"
+  },
+  {
+    "dork": "Platform Dokeos 1.8.4 \\u00c2\\u00a9 2007"
+  },
+  {
+    "dork": "intitle:owl intranet * owl 0.82"
+  },
+  {
+    "dork": "inurl:\\/files\\/redirect.asp"
+  },
+  {
+    "dork": "pForum 1.29a OR Powie's PSCRIPT Forum 1.26"
+  },
+  {
+    "dork": "powered by minimal Gallery 0.8"
+  },
+  {
+    "dork": "Powered by iScripts SocialWare"
+  },
+  {
+    "dork": "Copyright 2006-2009 Insane Visions"
+  },
+  {
+    "dork": "Easy-Clanpage v2.2"
+  },
+  {
+    "dork": "allinurl: \\/modules\\/myTopics\\/"
+  },
+  {
+    "dork": "powered by sX-Shop"
+  },
+  {
+    "dork": "Powered By eLitius 1.0"
+  },
+  {
+    "dork": "powered by JAMM"
+  },
+  {
+    "dork": "by in-link or Powered by In-Link 2."
+  },
+  {
+    "dork": "inurl:\\/plugins\\/ImageManager\\/manager.php"
+  },
+  {
+    "dork": "inurl:com_ckforms"
+  },
+  {
+    "dork": "inurl:com_ignitegallery"
+  },
+  {
+    "dork": "inurl:com_artlinks"
+  },
+  {
+    "dork": "inurl:printable_pedigree.php"
+  },
+  {
+    "dork": "allintext:Latest Pictures Name Gender Profile Rating"
+  },
+  {
+    "dork": "com_joomlaflashfun"
+  },
+  {
+    "dork": "allinurl:index.php?site= W-Agora"
+  },
+  {
+    "dork": "inurl:com_brightweblinks"
+  },
+  {
+    "dork": "inurl:com_djclassifieds"
+  },
+  {
+    "dork": "intext:Powered by Lore 1.5.6"
+  },
+  {
+    "dork": "inurl:noticias.php?notiId="
+  },
+  {
+    "dork": "Powered by BKWorks ProPHP Version 0.50 Beta 1"
+  },
+  {
+    "dork": "inurl:index.php?m_id="
+  },
+  {
+    "dork": "Powered by odlican.net cms v.1.5"
+  },
+  {
+    "dork": "inurl:ratelink.php?lnkid="
+  },
+  {
+    "dork": "powered by jmdcms.com"
+  },
+  {
+    "dork": "Copyright 2008 Free Image & File Hosting"
+  },
+  {
+    "dork": "Powered by Sisfo Kampus 2006"
+  },
+  {
+    "dork": "Powered by MVC-Web CMS inurl:\\/index.asp?newsid="
+  },
+  {
+    "dork": "Powered By form2list"
+  },
+  {
+    "dork": "Powered by: deonixscripts.com"
+  },
+  {
+    "dork": "Driven by DokuWiki"
+  },
+  {
+    "dork": "PHP Gallery \\u00a9 2010 PHP Weby hostgator coupon"
+  },
+  {
+    "dork": "inurl:sticker\\/sticker.php?id="
+  },
+  {
+    "dork": "allinurl: showCat.php?cat_id"
+  },
+  {
+    "dork": "inurl:\\/_blogadata\\/"
+  },
+  {
+    "dork": "inurl:com_ybggal"
+  },
+  {
+    "dork": "intext:Powered by Pc4Uploader v9.0"
+  },
+  {
+    "dork": "Send amazing greetings to your friends and relative!"
+  },
+  {
+    "dork": "inurl:quizinfo.php"
+  },
+  {
+    "dork": "PhpLinkExchange v1.02"
+  },
+  {
+    "dork": "SPBOARD v4.5"
+  },
+  {
+    "dork": "Powered By Power Editor"
+  },
+  {
+    "dork": "copyright 2006 Broadband Mechanics"
+  },
+  {
+    "dork": "PHP Gallery \\u00a9 2010 PHP Weby hostgator coupon"
+  },
+  {
+    "dork": "Powered by Md-Pro"
+  },
+  {
+    "dork": "ClanSys v.1.1"
+  },
+  {
+    "dork": "inurl:com_jmarket"
+  },
+  {
+    "dork": "Powered by: eSmile"
+  },
+  {
+    "dork": "powered by shutter v0.1.1"
+  },
+  {
+    "dork": "Copyright \\u00c2\\u00a9 2007 Agares Media. Powered by AMCMS3."
+  },
+  {
+    "dork": "inurl:index.php?option=com_simpleboard"
+  },
+  {
+    "dork": "inurl:inc_accountlistmanager.asp"
+  },
+  {
+    "dork": "inurl:com_jtickets"
+  },
+  {
+    "dork": "advanced_search_results.php?gender="
+  },
+  {
+    "dork": "Powered by PHP Director 0.2"
+  },
+  {
+    "dork": "inurl:lista_articulos.php?id_categoria="
+  },
+  {
+    "dork": "inurl:tradeCategory.php?id= "
+  },
+  {
+    "dork": "inurl:com_jomestate"
+  },
+  {
+    "dork": "inurl:com_rwcards"
+  },
+  {
+    "dork": "allinurl:com_ahsshopdo=default"
+  },
+  {
+    "dork": "intitle:phpinfo intext:php version +windows"
+  },
+  {
+    "dork": "PHPWebAdmin for hMailServer intitle:PHPWebAdmin -site:hmailserver.com"
+  },
+  {
+    "dork": "inurl:com_omphotogallery"
+  },
+  {
+    "dork": "Members Statistics +Total Members +Guests Online"
+  },
+  {
+    "dork": "index.php?sbjoke_id="
+  },
+  {
+    "dork": "inurl:com_ice catid"
+  },
+  {
+    "dork": "S-CMS by matteoiamma"
+  },
+  {
+    "dork": "Copyright 2010 My Hosting. All rights reserved"
+  },
+  {
+    "dork": "inurl:sinagb.php"
+  },
+  {
+    "dork": "Copyright Interactivefx.ie"
+  },
+  {
+    "dork": "This website was created with phpWebThings"
+  },
+  {
+    "dork": "Powered by ExoPHPDesk v1.2 Final."
+  },
+  {
+    "dork": "inurl:modules\\/articles\\/index.php?cat_id="
+  },
+  {
+    "dork": "PHP Gallery \\u00a9 2010 PHP Weby hostgator coupon"
+  },
+  {
+    "dork": "inurl:csc_article_details.php"
+  },
+  {
+    "dork": "inurl:tr.php?id= Hosting"
+  },
+  {
+    "dork": "inurl:questions.php?idcat"
+  },
+  {
+    "dork": "allinurl:spaw2\\/dialogs\\/"
+  },
+  {
+    "dork": "by Pivot - 1.40.5 +'Dreadwind' -pivotlog.net"
+  },
+  {
+    "dork": "index.php?option=com_chronocontact \\/ com_chronocontact"
+  },
+  {
+    "dork": "inurl:index.php?page=img Powered By Mini File Host"
+  },
+  {
+    "dork": "allinur:com_extended_registration"
+  },
+  {
+    "dork": "photokorn 1.52"
+  },
+  {
+    "dork": "Powered by eLitius Version 1.0"
+  },
+  {
+    "dork": "PHP Easy Downloader"
+  },
+  {
+    "dork": "pages.php?page_ID= K9 Kreativity"
+  },
+  {
+    "dork": "allinurl:com_pccookbook"
+  },
+  {
+    "dork": "inurl:com_rapidrecipe recipe_id"
+  },
+  {
+    "dork": "Powered by SAPID CMF Build 87"
+  },
+  {
+    "dork": "site:scartserver.com"
+  },
+  {
+    "dork": "Powered by LoudBlog"
+  },
+  {
+    "dork": "Powered by LDU"
+  },
+  {
+    "dork": "Powered by SoftbizScripts OUR SPONSORS"
+  },
+  {
+    "dork": "inurl:directory.php?cat= pubs"
+  },
+  {
+    "dork": "realizacja eCreo.eu"
+  },
+  {
+    "dork": "Powered by visinia"
+  },
+  {
+    "dork": "inurl:picture.php?cat= Powered by PhpWebGallery 1.3.4"
+  },
+  {
+    "dork": "intext:powered by tincan ltd"
+  },
+  {
+    "dork": "Powered by PowerPortal v1.3a"
+  },
+  {
+    "dork": "inurl:userjournals.php?blog."
+  },
+  {
+    "dork": "inurl:index.php?option=com_akobook"
+  },
+  {
+    "dork": "Splatt Forum\\u00a9"
+  },
+  {
+    "dork": "index.php?option=com_chronoconnectivity \\/ com_chronoconnectivity"
+  },
+  {
+    "dork": "REALTOR 747 - Version 4.11"
+  },
+  {
+    "dork": "powered by kure"
+  },
+  {
+    "dork": "inurl:com_youtube"
+  },
+  {
+    "dork": "inurl:\\/CMS\\/page.php?p="
+  },
+  {
+    "dork": "Powered by Seditio"
+  },
+  {
+    "dork": "Powered by cP Creator v2.7.1"
+  },
+  {
+    "dork": "inurl:view_group.php?group_id="
+  },
+  {
+    "dork": "Liberum Help Desk"
+  },
+  {
+    "dork": "inurl:index.php?serverid="
+  },
+  {
+    "dork": "Powered by CMScout (c)2005 CMScout Group"
+  },
+  {
+    "dork": "aspWebLinks 2.0"
+  },
+  {
+    "dork": "CzarNews v1.12  | CzarNews v1.13 | CzarNews v1.14 "
+  },
+  {
+    "dork": "inurl:modules.php?name=Shopping_Cart"
+  },
+  {
+    "dork": "inurl:com_photoblog"
+  },
+  {
+    "dork": "intext:\\u00a9 Tainos Webdesign"
+  },
+  {
+    "dork": "inurl:\\/webquest\\/soporte_derecha_w.php?"
+  },
+  {
+    "dork": "Powered by PHP Advanced Transfer Manager v1.10 - @2002 Bugada Andrea"
+  },
+  {
+    "dork": "inurl:filebase.php Powered by phpBB"
+  },
+  {
+    "dork": "intext:powered by itaco group"
+  },
+  {
+    "dork": "inurl:indexmess.php"
+  },
+  {
+    "dork": "inurl:com_virtuemart"
+  },
+  {
+    "dork": "intext:Powered by pppblog"
+  },
+  {
+    "dork": "Powered by iScripts EasyBiller"
+  },
+  {
+    "dork": "allinurl: name Sections op viewarticle artid"
+  },
+  {
+    "dork": "mediaHolder.php?id"
+  },
+  {
+    "dork": "Powered by phpFaber URLInn. Copyright \\u00c2\\u00a9 2004-2006 phpFaber"
+  },
+  {
+    "dork": "Powered by RW::Download v2.0.3 lite"
+  },
+  {
+    "dork": "inurl:printable_pedigree.php"
+  },
+  {
+    "dork": "Powered By phpCOIN v1.2.1 \\/ mod.php?mod=faq"
+  },
+  {
+    "dork": "Powered by samart-cms"
+  },
+  {
+    "dork": "powered by seditio OR powered by ldu"
+  },
+  {
+    "dork": "inurl:com_joomradio"
+  },
+  {
+    "dork": "index.php?option=com_swmenupro"
+  },
+  {
+    "dork": "Powered by Leap"
+  },
+  {
+    "dork": "intext:Powered By WorldPay inurl:productdetail.php"
+  },
+  {
+    "dork": "Ultimate-Fun-Book 1.02"
+  },
+  {
+    "dork": "Powered By AJ Auction"
+  },
+  {
+    "dork": "inurl:com_jnewsletter"
+  },
+  {
+    "dork": "Powered By OpenCart"
+  },
+  {
+    "dork": "BioScripts"
+  },
+  {
+    "dork": "inurl:com_dbquery OR index.php?option=com_dbquery"
+  },
+  {
+    "dork": "allinurl: modules\\/dictionary\\/detail.php?id"
+  },
+  {
+    "dork": "Powered by Content Injector v1.52"
+  },
+  {
+    "dork": "inurl:inc_classifiedlistingsmanager.asp"
+  },
+  {
+    "dork": "Powered by eclime.com"
+  },
+  {
+    "dork": "inurl:sysinfo.cgi ext:cgi"
+  },
+  {
+    "dork": "Powered by Discuz! 1.0 \\u00a9 2002"
+  },
+  {
+    "dork": "Copyright (C) 2000 Phorum Development Team"
+  },
+  {
+    "dork": "Events Calendar 1.1"
+  },
+  {
+    "dork": "Powered by Online Guestbook Pro"
+  },
+  {
+    "dork": "inurl:article.download.php"
+  },
+  {
+    "dork": "Powered by Burning Board -exploit -johnny"
+  },
+  {
+    "dork": "Power by donghungx. Copyright \\u00a9 2008 AttMp3.com. All rights reserved."
+  },
+  {
+    "dork": "inurl:flashblog.html OR inurl:\\/flashblog\\/"
+  },
+  {
+    "dork": "inurl:inc_linksmanager.asp"
+  },
+  {
+    "dork": "inurl:track.php?id="
+  },
+  {
+    "dork": "inurl:com_mojo"
+  },
+  {
+    "dork": "Welcome to Exponent CMS | my new exponent site"
+  },
+  {
+    "dork": "Powered by osCMax v2.0 "
+  },
+  {
+    "dork": "Powered By CMS-BRD"
+  },
+  {
+    "dork": "inurl:\\/index.php?option=com_otzivi"
+  },
+  {
+    "dork": "inurl:com_jcommunity"
+  },
+  {
+    "dork": "inurl:article.download.php"
+  },
+  {
+    "dork": "Powered by PMOS Help Desk"
+  },
+  {
+    "dork": "intext:Free Ecommerce Shopping Cart Software by ViArt +Your shopping cart is empty! + Products Search +Advanced Search + All Categories"
+  },
+  {
+    "dork": "inurl:\\/admin\\/ ImageVue"
+  },
+  {
+    "dork": "Powered by DigitalHive"
+  },
+  {
+    "dork": "\\/modules\\/tadbook2\\/open_book.php?book_sn="
+  },
+  {
+    "dork": "Powered by LightBlog - Powered by LightBlog"
+  },
+  {
+    "dork": "Powered.by.RaidenHTTPD +intitle:index.of | inurl:raidenhttpd-admin"
+  },
+  {
+    "dork": "powered by WonderEdit Pro"
+  },
+  {
+    "dork": "TROforum 0.1"
+  },
+  {
+    "dork": "inurl:com_casino_blackjack"
+  },
+  {
+    "dork": "''links.asp?CatId''"
+  },
+  {
+    "dork": "Powered by photokorn"
+  },
+  {
+    "dork": "Site powered By Limbo CMS"
+  },
+  {
+    "dork": "PHP Link Portal v1.95.1 \\u00c2\\u00a9 Big Resources"
+  },
+  {
+    "dork": "Uploader by CeleronDude."
+  },
+  {
+    "dork": "inurl:\\/tagit2b\\/"
+  },
+  {
+    "dork": "inurl:search_form.php?sb_showresult="
+  },
+  {
+    "dork": "Powered by MetInfo 3.0"
+  },
+  {
+    "dork": "inurl:naviid + inurl:liste9"
+  },
+  {
+    "dork": "[ Copyright 2005-2006 phpDirectorySource\\u00e2\\u201e\\u00a2"
+  },
+  {
+    "dork": "Review Script Phil Taylor"
+  },
+  {
+    "dork": "powered by LionWiki "
+  },
+  {
+    "dork": "Powered by boastMachine v3.1"
+  },
+  {
+    "dork": "pages.php?id= Multi Vendor Mall"
+  },
+  {
+    "dork": "POWERED BY PHPNUKE.IR"
+  },
+  {
+    "dork": "index.php?option=com_sef \\/ com_sef"
+  },
+  {
+    "dork": "intitle:Mp3 ToolBox 1.0"
+  },
+  {
+    "dork": "allinurl: index.php?areagalid"
+  },
+  {
+    "dork": "index.php?section=post_upload"
+  },
+  {
+    "dork": "Powered by Zylone IT"
+  },
+  {
+    "dork": "inurl:com_gcalendar"
+  },
+  {
+    "dork": "inurl:.asp? Powered by Comersus ASP Shopping Cart"
+  },
+  {
+    "dork": "Powered by: Maian Greetings v2.1"
+  },
+  {
+    "dork": "inurl:tr1.php?id="
+  },
+  {
+    "dork": "Powered by WikyBlog"
+  },
+  {
+    "dork": "Powered by: Yes Solutions"
+  },
+  {
+    "dork": "allinurl: com_alberghi detail"
+  },
+  {
+    "dork": "Designed by Spaceacre"
+  },
+  {
+    "dork": "Copyright 2007"
+  },
+  {
+    "dork": "Powered by MetInfo 3.0"
+  },
+  {
+    "dork": "powered by yourtube"
+  },
+  {
+    "dork": "Powered by PBBoard\\u00a9 2009 Version 2.0.5"
+  },
+  {
+    "dork": "Powered By phpBB Garage 1.2.0"
+  },
+  {
+    "dork": "Powered by Shadowed Portal"
+  },
+  {
+    "dork": "Online Booking Manager2.2"
+  },
+  {
+    "dork": "Powered by Info Fisier."
+  },
+  {
+    "dork": "FhImage"
+  },
+  {
+    "dork": "inurl:\\/components\\/je-media-player.html?"
+  },
+  {
+    "dork": "inurl:index.php?option=com_ynews"
+  },
+  {
+    "dork": "Powered by: PhotoPost PHP 4.6.5"
+  },
+  {
+    "dork": "cms SunLight 5.2"
+  },
+  {
+    "dork": "Powered by WebText"
+  },
+  {
+    "dork": "Powered by: Arab Portal v2"
+  },
+  {
+    "dork": "Forum Active Bulletin Board version 1.1 b\\u00e9ta 2"
+  },
+  {
+    "dork": "Powie's PSCRIPT MatchMaker 4.05"
+  },
+  {
+    "dork": "inurl:com_otzivi"
+  },
+  {
+    "dork": "option=com_paxxgallery"
+  },
+  {
+    "dork": "Webdevelopment Tinx-IT"
+  },
+  {
+    "dork": "Powered by PHP iCalendar"
+  },
+  {
+    "dork": "inurl:module=My_eGallery pid"
+  },
+  {
+    "dork": "inurl:etkinlikbak.asp"
+  },
+  {
+    "dork": "Powered by PsNews"
+  },
+  {
+    "dork": "inurl:index.php?option=com_NeoRecruit"
+  },
+  {
+    "dork": "PHPGlossar Version 0.8"
+  },
+  {
+    "dork": "POWERED BY ALITALK"
+  },
+  {
+    "dork": "Website powered by Subdreamer CMS & Sequel Theme Designed by indiqo.media"
+  },
+  {
+    "dork": "Copyright 2008 ImenAfzar ver :2.0.0.0"
+  },
+  {
+    "dork": "inurl:inc_faqsmanager.asp"
+  },
+  {
+    "dork": "Powered by Battle Blog"
+  },
+  {
+    "dork": "com_ijoomla_rss"
+  },
+  {
+    "dork": "Copyright 2010. Software Index"
+  },
+  {
+    "dork": "These forums are running on miniBB"
+  },
+  {
+    "dork": "allinurl:com_comprofiler"
+  },
+  {
+    "dork": "powered by sX-Shop"
+  },
+  {
+    "dork": "inurl:vcalendar_asp"
+  },
+  {
+    "dork": "inurl:?pilih=forum"
+  },
+  {
+    "dork": "Powered by MDForum"
+  },
+  {
+    "dork": "inurl:com_joomlaradiov5"
+  },
+  {
+    "dork": "intext:'Powered by ProArcadeScript ' inurl:'game.php?id='"
+  },
+  {
+    "dork": "inurl:com_simpledownload"
+  },
+  {
+    "dork": "Powered by Guruscript.com"
+  },
+  {
+    "dork": "Powered by mojoPortal"
+  },
+  {
+    "dork": "intext:Powered by Ramaas Software"
+  },
+  {
+    "dork": "powered by phpAdBoard"
+  },
+  {
+    "dork": "inurl:tr.php?id= Downline"
+  },
+  {
+    "dork": "allinurl :\\/modules\\/tutorials\\/"
+  },
+  {
+    "dork": "allinurl:index.php?mod=archives"
+  },
+  {
+    "dork": "intitle:login to cacti"
+  },
+  {
+    "dork": "Powered by Maian Greetings v2.1"
+  },
+  {
+    "dork": "Powered by Quick.Cms"
+  },
+  {
+    "dork": "inurl:tr.php?id= Autoresponder"
+  },
+  {
+    "dork": "powered by joovili"
+  },
+  {
+    "dork": "index.php?option=com_qcontacts"
+  },
+  {
+    "dork": "BioScripts"
+  },
+  {
+    "dork": "Powered by [ iSupport 1.8 ]"
+  },
+  {
+    "dork": "Powered by wpQuiz inurl:index.php"
+  },
+  {
+    "dork": "inurl:\\/index.php?m= PHPRecipeBook 2.39"
+  },
+  {
+    "dork": "intext:Powered by SaphpLesson 4.0"
+  },
+  {
+    "dork": "\\u00a9 Powered by sijio - Community Software"
+  },
+  {
+    "dork": "Powered by PHP Advanced Transfer Manager v1.30"
+  },
+  {
+    "dork": "intext:Remository 3.25. is technology by Black Sheep Research"
+  },
+  {
+    "dork": "allinurl:com_pccookbook"
+  },
+  {
+    "dork": "Powered by UCStats version 1.1"
+  },
+  {
+    "dork": "powered by webClassifieds"
+  },
+  {
+    "dork": "infusions\\/triscoop_race_system\\/race_details.php?"
+  },
+  {
+    "dork": "Powered by TextAds 2.08"
+  },
+  {
+    "dork": "Small Business Manager"
+  },
+  {
+    "dork": "inurl:index.php?title=gamepage"
+  },
+  {
+    "dork": "inurl:section.php?name=singers"
+  },
+  {
+    "dork": "Powered by CCLeague Pro"
+  },
+  {
+    "dork": "Powered by SoftbizScripts ALL JOBS"
+  },
+  {
+    "dork": "intext:Event List 0.8 Alpha by schlu.net "
+  },
+  {
+    "dork": "inurl:\\/com_chronocontact"
+  },
+  {
+    "dork": "Powered by webSPELL"
+  },
+  {
+    "dork": "Powered by: Maian Uploader v4.0"
+  },
+  {
+    "dork": "Powered by v1.14 powered by philboard v1.14"
+  },
+  {
+    "dork": "intitle:Bilder Galerie 1.1 or intitle:Bilder Galerie"
+  },
+  {
+    "dork": "inurl:com_jabode"
+  },
+  {
+    "dork": "developed by ARWScripts.com"
+  },
+  {
+    "dork": "inurl:com_kochsuite"
+  },
+  {
+    "dork": "Powered by IMGallery"
+  },
+  {
+    "dork": "Site designed and built by Powder Blue. inurl:index.php?id_page="
+  },
+  {
+    "dork": "inurl:index.php%Submit%Articles%Member%Login%Top%Authors"
+  },
+  {
+    "dork": "Powered by: PostGuestbook 0.6.1"
+  },
+  {
+    "dork": "inurl:nabopoll\\/"
+  },
+  {
+    "dork": "powered by CMS Made Simple version 1.1.2"
+  },
+  {
+    "dork": "inurl:option=articles artid"
+  },
+  {
+    "dork": "intext:Powered by Plogger! -plogger.org"
+  },
+  {
+    "dork": "Powered by MetInfo 2.0"
+  },
+  {
+    "dork": "allinurl: wordspew-rss.php"
+  },
+  {
+    "dork": "powered by sunshop"
+  },
+  {
+    "dork": "Powered by CMScout \\u00c2\\u00a92005 CMScout Group"
+  },
+  {
+    "dork": "inurl:view.php?ItemID= rating rate this review"
+  },
+  {
+    "dork": "inurl:com_jembed"
+  },
+  {
+    "dork": "Powered by FreeWebshop.org 2.2.1"
+  },
+  {
+    "dork": "intext:Marketing Web Design - Posicionamiento en Buscadores"
+  },
+  {
+    "dork": "allinurl: com_clasifier"
+  },
+  {
+    "dork": "Powered by SkaDate Dating"
+  },
+  {
+    "dork": "inurl:test.php Powered by TalkBack"
+  },
+  {
+    "dork": "Webdesign Cosmos Solutions"
+  },
+  {
+    "dork": "powered by Gradman"
+  },
+  {
+    "dork": "powered by XHP CMS"
+  },
+  {
+    "dork": "allintext:Home Member Search Chat Room Forum Help\\/Support privacy policy"
+  },
+  {
+    "dork": "allinurl: com_galeria"
+  },
+  {
+    "dork": "inurl:ibase site:de"
+  },
+  {
+    "dork": "Powered by Ovidentia"
+  },
+  {
+    "dork": "inurl:cal_cat.php?op="
+  },
+  {
+    "dork": "inurl:com_bfsurvey_profree"
+  },
+  {
+    "dork": "Portal By vbPortal Version 3.5.0"
+  },
+  {
+    "dork": "Developed by Infoware Solutions"
+  },
+  {
+    "dork": "Powered by hwdVideoShare"
+  },
+  {
+    "dork": "Powered by sNews"
+  },
+  {
+    "dork": "team5 studio all rights reserved site:cn"
+  },
+  {
+    "dork": "inurl:com_liveticker"
+  },
+  {
+    "dork": "inurl:option=com_cinema"
+  },
+  {
+    "dork": "Powered by: MyPHP Forum"
+  },
+  {
+    "dork": "allinurl: modules-php-name-Siir"
+  },
+  {
+    "dork": "Powered by Gravy Media"
+  },
+  {
+    "dork": "powered by phpGreetCards"
+  },
+  {
+    "dork": "intext:Powered by the 1-2-3 music store"
+  },
+  {
+    "dork": "inurl:com_jejob"
+  },
+  {
+    "dork": "Copyright @2007 Iatek LLC"
+  },
+  {
+    "dork": "Ayemsis Emlak Pro"
+  },
+  {
+    "dork": "inurl:index.php?option=com_djiceshoutbox"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wpSS\\/"
+  },
+  {
+    "dork": "?action=pro_show and ?action=disppro"
+  },
+  {
+    "dork": "inurl:prog.php?dwkodu="
+  },
+  {
+    "dork": "& Spider Friendly by Crack"
+  },
+  {
+    "dork": "Powered By CrownWeb.net! inurl:page.cfm"
+  },
+  {
+    "dork": "allinurl: modules\\/wfdownloads\\/viewcat.php?cid"
+  },
+  {
+    "dork": "inurl:com_filiale"
+  },
+  {
+    "dork": "Powerd by www.e-webtech.com"
+  },
+  {
+    "dork": "Powered by WebspotBlogging"
+  },
+  {
+    "dork": "Designed and powered by AWS Sports"
+  },
+  {
+    "dork": "intitle:login to cacti"
+  },
+  {
+    "dork": "Copyright @ 2007 Powered By Hot or Not Clone by Jnshosts.com Rate My Pic :: Home :: Advertise :: Contact us::"
+  },
+  {
+    "dork": "allinurl: modules\\/eEmpregos\\/index.php"
+  },
+  {
+    "dork": "Powered By AV Arcade"
+  },
+  {
+    "dork": "inurl:inc_billboardmanager.asp?ItemID="
+  },
+  {
+    "dork": "powered by vsp stats processor"
+  },
+  {
+    "dork": "inurl:com_eportfolio"
+  },
+  {
+    "dork": "Welcome to your PHPOpenChat-Installation!"
+  },
+  {
+    "dork": "inurl:contentPage.php?id= OR inurl:displayResource.php?id= AND intext:Website by Mile High Creative"
+  },
+  {
+    "dork": "Powered by Active PHP Bookmarks v1.1.02"
+  },
+  {
+    "dork": "Powered by NATTERCHAT v 1.1"
+  },
+  {
+    "dork": "allinurl :modules\\/recipe"
+  },
+  {
+    "dork": "inurl:employer_profile.php?compid="
+  },
+  {
+    "dork": "intext:Parlic Design inurl:id"
+  },
+  {
+    "dork": "powered by TSEP - The Search Engine Project"
+  },
+  {
+    "dork": "inurl:com_jepoll"
+  },
+  {
+    "dork": "inurl:inc_photogallerymanager.asp"
+  },
+  {
+    "dork": "powered by Site Sift"
+  },
+  {
+    "dork": "ogrencimezunlar.php"
+  },
+  {
+    "dork": "powered by php advanced transfer manager"
+  },
+  {
+    "dork": "inurl:com_awd_song"
+  },
+  {
+    "dork": "[ Powered by SkaDate dating ]"
+  },
+  {
+    "dork": "WEBalbum 2004-2006 duda"
+  },
+  {
+    "dork": "Come from home Script ( Latest Project ) www.esmart-vision.com"
+  },
+  {
+    "dork": "inurl:tr.php?id= Short Url & Url Tracker"
+  },
+  {
+    "dork": "Create your own free webring and bring traffic to your website. Join now"
+  },
+  {
+    "dork": "inurl:index.php?option=com_yanc listid"
+  },
+  {
+    "dork": "Powered by GeN4"
+  },
+  {
+    "dork": "MangoBery 1.0 Alpha"
+  },
+  {
+    "dork": "inurl:com_jotloader"
+  },
+  {
+    "dork": "Powered by Zomplog"
+  },
+  {
+    "dork": "powered by zomplog"
+  },
+  {
+    "dork": "inurl:com_joomladate"
+  },
+  {
+    "dork": "Powered by 6rbScript"
+  },
+  {
+    "dork": "Powered By Gravity Board X v2.0 BETA"
+  },
+  {
+    "dork": "inurl:view_group.php?id="
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/fgallery\\/"
+  },
+  {
+    "dork": "intext:Powered by simplog"
+  },
+  {
+    "dork": "Joomla Component com_eportfolio Upload Vulnerability"
+  },
+  {
+    "dork": "powered by ILIAS"
+  },
+  {
+    "dork": "powered by vpasp v 6.50"
+  },
+  {
+    "dork": "inurl:com_flippingbook"
+  },
+  {
+    "dork": "allinurl: index.php?p=gallerypic img_id"
+  },
+  {
+    "dork": "\\u00a9 2010 Powered by Subrion CMS"
+  },
+  {
+    "dork": "Powered by SMF"
+  },
+  {
+    "dork": "Site designed and built Powered by GlobalWebTek."
+  },
+  {
+    "dork": "allinurl: index.php?option=com_doc"
+  },
+  {
+    "dork": "allinurl:\\/questcms\\/"
+  },
+  {
+    "dork": "Powered by vlBook 1.21"
+  },
+  {
+    "dork": "allinurl:com_jpad"
+  },
+  {
+    "dork": "Powered by Guruscript.com"
+  },
+  {
+    "dork": "inurl:php-stats.js.php"
+  },
+  {
+    "dork": "Copyright \\u00a92007-2009 by Kasseler CMS. All rights reserved."
+  },
+  {
+    "dork": "Powered by GL-SH DEAF forum 6.5.5 final."
+  },
+  {
+    "dork": "inurl:com_eQuotes"
+  },
+  {
+    "dork": "Copyright \\u00c2\\u00a9 Rotator 2008"
+  },
+  {
+    "dork": "allinurl:com_candle"
+  },
+  {
+    "dork": "powered by jshop"
+  },
+  {
+    "dork": "Powered by MercuryBoard"
+  },
+  {
+    "dork": "inurl:com_simpleshop"
+  },
+  {
+    "dork": "Powered by Xplode CMS"
+  },
+  {
+    "dork": "inurl:tr.php?id= Reminder Service"
+  },
+  {
+    "dork": "powered by FlatPress"
+  },
+  {
+    "dork": "Powered by TS Special Edition"
+  },
+  {
+    "dork": "Powered by Drake CMS inurl:index.php?option=guestbook"
+  },
+  {
+    "dork": "inurl:inc_webblogmanager.asp"
+  },
+  {
+    "dork": "inurl:index.php?pageid= Property Listings"
+  },
+  {
+    "dork": "Powered by Jewelry Cart Software"
+  },
+  {
+    "dork": "Jevonweb Guestbook"
+  },
+  {
+    "dork": "inurl:ugroups.php?UID="
+  },
+  {
+    "dork": "inurl:\\/jobsearchengine\\/"
+  },
+  {
+    "dork": "Driven by DokuWiki"
+  },
+  {
+    "dork": "Powered by eLitius Version 1.0"
+  },
+  {
+    "dork": "Powered by Burning Board Lite 1.0.2 or Powered by Burning Board 2.3.6"
+  },
+  {
+    "dork": "Powered by Smoothflash"
+  },
+  {
+    "dork": "Dise\\u00f1o Web Hernest Consulting S.L."
+  },
+  {
+    "dork": "inurl:inc_contactusmanager.asp"
+  },
+  {
+    "dork": "allinurl:option=com_livechat"
+  },
+  {
+    "dork": "inurl:com_jgen"
+  },
+  {
+    "dork": "powered by php update"
+  },
+  {
+    "dork": "inurl:index.php?option=com_races raceId"
+  },
+  {
+    "dork": "Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top"
+  },
+  {
+    "dork": "display_blog.php"
+  },
+  {
+    "dork": "inurl:com_cpg"
+  },
+  {
+    "dork": "inurl:com_neorecruit"
+  },
+  {
+    "dork": "Powered by phpMyDesktop|arcade v1.0 (final)"
+  },
+  {
+    "dork": "inurl:com_n-forms"
+  },
+  {
+    "dork": "Realizzato utilizzando Web Portal"
+  },
+  {
+    "dork": "inurl:\\/phpplanner\\/userinfo.php?userid="
+  },
+  {
+    "dork": "propuls\\u00e9 par DotClear fil atom fil rss +commentaires"
+  },
+  {
+    "dork": "Snipe Gallery v.3.1.5 by Snipe.Net"
+  },
+  {
+    "dork": "inurl:ratelink.php?lnkid="
+  },
+  {
+    "dork": "index.php?option=com_mdigg"
+  },
+  {
+    "dork": "inurl:com_products intCategoryId"
+  },
+  {
+    "dork": "powered by gelato cms"
+  },
+  {
+    "dork": "powered by ILIAS"
+  },
+  {
+    "dork": "\\/nuke\\/htmltonuke.php - htmltonuke.php"
+  },
+  {
+    "dork": "powered by php photo album -demo2 -pitanje"
+  },
+  {
+    "dork": "Powered by AspDownload"
+  },
+  {
+    "dork": "CNStats 2.9"
+  },
+  {
+    "dork": "Uploader by CeleronDude."
+  },
+  {
+    "dork": "inurl:index.php?mod=jeuxflash"
+  },
+  {
+    "dork": "inurl:cont_form.php?cf_id="
+  },
+  {
+    "dork": "This site is powered by CMS Made Simple"
+  },
+  {
+    "dork": "Powered by ClanAdmin Tools v1.4.2"
+  },
+  {
+    "dork": "DA Mailing List System V2 Powered by DigitalArakan.Net"
+  },
+  {
+    "dork": "Browse with Interactive Map"
+  },
+  {
+    "dork": "'SEO by NuSEO.PHP'"
+  },
+  {
+    "dork": "inurl:track.php?id="
+  },
+  {
+    "dork": "allinurl:links.php?t=search"
+  },
+  {
+    "dork": "by eXtreme Crew"
+  },
+  {
+    "dork": "Powered by osCommerce | Customized by EZ-Oscommerce"
+  },
+  {
+    "dork": "Powered By AJ Auction Web"
+  },
+  {
+    "dork": "intext:Powered By Azaronline.com"
+  },
+  {
+    "dork": "powered by zeeways"
+  },
+  {
+    "dork": "Ladder Scripts by"
+  },
+  {
+    "dork": "inurl:com_dateconverter"
+  },
+  {
+    "dork": "2007 Rafal Kucharski"
+  },
+  {
+    "dork": "inurl:coursepage.php?id= intext:Web Site design by : Aim Web Design Cheshire"
+  },
+  {
+    "dork": "''showad.php?listingid=''"
+  },
+  {
+    "dork": "Powered by ephpscripts"
+  },
+  {
+    "dork": "intitle:Shorty (Beta)"
+  },
+  {
+    "dork": "powergap or s04.php or s01.php or s02.php"
+  },
+  {
+    "dork": "inurl:com_simplefaq"
+  },
+  {
+    "dork": "This forum powered by Phorum."
+  },
+  {
+    "dork": "Powered by One-News"
+  },
+  {
+    "dork": "Powered by My PHP Indexer 1.0"
+  },
+  {
+    "dork": "powered by Blog System"
+  },
+  {
+    "dork": "inurl:index.php?mod=ConcoursPhoto"
+  },
+  {
+    "dork": "PKs Movie Database"
+  },
+  {
+    "dork": "inurl:com_jb2"
+  },
+  {
+    "dork": "is proudly powered by WordPress"
+  },
+  {
+    "dork": "allinurl: com_rapidrecipeuser_id"
+  },
+  {
+    "dork": "Powered by DWdirectory"
+  },
+  {
+    "dork": "Copyright MaxiSepet \\u00a9"
+  },
+  {
+    "dork": "inurl:enq\\/big.asp?id="
+  },
+  {
+    "dork": "inurl:com_dms"
+  },
+  {
+    "dork": "Powered by Burning Board Lite 1.0.2 * 2001-2004"
+  },
+  {
+    "dork": "Powered by PHP Director"
+  },
+  {
+    "dork": "allinurl: modules\\/dictionary"
+  },
+  {
+    "dork": "2005 www.frank-karau.de | 2006 www.frank-karau.de"
+  },
+  {
+    "dork": "Powered by sabros.us"
+  },
+  {
+    "dork": "allintext:Powered By Buddy Zone"
+  },
+  {
+    "dork": "powered by: profitCode"
+  },
+  {
+    "dork": "FhImage"
+  },
+  {
+    "dork": "Webdesign Cosmos Solutions"
+  },
+  {
+    "dork": "RS MAXSOFT"
+  },
+  {
+    "dork": "inurl:jgs_treffen.php"
+  },
+  {
+    "dork": "inurl:inc_registrationmanager.asp"
+  },
+  {
+    "dork": "intext: Website Design and Hosting By Netricks"
+  },
+  {
+    "dork": "Powered by UGiA PHP UPLOADER V0.2"
+  },
+  {
+    "dork": "powered by blur6ex"
+  },
+  {
+    "dork": "2007 RADIOZAZA www.radiozaza.de? istek hatti Version 2.5"
+  },
+  {
+    "dork": "Powered by SoftbizScripts inurl:searchresult.php?sbcat_id="
+  },
+  {
+    "dork": "You have not provided a survey identification number"
+  },
+  {
+    "dork": "com_thyme"
+  },
+  {
+    "dork": "Powered by iBoutique v4.0"
+  },
+  {
+    "dork": "Powered by Claroline -demo"
+  },
+  {
+    "dork": "Site designed and built by ProWeb Associates."
+  },
+  {
+    "dork": "allinurl: index.php?p=pollshowresult"
+  },
+  {
+    "dork": "Powered by SNETWORKS PHP CLASSIFIEDS"
+  },
+  {
+    "dork": "Powered by ComicShout"
+  },
+  {
+    "dork": "PHP WEBQUEST VERSION  or inurl:\\/phpwebquest\\/"
+  },
+  {
+    "dork": "index.php?option=com_expose"
+  },
+  {
+    "dork": "Powered by Burning Board Lite 1.0.2 * 2001-2004"
+  },
+  {
+    "dork": "Powered By Basic CMS SweetRice"
+  },
+  {
+    "dork": "allinurl: com_joovideo detail"
+  },
+  {
+    "dork": "inurl:Editor\\/assetmanager\\/assetmanager.asp"
+  },
+  {
+    "dork": "powered by Pixaria. Gallery"
+  },
+  {
+    "dork": "All right reserved 2002-2003 (MSN\\/Web Server Creator)"
+  },
+  {
+    "dork": "inurl:yvcomment"
+  },
+  {
+    "dork": "Personal .NET Portal"
+  },
+  {
+    "dork": "inurl:index.php?option=com_liveticker viewticker"
+  },
+  {
+    "dork": "content_by_cat.asp?contentid ''catid''"
+  },
+  {
+    "dork": "inurl:makaledetay.asp?id="
+  },
+  {
+    "dork": "Powered by FlashGameScript"
+  },
+  {
+    "dork": "Powerd by www.e-webtech.com"
+  },
+  {
+    "dork": "kims Q - Administrator Login Mode"
+  },
+  {
+    "dork": "SmodBIP & Aktualno.ci"
+  },
+  {
+    "dork": "Tanyakan Pada Rumput Yang Bergoyang"
+  },
+  {
+    "dork": "Powered By AlstraSoft Video Share Enterprise"
+  },
+  {
+    "dork": "inurl: Powered by Traidnt UP Version 1.0."
+  },
+  {
+    "dork": "index.php?option=com_ongallery"
+  },
+  {
+    "dork": "powered by PhpMesFilms"
+  },
+  {
+    "dork": "inurl:com_hestar"
+  },
+  {
+    "dork": "SmodCMS & S.ownik"
+  },
+  {
+    "dork": "Devana is an open source project !"
+  },
+  {
+    "dork": "Powered by PG Real Estate Solution - real estate web site design"
+  },
+  {
+    "dork": "inurl:com_linkr"
+  },
+  {
+    "dork": "This website is powered by Trio"
+  },
+  {
+    "dork": "Internet Photoshow - Slideshow"
+  },
+  {
+    "dork": "Powered by NovaBoard v1.0.0"
+  },
+  {
+    "dork": "is a product of Lussumo"
+  },
+  {
+    "dork": "sitio web dise\\u00f1ado por www.toronja.com.pe"
+  },
+  {
+    "dork": "Powered by PG Roomate Finder Solution - roommate estate web site design"
+  },
+  {
+    "dork": "inurl:com_janews"
+  },
+  {
+    "dork": "content_by_cat.asp?contentid ''catid''"
+  },
+  {
+    "dork": "inurl:choosecard.php?catid="
+  },
+  {
+    "dork": "inurl:es_offer.php?files_dir="
+  },
+  {
+    "dork": "inurl:index.php?name=PNphpBB2"
+  },
+  {
+    "dork": "E-Commerce Engine Copyright \\u00a9 2005 osCSS"
+  },
+  {
+    "dork": "allinurl: com_pcchess user_id"
+  },
+  {
+    "dork": "inurl:com_sectionex"
+  },
+  {
+    "dork": "browse_videos.php?"
+  },
+  {
+    "dork": "Powered by Real Estate Portal"
+  },
+  {
+    "dork": "inurl:index.php?option=com_joomlaconnect_be"
+  },
+  {
+    "dork": "Powered by Online Grades"
+  },
+  {
+    "dork": "Powered by Ac4p.com Gallery v1.0 "
+  },
+  {
+    "dork": "Powered by PHP upload - unijimpe."
+  },
+  {
+    "dork": "inurl:com_rokdownloads"
+  },
+  {
+    "dork": "inurl:JBSPro"
+  },
+  {
+    "dork": "inurl:browsecats.php?cid="
+  },
+  {
+    "dork": "Powered by TinyPHPForum v3.61"
+  },
+  {
+    "dork": "Powered by ClanTiger"
+  },
+  {
+    "dork": "Powered by Digital College 1.0 - Magtrb Soft 2010"
+  },
+  {
+    "dork": "Powered by FubarForum v1.6"
+  },
+  {
+    "dork": "inurl:com_ganalytics"
+  },
+  {
+    "dork": "inurl:inc_joblistingmanager.asp"
+  },
+  {
+    "dork": "inurl:com_mdigg"
+  },
+  {
+    "dork": "intitle:CCMS v3.1 Demo PW"
+  },
+  {
+    "dork": "inurl:\\/modules\\/lykos_reviews\\/"
+  },
+  {
+    "dork": "inurl:cfaq\\/index.php?catid="
+  },
+  {
+    "dork": "inurl:\\/phpfootball\\/"
+  },
+  {
+    "dork": "Maintained with the Ocean12 Contact Manager Pro v1.02"
+  },
+  {
+    "dork": "inurl:trr.php?id="
+  },
+  {
+    "dork": "powered by mcGalleryPRO"
+  },
+  {
+    "dork": "Powered By X7 Chat"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-shopping-cart\\/"
+  },
+  {
+    "dork": "''name Kose_Yazilari op viewarticle artid''"
+  },
+  {
+    "dork": "Search Adult Directory:"
+  },
+  {
+    "dork": "buyers_subcategories.php?IndustryID="
+  },
+  {
+    "dork": "inurl:kroax.php?category"
+  },
+  {
+    "dork": "Powered by Dayfox Designs This is a port of WordPress"
+  },
+  {
+    "dork": "powered by guestbook script"
+  },
+  {
+    "dork": "intitle:igenus webmail login"
+  },
+  {
+    "dork": "inurl: modifyform.html?code="
+  },
+  {
+    "dork": "inurl:forum_answer.php?que_id"
+  },
+  {
+    "dork": "Powered by Minerva"
+  },
+  {
+    "dork": "Powered by Reciprocal Links Manager"
+  },
+  {
+    "dork": "Powered By EgyPlus"
+  },
+  {
+    "dork": "index.php?option=com_ezine"
+  },
+  {
+    "dork": "Powered by FreeWebshop"
+  },
+  {
+    "dork": "allinurl: com_ricette"
+  },
+  {
+    "dork": "allinurl:index.php?act=publ"
+  },
+  {
+    "dork": "inurl:izle.asp?oyun="
+  },
+  {
+    "dork": "intext:Powered by eDocStore"
+  },
+  {
+    "dork": "inurl:com_seminar"
+  },
+  {
+    "dork": "inurl:\\/modules\\/xfsection\\/"
+  },
+  {
+    "dork": "intext:Designed by Spaceacre"
+  },
+  {
+    "dork": "out.php?linkid=1"
+  },
+  {
+    "dork": "inurl:com_cartweberp"
+  },
+  {
+    "dork": "Copyright \\u00c2\\u00a9 Viral Marketing 2008"
+  },
+  {
+    "dork": "Powered by AM4SS 1.0"
+  },
+  {
+    "dork": "allintext:Powered By Buddy Zone"
+  },
+  {
+    "dork": "inurl:phpwcms\\/index.php?id="
+  },
+  {
+    "dork": "This site is powered by e107"
+  },
+  {
+    "dork": " ActiveKB v1.5 Copyright \\u00c2\\u00a9"
+  },
+  {
+    "dork": "PHPAuction GPL Enhanced V2.51 by AuctionCode.com"
+  },
+  {
+    "dork": "inurl:IDFM= form.php"
+  },
+  {
+    "dork": "Powered by AlstraSoft SendIt Pro"
+  },
+  {
+    "dork": "inurl:index.php?option=com_ice"
+  },
+  {
+    "dork": "Copyright Devellion Limited 2005. All rights reserved."
+  },
+  {
+    "dork": "S-CMS by matteoiamma"
+  },
+  {
+    "dork": "allinurl:com_garyscookbook"
+  },
+  {
+    "dork": "inurl:com_doqment"
+  },
+  {
+    "dork": "inurl:inc_newsmanager.asp"
+  },
+  {
+    "dork": "inurl:com_content"
+  },
+  {
+    "dork": "Powered by LiteCommerce"
+  },
+  {
+    "dork": "inurl:\\/modules\\/debaser\\/"
+  },
+  {
+    "dork": "inurl:cal_day.php?op=day&catview="
+  },
+  {
+    "dork": "inurl:index.php?conteudo="
+  },
+  {
+    "dork": "intext:PHPhotoalbum v0.5"
+  },
+  {
+    "dork": "Powered by Arctic v2.0.0"
+  },
+  {
+    "dork": "inurl:index.php?option=com_huruhelpdesk"
+  },
+  {
+    "dork": "Web Group Communication Center"
+  },
+  {
+    "dork": "Powered by Quick.Cms"
+  },
+  {
+    "dork": "netGitar.com - Shop v1.0"
+  },
+  {
+    "dork": "inurl:section.php?name=singers"
+  },
+  {
+    "dork": "Powered by OnePound"
+  },
+  {
+    "dork": "Powered by: Zanfi Solutions"
+  },
+  {
+    "dork": "Powered by Article Directory"
+  },
+  {
+    "dork": "inurl:com_xewebtv"
+  },
+  {
+    "dork": "inurl:\\/modules\\/rmgallery\\/"
+  },
+  {
+    "dork": "inurl:cat1.php?catID= Spaceacre"
+  },
+  {
+    "dork": "Powered By : Yamamah Version 1.00"
+  },
+  {
+    "dork": "Powered by SiteX 0.7 Beta"
+  },
+  {
+    "dork": "Copyright 2005 Affiliate Directory"
+  },
+  {
+    "dork": "inurl:index.php?option=com_paxgallery"
+  },
+  {
+    "dork": "intext:2000-2001 The phpHeaven Team"
+  },
+  {
+    "dork": "allinurl:fullview.php?tempid="
+  },
+  {
+    "dork": "Powered by FubarForum v1.6"
+  },
+  {
+    "dork": "powered by SnoGrafx"
+  },
+  {
+    "dork": "inurl:freshlinks_panel\\/index.php?linkid"
+  },
+  {
+    "dork": "inurl:index.php?option=com_bookjoomlas"
+  },
+  {
+    "dork": "Powered by iScripts SocialWare"
+  },
+  {
+    "dork": "Basado en Spirate"
+  },
+  {
+    "dork": "This page was produced using SAM Broadcaster. \\u00c2\\u00a9 Copyright Spacial Audio Solutions"
+  },
+  {
+    "dork": "www.stwc-counter.de"
+  },
+  {
+    "dork": "intext:\\u00c2\\u00a92003-2008 RC v3.1 Developed by: GA Soft"
+  },
+  {
+    "dork": "allinurl:xGb.php"
+  },
+  {
+    "dork": "Powered By WebSihirbaz\\u00c4\\u00b1"
+  },
+  {
+    "dork": "DevMass Shopping Cart"
+  },
+  {
+    "dork": "(C) This site is NITROpowered!"
+  },
+  {
+    "dork": "Barbecued by sNews"
+  },
+  {
+    "dork": "allinurl: id com_jooget"
+  },
+  {
+    "dork": "[ Powered by: RadLance v7.5 ]"
+  },
+  {
+    "dork": "details.php?p_id="
+  },
+  {
+    "dork": "Powered by ForumApp"
+  },
+  {
+    "dork": "inurl:inc_paypalstoremanager.asp"
+  },
+  {
+    "dork": "inurl:index.php?option=com_allhotels"
+  },
+  {
+    "dork": "phpQuestionnaire v3"
+  },
+  {
+    "dork": "inurl:printable_pedigree.php"
+  },
+  {
+    "dork": "inurl:comment.asp intext:Your e-mail address will be used to send you voting and comment activity. Inclusion of your address is optional but Battle Blog cannot notify you of these activities unless you supply an accurate e-mail."
+  },
+  {
+    "dork": "Powered by CMScout (c)2005 CMScout Group"
+  },
+  {
+    "dork": "allinurl:modules\\/photo\\/viewcat.php?id"
+  },
+  {
+    "dork": "inurl:\\/component\\/jeeventcalendar\\/"
+  },
+  {
+    "dork": "Powered By phpCOIN 1.2.3"
+  },
+  {
+    "dork": "powered by aflog"
+  },
+  {
+    "dork": "generated by Exhibit Engine 1.5 RC 4"
+  },
+  {
+    "dork": "powered by discuz!"
+  },
+  {
+    "dork": "inurl:com_img"
+  },
+  {
+    "dork": "Powered by Comersus v6 Shopping Cart"
+  },
+  {
+    "dork": "powered by 35mm Slide Gallery"
+  },
+  {
+    "dork": "allinurl: page_id album photo"
+  },
+  {
+    "dork": "Powered By: \\u00a9 Simplicity oF Upload"
+  },
+  {
+    "dork": "inurl:index.php?option=com_simplefaq"
+  },
+  {
+    "dork": "powered by connectix boards"
+  },
+  {
+    "dork": "This web site was made with PostNuke"
+  },
+  {
+    "dork": "Powered by MobPartner inurl:chat.php"
+  },
+  {
+    "dork": "allinurl:com_simpleshop"
+  },
+  {
+    "dork": "Powered by beamospetition 1.0.12"
+  },
+  {
+    "dork": "Developed by Quate.net."
+  },
+  {
+    "dork": "inurl:couponsite\\/index.php?page="
+  },
+  {
+    "dork": "inurl:com_ezstore"
+  },
+  {
+    "dork": "Powered by Shop-Script FREE"
+  },
+  {
+    "dork": "inurl:toplist.php powered by phpbb"
+  },
+  {
+    "dork": "[ Content Copyright \\u00c2\\u00a9 2007 RadNics Gold ]"
+  },
+  {
+    "dork": "powered by vBulletin 3.8.4"
+  },
+  {
+    "dork": "Powered by 68kb"
+  },
+  {
+    "dork": "allinurl:directory.php?ax=list"
+  },
+  {
+    "dork": "inurl:directory.php?ax=list gaming"
+  },
+  {
+    "dork": "FrontAccounting"
+  },
+  {
+    "dork": "LinPHA Version 1.3.x or The LinPHA developers"
+  },
+  {
+    "dork": "Designed and Developed by Debliteck Ltd"
+  },
+  {
+    "dork": "index.php?option=com_news_portal or Powered by iJoomla News Portal"
+  },
+  {
+    "dork": "intitle:Web Calendar system v 3.30 inurl:.asp"
+  },
+  {
+    "dork": "powered by devalcms v1.4.a"
+  },
+  {
+    "dork": "inurl:w3.php?nodeId="
+  },
+  {
+    "dork": "script by RECIPE SCRIPT"
+  },
+  {
+    "dork": "inurl:option=com_elite_experts"
+  },
+  {
+    "dork": "powered by Quick.Cart"
+  },
+  {
+    "dork": "intext:Powered By : Yamamah Version 1.00"
+  },
+  {
+    "dork": "inurl:\\/modules\\/friendfinder\\/"
+  },
+  {
+    "dork": "inurl:index.php?page=en_jobseekers"
+  },
+  {
+    "dork": "inurl:com_webring"
+  },
+  {
+    "dork": "VS-G\\u00e4stebuch V. \\u00a9"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jobline"
+  },
+  {
+    "dork": "inurl:com_tupinambis"
+  },
+  {
+    "dork": "Powered by PHP-Update -site:www.php-update.co.uk"
+  },
+  {
+    "dork": "inurl:whoiscart\\/admin\\/hostinginterfaces\\/"
+  },
+  {
+    "dork": "allinurl:forum_answer.php?que_id="
+  },
+  {
+    "dork": "webwizguestbook_license.asp"
+  },
+  {
+    "dork": "inurl:hikaye.asp?id="
+  },
+  {
+    "dork": "Uebimiau Webmail v3.2.0-1.8"
+  },
+  {
+    "dork": "Dosya Yukle Scrtipi v1.0"
+  },
+  {
+    "dork": "Powered by AMCMS3"
+  },
+  {
+    "dork": "intext:2000-2001 The phpHeaven Team -sourceforge"
+  },
+  {
+    "dork": "Powered by nzFotolog v0.4.1 \\u00c2\\u00a9 2005-2006 Ricardo Amaral"
+  },
+  {
+    "dork": "Powered by EPay Enterprise inurl:shop.htm?cid= | nurl:shop.php?cid="
+  },
+  {
+    "dork": "allinurl: aid com_xfaq"
+  },
+  {
+    "dork": "intext:Design by: runt communications"
+  },
+  {
+    "dork": "ATutor 1.6.4"
+  },
+  {
+    "dork": "allinurl: modules-php-op-modload req view_cat"
+  },
+  {
+    "dork": "Web Site Design by Red Cat Studios"
+  },
+  {
+    "dork": "Powered by MercuryBoard"
+  },
+  {
+    "dork": "SQuery 4.5 |SQuery 4.0 |SQuery 3.9 | inurl:modules.php?name=SQuery"
+  },
+  {
+    "dork": "Copyright 2004 easy-content forums"
+  },
+  {
+    "dork": "inurl:modules\\/flashgames\\/"
+  },
+  {
+    "dork": "Copyright Agares Media phpautovideo"
+  },
+  {
+    "dork": "Search | Invite | Mail | Blog | Forum"
+  },
+  {
+    "dork": "Powered by Absolute File Send"
+  },
+  {
+    "dork": "allinurl:com_cinema"
+  },
+  {
+    "dork": "Powered by Coppermine Photo Gallery"
+  },
+  {
+    "dork": "Upload unique IP List: AND The Ultimate Fake Hit Generator - BOOST YOUR ALEXA RANK"
+  },
+  {
+    "dork": "Website by WebSolutions.ca"
+  },
+  {
+    "dork": "inurl:index.php?option=com_mediaslide"
+  },
+  {
+    "dork": "Powered by DVHome.cn"
+  },
+  {
+    "dork": "elkagroup - Image Gallery v1.0 - All right reserved"
+  },
+  {
+    "dork": "inurl:wapmain.php?option="
+  },
+  {
+    "dork": "Powered by Clipshare"
+  },
+  {
+    "dork": "Content managed by the Etomite Content Management System"
+  },
+  {
+    "dork": "inurl:ir\\/addlink.php?id= OR inurl:addlink.php?id="
+  },
+  {
+    "dork": "Powered by Nukedit"
+  },
+  {
+    "dork": "inurl:com_biblestudy"
+  },
+  {
+    "dork": "powered by ExtCalendar v2"
+  },
+  {
+    "dork": "intext:Powered by CLscript.com"
+  },
+  {
+    "dork": "allinurl:com_na_content"
+  },
+  {
+    "dork": "Powered by PHPizabi v0.848b C1 HFP1"
+  },
+  {
+    "dork": "powered by PCPIN.com"
+  },
+  {
+    "dork": "intext:powered and designed by Dow Group"
+  },
+  {
+    "dork": "Powered by Gbook MX v4.1.0 \\u00a92003 Magtrb Soft"
+  },
+  {
+    "dork": "inurl:com_dashboard"
+  },
+  {
+    "dork": "Search | Invite | Mail | Blog | Forum"
+  },
+  {
+    "dork": "inurl:index.php?option=com_oziogallery"
+  },
+  {
+    "dork": "inurl:com_jcalpro"
+  },
+  {
+    "dork": "inurl:com_jejob"
+  },
+  {
+    "dork": "Powered by Leap"
+  },
+  {
+    "dork": "intext:powered by Milonic inurl:viewnews.php?id="
+  },
+  {
+    "dork": "Powered by SLAED CMS \\u00a9 2005-2008 SLAED. All rights reserved."
+  },
+  {
+    "dork": "inurl:com_jcollection "
+  },
+  {
+    "dork": "AcmlmBoard v1.A2"
+  },
+  {
+    "dork": "Powered by Content Injector v1.53"
+  },
+  {
+    "dork": "Powered by Webiz"
+  },
+  {
+    "dork": "inurl:com_jpodium"
+  },
+  {
+    "dork": "inurl:option=com_tophotelmodule"
+  },
+  {
+    "dork": "mirco blogging"
+  },
+  {
+    "dork": "myAlbum-P 2.0"
+  },
+  {
+    "dork": "Affiliate Network Pro"
+  },
+  {
+    "dork": "inurl:index.php?option=com_mambads"
+  },
+  {
+    "dork": "inurl:click.php?hostid="
+  },
+  {
+    "dork": "inurl:category.php?cate_id="
+  },
+  {
+    "dork": "intext:Powered by: Virtual War v1.5.0"
+  },
+  {
+    "dork": "Runcms Copyright 2002 - 2007 +page created"
+  },
+  {
+    "dork": "Sitedesign by: Dieleman www.dieleman.nl - Copyright \\u00a9 2010"
+  },
+  {
+    "dork": "[ Software Directory Powered by SoftDirec 1.05 ]"
+  },
+  {
+    "dork": "index.php?option=com_pcchess"
+  },
+  {
+    "dork": "inurl:modules.php?name=My_eGallery"
+  },
+  {
+    "dork": "inurl:\\/tiny_mce\\/plugins\\/filemanager\\/"
+  },
+  {
+    "dork": "CaLogic Calendars V1.2.2"
+  },
+  {
+    "dork": "inurl:index.php\\/option?com_flexicontent"
+  },
+  {
+    "dork": "Powered by eXV2 Vers"
+  },
+  {
+    "dork": "intext:Warning: passthru() inurl:view=help"
+  },
+  {
+    "dork": "By Geeklog Created this page in +seconds +powered"
+  },
+  {
+    "dork": "Powered By: Forest Blog v1.3.2"
+  },
+  {
+    "dork": "Marketplace Version 1.1.1"
+  },
+  {
+    "dork": "inurl:search_results.php?browse=1"
+  },
+  {
+    "dork": "Powered by Rock Band CMS 0.10"
+  },
+  {
+    "dork": "inurl:option=com_agenda"
+  },
+  {
+    "dork": "Betrieben mit Serendipity 1.0.3"
+  },
+  {
+    "dork": "PHPG\\u00c3\\u00a9n\\u00c3\\u00a9alogie fonctionne sur un serveur PHP"
+  },
+  {
+    "dork": "inurl:xampp\\/biorhythm.php"
+  },
+  {
+    "dork": "intext:Powered by phpFastNews"
+  },
+  {
+    "dork": "Powered by Ajax Portal 3.0"
+  },
+  {
+    "dork": "powered by fuzzylime"
+  },
+  {
+    "dork": "Copyright Acme 2008"
+  },
+  {
+    "dork": "inurl:index.php?css=mid=art="
+  },
+  {
+    "dork": "Powered by XMB"
+  },
+  {
+    "dork": "inurl:char.php?id= OR intitle:Minimanager for trinity server"
+  },
+  {
+    "dork": "inurl:\\/modules\\/glossaire\\/"
+  },
+  {
+    "dork": "Powered by phpDatingClub"
+  },
+  {
+    "dork": "Powered By IP.Board 3.0.0 Beta 5"
+  },
+  {
+    "dork": "Powered by ThinkAdmin"
+  },
+  {
+    "dork": "Creative Guestbook"
+  },
+  {
+    "dork": "Powered By Webcards"
+  },
+  {
+    "dork": "Powered by BIGACE 2.5"
+  },
+  {
+    "dork": "inurl:product_desc.php?id= Powered by Zeeways.com"
+  },
+  {
+    "dork": "index.php?option=com_is"
+  },
+  {
+    "dork": "Powered by: Censura"
+  },
+  {
+    "dork": "MunzurSoft Wep Portal W3"
+  },
+  {
+    "dork": "phpBazar Ver. 2.1.0"
+  },
+  {
+    "dork": "DeeEmm CMS"
+  },
+  {
+    "dork": "Powered by Bug Software intext:Your Cart Contains"
+  },
+  {
+    "dork": "allintitle: powered by DeluxeBB"
+  },
+  {
+    "dork": "Transloader by Somik.org OR Transloader by OR Transloder"
+  },
+  {
+    "dork": "Powered by Ninja Designs This is a port of WordPress"
+  },
+  {
+    "dork": "inurl:com_clanlist"
+  },
+  {
+    "dork": "Powered by Blox CMS from TownNews.com"
+  },
+  {
+    "dork": "inurl:gotourl.php?id="
+  },
+  {
+    "dork": "powered by vBulletin 4.0.4"
+  },
+  {
+    "dork": "Winn ASP Guestbook from Winn.ws"
+  },
+  {
+    "dork": "Powered by Online Grades"
+  },
+  {
+    "dork": "Powered by ArticlesOne.com oR Website Powered by ArticlesOne.com"
+  },
+  {
+    "dork": "Copyright 1999-2010 Rocksalt International Pty Ltd. All rights reserved"
+  },
+  {
+    "dork": "This script created by www.script.canavari.com"
+  },
+  {
+    "dork": "allinurl :wp-content\\/plugins\\/st_newsletter"
+  },
+  {
+    "dork": "inurl:module=helpcenter"
+  },
+  {
+    "dork": "Vivid Ads Shopping Cart"
+  },
+  {
+    "dork": "inurl:option=com_n-forms form_id"
+  },
+  {
+    "dork": "Powered by ClanTiger"
+  },
+  {
+    "dork": "powered by CubeCart inurl:index.php?_a="
+  },
+  {
+    "dork": "inurl:\\/modules\\/wfsection\\/"
+  },
+  {
+    "dork": "inurl:classified\\/product_desc.php?id="
+  },
+  {
+    "dork": "\\u00a9 2008 DevWorx - devworx.somee.com"
+  },
+  {
+    "dork": "Powered By PHPhotoalbum"
+  },
+  {
+    "dork": "inurl:\\/rbfminc\\/"
+  },
+  {
+    "dork": "intext:English for dummies"
+  },
+  {
+    "dork": "AlumniServer project"
+  },
+  {
+    "dork": "intext: Site developed & mantained by Woodall Creative Group"
+  },
+  {
+    "dork": "intext:phpbb - auction inurl:auction"
+  },
+  {
+    "dork": "allinurl:members.asp?action"
+  },
+  {
+    "dork": "inurl:links_showcat.php?"
+  },
+  {
+    "dork": "Gallery powered by fMoblog"
+  },
+  {
+    "dork": "intext:Powered by AWCM v2.1"
+  },
+  {
+    "dork": "inurl:com_lyftenbloggie \\/ Powered by LyftenBloggie"
+  },
+  {
+    "dork": "inurl:imageview5"
+  },
+  {
+    "dork": "Web Group Communication Center beta 0.5.6 OR Web Group Communication Center beta 0.5.5"
+  },
+  {
+    "dork": "Powered by Forums W-Agora"
+  },
+  {
+    "dork": "inurl:btg_oglas"
+  },
+  {
+    "dork": "Powered by SH-News 3.0"
+  },
+  {
+    "dork": "Powered by Orca Interactive Forum Script"
+  },
+  {
+    "dork": "Powered By AlstraSoft AskMe Pro"
+  },
+  {
+    "dork": "Powered by GGCMS"
+  },
+  {
+    "dork": "This site is powered by e107"
+  },
+  {
+    "dork": "inurl:picture.php?cat= Powered by PhpWebGallery 1.3.4"
+  },
+  {
+    "dork": "intitle:admbook intitle:version filetype:php"
+  },
+  {
+    "dork": "Powered by lineaCMS \\u00a9 2006 lineaPHP Group"
+  },
+  {
+    "dork": "CaLogic Calendars V1.2.2"
+  },
+  {
+    "dork": "inurl:browsecats.php?cid="
+  },
+  {
+    "dork": "allinurl:com_neogallery"
+  },
+  {
+    "dork": "inurl:index.php?menu=showcat"
+  },
+  {
+    "dork": "powered by tikiwiki"
+  },
+  {
+    "dork": "Powered by Glossword 1.8.11 OR Powered by Glossword 1.8.6"
+  },
+  {
+    "dork": "inurl:com_icrmbasic"
+  },
+  {
+    "dork": "Powered by Scripteen Free Image Hosting Script V 2.3"
+  },
+  {
+    "dork": "inurl:com_pollxt"
+  },
+  {
+    "dork": "Powered by MySpace Content Zone"
+  },
+  {
+    "dork": "inurl:com_category"
+  },
+  {
+    "dork": "Powered by minb"
+  },
+  {
+    "dork": "powered by gcards"
+  },
+  {
+    "dork": "Maian Events v2.0 Copyright \\u00c2\\u00a9 2005-2008 Maian Script World. All Rights Reserved"
+  },
+  {
+    "dork": "index.php?option=com_mambads"
+  },
+  {
+    "dork": "inurl:com_jvideodirect "
+  },
+  {
+    "dork": "Powered by PHP Links from DeltaScripts"
+  },
+  {
+    "dork": "allinurl: com_actualite"
+  },
+  {
+    "dork": "Powered By Zoopeer"
+  },
+  {
+    "dork": "Powered by phpCC Beta 4.2"
+  },
+  {
+    "dork": "pixelpost RSS 2.0 ATOM feed Valid xHTML \\/ Valid CSS"
+  },
+  {
+    "dork": "AlumniServer project"
+  },
+  {
+    "dork": "Siteman Version 1.1.9"
+  },
+  {
+    "dork": "inurl:index.php?option=com_calendario"
+  },
+  {
+    "dork": "inurl:com_book"
+  },
+  {
+    "dork": "inurl:index.php?ortupg="
+  },
+  {
+    "dork": "inurl:index.php?menu=showcat="
+  },
+  {
+    "dork": "This web site was made with MD-Pro"
+  },
+  {
+    "dork": "inurl:categoria.php?ID= comune"
+  },
+  {
+    "dork": "Powered by PHP F1 (Max's Photo Album)"
+  },
+  {
+    "dork": "SimpleBlog 2.3 by 8pixel.net"
+  },
+  {
+    "dork": "Powered by PNphpBB2 \\/ Powered por PNphpBB2"
+  },
+  {
+    "dork": "powered by AllMyGuests"
+  },
+  {
+    "dork": "inurl:com_jomtube"
+  },
+  {
+    "dork": "intext:elkagroup Image Gallery v1.0"
+  },
+  {
+    "dork": "http:\\/\\/www.google.com\\/search?q=Powered+by+XMB"
+  },
+  {
+    "dork": "Web site engine's code is copyright \\u00c2\\u00a9 2001-2007 ATutor\\u00c2\\u00ae"
+  },
+  {
+    "dork": "Powered by LightNEasy"
+  },
+  {
+    "dork": "inurl:\\/squirrelcart\\/"
+  },
+  {
+    "dork": "Powered by Nukedit"
+  },
+  {
+    "dork": "allinurl : \\/web3news\\/"
+  },
+  {
+    "dork": "Powered by web directory script"
+  },
+  {
+    "dork": "powered by AMCMS3"
+  },
+  {
+    "dork": "powered by ThWboard"
+  },
+  {
+    "dork": "Cr\\u00c3\\u00a9\\u00c3\\u00a9 par Narfight"
+  },
+  {
+    "dork": "The Merchant Project"
+  },
+  {
+    "dork": "inurl:com_markt"
+  },
+  {
+    "dork": "Powered by vcart 3.3.2"
+  },
+  {
+    "dork": "Powered by BoutikOne\\u00ae"
+  },
+  {
+    "dork": "inurl:com_gigcal"
+  },
+  {
+    "dork": "inurl:e107_plugins\\/my_gallery"
+  },
+  {
+    "dork": "Page created in seconds by glFusion +RSS"
+  },
+  {
+    "dork": "Powered by Atomic Photo Album inurl:photo.php?apa_album_ID="
+  },
+  {
+    "dork": "intitle:Directory Listing For \\/ + inurl:webdav tomcat"
+  },
+  {
+    "dork": "powered by EQdkp"
+  },
+  {
+    "dork": "Powered by SkaLinks"
+  },
+  {
+    "dork": " Powered by Xpoze "
+  },
+  {
+    "dork": "Powered MarketSaz"
+  },
+  {
+    "dork": "Powered by BIGACE 2.4"
+  },
+  {
+    "dork": "inurl:wp-login.php Register Username Password -echo"
+  },
+  {
+    "dork": "100% | 50% | 25% Back to gallery inurl:show.php?imageid="
+  },
+  {
+    "dork": "Search Projects intitle:The ultimate project website"
+  },
+  {
+    "dork": "intitle:Login to Calendar"
+  },
+  {
+    "dork": "G\\u00e9n\\u00e9r\\u00e9 par KDPics v1.18"
+  },
+  {
+    "dork": "allinurl:macgurublog.php?uid="
+  },
+  {
+    "dork": "inurl:com_ezautos"
+  },
+  {
+    "dork": "Powered by www.aspportal.net"
+  },
+  {
+    "dork": "this site is using the webspell script (version: 4.01.02)"
+  },
+  {
+    "dork": "Powered by DUdforum 3.0 inurl:\\/forums.asp?iFor="
+  },
+  {
+    "dork": "Powered by Dodo"
+  },
+  {
+    "dork": "WebCalendar v1.0.4"
+  },
+  {
+    "dork": "inurl:nabopoll\\/"
+  },
+  {
+    "dork": "powered by AirvaeCommerce 3.0"
+  },
+  {
+    "dork": "Designed & Developed by Zeeways.com"
+  },
+  {
+    "dork": "inurl:com_ijoomla_archive"
+  },
+  {
+    "dork": "inurl:com_sqlreport"
+  },
+  {
+    "dork": "allinurl: galid index.php?p=gallerypic"
+  },
+  {
+    "dork": "allinurl:shop.htm?shopMGID="
+  },
+  {
+    "dork": "inurl:com_bfsurvey"
+  },
+  {
+    "dork": "allinurl :modules\\/eblog"
+  },
+  {
+    "dork": "inurl: tops_top.php? id_cat ="
+  },
+  {
+    "dork": "inurl:option=com_education_classes"
+  },
+  {
+    "dork": "Power by Blakord Portal"
+  },
+  {
+    "dork": "Powered by Quick.Cart"
+  },
+  {
+    "dork": "Powered by yappa-ng 2.3.1 AND Powered by yappa-ng 2.3.1"
+  },
+  {
+    "dork": "By Geeklog Created this page in +seconds +powered inurl:public_html"
+  },
+  {
+    "dork": "anyInventory"
+  },
+  {
+    "dork": "Powered By DataLife Engine"
+  },
+  {
+    "dork": "PHPEmailManager"
+  },
+  {
+    "dork": "allinurl:lyrics_menu\\/lyrics_song.php?l_id="
+  },
+  {
+    "dork": "inurl:option=com_mv_restaurantmenumanager"
+  },
+  {
+    "dork": "Powered by Shadowed Portal"
+  },
+  {
+    "dork": "ActualAnalyzer Lite (free) 2.78+Copyright \\u00c2\\u00a9 2006 ActualScripts"
+  },
+  {
+    "dork": "Powered by LifeType RSS 0.90 RSS 1.0 RSS 2.0 Valid XHTML 1.0 Strict and CSS"
+  },
+  {
+    "dork": "inurl:bemarket"
+  },
+  {
+    "dork": "\\u00a9 Sabdrimer CMS"
+  },
+  {
+    "dork": "Powered by ExBB "
+  },
+  {
+    "dork": "infusions\\/recept\\/recept.php?"
+  },
+  {
+    "dork": "inurl:com_ajaxchat"
+  },
+  {
+    "dork": "powered by bitweaver"
+  },
+  {
+    "dork": "inurl:com_forum"
+  },
+  {
+    "dork": "inurl:pmwiki.php +Page last modified on | PmWikiPhilosophy"
+  },
+  {
+    "dork": "inurl:com_jashowcase "
+  },
+  {
+    "dork": "AlstraSoft Web ESE"
+  },
+  {
+    "dork": "Powered by Locazolist Copyright \\u00a9 2006"
+  },
+  {
+    "dork": "Powered By diskos"
+  },
+  {
+    "dork": "Powered by: AIH v2.3"
+  },
+  {
+    "dork": "inurl:index.php?ind=blog"
+  },
+  {
+    "dork": "Copyright (c) 2004-2006 by Simple PHP Guestbook"
+  },
+  {
+    "dork": "Powered by UPB"
+  },
+  {
+    "dork": "Powered by React - www.react.nl"
+  },
+  {
+    "dork": "Powered by Maian Cart v1.1"
+  },
+  {
+    "dork": "txx cms"
+  },
+  {
+    "dork": "Copyright 2006 \\u00c2\\u00a9 Flax Article Manager v1.1"
+  },
+  {
+    "dork": "inurl:\\/macgurublog_menu\\/"
+  },
+  {
+    "dork": "inurl:browse.php?folder= Powered by GeneShop 5"
+  },
+  {
+    "dork": "Powered by Claroline -demo"
+  },
+  {
+    "dork": "qjForum"
+  },
+  {
+    "dork": "Thyme 1. \\u00c2\\u00a9 2006 eXtrovert Software LLC. All rights reserved"
+  },
+  {
+    "dork": "inurl:printer.asp?forum="
+  },
+  {
+    "dork": "Powered by PHP Image Gallery"
+  },
+  {
+    "dork": "inurl:?page=duyurular_detay&id="
+  },
+  {
+    "dork": "inurl:\\/modules\\/Partenaires\\/clic.php?id="
+  },
+  {
+    "dork": "Galerie 3.2 \\u00c2\\u00a9 2004 by progressive"
+  },
+  {
+    "dork": "Powered by cifshanghai.com"
+  },
+  {
+    "dork": "eXV2 MyAnnonces"
+  },
+  {
+    "dork": "inurl:com_ownbiblio catalogue"
+  },
+  {
+    "dork": "Powered By Pligg | Legal: License and Source"
+  },
+  {
+    "dork": "X-CART. Powerful PHP shopping cart software"
+  },
+  {
+    "dork": "Powered By Pligg + Legal: License and Source"
+  },
+  {
+    "dork": "allinurl:detResolucion.php?tipodoc_id="
+  },
+  {
+    "dork": "BlogMe PHP created by Gamma Scripts"
+  },
+  {
+    "dork": "CMS Webmanager-pro"
+  },
+  {
+    "dork": "inurl:\\/_blogadata\\/"
+  },
+  {
+    "dork": "allinurl:offers.php?id="
+  },
+  {
+    "dork": "powered by DBHcms"
+  },
+  {
+    "dork": "toendaCMS is Free Software released under the GNU\\/GPL License. | powered by toendaCMS -inurl:demo"
+  },
+  {
+    "dork": "Powered By : Yamamah Version 1.00"
+  },
+  {
+    "dork": "inurl:\\/go\\/_files\\/?file="
+  },
+  {
+    "dork": "inurl:\\/geeklog\\/"
+  },
+  {
+    "dork": "inurl:com_a6mambocredits"
+  },
+  {
+    "dork": "Powered By HASHE"
+  },
+  {
+    "dork": "intext:sitio web dise\\u00f1ado por www.toronja.com.pe"
+  },
+  {
+    "dork": "Powered by osCSS"
+  },
+  {
+    "dork": "inurl:option=com_camelcitydb2"
+  },
+  {
+    "dork": "inurl:\\/webCal3_detail.asp?event_id="
+  },
+  {
+    "dork": "index.php?id_menu= CMScontrol"
+  },
+  {
+    "dork": "inurl:we_objectID="
+  },
+  {
+    "dork": "Maian Gallery v2.0 Copyright \\u00c2\\u00a9 2006-2008 Maian Script World. All Rights Reserved."
+  },
+  {
+    "dork": "Powered by cpCommerce"
+  },
+  {
+    "dork": "inurl:index.php?option=com_prime"
+  },
+  {
+    "dork": "Powered by PacerCMS"
+  },
+  {
+    "dork": "inurl:classifieds\\/view.php?category="
+  },
+  {
+    "dork": "inurl:com_eventcal"
+  },
+  {
+    "dork": "2009 Jorp"
+  },
+  {
+    "dork": "allintext: If you would like to contact us"
+  },
+  {
+    "dork": "propuls\\u00c3\\u00a9 par JBlog"
+  },
+  {
+    "dork": "2006 by www.mani-stats-reader.de.vu"
+  },
+  {
+    "dork": "inurl:com_expshop"
+  },
+  {
+    "dork": "Signkorn Guestbook 1.3"
+  },
+  {
+    "dork": "and Powered By :Sansak"
+  },
+  {
+    "dork": "Powered by Orbis CMS"
+  },
+  {
+    "dork": "powered by apt-webservice ;apt-webshop-system v3.0"
+  },
+  {
+    "dork": "Help * Contact * Imprint * Sitemap | powered by papoo | powered by cms papoo"
+  },
+  {
+    "dork": "powered by: WebLeague"
+  },
+  {
+    "dork": "intitle:ITech Bids"
+  },
+  {
+    "dork": "inurl:powered by eggblog"
+  },
+  {
+    "dork": "inurl:profile.php?mode="
+  },
+  {
+    "dork": "inurl:index.php?edicion_id="
+  },
+  {
+    "dork": "Maian Music v1.0. Copyright \\u00c2\\u00a9 2007-2008 Maian Script World. All Rights Reserved."
+  },
+  {
+    "dork": "Help * Contact * Imprint * Sitemap | powered by papoo | powered by cms papoo"
+  },
+  {
+    "dork": "All Rights Reserved. Powered by DieselScripts.com"
+  },
+  {
+    "dork": "Script r\\u00e9alis\\u00e9 par BinGo PHP"
+  },
+  {
+    "dork": "pForum 1.30"
+  },
+  {
+    "dork": "Powered By SalSa Creations"
+  },
+  {
+    "dork": "inurl:CIHUY"
+  },
+  {
+    "dork": "Help desk software by United Web Coders rev. 3.0.640"
+  },
+  {
+    "dork": "100% | 50% | 25% Back to gallery inurl:show.php?imageid="
+  },
+  {
+    "dork": "intitle:Web Calendar system v 3.40 inurl:.asp"
+  },
+  {
+    "dork": "Powered by CS-Cart - Shopping Cart Software"
+  },
+  {
+    "dork": "Powered By AJ Auction"
+  },
+  {
+    "dork": "inurl:modules.php?op= pollID"
+  },
+  {
+    "dork": "\\/subcat.php?cate_id="
+  },
+  {
+    "dork": "Powered by PHP-Update -site:www.php-update.co.uk"
+  },
+  {
+    "dork": "inurl:index.php?option=com_noticia"
+  },
+  {
+    "dork": "inurl:com_colophon"
+  },
+  {
+    "dork": "faqview.asp?key"
+  },
+  {
+    "dork": "Powered by SazCart"
+  },
+  {
+    "dork": "Powered by Marinet"
+  },
+  {
+    "dork": "Software PBLang 4.66z AND Software PBLang 4.60 OR Software PBLang"
+  },
+  {
+    "dork": "powered by jaws | powered by the jaws project | inurl:?gadget=search"
+  },
+  {
+    "dork": "inurl:guestbook.php Advanced GuestBook powered by phpbb"
+  },
+  {
+    "dork": " Powered by JTL-Shop 2"
+  },
+  {
+    "dork": "Powered by: MFH v1"
+  },
+  {
+    "dork": "intext:Powered by Max.Blog"
+  },
+  {
+    "dork": "allinurl:clientsignup.php classifieds"
+  },
+  {
+    "dork": "intext:Web design by goffgrafix.com"
+  },
+  {
+    "dork": "inurl:index.php?option=com_portfolio"
+  },
+  {
+    "dork": "Powered by PHP Shop from DeltaScripts"
+  },
+  {
+    "dork": "inurl:com_beamospetition"
+  },
+  {
+    "dork": "Powered by CMSimple"
+  },
+  {
+    "dork": "Powered by TeamCal Pro"
+  },
+  {
+    "dork": "Welcome to Exponent CMS | my new exponent site inurl:articlemodule"
+  },
+  {
+    "dork": "FlatNuke Valid HTML 4.01! Valid CSS! Get RSS 2.0 Feed Get RSS"
+  },
+  {
+    "dork": "allinurl:\\/ubbthreads\\/"
+  },
+  {
+    "dork": "Powered by sNews  inurl:index.php?id="
+  },
+  {
+    "dork": "Powered By 4smart"
+  },
+  {
+    "dork": "inurl:com_performs"
+  },
+  {
+    "dork": "mumbo jumbo media + inurl:index.php"
+  },
+  {
+    "dork": "Powered by Drumbeat inurl:index02.php"
+  },
+  {
+    "dork": "Powered by BLOG:CMS|Powered by blogcms.com|2003-2004"
+  },
+  {
+    "dork": "powered by zomplog"
+  },
+  {
+    "dork": "Torbstoff News 4"
+  },
+  {
+    "dork": "inurl :\\/PhotoCart\\/"
+  },
+  {
+    "dork": "inurl:com_mambowiki"
+  },
+  {
+    "dork": "intext:pLink 2.07"
+  },
+  {
+    "dork": "Designed & Developed by N.E.T E-Commerce Group. All Rights Reserved."
+  },
+  {
+    "dork": "FlatNuke Valid HTML 4.01! Valid CSS! Get RSS 2.0 Feed Get RSS"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/ourspace\\/"
+  },
+  {
+    "dork": "intext:Powered by MX-System 2.7.3"
+  },
+  {
+    "dork": "Powered by GetMyOwnArcade"
+  },
+  {
+    "dork": "index.asp?archivio=OK"
+  },
+  {
+    "dork": "Powered by Scripteen Free Image Hosting Script V1.2"
+  },
+  {
+    "dork": "Powered by SocketMail Lite version 2.2.8. Copyright \\u00c2\\u00a9 2002-2006"
+  },
+  {
+    "dork": "Powered by PHP Photo Album"
+  },
+  {
+    "dork": "inurl:index.php?option=com_joomradio"
+  },
+  {
+    "dork": "Powered By 4smart"
+  },
+  {
+    "dork": "Powered By : PersianBB.com"
+  },
+  {
+    "dork": "album.asp?pic= .jpg cat="
+  },
+  {
+    "dork": "allinurl:casting_view.php?adnum="
+  },
+  {
+    "dork": "Powered by WHMCompleteSolution - OR inurl:WHMCS OR announcements.php"
+  },
+  {
+    "dork": "Site powered by GuppY | Site cr\\u00e9\\u00e9 avec GuppY +inurl:lng="
+  },
+  {
+    "dork": "Powered by xeCMS"
+  },
+  {
+    "dork": "intext:Powered by Arcade Builder"
+  },
+  {
+    "dork": "Powered by Simple PHP Text newsletter"
+  },
+  {
+    "dork": "Multi-Page Comment System"
+  },
+  {
+    "dork": "inurl:\\/jobsearchengine\\/"
+  },
+  {
+    "dork": "inurl:inc_catalogmanager.asp"
+  },
+  {
+    "dork": "This site is powered by e107|inurl:e107_plugins|e107_handlers|e107_files"
+  },
+  {
+    "dork": "Power by PHP Classifieds"
+  },
+  {
+    "dork": "inurl:index.php?id_menu="
+  },
+  {
+    "dork": "allinurl: com_estateagent"
+  },
+  {
+    "dork": "inurl:com_wmtpic"
+  },
+  {
+    "dork": "VevoCart Control System"
+  },
+  {
+    "dork": "allinurl: pollBooth.php?op=resultspollID"
+  },
+  {
+    "dork": "intext:This site is using phpGraphy | intitle:my phpgraphy site"
+  },
+  {
+    "dork": "powered by clipshare"
+  },
+  {
+    "dork": "Powered By Coppermine Photo Gallery v1.2.2b \\/Powered By Coppermine"
+  },
+  {
+    "dork": "powered by Php Blue Dragon Platinum"
+  },
+  {
+    "dork": "inurl:index.php?mode=game_player"
+  },
+  {
+    "dork": "inurl:com_digifolio"
+  },
+  {
+    "dork": "Factux le facturier libre V 1.1.5"
+  },
+  {
+    "dork": "inurl:lists\\/?p=subscribe | inurl:lists\\/index.php?p=subscribe"
+  },
+  {
+    "dork": "inurl:com_dailymeals"
+  },
+  {
+    "dork": "\\u00c2\\u00a9 2005-2006 Powered by eSyndiCat Directory Software"
+  },
+  {
+    "dork": "album.asp?pic= .jpg cat="
+  },
+  {
+    "dork": "index.php?option=com_resman"
+  },
+  {
+    "dork": "Powered by XAOS systems"
+  },
+  {
+    "dork": "Powered by sendcard - an advanced PHP e-card program"
+  },
+  {
+    "dork": "inurl:\\/k12.tr\\/?part="
+  },
+  {
+    "dork": "powered by Nabernet"
+  },
+  {
+    "dork": "Powered by DZcms"
+  },
+  {
+    "dork": "inurl:option=com_simpleshop & inurl:viewprod"
+  },
+  {
+    "dork": "allinurl:offers_buy.php?id="
+  },
+  {
+    "dork": "inurl:inc_documentlibrarymanager.asp"
+  },
+  {
+    "dork": "This is a Free & Open Source mailing list manager"
+  },
+  {
+    "dork": "inurl:com_clan"
+  },
+  {
+    "dork": "Powered by VS PANEL 7.5.5"
+  },
+  {
+    "dork": "inurl:com_event"
+  },
+  {
+    "dork": "intext:Powered by Community CMS"
+  },
+  {
+    "dork": "inurl:\\/jobsearchengine\\/"
+  },
+  {
+    "dork": "inurl:phpRaid phpRaid roster.php?Sort=Race"
+  },
+  {
+    "dork": "intitle:X7 Chat Help Center|Powered By X7 Chat"
+  },
+  {
+    "dork": "Powered by WSN Guest"
+  },
+  {
+    "dork": "powered by easytrade"
+  },
+  {
+    "dork": "inurl:\\/alternate_profiles\\/"
+  },
+  {
+    "dork": "Powered by Scallywag"
+  },
+  {
+    "dork": "index.php?option=com_rwcards"
+  },
+  {
+    "dork": "inurl:classifieds.php?cat="
+  },
+  {
+    "dork": "SmarterMail Enterprise 7.1"
+  },
+  {
+    "dork": "allinurl: com_paxxgallery userid"
+  },
+  {
+    "dork": "inurl:articles.php?topic="
+  },
+  {
+    "dork": "This website is powered by Mobius"
+  },
+  {
+    "dork": "inurl:phshoutbox.php"
+  },
+  {
+    "dork": "inurl:\\/jobsearchengine\\/"
+  },
+  {
+    "dork": "inurl:index.php?option=com_jequoteform"
+  },
+  {
+    "dork": "(powered by nocc intitle:NOCC Webmail) -site:sourceforge.net -Zoekinalles.nl -analysis"
+  },
+  {
+    "dork": "inurl:index2.php?option=rss OR powered By Limbo CMS"
+  },
+  {
+    "dork": "inurl:classifieds.php?op=detail_adverts"
+  },
+  {
+    "dork": "intitle:WEBEYES GUEST BOOK inurl:.asp?id="
+  },
+  {
+    "dork": "index.php?option=com_seyret \\/ com_seyret"
+  },
+  {
+    "dork": "intext:Powered by Atomic Photo Album 1.1.0pre4"
+  },
+  {
+    "dork": "Software Categories Featured Resources Search"
+  },
+  {
+    "dork": "Powered by ezContents Version 1.4.5"
+  },
+  {
+    "dork": "Emefa Guestbook V 3.0"
+  },
+  {
+    "dork": "visiteurs v2.0"
+  },
+  {
+    "dork": "inurl:inc_memberdirectorymanager.asp"
+  },
+  {
+    "dork": "inurl:com_fastball"
+  },
+  {
+    "dork": "Website Powered By Creative SplashWorks - SplashSite"
+  },
+  {
+    "dork": "powered by CMSbright \\u00c2\\u00a9 websens"
+  },
+  {
+    "dork": "powered by webit! cms"
+  },
+  {
+    "dork": "inurl:com_portfol"
+  },
+  {
+    "dork": "inurl:mod=notizie"
+  },
+  {
+    "dork": "Lebi soft Ziyaretci Defteri_v7.5"
+  },
+  {
+    "dork": "inurl:index.php?com_remository"
+  },
+  {
+    "dork": "allinurl: com_quiztid"
+  },
+  {
+    "dork": "wow roster version 1.*"
+  },
+  {
+    "dork": "Powered by ZeeMatri"
+  },
+  {
+    "dork": "Powered By ScozNews"
+  },
+  {
+    "dork": "allinurl:offers_buy.php?id="
+  },
+  {
+    "dork": "\\u00c2\\u00a9 2007 by Lama Software - Accomm Solutions GmbH & Co. KG"
+  },
+  {
+    "dork": "inurl:com_biographies"
+  },
+  {
+    "dork": "inurl:com_DTRegister eventId"
+  },
+  {
+    "dork": "inurl:tr.php?id= Banner"
+  },
+  {
+    "dork": "PHP BP Team"
+  },
+  {
+    "dork": "[ Powered by: RadBids Gold v4 ]"
+  },
+  {
+    "dork": "inurl:index.php?option=com_portfolio"
+  },
+  {
+    "dork": "inurlcom_gurujibook"
+  },
+  {
+    "dork": "wow roster version 1.5.*"
+  },
+  {
+    "dork": "Powered By: 4images 1.7.1"
+  },
+  {
+    "dork": "inurl:zcat.php?id="
+  },
+  {
+    "dork": "\\/subcat.php?cate_id="
+  },
+  {
+    "dork": "Powered by Article DashBoard"
+  },
+  {
+    "dork": "inurl:\\/system\\/article\\/alltopics.php OR inurl:\\/system\\/user\\/index.php"
+  },
+  {
+    "dork": "Powered by free simple software"
+  },
+  {
+    "dork": "intext:Powered by Max.Blog"
+  },
+  {
+    "dork": "inurl:K-Search"
+  },
+  {
+    "dork": "Desenvolvido por: Fio Mental"
+  },
+  {
+    "dork": "inurl:post.php?Category=Garage"
+  },
+  {
+    "dork": "Realizzato con WSC CMS by Dynamicsoft"
+  },
+  {
+    "dork": "TR Newsportal brought by TRanx."
+  },
+  {
+    "dork": "intitle:USP FOSS Distribution"
+  },
+  {
+    "dork": "inurl:com_mscomment"
+  },
+  {
+    "dork": "Powered by ProjectCMS"
+  },
+  {
+    "dork": "Send amazing greetings to your friends and relative!"
+  },
+  {
+    "dork": "Powered by Knowledge Base"
+  },
+  {
+    "dork": "Powered by Minerva 237"
+  },
+  {
+    "dork": "inurl:vbplaza.php?do="
+  },
+  {
+    "dork": "Powered by Mitra Informatika Solusindo"
+  },
+  {
+    "dork": "Powered by DorsaCms"
+  },
+  {
+    "dork": "inurl:tabid\\/176\\/Default.aspx OR inurl:portals\\/0\\/"
+  },
+  {
+    "dork": "allinurl:com_extcalendar"
+  },
+  {
+    "dork": "Powered By W3infotech"
+  },
+  {
+    "dork": "allintext:Powered by: TotalCalendar"
+  },
+  {
+    "dork": "2009 \\u00a9 Satellite-X"
+  },
+  {
+    "dork": "powered by QT-cute v1.2"
+  },
+  {
+    "dork": "Eyeland Studio Inc. All Rights Reserved."
+  },
+  {
+    "dork": "intitle:Jax Formmailer - Administration"
+  },
+  {
+    "dork": "inurl:option=com_org"
+  },
+  {
+    "dork": "Powered by PHP Dir Submit - Directory Submission Script"
+  },
+  {
+    "dork": "Powered by bSpeak 1.10"
+  },
+  {
+    "dork": "\\u00a9 1998 - 2010 Video Battle Script"
+  },
+  {
+    "dork": "Powered by Info Fisier"
+  },
+  {
+    "dork": "Powered by: Linkarity\\u00e2"
+  },
+  {
+    "dork": "Powered by GameSiteScript"
+  },
+  {
+    "dork": "intitle:MAXSITE"
+  },
+  {
+    "dork": "Powered by osCommerce"
+  },
+  {
+    "dork": "inurl:com_facebook"
+  },
+  {
+    "dork": "Powered by ArticleMS from ArticleTrader"
+  },
+  {
+    "dork": "inurl:index.php?option=com_yanc"
+  },
+  {
+    "dork": "Powered by: Con-Imedia"
+  },
+  {
+    "dork": "Power with ecsportal rel 6.5"
+  },
+  {
+    "dork": "inurl:choosecard.php?catid="
+  },
+  {
+    "dork": "inurl:\\/modules\\/kshop\\/"
+  },
+  {
+    "dork": "powered by Sniggabo CMS inurl:article.php?id"
+  },
+  {
+    "dork": "allinurl: index.php?p=gallerypic img_id"
+  },
+  {
+    "dork": "(c) SriptBux 2008 | Powered By ScriptBux version 2.50 beta 1"
+  },
+  {
+    "dork": "inurl:list.php?c="
+  },
+  {
+    "dork": "inurl:com_jphoto"
+  },
+  {
+    "dork": "Jinzora Media Jukebox"
+  },
+  {
+    "dork": "Powered By 0DayDB v2.3"
+  },
+  {
+    "dork": "inurl:classified.php phpbazar"
+  },
+  {
+    "dork": "powered by twg"
+  },
+  {
+    "dork": "Powered by YaBBSM V2.5.0 Based on YABB SE"
+  },
+  {
+    "dork": "allinurl: e107_plugins\\/easyshop\\/easyshop.php"
+  },
+  {
+    "dork": "inurl:\\/modules\\/tinyevent\\/"
+  },
+  {
+    "dork": "intext:Powered by Max.Blog"
+  },
+  {
+    "dork": "intext:Powered by Firebrand Technologies"
+  },
+  {
+    "dork": "allinurl:\\/phpress\\/"
+  },
+  {
+    "dork": "Powered by YDC"
+  },
+  {
+    "dork": "inurl:com_koesubmit"
+  },
+  {
+    "dork": "Powered by: AIH v2.1"
+  },
+  {
+    "dork": "Powered by Active PHP Bookmarks v1.3 inurl:.view_group.php?id="
+  },
+  {
+    "dork": "Designed and Developed by Debliteck Ltd"
+  },
+  {
+    "dork": "Powered by sendcard - an advanced PHP e-card program -site:sendcard.org"
+  },
+  {
+    "dork": "Powered by emuCMS"
+  },
+  {
+    "dork": "inurl:add_soft.php"
+  },
+  {
+    "dork": "inurl:\\/modules\\/jobs\\/"
+  },
+  {
+    "dork": "Powered by: XP Book v3.0"
+  },
+  {
+    "dork": "Supernews 2.6"
+  },
+  {
+    "dork": "intext: Powered by Marinet"
+  },
+  {
+    "dork": "intitle:Rx08.ii36B.Rv"
+  },
+  {
+    "dork": "Powered by Absolute Podcast"
+  },
+  {
+    "dork": "Uploader des fichiers"
+  },
+  {
+    "dork": "inurl:sbw2Behoerden.php"
+  },
+  {
+    "dork": "Powered by Vsns Lemon intitle:Vsns Lemon"
+  },
+  {
+    "dork": "powered by minibb forum software"
+  },
+  {
+    "dork": "inurl:eStore\\/index.cgi?"
+  },
+  {
+    "dork": "Powered by sendcard - an advanced PHP e-card program -site:sendcard.org"
+  },
+  {
+    "dork": "powered by xmb"
+  },
+  {
+    "dork": "powered by ubbthreads"
+  },
+  {
+    "dork": "inurl:wp-login.php +Register Username Password remember me -echo -trac -footwear"
+  },
+  {
+    "dork": "powered by pppblog v 0.3.(.)"
+  },
+  {
+    "dork": "Copyright . Nucleus CMS v3.22 . Valid XHTML 1.0 Strict . Valid CSS . Back to top -demo -deadly eyes"
+  },
+  {
+    "dork": "Powered by PHP-Fusion v6.00.110 | Powered by PHP-Fusion v6.00.2.. | Powered by PHP-Fusion v6.00.3.. -v6.00.400 -johnny.ihackstuff"
+  },
+  {
+    "dork": "intitle:XOOPS Site intitle:Just Use it! | powered by xoops (2.0)|(2.0.....)"
+  },
+  {
+    "dork": "allinurl:tseekdir.cgi"
+  },
+  {
+    "dork": "intext:This site is using phpGraphy | intitle:my phpgraphy site"
+  },
+  {
+    "dork": "intext:Powered by PCPIN.com -site:pcpin.com -ihackstuff -works with -findlaw"
+  },
+  {
+    "dork": "intitle:X7 Chat Help Center | Powered By X7 Chat -milw0rm -exploit"
+  },
+  {
+    "dork": "inurl:database.php | inurl:info_db.php ext:php Database V2.* Burning Board *"
+  },
+  {
+    "dork": "powered by active php bookmarks | inurl:bookmarks\\/view_group.php?id="
+  },
+  {
+    "dork": "inurl:resetcore.php ext:php"
+  },
+  {
+    "dork": "You have not provided a survey identification num"
+  },
+  {
+    "dork": "This script was created by Php-ZeroNet Script . Php-ZeroNet"
+  },
+  {
+    "dork": "intitle:HelpDesk If you need additional help"
+  },
+  {
+    "dork": "inurl:extras\\/update.php intext:mysql.php -display"
+  },
+  {
+    "dork": "inurl:sysinfo.cgi ext:cgi"
+  },
+  {
+    "dork": "inurl:perldiver.cgi ext:cgi"
+  },
+  {
+    "dork": "inurl:tmssql.php ext:php mssql pear adodb -cvs -akbk"
+  },
+  {
+    "dork": "powered by php photo album | inurl:main.php?cmd=album -demo2 -pitanje"
+  },
+  {
+    "dork": "powered by sphider -exploit -ihackstuff -www.cs.ioc.ee"
+  },
+  {
+    "dork": "inurl:server.php ext:php intext:No SQL -Released"
+  },
+  {
+    "dork": "intitle:PHPOpenChat inurl:index.php?language="
+  },
+  {
+    "dork": "intext:2000-2001 The phpHeaven Team -sourceforge"
+  },
+  {
+    "dork": "powered by phplist | inurl:lists\\/?p=subscribe | inurl:lists\\/index.php?p=subscribe -ubbi -bugs +phplist -tincan.co.uk"
+  },
+  {
+    "dork": "intext:2000-2001 The phpHeaven Team -sourceforge"
+  },
+  {
+    "dork": "2004-2005 ReloadCMS Team."
+  },
+  {
+    "dork": "powered by claroline -demo"
+  },
+  {
+    "dork": "PhpCollab . Log In | NetOffice . Log In | (intitle:index.of. intitle:phpcollab|netoffice inurl:phpcollab|netoffice -gentoo)"
+  },
+  {
+    "dork": "WEBalbum 2004-2006 duda -ihackstuff -exploit"
+  },
+  {
+    "dork": "inurl:*.exe ext:exe inurl:\\/*cgi*\\/"
+  },
+  {
+    "dork": "intext:Powered by Plogger! -plogger.org -ihackstuff -exploit"
+  },
+  {
+    "dork": "intext:powered by gcards -ihackstuff -exploit"
+  },
+  {
+    "dork": "Powered by XHP CMS -ihackstuff -exploit -xhp.targetit.ro"
+  },
+  {
+    "dork": "powered by php icalendar -ihackstuff -exploit"
+  },
+  {
+    "dork": "powered by guestbook script -ihackstuff -exploit"
+  },
+  {
+    "dork": "Thank You for using WPCeasy"
+  },
+  {
+    "dork": "powered by sblog +version 0.7"
+  },
+  {
+    "dork": "Powered by Simplog"
+  },
+  {
+    "dork": "(powered by nocc intitle:NOCC Webmail) -site:sourceforge.net -Zoekinalles.nl -analysis"
+  },
+  {
+    "dork": "intitle:igenus webmail login"
+  },
+  {
+    "dork": "intext:Powered By Geeklog -geeklog.net"
+  },
+  {
+    "dork": "intitle:admbook intitle:version filetype:php"
+  },
+  {
+    "dork": "powered by 4images"
+  },
+  {
+    "dork": "intitle:4images - Image Gallery Management System and intext:Powered by 4images 1.7.1"
+  },
+  {
+    "dork": "(This Dragonfly\\u00c3\\u0192\\u00c2\\u00a2\\u00c3\\u00a2\\u00e2\\u201a\\u00ac\\u00c5\\u00be\\u00c3\\u201a\\u00c2\\u00a2 installation was | Thanks for downloading Dragonfly) -inurl:demo -inurl:cpgnuke.com"
+  },
+  {
+    "dork": "inurl:docmgr | intitle:DocMGR enter your Username and|und Passwort bitte|saisir votre nom|su nombre de usuario -ext:pdf -inurl:download.php"
+  },
+  {
+    "dork": "(intitle:Flyspray setup|powered by flyspray 0.9.7) -flyspray.rocks.cc"
+  },
+  {
+    "dork": "intext:LinPHA Version intext:Have fun"
+  },
+  {
+    "dork": "(intitle:metaframe XP Login)|(intitle:metaframe Presentation server Login)"
+  },
+  {
+    "dork": "index of intext:fckeditor inurl:fckeditor"
+  },
+  {
+    "dork": "powered by runcms -runcms.com -runcms.org"
+  },
+  {
+    "dork": "Powered by Loudblog"
+  },
+  {
+    "dork": "intitle:b2evo installer intext:Installer f\\u00c3\\u0192\\u00c6\\u2019\\u00c3\\u201a\\u00c2\\u00bcr Version"
+  },
+  {
+    "dork": "This website engine code is copyright 2005 by Clever Copy -inurl:demo"
+  },
+  {
+    "dork": "inurl:install.pl intitle:GTchat"
+  },
+  {
+    "dork": "intext:PhpGedView Version intext:final - index -inurl:demo"
+  },
+  {
+    "dork": "intext:Powered by DEV web management system -dev-wms.sourceforge.net -demo"
+  },
+  {
+    "dork": "intitle:phpDocumentor web interface"
+  },
+  {
+    "dork": "intext:Powered by CubeCart 3.0.6 intitle:Powered by CubeCart"
+  },
+  {
+    "dork": "Site powered By Limbo CMS"
+  },
+  {
+    "dork": "intext:Powered by SimpleBBS v1.1*"
+  },
+  {
+    "dork": "Powered By phpCOIN 1.2.2"
+  },
+  {
+    "dork": "2005 SugarCRM Inc. All Rights Reserved Powered By SugarCRM"
+  },
+  {
+    "dork": "Based on DoceboLMS 2.0"
+  },
+  {
+    "dork": "This website powered by PHPX -demo"
+  },
+  {
+    "dork": "Powered by Xaraya Copyright 2005"
+  },
+  {
+    "dork": "powered by GuppY v4|Site cr\\u00c3\\u0192\\u00c6\\u2019\\u00c3\\u201a\\u00c2\\u00a9\\u00c3\\u0192\\u00c6\\u2019\\u00c3\\u201a\\u00c2\\u00a9 avec GuppY v4"
+  },
+  {
+    "dork": "(Skin Design by Amie of Intense)|(Fanfiction Categories Featured Stories)|(default2"
+  },
+  {
+    "dork": "Powered by UPB (b 1.0)|(1.0 final)|(Public Beta 1.0b)"
+  },
+  {
+    "dork": "Copyright 2000 - 2005 Miro International Pty Ltd. All rights reserved Mambo is Free Software released"
+  },
+  {
+    "dork": "This website was created with phpWebThings 1.4"
+  },
+  {
+    "dork": "inurl:course\\/category.php | inurl:course\\/info.php | inurl:iplookup\\/ipatlas\\/plot.php"
+  },
+  {
+    "dork": "Powered by XOOPS 2.2.3 Final"
+  },
+  {
+    "dork": "inurl:wfdownloads\\/viewcat.php?list="
+  },
+  {
+    "dork": "Welcome to the versatileBulletinBoard | Powered by versatileBulletinBoard"
+  },
+  {
+    "dork": "Cyphor (Release: -www.cynox.ch"
+  },
+  {
+    "dork": "News generated by Utopia News Pro | Powered By: Utopia News Pro"
+  },
+  {
+    "dork": "intitle:Mantis Welcome to the bugtracker 0.15 | 0.16 | 0.17 | 0.18"
+  },
+  {
+    "dork": "Powered By: lucidCMS 1.0.11"
+  },
+  {
+    "dork": "Powered by PHP-Fusion v6.00.109 \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 2003-2005. -php-fusion.co.uk"
+  },
+  {
+    "dork": "intitle:PHP TopSites FREE Remote Admin"
+  },
+  {
+    "dork": "Maintained with Subscribe Me 2.044.09p+Professional inurl:s.pl"
+  },
+  {
+    "dork": "CosmoShop by Zaunz Publishing inurl:cgi-bin\\/cosmoshop\\/lshop.cgi -johnny.ihackstuff.com -V8.10.106 -V8.10.100 -V.8.10.85 -V8.10.108 -V8.11*"
+  },
+  {
+    "dork": "Powered by Woltlab Burning Board -2.3.3 -v2.3.3 -v2.3.2 -2.3.2"
+  },
+  {
+    "dork": "Powered by autolinks pro 2.1 inurl:register.php"
+  },
+  {
+    "dork": "Mimicboard2 086+2000 Nobutaka Makino+password+message inurl:page=1"
+  },
+  {
+    "dork": "Powered by GTChat 0.95+User Login+Remember my login information"
+  },
+  {
+    "dork": "intitle:WEB\\/\\/NEWS Personal Newsmanagement intext:\\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 2002-2004 by Christian Scheb - Stylemotion.de+Version 1.4 +Login"
+  },
+  {
+    "dork": "intitle:Looking Glass v20040427 When verifying"
+  },
+  {
+    "dork": "Powered by PHP Advanced Transfer Manager v1.30"
+  },
+  {
+    "dork": "Powered by CuteNews"
+  },
+  {
+    "dork": "Copyright 2004 \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 Digital Scribe v.1.4"
+  },
+  {
+    "dork": "Powered by AzDg (2.1.3 | 2.1.2 | 2.1.1)"
+  },
+  {
+    "dork": "Powered by: Land Down Under 800 | Powered by: Land Down Under 801 - www.neocrome.net"
+  },
+  {
+    "dork": "intitle:guestbook inurl:guestbook powered by Advanced guestbook 2.* Sign the Guestbook"
+  },
+  {
+    "dork": "powered by Gallery v [slideshow]|images inurl:gallery"
+  },
+  {
+    "dork": "Powered by and copyright class-1 0.24.4"
+  },
+  {
+    "dork": "Software PBLang 4.65 filetype:php"
+  },
+  {
+    "dork": "Calendar programming by AppIdeas.com filetype:php"
+  },
+  {
+    "dork": "Powered by MD-Pro | made with MD-Pro"
+  },
+  {
+    "dork": "inurl:chitchat.php choose graphic"
+  },
+  {
+    "dork": "Powered by FUDForum 2.6 -site:fudforum.org -johnny.ihackstuff"
+  },
+  {
+    "dork": "intitle:guestbook inurl:guestbook powered by Adva"
+  },
+  {
+    "dork": "Powered by FUDForum 2.7 -site:fudforum.org -johnny.ihackstuff"
+  },
+  {
+    "dork": "phpLDAPadmin intitle:phpLDAPadmin filetype:php inurl:tree.php | inurl:login.php | inurl:donate.php (0.9.6 | 0.9.7)"
+  },
+  {
+    "dork": "powered by ITWorking"
+  },
+  {
+    "dork": "Powered by Zorum 3.5"
+  },
+  {
+    "dork": "inurl:index.php fees shop link.codes merchantAccount"
+  },
+  {
+    "dork": "intitle:blog torrent upload"
+  },
+  {
+    "dork": "powered by PhpBB 2.0.15 -site:phpbb.com"
+  },
+  {
+    "dork": "inurl:\\/login.asp?folder= Powered by: i-Gallery 3.3"
+  },
+  {
+    "dork": "intext:Calendar Program \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 Copyright 1999 Matt Kruse Add an event"
+  },
+  {
+    "dork": "intext:Powered By: Snitz Forums 2000 Version 3.4.00..03"
+  },
+  {
+    "dork": "intext:Powered by flatnuke-2.5.3 +Get RSS News -demo"
+  },
+  {
+    "dork": "intitle:PowerDownload (PowerDownload v3.0.2 \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 | PowerDownload v3.0.3 \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 ) -site:powerscripts.org"
+  },
+  {
+    "dork": "portailphp v1.3 inurl:index.php?affiche inurl:PortailPHP -site:safari-msi.com"
+  },
+  {
+    "dork": "+intext:powered by MyBulletinBoard"
+  },
+  {
+    "dork": "inurl:sphpblog intext:Powered by Simple PHP Blog 0.4.0"
+  },
+  {
+    "dork": "intitle:osTicket :: Support Ticket System"
+  },
+  {
+    "dork": "intitle:myBloggie 2.1.1..2 - by myWebland"
+  },
+  {
+    "dork": "powered.by.instaBoard.version.1.3"
+  },
+  {
+    "dork": "intext:Powered by phpBB 2.0.13 inurl:cal_view_month.php|inurl:downloads.php"
+  },
+  {
+    "dork": "Powered by Coppermine Photo Gallery ( v1.2.2 b | v1.2.1 | v1.2 | v1.1 | v1.0)"
+  },
+  {
+    "dork": "Powered.by:.vBulletin.Version ...3.0.6"
+  },
+  {
+    "dork": "filetype:php intitle:paNews v2.0b4"
+  },
+  {
+    "dork": "allintitle:aspjar.com guestbook"
+  },
+  {
+    "dork": "delete entries inurl:admin\\/delete.asp"
+  },
+  {
+    "dork": "powered by CubeCart 2.0"
+  },
+  {
+    "dork": "Powered by MercuryBoard [v1"
+  },
+  {
+    "dork": "IceWarp Web Mail 5.3.0 Powered by IceWarp"
+  },
+  {
+    "dork": "SquirrelMail version 1.4.4 inurl:src ext:php"
+  },
+  {
+    "dork": "intext:Generated.by.phpix.1.0? inurl:$mode=album"
+  },
+  {
+    "dork": "inurl:citrix\\/metaframexp\\/default\\/login.asp? ClientDetection=On"
+  },
+  {
+    "dork": "Powered by WordPress -html filetype:php -demo -wordpress.org -bugtraq"
+  },
+  {
+    "dork": "ext:php intext:Powered by phpNewMan Version"
+  },
+  {
+    "dork": "+Powered by phpBB 2.0.6..10 -phpbb.com -phpbb.pl"
+  },
+  {
+    "dork": "+Powered by Invision Power Board v2.0.0..2"
+  },
+  {
+    "dork": "intitle:View Img inurl:viewimg.php"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/loadpage.cgi?user_id="
+  },
+  {
+    "dork": "powered by minibb -site:www.minibb.net -intext:1.7f"
+  },
+  {
+    "dork": "intext:(UBB.threads\\u00c3\\u0192\\u00c2\\u00a2\\u00c3\\u00a2\\u00e2\\u201a\\u00ac\\u00c5\\u00be\\u00c3\\u201a\\u00c2\\u00a2 6.2|UBB.threads\\u00c3\\u0192\\u00c2\\u00a2\\u00c3\\u00a2\\u00e2\\u201a\\u00ac\\u00c5\\u00be\\u00c3\\u201a\\u00c2\\u00a2 6.3) intext:You * not logged * -site:ubbcentral.com"
+  },
+  {
+    "dork": "inurl:\\/SiteChassisManager\\/"
+  },
+  {
+    "dork": "Obtenez votre forum Aztek -site:forum-aztek.com"
+  },
+  {
+    "dork": "inurl:directorypro.cgi"
+  },
+  {
+    "dork": "inurl:cal_make.pl"
+  },
+  {
+    "dork": "Powered by PowerPortal v1.3"
+  },
+  {
+    "dork": "inurl:technote inurl:main.cgi*filename=*"
+  },
+  {
+    "dork": "running: Nucleus v3.1 -.nucleuscms.org -demo"
+  },
+  {
+    "dork": "driven by: ASP Message Board"
+  },
+  {
+    "dork": "inurl:forumdisplay.php +Powered by: vBulletin Version 3.0.0..4"
+  },
+  {
+    "dork": "intitle:welcome.to.horde"
+  },
+  {
+    "dork": "BlackBoard 1.5.1-f | \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 2003-4 by Yves Goergen"
+  },
+  {
+    "dork": "filetype:cgi inurl:nbmember.cgi"
+  },
+  {
+    "dork": "Powered by Coppermine Photo Gallery"
+  },
+  {
+    "dork": "Powered by WowBB -site:wowbb.com"
+  },
+  {
+    "dork": "Powered by ocPortal -demo -ocportal.com"
+  },
+  {
+    "dork": "inurl:slxweb.dll"
+  },
+  {
+    "dork": "Powered by DMXReady Site Chassis Manager -site:dmxready.com"
+  },
+  {
+    "dork": "Powered by My Blog intext:FuzzyMonkey.org"
+  },
+  {
+    "dork": "inurl:wiki\\/MediaWiki"
+  },
+  {
+    "dork": "inurl:\\/site\\/articles.asp?idcategory="
+  },
+  {
+    "dork": "Enter ip inurl:php-ping.php"
+  },
+  {
+    "dork": "inurl:\\/site\\/articles.asp?idcategory="
+  },
+  {
+    "dork": "Powered by YaPig V0.92b"
+  },
+  {
+    "dork": "Ideal BB Version: 0.1 -idealbb.com"
+  },
+  {
+    "dork": "inurl:ttt-webmaster.php"
+  },
+  {
+    "dork": "Copyright \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 2002 Agustin Dondo Scripts"
+  },
+  {
+    "dork": "Powered by CubeCart"
+  },
+  {
+    "dork": "2003 DUware All Rights Reserved"
+  },
+  {
+    "dork": "This page has been automatically generated by Plesk Server Administrator"
+  },
+  {
+    "dork": "1999-2004 FuseTalk Inc -site:fusetalk.com"
+  },
+  {
+    "dork": "inurl:messageboard\\/Forum.asp?"
+  },
+  {
+    "dork": "intitle:EMUMAIL - Login Powered by EMU Webmail"
+  },
+  {
+    "dork": "intitle:WebJeff - FileManager intext:login intext:Pass|PAsse"
+  },
+  {
+    "dork": "Powered by FUDforum"
+  },
+  {
+    "dork": "BosDates Calendar System  powered by BosDates v3.2 by BosDev"
+  },
+  {
+    "dork": "Powered by A-CART"
+  },
+  {
+    "dork": "Online Store - Powered by ProductCart"
+  },
+  {
+    "dork": "Powered by yappa-ng"
+  },
+  {
+    "dork": "Active Webcam Page inurl:8080"
+  },
+  {
+    "dork": "intitle:WordPress "
+  },
+  {
+    "dork": "inurl:comment.php?serendipity"
+  },
+  {
+    "dork": "Powered by AJ-Fork v.167"
+  },
+  {
+    "dork": "Powered by Megabook * inurl:guestbook.cgi"
+  },
+  {
+    "dork": "inurl:com_remository"
+  },
+  {
+    "dork": "intitle:MRTG\\/RRD 1.1* (inurl:mrtg.cgi | inurl:14all.cgi |traffic.cgi)"
+  },
+  {
+    "dork": "filetype:cgi inurl:pdesk.cgi"
+  },
+  {
+    "dork": "Powered by IceWarp Software inurl:mail"
+  },
+  {
+    "dork": "filetype:php inurl:index.php inurl:module=subjects inurl:func=* (listpages| viewpage | listcat)"
+  },
+  {
+    "dork": "Powered by DCP-Portal v5.5"
+  },
+  {
+    "dork": "FC Bigfeet -inurl:mail"
+  },
+  {
+    "dork": "filetype:cgi inurl:tseekdir.cgi"
+  },
+  {
+    "dork": "Powered *: newtelligence (dasBlog 1.6| dasBlog 1.5| dasBlog 1.4|dasBlog 1.3)"
+  },
+  {
+    "dork": "inurl:\\/becommunity\\/community\\/index.php?pageurl="
+  },
+  {
+    "dork": "Powered by Ikonboard 3.1.1"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/index.cgi inurl:topics inurl:viewca"
+  },
+  {
+    "dork": "Powered by Gallery v1.4.4"
+  },
+  {
+    "dork": "inurl:dispatch.php?atknodetype | inurl:class.at"
+  },
+  {
+    "dork": "inurl:comersus_message.asp"
+  },
+  {
+    "dork": "ext:pl inurl:cgi intitle:FormMail * -*Referrer -* Denied -sourceforge -error -cvs -input"
+  },
+  {
+    "dork": "powered by antiboard"
+  },
+  {
+    "dork": "inurl:gotoURL.asp?url="
+  },
+  {
+    "dork": "Powered by Invision Power Board(U) v1.3 Final"
+  },
+  {
+    "dork": "Powered by: vBulletin * 3.0.1 inurl:newreply.php"
+  },
+  {
+    "dork": "filetype:asp inurl:shopdisplayproducts.asp"
+  },
+  {
+    "dork": "intitle:guestbook advanced guestbook 2.2 powered"
+  },
+  {
+    "dork": "inurl:custva.asp"
+  },
+  {
+    "dork": "Powered by mnoGoSearch - free web search engine software"
+  }
+]

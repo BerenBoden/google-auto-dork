@@ -1,0 +1,374 @@
+[
+  {
+    "dork": "Lucee Error (expression) -lucee.org"
+  },
+  {
+    "dork": "intext:Error Occurred While Processing Request"
+  },
+  {
+    "dork": "intitle:index of stacktrace.log"
+  },
+  {
+    "dork": "intitle:index of my-errors.log OR my-errors.logs"
+  },
+  {
+    "dork": "intitle:index of errors.log"
+  },
+  {
+    "dork": "inurl:\\/WebResource.axd?d= AND intext:Error"
+  },
+  {
+    "dork": "inurl:index.php?id= intext:Warning: mysql_num_rows()"
+  },
+  {
+    "dork": "inurl:(\\/storage\\/logs\\/laravel.log) AND intext:(local.ERROR | NULL.ERROR | EMERGENCY:)"
+  },
+  {
+    "dork": "intext:TCPDFtcpdf.php on line 17778 -stackoverflow -wordpress -github"
+  },
+  {
+    "dork": "intext:sf_app + frontend sf_app_base_cache_dir:"
+  },
+  {
+    "dork": "inurl:elmah.axd ext:axd"
+  },
+  {
+    "dork": "intitle:Error log for \\/LM\\/"
+  },
+  {
+    "dork": "inurl:\\/errors\\/report.php intext:There has been an error processing your request"
+  },
+  {
+    "dork": "site:*\\/wp-admin\\/maint\\/repair.php intext:define(WP_ALLOW_REPAIR"
+  },
+  {
+    "dork": "site:*\\/wp-includes\\/Requests\\/php_errorlog"
+  },
+  {
+    "dork": "site:*\\/cgi-sys\\/defaultwebpage.cgi intext:SORRY!"
+  },
+  {
+    "dork": "site:*\\/cgi-sys\\/suspendedpage.cgi intitle:Account Suspended"
+  },
+  {
+    "dork": "site:*\\/Shibboleth.sso\\/SAML2\\/POST"
+  },
+  {
+    "dork": "site:*\\/404\\/404.html intitle:404"
+  },
+  {
+    "dork": "filetype:php Notice: Undefined variable: data in -forum"
+  },
+  {
+    "dork": "site:com inurl:jboss filetype:log -github.com"
+  },
+  {
+    "dork": "inurl:\\/php-errors.log filetype:log"
+  },
+  {
+    "dork": "dispatch=debugger."
+  },
+  {
+    "dork": "syd_apply.cfm"
+  },
+  {
+    "dork": "inurl:?wp-commentsrss2.php -git"
+  },
+  {
+    "dork": "CakeRoutingException -site:github.com -site:stackoverflow.com -site:cakephp.org"
+  },
+  {
+    "dork": "inurl:.php?id= You have an error in your SQL syntax"
+  },
+  {
+    "dork": "intitle:CGIWrap Error"
+  },
+  {
+    "dork": "--- WebView Livescope Http Server Error --- -git"
+  },
+  {
+    "dork": "Below is a rendering of the page up to the first error. ext:xml"
+  },
+  {
+    "dork": "inurl:index of driver.php?id="
+  },
+  {
+    "dork": "intext:expects parameter 1 to be resource"
+  },
+  {
+    "dork": "intitle:Struts Problem Report intext:development mode is enabled."
+  },
+  {
+    "dork": "inurl:id= & intext:MySQL Error: 1064 & Session halted."
+  },
+  {
+    "dork": "intitle:DSM Terminator [ ABORT ] | inurl:.\\/com.sap.portal.dsm.Terminator"
+  },
+  {
+    "dork": "inurl:\\/smpwservices.fcc | \\/lm_private\\/CkeSetter.aspx"
+  },
+  {
+    "dork": "inurl:\\/siteminderagent\\/ | app:Error 404: java.io.FileNotFoundException: SRVE0190E: File not found: \\/siteminderagent\\/"
+  },
+  {
+    "dork": "inurl:\\/console-selfservice\\/common\\/scripts\\/calendar\\/ipopeng.htm"
+  },
+  {
+    "dork": "inurl:\\/nesp\\/app"
+  },
+  {
+    "dork": "inurl:\\/SAML2\\/SOAP\\/ | inurl:\\/SAML2\\/POST"
+  },
+  {
+    "dork": "inurl:\\/uniquesig0\\/ or inurl:\\/uniquesig0\\/InternalSite\\/"
+  },
+  {
+    "dork": "inurl:index.php?id= intext:mysql_fetch_array"
+  },
+  {
+    "dork": "intitle:Content Server Error IdcService=DOC_INFO"
+  },
+  {
+    "dork": "intitle:Whoops! There was an error."
+  },
+  {
+    "dork": "intitle:Error-javax.el.ELException+error+xhtml"
+  },
+  {
+    "dork": "intitle:Error Page pageWrapper.jsp?"
+  },
+  {
+    "dork": "intext:Unexpected Problem Occurred! ext:aspx"
+  },
+  {
+    "dork": "[function.getimagesize]: failed to open stream: No such file or directory in"
+  },
+  {
+    "dork": "intext:Access denied for intitle:Shopping cart"
+  },
+  {
+    "dork": "inurl:advsearch.php?module= & intext:sql syntax"
+  },
+  {
+    "dork": "intext:Fatal error: Class 'Red_Action' not found in"
+  },
+  {
+    "dork": "CHARACTER_SETS COLLATION_CHARACTER_SET_APPLICABILITY"
+  },
+  {
+    "dork": "inurl:*.php?*=*.php intext:Warning: include -inurl:.html -site:php.net -site:stackoverflow.com -inurl:*forums*"
+  },
+  {
+    "dork": "inurl:index.php?m=content+c=rss+catid=10"
+  },
+  {
+    "dork": "plugins\\/wp-db-backup\\/wp-db-backup.php"
+  },
+  {
+    "dork": "allintext:fs-admin.php"
+  },
+  {
+    "dork": "intitle:Apache Tomcat Error Report"
+  },
+  {
+    "dork": "Warning: Division by zero in on line -forum"
+  },
+  {
+    "dork": "Warning: mysql_connect(): Access denied for user: '*@* on line -help -forum"
+  },
+  {
+    "dork": "Warning: failed to open stream: HTTP request failed on line"
+  },
+  {
+    "dork": "Warning: Bad arguments to (join|implode) () in on line -help -forum"
+  },
+  {
+    "dork": "Unable to jump to row on MySQL result index on line"
+  },
+  {
+    "dork": "filetype:asp + [ODBC SQL"
+  },
+  {
+    "dork": "Warning: Supplied argument is not a valid File-Handle resource in"
+  },
+  {
+    "dork": "Warning: SAFE MODE Restriction in effect. The script whose uid is is not allowed to access owned by uid 0 in on line"
+  },
+  {
+    "dork": "There seems to have been a problem with the  Please try again by clicking the Refresh button in your web browser."
+  },
+  {
+    "dork": "intitle:Default PLESK Page"
+  },
+  {
+    "dork": "Parse error: parse error"
+  },
+  {
+    "dork": "[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near -forum -thread -showthread"
+  },
+  {
+    "dork": "intitle:404 SC_NOT_FOUND"
+  },
+  {
+    "dork": "intext:Error Message : Error loading required libraries."
+  },
+  {
+    "dork": "Warning: mysql_query() invalid query"
+  },
+  {
+    "dork": "intitle:Configuration.File inurl:softcart.exe"
+  },
+  {
+    "dork": "The script whose uid is  is not allowed to access"
+  },
+  {
+    "dork": "databasetype. Code : 80004005. Error Description :"
+  },
+  {
+    "dork": "Warning: pg_connect(): Unable to connect to PostgreSQL server: FATAL"
+  },
+  {
+    "dork": "filetype:log PHP Parse error | PHP Warning | PHP Error"
+  },
+  {
+    "dork": "error found handling the request cocoon filetype:xml"
+  },
+  {
+    "dork": "ASP.NET_SessionId data source="
+  },
+  {
+    "dork": "Internal Server Error server at"
+  },
+  {
+    "dork": "filetype:php inurl:logging.php Discuz error"
+  },
+  {
+    "dork": "ORA-12541: TNS:no listener intitle:error occurred"
+  },
+  {
+    "dork": "PHP application warnings failing include_path"
+  },
+  {
+    "dork": "intext:Warning: Failed opening on line include_path"
+  },
+  {
+    "dork": "intitle:Error Occurred While Processing Request"
+  },
+  {
+    "dork": "intitle:htsearch error ht:\\/\\/Dig error"
+  },
+  {
+    "dork": "intitle:Error using Hypernews Server Software"
+  },
+  {
+    "dork": "Invision Power Board Database Error"
+  },
+  {
+    "dork": "intitle:Execution of this script not permitted"
+  },
+  {
+    "dork": "intitle:Error Occurred The error occurred in filetype:cfm"
+  },
+  {
+    "dork": "Fatal error: Call to undefined function -reply -the -next"
+  },
+  {
+    "dork": "filetype:asp Custom Error Message Category Source"
+  },
+  {
+    "dork": "warning error on line php sablotron"
+  },
+  {
+    "dork": "intitle:the page cannot be found inetmgr"
+  },
+  {
+    "dork": "intitle:the page cannot be found 2004 microsoft corporation"
+  },
+  {
+    "dork": "inurl:sitebuildercontent"
+  },
+  {
+    "dork": "inurl:sitebuilderfiles"
+  },
+  {
+    "dork": "inurl:sitebuilderpictures"
+  },
+  {
+    "dork": "intitle:the page cannot be found internet information services"
+  },
+  {
+    "dork": "intitle:500 Internal Server Error server at"
+  },
+  {
+    "dork": "mySQL error with query"
+  },
+  {
+    "dork": "You have an error in your SQL syntax near"
+  },
+  {
+    "dork": "Supplied argument is not a valid MySQL result resource"
+  },
+  {
+    "dork": "ORA-00936: missing expression"
+  },
+  {
+    "dork": "ORA-00921: unexpected end of SQL command"
+  },
+  {
+    "dork": "ORA-00933: SQL command not properly ended"
+  },
+  {
+    "dork": "Unclosed quotation mark before the character string"
+  },
+  {
+    "dork": "Incorrect syntax near"
+  },
+  {
+    "dork": "Incorrect syntax near -the"
+  },
+  {
+    "dork": "PostgreSQL query failed: ERROR: parser: parse error"
+  },
+  {
+    "dork": "Supplied argument is not a valid PostgreSQL result"
+  },
+  {
+    "dork": "Syntax error in query expression  -the"
+  },
+  {
+    "dork": "An illegal character has been found in the statement -previous message"
+  },
+  {
+    "dork": "A syntax error has occurred filetype:ihtml"
+  },
+  {
+    "dork": "detected an internal error [IBM][CLI Driver][DB2\\/6000]"
+  },
+  {
+    "dork": "An unexpected token END-OF-STATEMENT was found"
+  },
+  {
+    "dork": "Warning: Cannot modify header information - headers already sent"
+  },
+  {
+    "dork": "access denied for user using password"
+  },
+  {
+    "dork": "intitle:Under construction does not currently have"
+  },
+  {
+    "dork": "Can't connect to local intitle:warning"
+  },
+  {
+    "dork": "ORA-00921: unexpected end of SQL command"
+  },
+  {
+    "dork": "Chatologica MetaSearch stack tracking:"
+  },
+  {
+    "dork": "Error Diagnostic Information intitle:Error Occurred While"
+  },
+  {
+    "dork": "supplied argument is not a valid MySQL result resource"
+  }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "dork": "intitle:\"temporary email\" OR intitle:\"disposable email\" OR intitle:\"throwaway email\""
+    },
+    {
+        "dork": "inurl:\"temp-mail\" OR inurl:\"disposable-mail\" OR inurl:\"throwaway-mail\""
+    },
+    {
+        "dork": "intext:\"temporary email service\" OR intext:\"disposable email service\" OR intext:\"throwaway email service\""
+    }
+]

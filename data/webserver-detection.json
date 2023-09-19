@@ -1,0 +1,614 @@
+[
+  {
+    "dork": "site:vps-*.vps.ovh.net"
+  },
+  {
+    "dork": "inurl *:8080\\/login.php"
+  },
+  {
+    "dork": "site:*\\/*.asp"
+  },
+  {
+    "dork": "Fwd: intitle:STEP by STIBO Systems Launch STEPworkbench Web UI Component Report"
+  },
+  {
+    "dork": "inurl:\\/app\\/kibana#"
+  },
+  {
+    "dork": "NTRIP Caster Table Contents This is a SNIP NTRIP Caster"
+  },
+  {
+    "dork": "intitle:Shoutcast server inurl:\\/index.html SHOUTcast Server"
+  },
+  {
+    "dork": "intitle:Welcome to OpenResty!"
+  },
+  {
+    "dork": "intitle:index of site:.gov.in"
+  },
+  {
+    "dork": "intitle:WATASHI SERVICE"
+  },
+  {
+    "dork": "intitle:Success! intext:Your new web server is ready to use."
+  },
+  {
+    "dork": "Wowza Streaming Engine 4 Developer Edition"
+  },
+  {
+    "dork": "intitle:index of \\/homedir\\/etc\\/"
+  },
+  {
+    "dork": "intitle:index of AND inurl:magento AND inurl:\\/dev"
+  },
+  {
+    "dork": "intitle:nPerfServer"
+  },
+  {
+    "dork": "intitle:Domain Default page Parallels IP Holdings GmbH"
+  },
+  {
+    "dork": "intitle:STEP by STIBO Systems Launch STEPworkbench Web UI Component Report"
+  },
+  {
+    "dork": "inurl: \\/ftp intitle:office"
+  },
+  {
+    "dork": "intitle:web server login intext:site ip"
+  },
+  {
+    "dork": "intitle:Welcome intext:LiteSpeed Technologies"
+  },
+  {
+    "dork": "intitle:Index of site:.gov intext:Server at"
+  },
+  {
+    "dork": "intitle:Welcome to WildFly intext:Administration Console"
+  },
+  {
+    "dork": "intitle:Icecast Streaming Media Server"
+  },
+  {
+    "dork": "inurl:web\\/database\\/selector"
+  },
+  {
+    "dork": "intitle:Test Page for the HTTP Server on Fedora"
+  },
+  {
+    "dork": "intitle:SOGo site:webmail.*"
+  },
+  {
+    "dork": "intitle:Server Backup Manager SE"
+  },
+  {
+    "dork": "filetype:axd inurl:\\/elmah.axd"
+  },
+  {
+    "dork": "Cisco Systems"
+  },
+  {
+    "dork": "intitle:Current Network Status Nagios"
+  },
+  {
+    "dork": "intitle:Miniweb Start Page | \\/CSS\\/Miniweb.css"
+  },
+  {
+    "dork": "inurl:\\/Portal0000.htm"
+  },
+  {
+    "dork": "inurl:\\/domcfg.nsf  Web Server Configuration"
+  },
+  {
+    "dork": "intitle:Accueil WAMPSERVER intext:Configuration Serveur"
+  },
+  {
+    "dork": "intitle:GlassFish Server - Server Running"
+  },
+  {
+    "dork": "inurl:\\/javax.faces.resource\\/"
+  },
+  {
+    "dork": "inurl:CFIDE\\/adminapi"
+  },
+  {
+    "dork": "inurl:\\/uploads\\/affwp-debug.log"
+  },
+  {
+    "dork": "inurl:?XDEBUG_SESSION_START=phpstorm"
+  },
+  {
+    "dork": "inurl:\\/config\\/device\\/wcd"
+  },
+  {
+    "dork": "inurl:\\/phpmyadmin\\/user_password.php"
+  },
+  {
+    "dork": "intext:SonarQube + by SonarSource SA. + LGPL v3"
+  },
+  {
+    "dork": "inurl:\\/xprober ext:php"
+  },
+  {
+    "dork": "intext:Healthy + Product model +  Client IP + Ethernet"
+  },
+  {
+    "dork": "inurl:\\/phpPgAdmin\\/browser.php"
+  },
+  {
+    "dork": "ext:php | intitle:phpinfo published by the PHP Group"
+  },
+  {
+    "dork": "allintext:Index Of sftp-config.json"
+  },
+  {
+    "dork": "inurl:_vti_bin\\/Authentication.asmx"
+  },
+  {
+    "dork": "Powered by 123LogAnalyzer"
+  },
+  {
+    "dork": "intitle:Snoop Servlet"
+  },
+  {
+    "dork": "allintitle:Pi-hole Admin Console"
+  },
+  {
+    "dork": "intitle:Lists Web Service"
+  },
+  {
+    "dork": "intitle:Monsta ftp intext:Lock session to IP"
+  },
+  {
+    "dork": "intitle:Microsoft Internet Information Services 8 -IIS"
+  },
+  {
+    "dork": "intext:index of \\/ Index of access_log"
+  },
+  {
+    "dork": "inurl:id=* & intext:warning mysql_fetch_array()"
+  },
+  {
+    "dork": "index of \\/private -site:net -site:com -site:org"
+  },
+  {
+    "dork": "inurl::8088\\/cluster\\/apps"
+  },
+  {
+    "dork": "intitle:index of docker.yml"
+  },
+  {
+    "dork": "intitle:index of debug.log OR debug-log"
+  },
+  {
+    "dork": "intext:This is the default welcome page used to test the correct operation of the Apache2 server"
+  },
+  {
+    "dork": "Powered by phpBB inurl:index.php?s OR inurl:index.php?style"
+  },
+  {
+    "dork": "intitle:index of powered by apache  port 80"
+  },
+  {
+    "dork": "intitle:Web Server's Default Page intext:hosting using Plesk -www"
+  },
+  {
+    "dork": "site:ftp.*.com Web File Manager"
+  },
+  {
+    "dork": "intitle:Welcome to JBoss"
+  },
+  {
+    "dork": "intitle:Welcome to nginx! intext:Welcome to nginx on Debian! intext:Thank you for"
+  },
+  {
+    "dork": "intitle:index of Served by Sun-ONE"
+  },
+  {
+    "dork": "-pub -pool intitle:index of Served by Web Server"
+  },
+  {
+    "dork": "intitle:index of server at"
+  },
+  {
+    "dork": "site:*\\/server-status intext:Apache server status for"
+  },
+  {
+    "dork": "inurl:\\/iisstart.htm intitle:IIS7"
+  },
+  {
+    "dork": "inurl:\\/phpmyadmin\\/changelog.php -github -gitlab"
+  },
+  {
+    "dork": "inurl:WebPortal?bankid"
+  },
+  {
+    "dork": "intitle:IIS Windows Server -inurl:IIS Windows Server"
+  },
+  {
+    "dork": "intitle:Apache2 Ubuntu Default Page: It works"
+  },
+  {
+    "dork": "inurl:\\/server-status + Server MPM:"
+  },
+  {
+    "dork": "inurl:phpinfo.php intext:build 2600"
+  },
+  {
+    "dork": "inurl:OrganizationChart.cc"
+  },
+  {
+    "dork": "intext:Brought to you by eVetSites"
+  },
+  {
+    "dork": "intext:Powered by GetSimple -site:get-simple.info"
+  },
+  {
+    "dork": "inurl:jsmol.php"
+  },
+  {
+    "dork": "intitle:WAMPSERVER homepage Server Configuration Apache Version"
+  },
+  {
+    "dork": "Powered by BOINC"
+  },
+  {
+    "dork": "Proudly created with Wix.com"
+  },
+  {
+    "dork": "intext: - 2019 Cott Systems"
+  },
+  {
+    "dork": "I have been invoked by servletToJSP"
+  },
+  {
+    "dork": "intitle:Test Page for the Nginx HTTP Server on Fedora"
+  },
+  {
+    "dork": "Powered by vShare"
+  },
+  {
+    "dork": "intext:Powered by Abyss Web Server"
+  },
+  {
+    "dork": "intitle: Welcome to nginx! + Thank you for using nginx."
+  },
+  {
+    "dork": "intitle:livezilla Server Time"
+  },
+  {
+    "dork": "intitle:Sucuri WebSite Firewall - Access Denied"
+  },
+  {
+    "dork": "intext:Powered by phpSQLiteCMS | intitle:phpSQLiteCMS - A simple & lightweight CMS"
+  },
+  {
+    "dork": "This server is operated by OpenX."
+  },
+  {
+    "dork": "intext:Powered by Nesta"
+  },
+  {
+    "dork": "Coldbox | contentbox | commandbox Powered by ContentBox"
+  },
+  {
+    "dork": "intext:Powered by Typesetter"
+  },
+  {
+    "dork": "intext:Powered by (Quantum | Quantum CMS | CMS)"
+  },
+  {
+    "dork": "intext:Powered by Sentora -github.com"
+  },
+  {
+    "dork": "inurl:\\/_hcms\\/"
+  },
+  {
+    "dork": "inurl:tests\\/mocks intext:autoloader"
+  },
+  {
+    "dork": "intitle:HTTP Server Test Page powered by CentOS"
+  },
+  {
+    "dork": "intitle:apache tomcat\\/ Apache Tomcat examples"
+  },
+  {
+    "dork": "inurl:composer.json codeigniter -site:github.com"
+  },
+  {
+    "dork": "intitle:apache tomcat\\/ + Find additional important configuration information in:"
+  },
+  {
+    "dork": "RDServer Product information | inurl:\\/rdagent.jsp"
+  },
+  {
+    "dork": "intitle:Apache2 Debian Default Page: It works"
+  },
+  {
+    "dork": "inurl:rvsindex.php & \\/rvsindex.php?\\/user\\/login"
+  },
+  {
+    "dork": "intitle:miniProxy"
+  },
+  {
+    "dork": "intitle:Axis Happiness Page Examining webapp configuration"
+  },
+  {
+    "dork": "var miner = new CoinHive intext:document.domain"
+  },
+  {
+    "dork": "inurl:server-status Server Version: Apache\\/ Server Built:  Server uptime: Total accesses CPU Usage:"
+  },
+  {
+    "dork": "Application Blocked! Google bot"
+  },
+  {
+    "dork": "inurl:phpmyadmin\\/themes intext:pmahomme"
+  },
+  {
+    "dork": "inurl:readme.md intext:Laravel"
+  },
+  {
+    "dork": "intext:Welcome to CodeIgniter!"
+  },
+  {
+    "dork": "inurl:readme.rst intext:CodeIgniter"
+  },
+  {
+    "dork": "intitle:Index of Apache\\/2.4.7 (Ubuntu) Server"
+  },
+  {
+    "dork": "intitle:Index of \\/ Proudly Served by Surftown at"
+  },
+  {
+    "dork": "inurl:\\/pub\\/ inurl:_ri_"
+  },
+  {
+    "dork": "inurl:\\/_catalogs"
+  },
+  {
+    "dork": "ext:svc inurl:wsdl"
+  },
+  {
+    "dork": "inurl:user_guide intext:CodeIgniter User Guide"
+  },
+  {
+    "dork": "PHP Credits Configuration PHP Core ext:php inurl:info"
+  },
+  {
+    "dork": "inurl:\\/php\\/info.php"
+  },
+  {
+    "dork": "intitle:HFS Server Uptime Server time"
+  },
+  {
+    "dork": "inurl:phpsysinfo\\/index.php?disp=dynamic"
+  },
+  {
+    "dork": "intitle:Apache Status | intext:Apache Server Status"
+  },
+  {
+    "dork": "intext:Apache\\/2.2.29 (Unix) mod_ssl\\/2.2.29 | intitle:Index of \\/"
+  },
+  {
+    "dork": "inurl:\\/web-console\\/ intitle:Administration Console"
+  },
+  {
+    "dork": "filetype:asmx inurl:(_vti_bin|api|webservice)"
+  },
+  {
+    "dork": "intitle:BadBlue: the file-sharing web server anyone can use"
+  },
+  {
+    "dork": "intext:Target Multicast Group beacon"
+  },
+  {
+    "dork": "intitle:Apache Status Apache Server Status for"
+  },
+  {
+    "dork": "inurl:wl.exe inurl:?SS1= intext:Operating system: -edu -gov -mil"
+  },
+  {
+    "dork": "inurl:nnls_brand.html OR inurl:nnls_nav.html"
+  },
+  {
+    "dork": "(intitle:502 Proxy Error)|(intitle:503 Proxy Error) The proxy server could not handle the request -topic -mail -4suite -list -site:geocrawler.co"
+  },
+  {
+    "dork": "intitle:Welcome to 602LAN SUITE *"
+  },
+  {
+    "dork": "intitle:Welcome To Your WebSTAR Home Page"
+  },
+  {
+    "dork": "intitle:Document title goes here intitle:used by web search tools  example of a simple Home Page"
+  },
+  {
+    "dork": "intitle:Welcome to the Advanced Extranet Server"
+  },
+  {
+    "dork": "intitle:Welcome to Windows Small Business Server 2003"
+  },
+  {
+    "dork": "yaws.*.server.at"
+  },
+  {
+    "dork": "intitle:IPC@CHIP Infopage"
+  },
+  {
+    "dork": "intitle:Index of * mode links bytes last-changed name"
+  },
+  {
+    "dork": "intitle:Test Page for the Apache HTTP Server on Fedora Core intext:Fedora Core Test Page"
+  },
+  {
+    "dork": "Powered.by.RaidenHTTPD intitle:index.of"
+  },
+  {
+    "dork": "(inurl:81-cobalt | inurl:cgi-bin\\/.cobalt)"
+  },
+  {
+    "dork": "intitle:welcome to mono xsp"
+  },
+  {
+    "dork": "inurl:oraweb -site:oraweb.org"
+  },
+  {
+    "dork": "Netware * Home inurl:nav.html"
+  },
+  {
+    "dork": "XAMPP inurl:xampp\\/index"
+  },
+  {
+    "dork": "allintext:Powered by LionMax Software WWW File Share"
+  },
+  {
+    "dork": "inurl:2506\\/jana-admin"
+  },
+  {
+    "dork": "intitle:Resin Default Home Page"
+  },
+  {
+    "dork": "intitle:Welcome To Xitami -site:xitami.com"
+  },
+  {
+    "dork": "intitle:Welcome to Your New Home Page! by the Debian release"
+  },
+  {
+    "dork": "Switch to table format inurl:table|plain"
+  },
+  {
+    "dork": "About Mac OS Personal Web Sharing"
+  },
+  {
+    "dork": "intitle:Object not found! intext:Apache\\/2.0.* (Linux\\/SuSE)"
+  },
+  {
+    "dork": "intitle:Lotus Domino Go Webserver: Tuning your webserver -site:ibm.com"
+  },
+  {
+    "dork": "intitle:Directory Listing"
+  },
+  {
+    "dork": "intitle:error 404 From RFC 2068 "
+  },
+  {
+    "dork": "intitle:Open WebMail Open WebMail version (2.20|2.21|2.30) "
+  },
+  {
+    "dork": "intitle:Object not found netware apache 1.."
+  },
+  {
+    "dork": "intitle:AnswerBook2 inurl:ab2\\/ (inurl:8888 | inurl:8889)"
+  },
+  {
+    "dork": "intext:404 Object Not Found Microsoft-IIS\\/5.0"
+  },
+  {
+    "dork": "powered by shoutstats hourly daily"
+  },
+  {
+    "dork": "intitle:Shoutcast Administrator"
+  },
+  {
+    "dork": "Novell"
+  },
+  {
+    "dork": "AnWeb\\/1.42h intitle:index.of"
+  },
+  {
+    "dork": "CERN httpd 3.0B (VAX VMS)"
+  },
+  {
+    "dork": "JRun Web Server intitle:index.of"
+  },
+  {
+    "dork": "MaXX\\/3.1 intitle:index.of"
+  },
+  {
+    "dork": "Microsoft-IIS\\/* server at intitle:index.of"
+  },
+  {
+    "dork": "Microsoft-IIS\\/4.0 intitle:index.of"
+  },
+  {
+    "dork": "Microsoft-IIS\\/5.0 server at"
+  },
+  {
+    "dork": "Microsoft-IIS\\/6.0 intitle:index.of"
+  },
+  {
+    "dork": "OmniHTTPd\\/2.10 intitle:index.of"
+  },
+  {
+    "dork": "OpenSA\\/1.0.4 intitle:index.of"
+  },
+  {
+    "dork": "Red Hat Secure\\/2.0"
+  },
+  {
+    "dork": "Red Hat Secure\\/3.0 server at"
+  },
+  {
+    "dork": "sEDWebserver * server +at intitle:index.of"
+  },
+  {
+    "dork": "fitweb-wwws * server at intitle:index.of"
+  },
+  {
+    "dork": "httpd+ssl\\/kttd * server at intitle:index.of"
+  },
+  {
+    "dork": "intitle:Page rev *\\/*\\/* inurl:admin"
+  },
+  {
+    "dork": "HTTP_USER_AGENT=Googlebot"
+  },
+  {
+    "dork": "allinurl:.nsconfig -sample -howto -tutorial"
+  },
+  {
+    "dork": "inurl:domcfg.nsf"
+  },
+  {
+    "dork": "intitle:300 multiple choices"
+  },
+  {
+    "dork": "intitle:Snap.Server inurl:Func="
+  },
+  {
+    "dork": "intitle:Test Page for Apache"
+  },
+  {
+    "dork": "allintitle:Netscape FastTrack Server Home Page"
+  },
+  {
+    "dork": "seeing this instead intitle:test page for apache"
+  },
+  {
+    "dork": "intitle:Test Page for Apache It Worked!"
+  },
+  {
+    "dork": "intitle:Test Page for Apache It Worked! on this web"
+  },
+  {
+    "dork": "i_index.shtml Ready"
+  },
+  {
+    "dork": "aboutprinter.shtml"
+  },
+  {
+    "dork": "inurl:tech-support inurl:show Cisco"
+  },
+  {
+    "dork": "powered by openbsd +powered by apache"
+  },
+  {
+    "dork": "intitle:Welcome to Windows 2000 Internet Services"
+  },
+  {
+    "dork": "intitle:Apache HTTP Server intitle:documentation"
+  },
+  {
+    "dork": "intitle:Welcome to IIS 4.0"
+  }
+]

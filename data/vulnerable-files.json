@@ -1,0 +1,248 @@
+[
+  {
+    "dork": "intitle:index of *.pl"
+  },
+  {
+    "dork": "intitle:index of *.phtml"
+  },
+  {
+    "dork": "intitle:index of *.php"
+  },
+  {
+    "dork": "inurl:*gov intitle:index of docker-compose"
+  },
+  {
+    "dork": "intitle:Index of site:.in"
+  },
+  {
+    "dork": "intitle:index of master03.xml"
+  },
+  {
+    "dork": "intitle:index of stylesheet.css"
+  },
+  {
+    "dork": "intitle:index of pres.xml"
+  },
+  {
+    "dork": "intext:powered by BlueCMS v1.6"
+  },
+  {
+    "dork": "intitle:index of \\/cgi-bin admin"
+  },
+  {
+    "dork": "intitle: Index of \\/assets\\/admin\\/system"
+  },
+  {
+    "dork": "inurl:\\/supportboard"
+  },
+  {
+    "dork": "Google Dork: intitle:index of \\/sql admin"
+  },
+  {
+    "dork": "intitle:index of schema.sql"
+  },
+  {
+    "dork": "index of \\/ intext:wp-config zip"
+  },
+  {
+    "dork": "Dork: Index of upload_image.php"
+  },
+  {
+    "dork": "Dork: index of Production.json"
+  },
+  {
+    "dork": "index.of.?.frm"
+  },
+  {
+    "dork": "intitle:index of nrpe.cfg"
+  },
+  {
+    "dork": "index of admin\\/fckeditor\\/editor\\/filemanager\\/"
+  },
+  {
+    "dork": "inurl:demo.browse.php intitle:getid3"
+  },
+  {
+    "dork": "-site:simplemachines.org These are the paths and URLs to your SMF installation"
+  },
+  {
+    "dork": "allinurl:forcedownload.php?file="
+  },
+  {
+    "dork": "ionCube Loader Wizard information disclosure"
+  },
+  {
+    "dork": "vBulletin Install Page Detection"
+  },
+  {
+    "dork": "inurl:simplenews\\/admin"
+  },
+  {
+    "dork": "inurl:updown.php | intext:Powered by PHP Uploader Downloader"
+  },
+  {
+    "dork": "inurl:guestbook\\/guestbooklist.asp Post Date From"
+  },
+  {
+    "dork": "intitle:CJ Link Out V1"
+  },
+  {
+    "dork": "powered by my little forum"
+  },
+  {
+    "dork": "powered by mailgust"
+  },
+  {
+    "dork": "inurl:cartwiz\\/store\\/index.asp"
+  },
+  {
+    "dork": "intitle:Control panel Control Panel Login ArticleLive inurl:admin -demo"
+  },
+  {
+    "dork": "maxwebportal inurl:default snitz forums +homepage -intitle:maxwebportal"
+  },
+  {
+    "dork": "e107.org 2002\\/2003 inurl:forum_post.php?nt"
+  },
+  {
+    "dork": "Warning: Cannot execute a blank command in"
+  },
+  {
+    "dork": "Mail-it Now! intitle:Contact form | inurl:contact.php"
+  },
+  {
+    "dork": "Powered by Xcomic"
+  },
+  {
+    "dork": "Powered by FunkBoard"
+  },
+  {
+    "dork": "Powered by Gravity Board"
+  },
+  {
+    "dork": "Powered by SilverNews"
+  },
+  {
+    "dork": "PHPFreeNews inurl:Admin.php"
+  },
+  {
+    "dork": "inurl:nquser.php filetype:php"
+  },
+  {
+    "dork": "Powered By: Simplicity oF Upload inurl:download.php | inurl:upload.php"
+  },
+  {
+    "dork": "Powered by FlexPHPNews inurl:news | inurl:press"
+  },
+  {
+    "dork": "filetype:mdb standard jet (password | username | user | pass)"
+  },
+  {
+    "dork": "intitle:PHPstat intext:Browser intext:PHPstat setup"
+  },
+  {
+    "dork": "intitle:SSHVnc AppletOR intitle:SSHTerm Applet"
+  },
+  {
+    "dork": "inurl:cgi-bin inurl:bigate.cgi"
+  },
+  {
+    "dork": "filetype:pl -intext:\\/usr\\/bin\\/perl inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)"
+  },
+  {
+    "dork": "filetype:mdb inurl:news\\/news"
+  },
+  {
+    "dork": "inurl:php.exe filetype:exe -example.com"
+  },
+  {
+    "dork": "Powered by Land Down Under 601"
+  },
+  {
+    "dork": "ext:asp inurl:DUgallery intitle:3.0 -site:dugall"
+  },
+  {
+    "dork": "ext:asp powered by DUForum inurl:(messages|details|login|default|register) -site:duware.com"
+  },
+  {
+    "dork": "filetype:cgi inurl:cachemgr.cgi"
+  },
+  {
+    "dork": "powered by YellDL"
+  },
+  {
+    "dork": "File Upload Manager v1.3 rename to"
+  },
+  {
+    "dork": "inurl:click.php intext:PHPClickLog"
+  },
+  {
+    "dork": "intitle:phpremoteview filetype:php Name"
+  },
+  {
+    "dork": "intitle:ASP FileMan Resend -site:iisworks.com"
+  },
+  {
+    "dork": "ezBOO Administrator Panel -cvs"
+  },
+  {
+    "dork": "intitle:Directory Listing tree view"
+  },
+  {
+    "dork": "intitle:mywebftp Please enter your password"
+  },
+  {
+    "dork": "inurl:changepassword.cgi -cvs"
+  },
+  {
+    "dork": "inurl: WWWADMIN.PL intitle:wwwadmin"
+  },
+  {
+    "dork": "inurl:cgi.asx?StoreID"
+  },
+  {
+    "dork": "filetype:lit lit (books|ebooks)"
+  },
+  {
+    "dork": "create the Super User now by clicking here"
+  },
+  {
+    "dork": "intitle:gallery inurl:setup Gallery configuration"
+  },
+  {
+    "dork": "inurl:nph-proxy.cgi Start browsing through this CGI-based proxy"
+  },
+  {
+    "dork": "inurl:plog\\/register.php"
+  },
+  {
+    "dork": "link:http:\\/\\/www.toastforums.com\\/"
+  },
+  {
+    "dork": "inurl:robpoll.cgi filetype:cgi"
+  },
+  {
+    "dork": "intitle:PHP Explorer ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)"
+  },
+  {
+    "dork": "ext:cgi inurl:ubb6_test.cgi"
+  },
+  {
+    "dork": "filetype:wsdl wsdl"
+  },
+  {
+    "dork": "filetype:inc inc intext:setcookie"
+  },
+  {
+    "dork": "filetype:cnf my.cnf -cvs -example"
+  },
+  {
+    "dork": "filetype:php inurl:viewfile -index.php -idfil"
+  },
+  {
+    "dork": "intitle:Index of \\/ modified php.exe"
+  },
+  {
+    "dork": "TOO MANY"
+  }
+]

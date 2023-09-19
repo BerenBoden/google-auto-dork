@@ -1,0 +1,1334 @@
+[
+  {
+    "dork": "intitle:index of .env"
+  },
+  {
+    "dork": "intitle: index of \\/Invoices*"
+  },
+  {
+    "dork": "intitle: index of backup.php"
+  },
+  {
+    "dork": "intitle: index of backup.xml"
+  },
+  {
+    "dork": "intitle:index of SCADA"
+  },
+  {
+    "dork": "Google Dork: intitle: index of payment"
+  },
+  {
+    "dork": "intitle:index of private\\/log"
+  },
+  {
+    "dork": "intitle: Index of inurl:fileadmin"
+  },
+  {
+    "dork": "intitle:index.of (inurl:admin | intitle:admin)"
+  },
+  {
+    "dork": "intitle:index of contacts.vcf"
+  },
+  {
+    "dork": "inurl:filemanager\\/upload\\/asp\\/ index of"
+  },
+  {
+    "dork": "intitle:index of \\/configs"
+  },
+  {
+    "dork": "intext:CAD Media Log"
+  },
+  {
+    "dork": "intitle:index of \\/.vscode"
+  },
+  {
+    "dork": "intitle:index of intext:client.key.pem"
+  },
+  {
+    "dork": "inurl:wp-content\\/uploads\\/ intitle:logs"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/wp-file-manager-pro\\/fm_backup"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/wp-file-manager-pro"
+  },
+  {
+    "dork": "-----BEGIN PGP PRIVATE KEY BLOCK----- ext:pem | ext:key | ext:txt -git"
+  },
+  {
+    "dork": "-----BEGIN EC PRIVATE KEY----- |  -----BEGIN EC PARAMETERS----- ext:pem | ext:key | ext:txt"
+  },
+  {
+    "dork": "inurl:tcpconfig.html"
+  },
+  {
+    "dork": "inurl:\\/certs\\/server.key"
+  },
+  {
+    "dork": "inurl:print.htm intext:Domain Name: + Open printable report"
+  },
+  {
+    "dork": "inurl:\\/jsps\\/testoperation.jsp Test Operation"
+  },
+  {
+    "dork": "intitle:index of *Maildir\\/new"
+  },
+  {
+    "dork": "intitle:(Index of AND wp-content\\/plugins\\/boldgrid-backup\\/=)"
+  },
+  {
+    "dork": "-- Dumped from database version + -- Dumped by pg_dump version ext:txt | ext:sql | ext:env | ext:log"
+  },
+  {
+    "dork": "\\/etc\\/config + index of \\/ \\/"
+  },
+  {
+    "dork": "\\/etc\\/certs + index of \\/ *\\/*"
+  },
+  {
+    "dork": "intitle:index of dump.sql"
+  },
+  {
+    "dork": "intitle:index of inurl:admin\\/download"
+  },
+  {
+    "dork": "intitle:index of *.cert.pem | *.key.pem"
+  },
+  {
+    "dork": "ssh_host_dsa_key.pub + ssh_host_key + ssh_config = index of \\/ "
+  },
+  {
+    "dork": "index of inurl:database ext:sql | xls | xml | json | csv"
+  },
+  {
+    "dork": "intitle:index of WebServers.xml"
+  },
+  {
+    "dork": "-- Dumping data for table `admin` | -- INSERT INTO `admin` VALUES ext:sql | ext:txt | ext:log | ext:env"
+  },
+  {
+    "dork": "intitle:index of .git\\/hooks\\/"
+  },
+  {
+    "dork": "inurl: \\/.git"
+  },
+  {
+    "dork": "inurl:8080 + intext:httpfileserver 2.3"
+  },
+  {
+    "dork": "inurl:node_modules\\/mqtt\\/test\\/helpers\\/"
+  },
+  {
+    "dork": "intitle: Index of inurl:admin\\/uploads"
+  },
+  {
+    "dork": "intitle:index of server.crt | server.csr"
+  },
+  {
+    "dork": "intitle:index of \\/CFIDE\\/ intext:administrator"
+  },
+  {
+    "dork": "index of mysql.sh"
+  },
+  {
+    "dork": "intitle:index of slapd.conf"
+  },
+  {
+    "dork": "intitle:index of \\/system.log | \\/system.logs"
+  },
+  {
+    "dork": "index of email.ini"
+  },
+  {
+    "dork": "intitle:Everything inurl:C:Windows"
+  },
+  {
+    "dork": "-- Dumping data for table *  ext:sql | ext:xls intext:db | intext:database | intext:password | username"
+  },
+  {
+    "dork": "intitle:index of \\/app.log | \\/app.logs"
+  },
+  {
+    "dork": "GitLab ssh.log ext:log"
+  },
+  {
+    "dork": "-- Dumping data for table `users` | `people` | `member` ext:sql | ext:txt | ext:log | ext:env"
+  },
+  {
+    "dork": "ext:reg [HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSshHostKeys]"
+  },
+  {
+    "dork": "index of performance_schema"
+  },
+  {
+    "dork": "-- PostgreSQL database dump complete ext:sql | ext:txt | ext:log | ext:env"
+  },
+  {
+    "dork": "index of users.ibd"
+  },
+  {
+    "dork": "ws_ftp.log ext:log"
+  },
+  {
+    "dork": "-- Dump completed ext:sql | ext:txt | ext:log"
+  },
+  {
+    "dork": "intitle:index of firewall.log | firewall.logs"
+  },
+  {
+    "dork": "intitle:index of \\/000~ROOT~000\\/"
+  },
+  {
+    "dork": "Share Link inurl:\\/share.cgi?ssid="
+  },
+  {
+    "dork": "intitle:index of \\/lsass.exe"
+  },
+  {
+    "dork": "intitle:index of \\/var\\/logs filetype:'log | txt | csv"
+  },
+  {
+    "dork": "Index: \\/wp-includes\\/Text\\/Diff"
+  },
+  {
+    "dork": "intitle:Index of \\/ +.htaccess.old"
+  },
+  {
+    "dork": "intitle:index of \\/root\\/etc\\/security\\/"
+  },
+  {
+    "dork": "intitle:Index of c:xampp"
+  },
+  {
+    "dork": "Google Dork : Index of: \\/services\\/aadhar card\\/"
+  },
+  {
+    "dork": "intitle:index of app.log"
+  },
+  {
+    "dork": "Index of \\/monitoring"
+  },
+  {
+    "dork": "intitle:index of \\/home\\/ROOT_PATH\\/"
+  },
+  {
+    "dork": "intitle:index of ssh_host_ecdsa_key"
+  },
+  {
+    "dork": "Index of: \\/services\\/pancard\\/"
+  },
+  {
+    "dork": "inurl:member filetype:xls"
+  },
+  {
+    "dork": "inurl:_vti_pvt\\/service.pwd"
+  },
+  {
+    "dork": "intitle:index of oauth-private.key"
+  },
+  {
+    "dork": "intext:INTERNAL USE ONLY ext:doc OR ext:pdf OR ext:xls OR ext:xlsx"
+  },
+  {
+    "dork": "inurl:admin\\/data* intext:index of"
+  },
+  {
+    "dork": "intitle:index of admin\\/sql\\/"
+  },
+  {
+    "dork": "index of svg"
+  },
+  {
+    "dork": "intitle:index of survey.cgi"
+  },
+  {
+    "dork": "index of logs.tar"
+  },
+  {
+    "dork": "Index of sass-cache"
+  },
+  {
+    "dork": "index of fileadmin"
+  },
+  {
+    "dork": "intitle:Dashboard [Jenkins]"
+  },
+  {
+    "dork": "intitle:index of uploads.old"
+  },
+  {
+    "dork": "intitle:index of inurl:ftp intext:admin"
+  },
+  {
+    "dork": "allintitle: sensitive ext:doc OR ext:xls OR ext:xlsx"
+  },
+  {
+    "dork": "intitle:index of admin\\/config"
+  },
+  {
+    "dork": "intitle:index of system\\/config"
+  },
+  {
+    "dork": "index of \\/config\\/sql"
+  },
+  {
+    "dork": "intitle:index of api\\/admin"
+  },
+  {
+    "dork": "intitle:index of tinyfilemanager.php"
+  },
+  {
+    "dork": "intitle:index of symfony\\/config"
+  },
+  {
+    "dork": "intitle:index of test\\/storage\\/framework\\/sessions\\/"
+  },
+  {
+    "dork": "intitle:index of \\/admin\\/backup"
+  },
+  {
+    "dork": "intitle:index of graphql\\/subscription"
+  },
+  {
+    "dork": "intitle:index of admin\\/json"
+  },
+  {
+    "dork": "intitle:index of git-jira-log"
+  },
+  {
+    "dork": "intitle:index of \\/admin_backup"
+  },
+  {
+    "dork": "intitle:index of db.frm"
+  },
+  {
+    "dork": "intitle:index of \\/db_backups\\/"
+  },
+  {
+    "dork": "intitle:index of common.crt OR ca.crt"
+  },
+  {
+    "dork": "intitle:index of proxy.pac OR proxy.pac.bak"
+  },
+  {
+    "dork": "intitle:index of global.asa"
+  },
+  {
+    "dork": "intitle:index of cctv"
+  },
+  {
+    "dork": "intitle:index of owncloud\\/config\\/*"
+  },
+  {
+    "dork": "intitle:index of iredadmin\\/*"
+  },
+  {
+    "dork": "intitle: index of MySQL-Router"
+  },
+  {
+    "dork": "intitle:index of cvsroot"
+  },
+  {
+    "dork": "intitle:index of jwt-auth"
+  },
+  {
+    "dork": "intitle:index of \\/concrete\\/Authentication"
+  },
+  {
+    "dork": "intitle:index of metadata"
+  },
+  {
+    "dork": "intitle:index of inurl:wp-json embedurl?"
+  },
+  {
+    "dork": "intitle:index of apache-log-parser Port 80"
+  },
+  {
+    "dork": "intitle:index of maven-metadata.xml Port 80"
+  },
+  {
+    "dork": "intitle:index of config.py"
+  },
+  {
+    "dork": "intext:index of \\/ .composer-auth.json"
+  },
+  {
+    "dork": "inurl:\\/includes\\/api\\/ intext:index of \\/"
+  },
+  {
+    "dork": "inurl:\\/includes\\/OAuth2 intext:index of \\/"
+  },
+  {
+    "dork": "inurl:concrete\\/config\\/"
+  },
+  {
+    "dork": "intitle:index of *php.swp"
+  },
+  {
+    "dork": "intitle:index of htdocs.zip"
+  },
+  {
+    "dork": "intitle:index.of db.zip"
+  },
+  {
+    "dork": "intitle:index.of backwpup"
+  },
+  {
+    "dork": "intitle:index of \\/Cloudflare-CPanel-7.0.1"
+  },
+  {
+    "dork": "intitle:index of ftp.log"
+  },
+  {
+    "dork": "intitle:index of sms.log"
+  },
+  {
+    "dork": "-pool intitle:index of wget-log -pub"
+  },
+  {
+    "dork": "intitle:index of .zshrc~ OR .zshrc OR .zshenv OR .zshenv~ -pool -public"
+  },
+  {
+    "dork": "intitle:index of .oracle_jre_usage\\/"
+  },
+  {
+    "dork": "-pub -pool intitle:index of squirrelmail\\/"
+  },
+  {
+    "dork": "-pub -pool intitle:index of vagrantfile -How to"
+  },
+  {
+    "dork": "intitle:index of api_key OR api key OR apiKey -pool"
+  },
+  {
+    "dork": "intitle:index of domain.key -public"
+  },
+  {
+    "dork": "key OR key.jar intitle:index of webstart"
+  },
+  {
+    "dork": "index of \\/storage\\/logs\\/"
+  },
+  {
+    "dork": "intitle:index.of chroot.conf"
+  },
+  {
+    "dork": "intitle:index of uploads"
+  },
+  {
+    "dork": "intitle:index.of htaccess.txt"
+  },
+  {
+    "dork": "intitle:index of ws_ftp.log"
+  },
+  {
+    "dork": "intext:index of intext:..bak intext:config"
+  },
+  {
+    "dork": "site:* index.of: \\/android\\/manifest.xml"
+  },
+  {
+    "dork": "intitle:index.of system.db"
+  },
+  {
+    "dork": "intitle:index.of database.db"
+  },
+  {
+    "dork": "site:*\\/logs\\/default.htm"
+  },
+  {
+    "dork": "intitle:Index of wp-upload"
+  },
+  {
+    "dork": "site:* index of: \\/config"
+  },
+  {
+    "dork": "site:* index of: *.exe"
+  },
+  {
+    "dork": "intitle:Index of secret"
+  },
+  {
+    "dork": "intitle:index of \\/etc\\/mysql\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/ninja-forms\\/ intitle:index of"
+  },
+  {
+    "dork": "intitle:index.of admin.db"
+  },
+  {
+    "dork": "intitle:index.of admin filetype:sql"
+  },
+  {
+    "dork": "indexof:backup\\/web.config"
+  },
+  {
+    "dork": "indexof:backup\\/mysql"
+  },
+  {
+    "dork": "indexof:.htaccess"
+  },
+  {
+    "dork": "intitle:index.of.\\/.htaccess"
+  },
+  {
+    "dork": "inurl:\\/wp-admin\\/includes\\/plugin-install.php"
+  },
+  {
+    "dork": "site:ftp.* index of \\/ftp\\/backup"
+  },
+  {
+    "dork": "inurl:wp-content intext:backup-db"
+  },
+  {
+    "dork": "inurl:\\/_vti_txt*"
+  },
+  {
+    "dork": "inurl:\\/scgi-bin*"
+  },
+  {
+    "dork": "inurl: \\/upload.php intitle:index of"
+  },
+  {
+    "dork": "inurl:admin\\/data* intext:index of"
+  },
+  {
+    "dork": "inurl:\\/database* ext:sql intext:index of -site:github.com"
+  },
+  {
+    "dork": "inurl:\\/admin\\/ intitle:index.of"
+  },
+  {
+    "dork": "intitle:index.of.?.login"
+  },
+  {
+    "dork": "site:*\\/wordpress\\/wordpress.bak\\/"
+  },
+  {
+    "dork": "intitle:index of \\/config.ini"
+  },
+  {
+    "dork": "inurl:\\/wp\\/wp-admin\\/"
+  },
+  {
+    "dork": "intitle:index.of.?.database"
+  },
+  {
+    "dork": "index of \\/cache"
+  },
+  {
+    "dork": "intitle:index of \\/content\\/admin\\/"
+  },
+  {
+    "dork": "intitle:index of \\/content\\/uploads\\/ -inurl:\\/wp-content\\/uploads\\/"
+  },
+  {
+    "dork": "intitle:index.of.?.mysql"
+  },
+  {
+    "dork": "site:*\\/wp-includes\\/ inurl:\\/wp-includes\\/"
+  },
+  {
+    "dork": "site:*\\/wp-contents\\/ inurl:\\/wp-contents\\/"
+  },
+  {
+    "dork": "intitle:index of \\/php4\\/"
+  },
+  {
+    "dork": "intitle:index of mysqli.ini"
+  },
+  {
+    "dork": "intitle:index of ssh2.ini"
+  },
+  {
+    "dork": "intitle:index.of.?.bak"
+  },
+  {
+    "dork": "intitle:index.of.\\/.db"
+  },
+  {
+    "dork": "intitle:index.of.\\/.sql"
+  },
+  {
+    "dork": "intitle:Index of login.php"
+  },
+  {
+    "dork": "intitle:Index of wp-config.php"
+  },
+  {
+    "dork": "inurl:\\/sites\\/default\\/private"
+  },
+  {
+    "dork": "intitle:index of sql inurl:.\\/db\\/"
+  },
+  {
+    "dork": "intitle:index of drupal"
+  },
+  {
+    "dork": "intitle:index of admin"
+  },
+  {
+    "dork": "intitle:Index of inurl:wp-json\\/oembed"
+  },
+  {
+    "dork": "intitle:Index of phpmyadmin"
+  },
+  {
+    "dork": "intitle:Index of wp-admin"
+  },
+  {
+    "dork": "intitle:index.of.?.sql"
+  },
+  {
+    "dork": "inurl: \\/filemanager\\/dialog.php"
+  },
+  {
+    "dork": "Index of inurl:webalizer"
+  },
+  {
+    "dork": "Index of inurl:phpmyadmin"
+  },
+  {
+    "dork": "Index of inurl:htdocs inurl:xampp"
+  },
+  {
+    "dork": "intitle:Index of wp-config"
+  },
+  {
+    "dork": "intitle:Index of wp-content"
+  },
+  {
+    "dork": "intitle:Index of portal"
+  },
+  {
+    "dork": "intitle:Index of public"
+  },
+  {
+    "dork": "intitle:Index of phpinfo.php"
+  },
+  {
+    "dork": "Index of inurl:config inurl:production"
+  },
+  {
+    "dork": "Index of \\/ *.ovpn"
+  },
+  {
+    "dork": "Inurl : \\/list\\/hdd1"
+  },
+  {
+    "dork": "To Parent Directory AND dir"
+  },
+  {
+    "dork": "intitle:index of intext:Includes wordpress"
+  },
+  {
+    "dork": "intitle:index of intext:Includes"
+  },
+  {
+    "dork": "filetype:git -github.com inurl:\\/.git"
+  },
+  {
+    "dork": "filetype:svn -gitlab -github inurl:\\/.svn"
+  },
+  {
+    "dork": "inurl:bc.googleusercontent.com intitle:index of"
+  },
+  {
+    "dork": "intitle:index of scada"
+  },
+  {
+    "dork": "\\/var\\/cache\\/registry\\/"
+  },
+  {
+    "dork": "type:mil inurl:ftp ext:pdf | ps"
+  },
+  {
+    "dork": "allintitle: index of\\/admin"
+  },
+  {
+    "dork": "intitle: index of .\\/ .\\/bitcoin"
+  },
+  {
+    "dork": "intitle:index of .cpanel\\/caches\\/config\\/"
+  },
+  {
+    "dork": "intitle: Index of intext:log"
+  },
+  {
+    "dork": "intitle:Directory Listing For Filename intext:Tomcat\\/5.0.28"
+  },
+  {
+    "dork": "intitle: index of includes"
+  },
+  {
+    "dork": "inurl:\\/uploads\\/wc-logs\\/"
+  },
+  {
+    "dork": "intitle:index of db"
+  },
+  {
+    "dork": "inurl:typo3conf\\/l10n\\/"
+  },
+  {
+    "dork": "inurl:\\/files\\/contao"
+  },
+  {
+    "dork": "intitle:index of .dockerignore"
+  },
+  {
+    "dork": "intitle:index of \\/aws.s3\\/"
+  },
+  {
+    "dork": "intitle:index of \\/bitcoin\\/"
+  },
+  {
+    "dork": "intitle:index of .pem"
+  },
+  {
+    "dork": "Last modified intitle:index of dropbox"
+  },
+  {
+    "dork": "description & size intitle:index of owncloud"
+  },
+  {
+    "dork": "sasl_passwd | smtpd.conf intitle:index of"
+  },
+  {
+    "dork": "intitle:index of \\/user | \\/users"
+  },
+  {
+    "dork": "intitle:index of inurl:documents backup"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/CVS\\/"
+  },
+  {
+    "dork": "inurl:\\/.Trash intitle:index of ~"
+  },
+  {
+    "dork": "intitle:index of $Recycle.bin"
+  },
+  {
+    "dork": "intitle:index of \\/Windows\\/Recent | \\/Windows\\/History\\/"
+  },
+  {
+    "dork": "intitle:index of WindowsCookies"
+  },
+  {
+    "dork": "intitle:index of Application Data\\/Microsoft\\/Credentials"
+  },
+  {
+    "dork": "allintitle:Index of \\/Admin\\/Common | allintext:Parent Directory"
+  },
+  {
+    "dork": "allinurl:wp-content\\/plugins\\/wordpress-popup\\/views\\/admin\\/"
+  },
+  {
+    "dork": "allintitle:Index of \\/ThinkPHP | inurl: \\/ThinkPHP\\/"
+  },
+  {
+    "dork": "intitle:index of \\/ ssh"
+  },
+  {
+    "dork": "intitle:Index of \\/ inurl:passport"
+  },
+  {
+    "dork": "inurl:\\/irj\\/go\\/km\\/docs\\/"
+  },
+  {
+    "dork": "inurl:\\/irj\\/go\\/km\\/ intext:navigation"
+  },
+  {
+    "dork": "inurl:\\/webdynpro\\/resources\\/sap.com\\/"
+  },
+  {
+    "dork": "inurl:ai1wm-backups"
+  },
+  {
+    "dork": "index of \\/etc\\/certs\\/"
+  },
+  {
+    "dork": "intitle:Index of \\/private\\/"
+  },
+  {
+    "dork": "intitle:'index of' error_log"
+  },
+  {
+    "dork": "intitle:'index of' access_log"
+  },
+  {
+    "dork": "intitle:index of \\/ intext:\\/backup"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/wp-backup-plus\\/"
+  },
+  {
+    "dork": "intitle:index of \\/ authorized_keys"
+  },
+  {
+    "dork": "index of kcfinder\\/"
+  },
+  {
+    "dork": "index of \\/ckeditor"
+  },
+  {
+    "dork": "intitle:index of \\/ intext:\\/descargas\\/"
+  },
+  {
+    "dork": "intitle:index of \\/ intext:\\/Download\\/"
+  },
+  {
+    "dork": "intitle:index of \\/.sql.gz intext:\\/backup\\/"
+  },
+  {
+    "dork": "inurl:\\/proc\\/tty\\/ index of"
+  },
+  {
+    "dork": "intitle: - Revision + subversion version"
+  },
+  {
+    "dork": "Index of \\/.svn"
+  },
+  {
+    "dork": "intitle:docker intitle:index of config"
+  },
+  {
+    "dork": "inurl:filebrowser.wcgp?subDir Communigate"
+  },
+  {
+    "dork": "inurl:\\/wp-json\\/ -wordpress"
+  },
+  {
+    "dork": "intext:paytm intitle:index of"
+  },
+  {
+    "dork": "intext:KRAB-DECRYPT.txt intitle:index of"
+  },
+  {
+    "dork": "intext:pure-ftpd.conf intitle:index of"
+  },
+  {
+    "dork": "intext:my.cnf intitle:index of"
+  },
+  {
+    "dork": "inurl:\\/typo3\\/typo3conf"
+  },
+  {
+    "dork": "intitle:backup+index of"
+  },
+  {
+    "dork": "index of database.sql.zip"
+  },
+  {
+    "dork": "index of database_log"
+  },
+  {
+    "dork": "Index of database.sql"
+  },
+  {
+    "dork": "intitle:index.of id_rsa -id_rsa.pub"
+  },
+  {
+    "dork": "inurl:\\/wp-includes\\/certificates\\/"
+  },
+  {
+    "dork": "intitle:index of \\/bins arm"
+  },
+  {
+    "dork": "inurl:'listprojects.spr'"
+  },
+  {
+    "dork": "allintext:'HttpFileServer 2.3k'"
+  },
+  {
+    "dork": "inurl:RootFolder= Allitems confidential | classified | passwords | username"
+  },
+  {
+    "dork": "inurl:paypal intitle:index of backup | db | access -github"
+  },
+  {
+    "dork": "inurl:revslider inurl:'\\/revslider+port'"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/db-backup"
+  },
+  {
+    "dork": "Powered by Apache Subversion version"
+  },
+  {
+    "dork": "index of \\/node_modules\\/ -github -stackoverflow"
+  },
+  {
+    "dork": "intitle:index.of | inurl:\\/filemanager\\/connectors\\/ intext:uploadtest.html"
+  },
+  {
+    "dork": "intitle:index.of inurl:\\/websendmail\\/"
+  },
+  {
+    "dork": ":DIR | intitle:index of inurl:\\/\\/whatsapp\\/"
+  },
+  {
+    "dork": "intitle:index.of home\\/000~root~000\\/"
+  },
+  {
+    "dork": "intitle:Index.Of.Applications (Parallels) -stackoverflow -quora"
+  },
+  {
+    "dork": "intitle:Index Of intext:.Trash"
+  },
+  {
+    "dork": "intitle:CV+index of"
+  },
+  {
+    "dork": "inurl:apps\\/backend\\/config\\/"
+  },
+  {
+    "dork": "intext:Powered by ViewVC | intitle:ViewVC Repository Listing"
+  },
+  {
+    "dork": "inurl:\\/openwebmail\\/cgi-bin\\/openwebmail\\/etc\\/"
+  },
+  {
+    "dork": "lv_poweredBy"
+  },
+  {
+    "dork": "intext:\\/wp-content\\/uploads\\/wpsc\\/"
+  },
+  {
+    "dork": "inurl:nfs:\\/\\/www. index of \\/"
+  },
+  {
+    "dork": "intitle:index.of .bashrc"
+  },
+  {
+    "dork": "intext:index of \\/userfiles\\/file\\/"
+  },
+  {
+    "dork": "intext:\\/wp-content\\/plugins\\/woocommerce\\/templates\\/emails\\/plain\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/seo-pressor\\/classes\\/"
+  },
+  {
+    "dork": "inurl:\\/sym\\/root\\/ intitle:index.of"
+  },
+  {
+    "dork": "intext:Index of \\/database"
+  },
+  {
+    "dork": "intext:Index of \\/.git"
+  },
+  {
+    "dork": "intitle:index.of intext:viewvc"
+  },
+  {
+    "dork": "m.zippyshare.com\\/"
+  },
+  {
+    "dork": "index of \\/htdocs"
+  },
+  {
+    "dork": "intitle:Index of \\/ joomla_update.php"
+  },
+  {
+    "dork": "-inurl:htm -inurl:html intitle:index of 100CANON"
+  },
+  {
+    "dork": "-inurl:htm -inurl:html intitle:index of NIKON"
+  },
+  {
+    "dork": "inurl:\\/drive\\/folders\\/ site:drive.google.com"
+  },
+  {
+    "dork": "inurl:folderview?id= site:drive.google.com"
+  },
+  {
+    "dork": "Index of inurl:\\/$Recycle.Bin\\/"
+  },
+  {
+    "dork": "powered by h5ai"
+  },
+  {
+    "dork": "site:onedrive.live.com shared by"
+  },
+  {
+    "dork": "Powered by AutoIndex PHP Script ext:php"
+  },
+  {
+    "dork": "inurl:admin inurl:uploads"
+  },
+  {
+    "dork": "inurl:\\/fckeditor\\/editor\\/plugins\\/ajaxfilemanager\\/ajaxfilemanager.php"
+  },
+  {
+    "dork": "inurl:.esy.es\\/default.php"
+  },
+  {
+    "dork": "Hostinger \\u00a9 2016. All rights reserved inurl:default.php"
+  },
+  {
+    "dork": "index:html\\/js\\/editor\\/fckeditor\\/editor\\/filemanager\\/connectors"
+  },
+  {
+    "dork": "inurl:\\/FCKeditor\\/editor\\/filemanager\\/upload\\/"
+  },
+  {
+    "dork": "inurl:pictures intitle:index.of"
+  },
+  {
+    "dork": "inurl:trash intitle:index.of"
+  },
+  {
+    "dork": "inurl:.ssh intitle:index.of authorized_keys"
+  },
+  {
+    "dork": "inurl:\\/sites\\/default\\/files\\/webform\\/"
+  },
+  {
+    "dork": "intitle:Index of \\/__MACOSX ..."
+  },
+  {
+    "dork": "(intext:index of \\/.git) (parent directory)"
+  },
+  {
+    "dork": "inurl:safm.asp ext:asp"
+  },
+  {
+    "dork": "intitle: Index of \\/awstats\\/data"
+  },
+  {
+    "dork": "inurl:\\/server\\/webapps"
+  },
+  {
+    "dork": "intitle:index.of.mail"
+  },
+  {
+    "dork": "inurl:wp-content\\/uploads\\/private"
+  },
+  {
+    "dork": "inurl:pipermail intitle:index.of parent"
+  },
+  {
+    "dork": "intitle:index.of inurl:grades site:edu"
+  },
+  {
+    "dork": "intitle:index.of parent inurl:repos"
+  },
+  {
+    "dork": "My Documents parent intitle:index.of"
+  },
+  {
+    "dork": "Desktop parent intitle:index.of"
+  },
+  {
+    "dork": "sql parent intitle:index.of -injection"
+  },
+  {
+    "dork": "inurl:\\/aspnet_client\\/system_web\\/"
+  },
+  {
+    "dork": "inurl:.listing intitle:index.of"
+  },
+  {
+    "dork": "inurl:.DS_Store intitle:index.of"
+  },
+  {
+    "dork": "private parent intitle:index.of"
+  },
+  {
+    "dork": "inurl:users intitle:index.of"
+  },
+  {
+    "dork": "mail spool intitle:index.of"
+  },
+  {
+    "dork": "inurl:default.php intext:website has been successfully installed on the server!"
+  },
+  {
+    "dork": "intitle:Index.of attachments"
+  },
+  {
+    "dork": "intitle:Index of WhatsApp Databases"
+  },
+  {
+    "dork": "inurl:\\/cms\\/app\\/webroot"
+  },
+  {
+    "dork": "intitle:Index of WhatsApp Images"
+  },
+  {
+    "dork": "intitle:Index of DCIM"
+  },
+  {
+    "dork": "intext:index of sym"
+  },
+  {
+    "dork": "intitle:index.of.pubs"
+  },
+  {
+    "dork": "intitle:Index of wwwroot"
+  },
+  {
+    "dork": "intitle:Index Of intext:iCloud Photos OR intext:My Photo Stream OR intext:Camera Roll"
+  },
+  {
+    "dork": "intitle:index of inurl:no-ip.com"
+  },
+  {
+    "dork": "inurl:private_files"
+  },
+  {
+    "dork": "intitle:index of onetoc2 one"
+  },
+  {
+    "dork": "inurl:wp-admin\\/ intext:css\\/"
+  },
+  {
+    "dork": "intitle:Index of ftp"
+  },
+  {
+    "dork": "intitle:index.of.dropbox"
+  },
+  {
+    "dork": "intitle:index.of +Indexed by Apache::Gallery"
+  },
+  {
+    "dork": "intitle:index.of.accounts"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/wpbackitup_backups"
+  },
+  {
+    "dork": "Config intitle:Index of intext:vpn"
+  },
+  {
+    "dork": "jos_users intitle:Index of"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/.cgi"
+  },
+  {
+    "dork": "allinurl:\\/hide_my_wp="
+  },
+  {
+    "dork": "intitle:index of intext:.ds_store"
+  },
+  {
+    "dork": "intitle:index of myshare"
+  },
+  {
+    "dork": "inurl:8080 intitle:Dashboard [Jenkins]"
+  },
+  {
+    "dork": "intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1"
+  },
+  {
+    "dork": "intitle:index.of intext:.bash_history"
+  },
+  {
+    "dork": "index of inurl:root intitle:symlink"
+  },
+  {
+    "dork": "index of inurl:sym"
+  },
+  {
+    "dork": "inurl:ckfinder intext:ckfinder.html intitle:Index of \\/ckfinder"
+  },
+  {
+    "dork": "inurl:\\/xampp"
+  },
+  {
+    "dork": "intitle:index.of cisco asa -site:cisco.com"
+  },
+  {
+    "dork": "intitle:index.of ios -site:cisco.com"
+  },
+  {
+    "dork": "allintext:WebServerX Server at"
+  },
+  {
+    "dork": "intitle:index.of.config"
+  },
+  {
+    "dork": "allintitle:FirstClass Login"
+  },
+  {
+    "dork": "inurl:install.pl intext:Reading path paramaters -edu"
+  },
+  {
+    "dork": "Warning: Installation directory exists at Powered by Zen Cart -demo"
+  },
+  {
+    "dork": "Welcome to the directory listing of NetworkActiv-Web-Server"
+  },
+  {
+    "dork": "log inurl:linklint filetype:txt -checking"
+  },
+  {
+    "dork": "intitle:Folder Listing Folder Listing Name Size Date\\/Time File Folder"
+  },
+  {
+    "dork": "Directory Listing for Hosted by Xerver"
+  },
+  {
+    "dork": "intitle:Backup-Management (phpMyBackup v.0.4 beta * ) -johnny.ihackstuff"
+  },
+  {
+    "dork": "intitle:pictures thumbnails site:pictures.sprintpcs.com"
+  },
+  {
+    "dork": "intitle:index.of WEB-INF"
+  },
+  {
+    "dork": "intitle:index.of \\/maildir\\/new\\/"
+  },
+  {
+    "dork": "filetype:ini Desktop.iniintext:mydocs.dll"
+  },
+  {
+    "dork": "filetype:torrent torrent"
+  },
+  {
+    "dork": "Index of rar r01 nfo Modified 2004"
+  },
+  {
+    "dork": "Web File Browser Use regular expression"
+  },
+  {
+    "dork": "intitle:HFS \\/ +HttpFileServer"
+  },
+  {
+    "dork": "intitle:upload inurl:upload intext:upload -forum -shop -support -w3c"
+  },
+  {
+    "dork": "intitle:index of inurl:ftp (pub | incoming)"
+  },
+  {
+    "dork": "allinurl:\\/*\\/_vti_pvt\\/ | allinurl:\\/*\\/_vti_cnf\\/"
+  },
+  {
+    "dork": "Powered by Invision Power File Manager (inurl:login.php) | (intitle:Browsing directory \\/ )"
+  },
+  {
+    "dork": "intitle:Index of \\/CFIDE\\/ administrator"
+  },
+  {
+    "dork": "intitle:index.of abyss.conf"
+  },
+  {
+    "dork": "intitle:index of parent directory desktop.ini site:dyndns.org"
+  },
+  {
+    "dork": "intext:Powered By: TotalIndex intitle:TotalIndex"
+  },
+  {
+    "dork": "intitle:Index.Of \\/ stats merchant cgi-* etc"
+  },
+  {
+    "dork": "inurl:explorer.cfm inurl:(dirpath|This_Directory)"
+  },
+  {
+    "dork": "intitle:index of intext:content.ie5"
+  },
+  {
+    "dork": "index.of.dcim"
+  },
+  {
+    "dork": "intitle:index of -inurl:htm -inurl:html mp3"
+  },
+  {
+    "dork": "intitle:Directory Listing For intext:Tomcat -int"
+  },
+  {
+    "dork": "intitle:webadmin - \\/* filetype:php directory filename permission"
+  },
+  {
+    "dork": "intitle:index.of (inurl:fileadmin | intitle:fileadmin)"
+  },
+  {
+    "dork": "intitle:Index of * inurl:my shared folder size modified"
+  },
+  {
+    "dork": "intitle:index.of \\/AlbumArt_"
+  },
+  {
+    "dork": "intext:d.aspx?id || inurl:d.aspx?id"
+  },
+  {
+    "dork": "index of \\/ picasa.ini"
+  },
+  {
+    "dork": "index.of.password"
+  },
+  {
+    "dork": "intitle:index of \\/phpmyadmin modified"
+  },
+  {
+    "dork": "filetype:cfg ks intext:rootpw -sample -test -howto"
+  },
+  {
+    "dork": "intitle:album permissions Users who can modify photos EVERYBODY"
+  },
+  {
+    "dork": "Index Of \\/network last modified"
+  },
+  {
+    "dork": "intitle:intranet inurl:intranet +intext:human resources"
+  },
+  {
+    "dork": "inurl:\\/tmp"
+  },
+  {
+    "dork": "index of inurl:recycler"
+  },
+  {
+    "dork": "inurl:j2ee\\/examples\\/jsp"
+  },
+  {
+    "dork": "inurl:ojspdemos"
+  },
+  {
+    "dork": "inurl:\\/pls\\/sample\\/admin_\\/help\\/"
+  },
+  {
+    "dork": "index of cgi-bin"
+  },
+  {
+    "dork": "intitle:Index of cfide"
+  },
+  {
+    "dork": "intitle:index.of.personal"
+  },
+  {
+    "dork": "inurl:backup intitle:index.of inurl:admin"
+  },
+  {
+    "dork": "intitle:Index of c:\\\\Windows"
+  },
+  {
+    "dork": "Welcome to phpMyAdmin  Create new database"
+  },
+  {
+    "dork": "index.of.secret"
+  },
+  {
+    "dork": "index.of.private"
+  },
+  {
+    "dork": "index.of.secure"
+  },
+  {
+    "dork": "index.of.protected"
+  },
+  {
+    "dork": "index.of.winnt"
+  },
+  {
+    "dork": "index.of.password"
+  },
+  {
+    "dork": "Index of \\/backup"
+  }
+]

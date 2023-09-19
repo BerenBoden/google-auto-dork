@@ -1,0 +1,365 @@
+[
+  {
+    "dork": "inurl:adminpanel site:gov.*"
+  },
+  {
+    "dork": "inurl:maps.arcgis.com +City of"
+  },
+  {
+    "dork": "inurl:wsnavigator\\/jsps"
+  },
+  {
+    "dork": "mail\\/u\\/0 filetype:pdf"
+  },
+  {
+    "dork": "intitle:index of httpd.pid"
+  },
+  {
+    "dork": "inurl:\\/plugins\\/servlet\\/Wallboard\\/"
+  },
+  {
+    "dork": "inurl:\\/Dashboard.xhtml intitle:Dashboard"
+  },
+  {
+    "dork": "inurl::\\/app\\/kibana Kibana -discuss -ipaddress -git"
+  },
+  {
+    "dork": "inurl:CTCWebService"
+  },
+  {
+    "dork": "intitle:index.of +jmx-console"
+  },
+  {
+    "dork": "intitle:index of \\/ +.htdocs"
+  },
+  {
+    "dork": "intitle:Index of \\/ +.htaccess"
+  },
+  {
+    "dork": "intitle:index of nginx.log"
+  },
+  {
+    "dork": "radius-server key ext:cfg OR ext:log OR ext:txt"
+  },
+  {
+    "dork": "inurl:\\/arcgis\\/rest\\/services"
+  },
+  {
+    "dork": "inurl:\\/jmx-console\\/HtmlAdaptor?action"
+  },
+  {
+    "dork": "intitle:index of and intext:vendor and intext:phpunit"
+  },
+  {
+    "dork": "intitle:index of admin\\/xml"
+  },
+  {
+    "dork": "inurl:logon\\/LogonPoint\\/index.html"
+  },
+  {
+    "dork": "Find Microsoft Lync Server AutoDiscover"
+  },
+  {
+    "dork": "inurl:\\/download_file\\/ intext:index of \\/"
+  },
+  {
+    "dork": "inurl:\\/servicedesk\\/customer\\/user\\/login"
+  },
+  {
+    "dork": "site:linkedin.com employees target.com"
+  },
+  {
+    "dork": "inurl:customer.aspx"
+  },
+  {
+    "dork": "intitle:(Mini Shell) AND intext:(Upload File)"
+  },
+  {
+    "dork": "intitle:(Index of) AND intext:(c99.txt OR c100.txt)"
+  },
+  {
+    "dork": "intitle:(SSI Web Shell) AND intext:(ls -al)"
+  },
+  {
+    "dork": "site:bamboo.*.* ext:action build"
+  },
+  {
+    "dork": "inurl:index of wso"
+  },
+  {
+    "dork": "intitle:freedom is real - 1945"
+  },
+  {
+    "dork": "site:*\\/wp-admin\\/install.php intitle:WordPress Installation"
+  },
+  {
+    "dork": "inurl:index.php?db="
+  },
+  {
+    "dork": "intitle:Administration - Installation - MantisBT"
+  },
+  {
+    "dork": "inurl:\\/phpmyadmin\\/index.php?db="
+  },
+  {
+    "dork": "inurl:urlstatusgo.html?url= -intext:Disallowed by URL filter"
+  },
+  {
+    "dork": "inurl:cs.html?url="
+  },
+  {
+    "dork": "inurl:wp-login.php?action=register"
+  },
+  {
+    "dork": "inurl:\\/phpMyAdmin\\/setup\\/index.php?phpMyAdmin="
+  },
+  {
+    "dork": "inurl:\\/sidekiq\\/busy"
+  },
+  {
+    "dork": "intitle:InfluxDB - Admin Interface -github"
+  },
+  {
+    "dork": "intitle:FCKeditor - Uploaders Tests"
+  },
+  {
+    "dork": "intitle:FCKeditor - Connectors Tests"
+  },
+  {
+    "dork": "intext:M3R1C4 SHELL BACKDOOR"
+  },
+  {
+    "dork": "index of \\/wp-content\\/uploads\\/shell.php"
+  },
+  {
+    "dork": "File Manager - Current disk free"
+  },
+  {
+    "dork": "inurl: Mister Spy | intext:Mister Spy & Souheyl Bypass Shell"
+  },
+  {
+    "dork": "inurl:\\/tiny_mce\\/plugins\\/ajaxfilemanager\\/inc\\/data.php | inurl:\\/tiny_mce\\/plugins\\/ajaxfilemanager\\/ajax_create_folder.php -github"
+  },
+  {
+    "dork": "intitle:Upload inurl:\\/cgi-bin\\/filechucker.cgi"
+  },
+  {
+    "dork": "intitle:Installing TYPO3 CMS"
+  },
+  {
+    "dork": "inurl:\\/install\\/stringnames.txt"
+  },
+  {
+    "dork": "intitle:Solr Admin Solr Query Syntax"
+  },
+  {
+    "dork": "ext:jsp  intext:jspspy intitle:Jspspy web~shell V1.0"
+  },
+  {
+    "dork": "Sorting Logs: Please enter your password Powered By -urlscan -alamy"
+  },
+  {
+    "dork": "intitle:Authorization TF inurl:admin.php"
+  },
+  {
+    "dork": "ext:php intext:-rwxr-xr-x site:.in"
+  },
+  {
+    "dork": "intitle:index of intext:@WanaDecryptor@.exe"
+  },
+  {
+    "dork": "intitle:index of intext:wncry"
+  },
+  {
+    "dork": "inurl:go.cgi?url="
+  },
+  {
+    "dork": "WHMCS Auto Xploiter"
+  },
+  {
+    "dork": "El Moujahidin Bypass Shell ext:php"
+  },
+  {
+    "dork": "intitle:Priv8 Mailer Inbox 2015 ext:php"
+  },
+  {
+    "dork": "( ext:php ) ( inurl:\\/wp-content\\/uploads\\/AAPL\\/loaders\\/ )"
+  },
+  {
+    "dork": "inurl:?filesrc=**** ~Current ~asp"
+  },
+  {
+    "dork": "inurl:\\/\\\\\\\\filesrc=**** ~Current ~:\\/ ~upload"
+  },
+  {
+    "dork": "PHP Mailer priv8 Mailer ext:php"
+  },
+  {
+    "dork": "Meg4-Mail ext:php"
+  },
+  {
+    "dork": "PHP eMailer is created by ext:php"
+  },
+  {
+    "dork": "File Manager Version 1.0 Coded By"
+  },
+  {
+    "dork": "inurl:html\\/js\\/editor\\/ckeditor\\/"
+  },
+  {
+    "dork": "You have selected the following files for upload (0 Files)."
+  },
+  {
+    "dork": "intitle:nstview v2.1:: nst.void.ru | intext:nsTView v2.1 :: nst.void.ru. Password: Host:"
+  },
+  {
+    "dork": "filetype:php intext:Your Email: intext:Your Name: intext:Reply-To: intext:mailer"
+  },
+  {
+    "dork": "intitle:Hamdida X_Shell Backd00r"
+  },
+  {
+    "dork": "Fenix Final Version v2.0 filetype:php"
+  },
+  {
+    "dork": "intitle:Automatic cPanel Finder\\/Cracker | 3xp1r3 Cyber Army"
+  },
+  {
+    "dork": "(intitle:phpshell OR intitle:c99shell OR intitle:r57shell OR intitle:PHP Shell  OR intitle:phpRemoteView) `rwx` uname"
+  },
+  {
+    "dork": "intitle: phpshell Php Safe-Mode Bypass"
+  },
+  {
+    "dork": "intitle:Shell I inurl:revslider inurl:error.php inurl:cmd"
+  },
+  {
+    "dork": "inurl:revslider inurl:temp inurl:update_extract inurl:sym1"
+  },
+  {
+    "dork": "ext:php intitle:b374k"
+  },
+  {
+    "dork": "ext:aspx intitle:aspxspy"
+  },
+  {
+    "dork": "intext:Sw Bilgi ext:php"
+  },
+  {
+    "dork": "intext:Developed By Black.Hack3r ext:php"
+  },
+  {
+    "dork": "intitle:WSO  ext:php intext:server ip 2015 intext: [ home ]"
+  },
+  {
+    "dork": "crime24 stealer ext:txt"
+  },
+  {
+    "dork": "intext:Thehacker - Agd_Scorp - BLaSTER - Cr@zy_King - KinSize - JeXToXiC - s3f4 - rx5"
+  },
+  {
+    "dork": "intext:Please select file to upload: ext:php"
+  },
+  {
+    "dork": "inurl:sh3llZ\\/c99\\/"
+  },
+  {
+    "dork": "intitle:SN0X SHELL: WEEEEEEEEEEEEEEEEED"
+  },
+  {
+    "dork": "ext:asp intext:Smart.Shell 1.0 BY P0Uy@_$3r\\\\\\/3R -"
+  },
+  {
+    "dork": "intitle:WSO 2.4 [ Sec. Info ]"
+  },
+  {
+    "dork": "intitle:=[ 1n73ct10n privat shell ]="
+  },
+  {
+    "dork": "intitle:uploader by ghost-dz ext:php"
+  },
+  {
+    "dork": "filetype:php intext:!C99Shell v. 1.0 beta"
+  },
+  {
+    "dork": "inurl:1337w0rm.php intitle:1337w0rm"
+  },
+  {
+    "dork": "Re: intitle:Priv8 SCR"
+  },
+  {
+    "dork": "intitle:C0ded By web.sniper"
+  },
+  {
+    "dork": "Re: inurl:r00t.php"
+  },
+  {
+    "dork": "inurl:amfphp\\/browser\\/servicebrowser.swf"
+  },
+  {
+    "dork": "allintext:fs-admin.php"
+  },
+  {
+    "dork": "(intitle:SHOUTcast Administrator)|(intext:U SHOUTcast D.N.A.S. Status)"
+  },
+  {
+    "dork": "(intitle:WordPress \\u00c3\\u0192\\u00c2\\u00a2\\u00c3\\u00a2\\u00e2\\u20ac\\u0161\\u00c2\\u00ac\\u00c3\\u201a\\u00c2\\u00ba Setup Configuration File)|(inurl:setup-config.php?step=)"
+  },
+  {
+    "dork": "index of \\/ ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )"
+  },
+  {
+    "dork": "Please re-enter your password It must match exactly"
+  },
+  {
+    "dork": "inurl:tmtrack.dll?"
+  },
+  {
+    "dork": "inurl:polly\\/CP"
+  },
+  {
+    "dork": "intitle:net2ftp powered by net2ftp inurl:ftp OR intext:login OR inurl:login"
+  },
+  {
+    "dork": "intitle:MyShell 1.1.0 build 20010923"
+  },
+  {
+    "dork": "intitle:YALA: Yet Another LDAP Administrator"
+  },
+  {
+    "dork": "intitle:ERROR: The requested URL could not be retrieved While trying to retrieve the URL The following error was encountered:"
+  },
+  {
+    "dork": "inurl:phpOracleAdmin\\/php -download -cvs"
+  },
+  {
+    "dork": "filetype:php HAXPLORER Server Files Browser"
+  },
+  {
+    "dork": "PHPKonsole PHPShell filetype:php -echo"
+  },
+  {
+    "dork": "inurl:ConnectComputer\\/precheck.htm | inurl:Remote\\/logon.aspx"
+  },
+  {
+    "dork": "(inurl:81\\/cgi-bin\\/.cobalt\\/) | (intext:Welcome to the Cobalt RaQ)"
+  },
+  {
+    "dork": "intitle:Web Data Administrator - Login"
+  },
+  {
+    "dork": "adding new user inurl:addnewuser -there are no domains"
+  },
+  {
+    "dork": "Powered by PHPFM filetype:php -username"
+  },
+  {
+    "dork": "intitle:PHP Shell * Enable stderr filetype:php"
+  },
+  {
+    "dork": "+htpasswd +WS_FTP.LOG filetype:log"
+  },
+  {
+    "dork": "intitle:admin intitle:login"
+  }
+]

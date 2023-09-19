@@ -1,0 +1,89 @@
+[
+  {
+    "dork": "intext:{site}"
+  },
+  {
+    "dork": "intext:{site} filetype:docx"
+  },
+  {
+    "dork": "site:documentcloud.org {site}"
+  },
+  {
+    "dork": "site:scribd.com {site}"
+  },
+  {
+    "dork": "site:slideshare.net {site}"
+  },
+  {
+    "dork": "site:zippyshare.com {site}"
+  },
+  {
+    "dork": "site:mediafire.com {site}"
+  },
+  {
+    "dork": "site:issuu.com {site}"
+  },
+  {
+    "dork": "site:4shared.com {site}"
+  },
+  {
+    "dork": "site:box.com {site}"
+  },
+  {
+    "dork": "site:box.net {site}"
+  },
+  {
+    "dork": "site:docs.google.com {site}"
+  },
+  {
+    "dork": "site:drive.google.com {site}"
+  },
+  {
+    "dork": "intext:{site} filetype:pptx"
+  },
+  {
+    "dork": "intext:{site} filetype:pdf"
+  },
+  {
+    "dork": "intext:{site} filetype:doc"
+  },
+  {
+    "dork": "intext:{site} filetype:xls"
+  },
+  {
+    "dork": "intext:{site} filetype:txt"
+  },
+  {
+    "dork": "intext:{site} filetype:rtf"
+  },
+  {
+    "dork": "intext:{site} filetype:csv"
+  },
+  {
+    "dork": "intext:{site} filetype:log"
+  },
+  {
+    "dork": "intext:{site} filetype:eml"
+  },
+  {
+    "dork": "intext:{site} filetype:pub"
+  },
+  {
+    "dork": "intext:{site} filetype:vsd"
+  },
+  {
+    "dork": "intext:{site} filetype:docx"
+  },
+  {
+    "dork": "site:gist.github.com {site}"
+  },
+  {
+    "dork": "site:pastebin.com {site}"
+  },
+  {
+    "dork": "site:justpaste.it {site}"
+  },
+  {
+    "dork": "site:pastefs.com {site}"
+  }
+]

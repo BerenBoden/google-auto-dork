@@ -1,0 +1,338 @@
+[
+  {
+    "dork": "inurl:adm\\/login.jsp.bak"
+  },
+  {
+    "dork": "intitle:TileServer GL - Server for vector and raster maps with GL styles"
+  },
+  {
+    "dork": "intitle:index of \\/views\\/auth\\/passwords"
+  },
+  {
+    "dork": "intitle:Icecast Streaming Media Server Icecast2 Status -.com"
+  },
+  {
+    "dork": "inurl \\/editor\\/filemanager\\/connectors\\/uploadtest.html"
+  },
+  {
+    "dork": "intext:user name intext:orion core -solarwinds.com"
+  },
+  {
+    "dork": "inurl:RichWidgets\\/Popup_Upload.aspx"
+  },
+  {
+    "dork": "intitle:Vulnerability Report Critical ext:pdf"
+  },
+  {
+    "dork": "intitle:Wing FTP Server - Web"
+  },
+  {
+    "dork": "intext:Powered By Gila CMS"
+  },
+  {
+    "dork": "intitle:index of filemail.pl"
+  },
+  {
+    "dork": "intitle:index of shell.php"
+  },
+  {
+    "dork": "site: target.com ext:action | ext:struts | ext:do"
+  },
+  {
+    "dork": "intitle:index of AT-admin.cgi"
+  },
+  {
+    "dork": "intext:(c) GUnet 2003-2007"
+  },
+  {
+    "dork": "inurl:\\/+CSCOE+\\/logon.html"
+  },
+  {
+    "dork": "Powered by Jira Service Desk"
+  },
+  {
+    "dork": "Powered by vBulletin Version 5.5.4"
+  },
+  {
+    "dork": "inurl:q=user\\/password"
+  },
+  {
+    "dork": "inurl:\\/user\\/register Powered by Drupal -CAPTCHA -Access denied"
+  },
+  {
+    "dork": "inurl:index.php?option=com_joomanager"
+  },
+  {
+    "dork": "inurl:\\/proc\\/self\\/cwd"
+  },
+  {
+    "dork": "dirLIST - PHP Directory Lister Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx index of ext:php"
+  },
+  {
+    "dork": "allintext:Copyright Smart PHP Poll. All Rights Reserved. -exploit"
+  },
+  {
+    "dork": "allinurl:moadmin.php -google -github"
+  },
+  {
+    "dork": "inurl:\\/elfinder\\/elfinder.html+intitle:elFinder 2.0"
+  },
+  {
+    "dork": "inurl:CHANGELOG.txt intext:drupal intext:SA-CORE -intext:7.32 -site:github.com -site:drupal.org"
+  },
+  {
+    "dork": "inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com"
+  },
+  {
+    "dork": "ext:cgi inurl:cgi-bin intext:#!\\/bin\\/bash"
+  },
+  {
+    "dork": "OpenSSL AND 1.0.1 Server at OR 1.0.1a Server at OR 1.0.1b Server at OR 1.0.1c Server at OR 1.0.1d Server at OR 1.0.1e Server at OR 1.0.1f Server at"
+  },
+  {
+    "dork": "inurl:\\/reports\\/rwservlet intext:Oracle"
+  },
+  {
+    "dork": "inurl:struts filetype:action"
+  },
+  {
+    "dork": "inurl:.php? intext:CHARACTER_SETS"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/w3tc\\/dbcache\\/"
+  },
+  {
+    "dork": "intext:SQL syntax & inurl:index.php?=id & inurl:gov & inurl:gov"
+  },
+  {
+    "dork": "intext: intext: intext: intext: intext:"
+  },
+  {
+    "dork": "intitle:-N3t filetype:php undetectable"
+  },
+  {
+    "dork": "intitle:awen+intitle:asp.net"
+  },
+  {
+    "dork": "inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ]"
+  },
+  {
+    "dork": "filetype:php inurl:tiki-index.php +sirius +1.9.*"
+  },
+  {
+    "dork": "filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana"
+  },
+  {
+    "dork": "inurl:php intitle:Cpanel "
+  },
+  {
+    "dork": "intitle:#k4raeL - sh3LL"
+  },
+  {
+    "dork": "inurl:view.php?board1_sn="
+  },
+  {
+    "dork": "intitle:m1n1 1.01"
+  },
+  {
+    "dork": "intitle:Locus7shell intext:Software:"
+  },
+  {
+    "dork": "intitle:[EasyPHP] - Administration"
+  },
+  {
+    "dork": "intitle:cyber anarchy shell"
+  },
+  {
+    "dork": "MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON"
+  },
+  {
+    "dork": "inurl:\\/vb\\/install\\/install.php"
+  },
+  {
+    "dork": "inurl:\\/vb\\/install\\/upgrade.php"
+  },
+  {
+    "dork": "CGI-Telnet Unit-x Team Connected to *.com OR CGI-Telnet Unit-x Team Connected to"
+  },
+  {
+    "dork": "www.*.com - c99shell OR www.*.net - c99shell OR www.*.org - c99shell"
+  },
+  {
+    "dork": "[ phpinfo ] [ php.ini ] [ cpu ] [ mem ] [ users ] [ tmp ] [ delete ]"
+  },
+  {
+    "dork": "r57shell 1.4"
+  },
+  {
+    "dork": "r57shell"
+  },
+  {
+    "dork": "safe_mode: * PHP version: * cURL: * MySQL: * MSSQL: * PostgreSQL: * Oracle: *"
+  },
+  {
+    "dork": "inurl:read.php?datespan="
+  },
+  {
+    "dork": "allinurl: op=viewslink&sid="
+  },
+  {
+    "dork": "allinurl: In YoUr Dream Lamerz"
+  },
+  {
+    "dork": "intitle:t3al shmeh"
+  },
+  {
+    "dork": ": inurll '"
+  },
+  {
+    "dork": "intitle:A Better ASP User Gallery"
+  },
+  {
+    "dork": "http:\\/\\/www.google.com\\/search?q=inurl%3Aindex.php%3Fpagedb%3Drss"
+  },
+  {
+    "dork": "intitle:Uploader - Uploader v6 -pixloads.com"
+  },
+  {
+    "dork": "intitle:MvBlog powered"
+  },
+  {
+    "dork": "intitle:Horde :: My Portal -[Tickets"
+  },
+  {
+    "dork": "inurl:rpSys.html"
+  },
+  {
+    "dork": "filetype:pl intitle:Ultraboard Setup"
+  },
+  {
+    "dork": "Welcome to Administration General Local Domains SMTP Authentication inurl:admin"
+  },
+  {
+    "dork": "XOOPS Custom Installation"
+  },
+  {
+    "dork": "you can now password | this is a special page only seen by you. your profile visitors inurl:imchaos"
+  },
+  {
+    "dork": "set up the administrator user inurl:pivot"
+  },
+  {
+    "dork": "html allowed guestbook"
+  },
+  {
+    "dork": "Powered by: vBulletin Version 1.1.5"
+  },
+  {
+    "dork": "inurl:\\/NSearch\\/AdminServlet"
+  },
+  {
+    "dork": "inurl:servlet\\/webacc"
+  },
+  {
+    "dork": "There are no Administrators Accounts inurl:admin.php -mysql_fetch_row"
+  },
+  {
+    "dork": "intitle:Mail Server CMailServer Webmail 5.2"
+  },
+  {
+    "dork": "(inurl:\\/shop.cgi\\/page=) | (inurl:\\/shop.pl\\/page=)"
+  },
+  {
+    "dork": "inurl:newsdesk.cgi? inurl:t="
+  },
+  {
+    "dork": "inurl:aol*\\/_do\\/rss_popup?blogID="
+  },
+  {
+    "dork": "natterchat inurl:home.asp -site:natterchat.co.uk"
+  },
+  {
+    "dork": "intitle:phpMyAdmin Welcome to phpMyAdmin *** running on * as root@*"
+  },
+  {
+    "dork": "intitle:phpMyAdmin Welcome to phpMyAdmin *** running on * as root@*"
+  },
+  {
+    "dork": "ftp:\\/\\/ www.eastgame.net"
+  },
+  {
+    "dork": "intext:Warning: * am able * write ** configuration file includes\\/configure.php -Forums"
+  },
+  {
+    "dork": "inurl:index.php?module=ew_filemanager"
+  },
+  {
+    "dork": "allinurl:index.php site=sglinks"
+  },
+  {
+    "dork": "(Indexed.By|Monitored.By) hAcxFtpScan"
+  },
+  {
+    "dork": "filetype:cgi inurl:Web_Store.cgi"
+  },
+  {
+    "dork": "filetype:cgi inurl:fileman.cgi"
+  },
+  {
+    "dork": "filetype:php inurl:vAuthenticate"
+  },
+  {
+    "dork": "Welcome to the Prestige Web-Based Configurator"
+  },
+  {
+    "dork": "intitle:Samba Web Administration Tool intext:Help Workgroup"
+  },
+  {
+    "dork": "inurl:pls\\/admin_\\/gateway.htm"
+  },
+  {
+    "dork": "intitle:Gateway Configuration Menu"
+  },
+  {
+    "dork": "allinurl:install\\/install.php"
+  },
+  {
+    "dork": "Select a database to view intitle:filemaker pro"
+  },
+  {
+    "dork": "allinurl:intranet admin"
+  },
+  {
+    "dork": "Welcome to PHP-Nuke congratulations"
+  },
+  {
+    "dork": "inurl:footer.inc.php"
+  },
+  {
+    "dork": "inurl:info.inc.php"
+  },
+  {
+    "dork": "YaBB SE Dev Team"
+  },
+  {
+    "dork": "intitle:Gallery in Configuration mode"
+  },
+  {
+    "dork": "intitle:osCommerce inurl:admin intext:redistributable under the GNUintext:Online Catalog -demo -site:oscommerce.com"
+  },
+  {
+    "dork": "inurl:ManyServers.htm"
+  },
+  {
+    "dork": "intitle:Terminal Services Web Connection"
+  },
+  {
+    "dork": "intitle:Remote Desktop Web Connection"
+  },
+  {
+    "dork": "Welcome to Intranet"
+  },
+  {
+    "dork": "inurl:search.php vbulletin"
+  },
+  {
+    "dork": "inurl:shop Hassan Consulting's Shopping Cart Version 1.18"
+  }
+]

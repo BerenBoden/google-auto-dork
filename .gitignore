@@ -8,7 +8,6 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # Custom folders
-data/
 output/
 extract-unique/
 

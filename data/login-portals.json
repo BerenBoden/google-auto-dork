@@ -1,0 +1,4304 @@
+[
+  {
+    "dork": "login"
+  },
+  {
+    "dork": "site:*.gov.au inurl:wp-admin"
+  },
+  {
+    "dork": "inurl:jira login site:*.in"
+  },
+  {
+    "dork": "inurl:\\/intranet\\/login.php"
+  },
+  {
+    "dork": "intitle:Teltonika -Web UI | intitle:Teltonika-RUT -Web UI inurl:\\/cgi-bin\\/luci"
+  },
+  {
+    "dork": "inurl:\\/admin\\/login.php intitle:(Iniciar sesion OR Login)"
+  },
+  {
+    "dork": "intitle:Login intext:cam"
+  },
+  {
+    "dork": "inurl:console\\/login.jsp"
+  },
+  {
+    "dork": "inurl:EMSWebClient\\/"
+  },
+  {
+    "dork": "inurl admin login php gov.in"
+  },
+  {
+    "dork": "Fwd: intitle:Schneider Electric Telecontrol - Industrial Web Control intext:Xflow"
+  },
+  {
+    "dork": "inurl *:8443\\/login.jsp"
+  },
+  {
+    "dork": "intitle:Login intext:camera"
+  },
+  {
+    "dork": "site:smtp3.*.*\\/login"
+  },
+  {
+    "dork": "inurl:login.php site:.in"
+  },
+  {
+    "dork": "index of:customer\\/login"
+  },
+  {
+    "dork": "index of:seller\\/login"
+  },
+  {
+    "dork": "site:*.in inurl: admin login"
+  },
+  {
+    "dork": "inurl:gov.in & (intitle:login | intitle:signin)"
+  },
+  {
+    "dork": "inurl:gov.in & inurl:wp-admin"
+  },
+  {
+    "dork": "site:*.gov.in inurl:login.jsp"
+  },
+  {
+    "dork": "site:.edu.in inurl:login.php"
+  },
+  {
+    "dork": "site:.edu inurl:login Admin"
+  },
+  {
+    "dork": "inurl:gov.uk & inurl:wp-admin"
+  },
+  {
+    "dork": "site:.edu.in inurl:login.aspx"
+  },
+  {
+    "dork": "site:.edu.in inurl:login.aspx"
+  },
+  {
+    "dork": "intext:untitled intext:admin filetype:php"
+  },
+  {
+    "dork": "site:gov.in inurl:\\/admin\\/login"
+  },
+  {
+    "dork": "inurl:80 ext:php inurl:login"
+  },
+  {
+    "dork": "site:in inurl:\\/admin\\/login"
+  },
+  {
+    "dork": "inurl:gov.in"
+  },
+  {
+    "dork": "intitle:MailEnable inurl:\\/Login.aspx"
+  },
+  {
+    "dork": "inurl:8888 ext:php inurl:login"
+  },
+  {
+    "dork": "inurl:4444 ext:php inurl:login"
+  },
+  {
+    "dork": "inurl:login.net"
+  },
+  {
+    "dork": "site:com inurl:\\/admin\\/login"
+  },
+  {
+    "dork": "inurl:\\/carbon\\/admin\\/login.jsp"
+  },
+  {
+    "dork": "intext:Powered by  inurl:\\/login"
+  },
+  {
+    "dork": "inurl:newsdesk.cgi?"
+  },
+  {
+    "dork": "intext:untitled intext:login filetype:php"
+  },
+  {
+    "dork": "intext:untitled intext:password filetype:php"
+  },
+  {
+    "dork": "intitle:webmail Login"
+  },
+  {
+    "dork": "intitle:Kerio Connect Client inurl:\\/webmail\\/login\\/"
+  },
+  {
+    "dork": "intitle:I-Portal inurl:login.jsp"
+  },
+  {
+    "dork": "intitle:RM Portal"
+  },
+  {
+    "dork": "intitle:TOTVS SmartClient HTML - Par\\u00e2metros Iniciais"
+  },
+  {
+    "dork": "intitle:Gophish - Login"
+  },
+  {
+    "dork": "intitle:TYPO3 CMS Login: New TYPO3 site inurl:\\/typo3\\/index.php"
+  },
+  {
+    "dork": "inurl:brandmeister page=login"
+  },
+  {
+    "dork": "intext:admin AND login | sign in AND \\u00a9 AND rights reserved"
+  },
+  {
+    "dork": "inurl:login\\/users.pwd"
+  },
+  {
+    "dork": "inurl:wp-login.php?action=login"
+  },
+  {
+    "dork": "intitle:LoRaWAN Login"
+  },
+  {
+    "dork": "intext: mailenable inurl:\\/lang\\/sys\\/login.aspx"
+  },
+  {
+    "dork": "intitle:Hikvision login page"
+  },
+  {
+    "dork": "intitle:ip camera login page"
+  },
+  {
+    "dork": "site:.bd http intitle: admin"
+  },
+  {
+    "dork": "intitle:Admin Login inurl:login.aspx"
+  },
+  {
+    "dork": "intitle:HRMS inurl:login.aspx"
+  },
+  {
+    "dork": "inurl:index.php intitle:CMS Login"
+  },
+  {
+    "dork": "intitle:Student inurl:login.aspx"
+  },
+  {
+    "dork": "intitle:Employee Login & inurl:(login.aspx | login.asp)"
+  },
+  {
+    "dork": "intitle:Journal inurl:login.aspx"
+  },
+  {
+    "dork": "intext:Project hosted at: For support"
+  },
+  {
+    "dork": "intitle:CMS inurl:login.php"
+  },
+  {
+    "dork": "site:*\\/membership-login\\/"
+  },
+  {
+    "dork": "intitle:TYPO3 CMS Login"
+  },
+  {
+    "dork": "intitle:Sign in [Jenkins] inurl:login?from"
+  },
+  {
+    "dork": "inurl:\\/designs\\/imm\\/index.php"
+  },
+  {
+    "dork": "intitle:Sophos inurl:\\/userportal\\/webpages\\/myaccount\\/login.jsp"
+  },
+  {
+    "dork": "inurl:fgtauth?"
+  },
+  {
+    "dork": "inurl:\\/phpldapadmin\\/cmd.php"
+  },
+  {
+    "dork": "allintitle:MeshCentral - Login"
+  },
+  {
+    "dork": "intitle:CMS inurl:login.jsp"
+  },
+  {
+    "dork": "fluig login"
+  },
+  {
+    "dork": "Fwd: intitle:Support Portal intext:Bomgar Corporation. Redistribution Prohibited. All Rights Reserved. Representatives"
+  },
+  {
+    "dork": "inurl:\\/?page=login"
+  },
+  {
+    "dork": "inurl:\\/?a=login intext:login"
+  },
+  {
+    "dork": "Fwd: intitle:Cloudphysician RADAR"
+  },
+  {
+    "dork": "filetype:conf intext:Footer Powered By"
+  },
+  {
+    "dork": "inurl:mail intitle:Webmail - Login"
+  },
+  {
+    "dork": "inurl:\\/admin\\/login.php intitle: panel"
+  },
+  {
+    "dork": "Fwd: intitle:MedDream Softneta -.com"
+  },
+  {
+    "dork": "Fwd: inurl:\\/sslvpn_logon.shtml intitle:User Authentication WatchGuard Technologies"
+  },
+  {
+    "dork": "intitle:Portal inurl:login.jsp"
+  },
+  {
+    "dork": "intitle:SonicWall Analyzer Login"
+  },
+  {
+    "dork": "intitle:Issabel login - page"
+  },
+  {
+    "dork": "intitle:Juniper Networks Web Log In"
+  },
+  {
+    "dork": "intitle:Portal & (inurl:login.asp | inurl:login.aspx)"
+  },
+  {
+    "dork": "intitle:Portal inurl:login.php"
+  },
+  {
+    "dork": "com.sap.itsam.problems.java.systeminfo"
+  },
+  {
+    "dork": "intitle:cisco This is a restricted Access Server"
+  },
+  {
+    "dork": "intitle:vmware This is a restricted Access Server"
+  },
+  {
+    "dork": "Fwd: intitle:Project Insight - Login Sign In to Continue Shift4 Payments"
+  },
+  {
+    "dork": "inurl:sap\\/public\\/ intext:Logon Password"
+  },
+  {
+    "dork": "intext:Open Game Panel 2021"
+  },
+  {
+    "dork": "site:*.com inurl: admin\\/index.php"
+  },
+  {
+    "dork": "Fwd: intitle:Zimbra Web Client Sign In Synacor"
+  },
+  {
+    "dork": "inurl:\\/webmail\\/src\\/login.php intext:SquirrelMail"
+  },
+  {
+    "dork": "Fwd: intitle:Login FLX Web Server"
+  },
+  {
+    "dork": "site:*\\/oauth\\/authorize"
+  },
+  {
+    "dork": "inurl: admin-login.php"
+  },
+  {
+    "dork": "Dork - inurl: site admin"
+  },
+  {
+    "dork": "inurl:admin\\/reset.php -github"
+  },
+  {
+    "dork": "intext:Provided by ProjectSend"
+  },
+  {
+    "dork": "inurl: \\/admin\\/login.php intitle: panel admin"
+  },
+  {
+    "dork": "inurl:.html.php:intext:admin|intext:user|intext:login:site:.in"
+  },
+  {
+    "dork": "intitle:Dericam Remember Me"
+  },
+  {
+    "dork": "site:*\\/etc\\/passwd inurl\\/etc\\/passwd"
+  },
+  {
+    "dork": "intitle:webcam login"
+  },
+  {
+    "dork": "inurl:saml2\\/login"
+  },
+  {
+    "dork": "inurl:profile\\/login"
+  },
+  {
+    "dork": "intitle:Welcome intext:Login"
+  },
+  {
+    "dork": "intext:Infinitium Copyrights Reserved"
+  },
+  {
+    "dork": "intitle:administration intext:portail Login"
+  },
+  {
+    "dork": "inurl:login.rsp User name"
+  },
+  {
+    "dork": "inurl:\\/admin\\/AdminLogin.jsp intitle:CERGY - Administration"
+  },
+  {
+    "dork": "intitle:Codian MCU - login Copyright TANDBERG"
+  },
+  {
+    "dork": "intitle:admin login site:.gov.in"
+  },
+  {
+    "dork": "intitle|inurl::IoT login"
+  },
+  {
+    "dork": "inurl: login.http"
+  },
+  {
+    "dork": "companies' service login Login Portal"
+  },
+  {
+    "dork": "intitle:Intelbras All Rights Reserved -.com"
+  },
+  {
+    "dork": "intext:Provided by ProjectSend"
+  },
+  {
+    "dork": "intitle|inurl:SCADA login"
+  },
+  {
+    "dork": "allinurl:logon.html CSCOE"
+  },
+  {
+    "dork": "site:*\\/admin.php inurl:admin"
+  },
+  {
+    "dork": "inurl:login intext: fiesta login"
+  },
+  {
+    "dork": "intitle:admin login site:.in"
+  },
+  {
+    "dork": " Stanford CoreNLP  Visualisation provided using the brat visualisation"
+  },
+  {
+    "dork": "Google Dork: inurl:admin\\/login site:.gov.in"
+  },
+  {
+    "dork": "site:.om intitle:login"
+  },
+  {
+    "dork": "intitle:admin login site:.net"
+  },
+  {
+    "dork": "intitle:admin login site:.org"
+  },
+  {
+    "dork": "intitle:Login - splunk"
+  },
+  {
+    "dork": "intitle:oracle login site:.gov"
+  },
+  {
+    "dork": "inurl:employee-login.html"
+  },
+  {
+    "dork": "intitle:TestRail inurl:\\/index.php?\\/auth\\/login\\/"
+  },
+  {
+    "dork": "Username Password This system is for authorized use only. intitle:Gaia"
+  },
+  {
+    "dork": "inurl:(admin\\/password.php) +site:.com"
+  },
+  {
+    "dork": "intitle:admin login site:.gov"
+  },
+  {
+    "dork": "intitle:faculty login"
+  },
+  {
+    "dork": "cms inurl:login site:gov.ae"
+  },
+  {
+    "dork": "site:.com inurl:(administrator\\/login.php OR admin\\/login.php)"
+  },
+  {
+    "dork": "intitle:D-link intext:SharePort Web Access Hardware Version Firmware Version"
+  },
+  {
+    "dork": "inurl:destination=portals"
+  },
+  {
+    "dork": "Pages Containing Login Portals"
+  },
+  {
+    "dork": "site:pastebin.com intext:password | intitle:password"
+  },
+  {
+    "dork": "intitle:Zimbra Web Client Sign In Synacor"
+  },
+  {
+    "dork": "intitle:login Clare Controls LLC"
+  },
+  {
+    "dork": "site:wiki.*.com inurl:login.action"
+  },
+  {
+    "dork": "inurl:login_fail.asp"
+  },
+  {
+    "dork": "Welcome to Polycom Web Configuration Utility Login as Password"
+  },
+  {
+    "dork": "intitle:MedDream Softneta -.com"
+  },
+  {
+    "dork": "intext:Admin Login inurl:\\/login.aspx"
+  },
+  {
+    "dork": "intitle:Gitea This website works better with JavaScript sign in  Home Explore-.com"
+  },
+  {
+    "dork": "intitle:F660 intext:ZTE Corporation. All rightsreserved."
+  },
+  {
+    "dork": "intitle:MultiView MultiView Events MOBOTIX"
+  },
+  {
+    "dork": "inurl:login intext:Powered by Plone & Python -plone.org"
+  },
+  {
+    "dork": "inurl:\\/bitrix\\/admin\\/ intitle:Autorisation"
+  },
+  {
+    "dork": "inurl \\/admin\\/login intitle panel admin site:*.in"
+  },
+  {
+    "dork": "intitle:admin panel OR intitle:request password intext:email address"
+  },
+  {
+    "dork": "intitle:admin login site:.gov"
+  },
+  {
+    "dork": "intitle:faculty login"
+  },
+  {
+    "dork": "\\/inurl:upload site:doxbin.org ~password"
+  },
+  {
+    "dork": "cms +inurl:login +site:gov.in"
+  },
+  {
+    "dork": "intitle:WATTrouter SYSTEM WEB INTERFACE"
+  },
+  {
+    "dork": "inurl:(administrator\\/login.aspx OR admin\\/login.aspx) +site:.com"
+  },
+  {
+    "dork": "intext:Atlassian Jira Project Management Software Jira login"
+  },
+  {
+    "dork": "intext:Welcome to ZXHN H198A"
+  },
+  {
+    "dork": "site:.ae intitle:admin login"
+  },
+  {
+    "dork": "site:.au intitle:admin login"
+  },
+  {
+    "dork": "Desktop Simple Responsive intitle:Controllr"
+  },
+  {
+    "dork": "Inurl:login.rsp User name"
+  },
+  {
+    "dork": "intitle:fdt intext:Remember me Username"
+  },
+  {
+    "dork": "site:.uk intitle:admin login"
+  },
+  {
+    "dork": "inurl \\/admin\\/login.php intitle panel admin"
+  },
+  {
+    "dork": "site:*\\/admin.php inurl:files"
+  },
+  {
+    "dork": "intitle:TD-W9970 intext:Model No. TD-W9970 -tp-link.com"
+  },
+  {
+    "dork": "inurl:login\\/forgotten"
+  },
+  {
+    "dork": "intitle:Users intext:Read License intext:vtiger.com"
+  },
+  {
+    "dork": "intext:Please enter the device's administrator password"
+  },
+  {
+    "dork": "intitle:Router Access inurl:Router_Login.asp"
+  },
+  {
+    "dork": "intitle:IP CAMERA User Login User Name Password Preview Stream"
+  },
+  {
+    "dork": "site:.edu intitle:admin login"
+  },
+  {
+    "dork": "inurl:\\/about site:*.in"
+  },
+  {
+    "dork": "inurl:\\/login site:.in"
+  },
+  {
+    "dork": "inurl:\\/userportal\\/webpages\\/myaccount\\/login.jsp"
+  },
+  {
+    "dork": "intitle:NetBiter intext:based on NetBiter -.com"
+  },
+  {
+    "dork": "site:login.microsoftonline.com -error"
+  },
+  {
+    "dork": "inurl \\/admin\\/index.php username=admin&password=password"
+  },
+  {
+    "dork": "site:gov.in intitle: admin login"
+  },
+  {
+    "dork": "inurl:login.php site:.nl"
+  },
+  {
+    "dork": "intext:amcrest Invalid login credentials"
+  },
+  {
+    "dork": "intext:Powered by Bitnami Redmine Stack inurl:\\/login"
+  },
+  {
+    "dork": "Dork:- intitle:*admin (inurl:login)"
+  },
+  {
+    "dork": "site:*\\/JIRA\\/login"
+  },
+  {
+    "dork": "intitle:Polycom Login inurl:\\/login.html"
+  },
+  {
+    "dork": "intitle:BoardPAC - Board Paper and Credit Proposal Management System"
+  },
+  {
+    "dork": "intext:powered by enboard portal"
+  },
+  {
+    "dork": "inurl:users\\/password\\/new"
+  },
+  {
+    "dork": "intitle:WEB SERVICE Modify Admin Password"
+  },
+  {
+    "dork": "intitle:Lantronix intext:Lantronix"
+  },
+  {
+    "dork": "intitle:LaCie login intext:Remember me Connect to"
+  },
+  {
+    "dork": "intitle:Login - Ipswitch WhatsUp Professional"
+  },
+  {
+    "dork": "intitle:Login inurl:view\\/login.html Huawei Technologies"
+  },
+  {
+    "dork": "inurl:Login.aspx intitle::::Login::: RM"
+  },
+  {
+    "dork": "intitle:IBM iNotes Login Ultralite Login Screen"
+  },
+  {
+    "dork": "Jira login intext:v8.3.2"
+  },
+  {
+    "dork": "intitle:Web Admin login intext:Huawei Technologies"
+  },
+  {
+    "dork": "intitle:Log In - Seafile Server"
+  },
+  {
+    "dork": "inurl:webconsole\\/webpages\\/login.jsp +intitle:Sophos"
+  },
+  {
+    "dork": "intitle:WHM Login intext:cPanel"
+  },
+  {
+    "dork": "intitle:Honeywell XL Web Controller intext:systemadmin"
+  },
+  {
+    "dork": "intitle:DEVICE Real-time IP Camera Monitoring System"
+  },
+  {
+    "dork": "inurl:openam\\/XUI"
+  },
+  {
+    "dork": "intitle:Mail2000 Message System Openfind Information"
+  },
+  {
+    "dork": "inurl:serverpush.htm intext:Foscam"
+  },
+  {
+    "dork": "inurl:auth\\/login?returnUrl"
+  },
+  {
+    "dork": "intitle:Login intext:IP Surveillance for Your Life"
+  },
+  {
+    "dork": "intitle:R WebServer"
+  },
+  {
+    "dork": "intitle:login inurl:idp\\/profile\\/login"
+  },
+  {
+    "dork": "inurl:ui3.htm"
+  },
+  {
+    "dork": "inurl:oauth2\\/v2.0\\/authorize"
+  },
+  {
+    "dork": "Network State: Network Ready. Network Channel: intitle:ACEManager"
+  },
+  {
+    "dork": "inurl:admin\\/public\\/login"
+  },
+  {
+    "dork": "inurl:pis\\/login.aspx"
+  },
+  {
+    "dork": "intext:Login to Frappe +Forgot Password? +Reset Password inurl:login -intitle:My utm"
+  },
+  {
+    "dork": "intitle:weblogic login intext:footer powered by"
+  },
+  {
+    "dork": "intitle:Webmail Login intext:cPanel"
+  },
+  {
+    "dork": "intitle:Powered by Deepija Telecom"
+  },
+  {
+    "dork": "intitle:idrac7 - Login inurl:login.html"
+  },
+  {
+    "dork": "intitle:ovislink inurl:login intext:My Resource"
+  },
+  {
+    "dork": "intitle:Web Viewer for Samsung DVR"
+  },
+  {
+    "dork": "intitle:Web Viewer inurl:auth_index.htm"
+  },
+  {
+    "dork": "intitle:Asus Login inurl:Main_Login.asp"
+  },
+  {
+    "dork": "intitle:Wireless router inurl:login.htm -.com|ca"
+  },
+  {
+    "dork": "intitle:Synology Disk Station intext:System administrator login"
+  },
+  {
+    "dork": "intitle:SonicWall Network Security Login"
+  },
+  {
+    "dork": "intitle:Seagate NAS - login intext:Language. -.com"
+  },
+  {
+    "dork": "intitle:Prolink inurl:login.htm -.com"
+  },
+  {
+    "dork": "intitle:prestige intext:Enter Password and click Login -.com"
+  },
+  {
+    "dork": "intitle:PBX Login -inurl:pbx|pbxlogin -.com"
+  },
+  {
+    "dork": "intitle:Mitel Standard Linux: Login Page"
+  },
+  {
+    "dork": "intitle:ManageEngine ServiceDesk Plus domain intext:ManageEngine ServiceDesk Plus -.com"
+  },
+  {
+    "dork": "intitle:3G wireless gateway login intext:huawei technologies"
+  },
+  {
+    "dork": "intitle:ADB Broadband login intext:ADB Broadband S.p.A -.com"
+  },
+  {
+    "dork": "intitle:MediaAccess Gateway - Login access your MediaAccess Gateway"
+  },
+  {
+    "dork": "intitle:ADMINISTRATOR LOGIN inurl:adminlogin"
+  },
+  {
+    "dork": "intitle:geovision inc. inurl:login.htm"
+  },
+  {
+    "dork": "intitle:KNX-IP-Gateway Login"
+  },
+  {
+    "dork": "intitle:DGS-3100 Login"
+  },
+  {
+    "dork": "allintext:Welcome to the LabTech Web Portal"
+  },
+  {
+    "dork": "intitle:Vue Element Admin intext:Username : admin OR intext:Username : editor OR intext:Password : any"
+  },
+  {
+    "dork": "intitle:web admin login Huawei Technologies"
+  },
+  {
+    "dork": "intitle:Login - Hitron technologies"
+  },
+  {
+    "dork": "intitle:Video web server login"
+  },
+  {
+    "dork": "intitle:vigor login page"
+  },
+  {
+    "dork": "inurl:prweb\\/PRAuth"
+  },
+  {
+    "dork": "intext:developed and maintained by Netgate intitle:login"
+  },
+  {
+    "dork": "intitle:system login Drake Holdings"
+  },
+  {
+    "dork": "inurl:mailscanner intitle:mailwatch login page"
+  },
+  {
+    "dork": "inurl:device_status.html login"
+  },
+  {
+    "dork": "intitle:Grandstream Device Configuration (intext:password & intext:Grandstream Device Configuration & intext:Grandstream Networks | inurl:cgi-bin) -.com|org"
+  },
+  {
+    "dork": "inurl:\\/UserLogin intitle:::PayTV SMS:: Aplomb Technology"
+  },
+  {
+    "dork": "intext:SGP inurl:\\/accounts\\/login?next=\\/admin\\/"
+  },
+  {
+    "dork": "inurl:\\/tips\\/tipsLogin.action"
+  },
+  {
+    "dork": "inurl:pages\\/sdcall\\/Login.jsp"
+  },
+  {
+    "dork": "intext:Paessler AG - The Network Monitoring Company inurl:\\/index.htm intitle:Welcome | PRTG Network Monitor -User Manual"
+  },
+  {
+    "dork": "intext:Lancom intitle:Router - Login -.com"
+  },
+  {
+    "dork": "FM Monitoring Receiver intitle:login welcome!"
+  },
+  {
+    "dork": "intitle:Identity Services Engine inurl:login.jsp"
+  },
+  {
+    "dork": "site:*.zendesk.com\\/auth\\/v2\\/login\\/registration"
+  },
+  {
+    "dork": "intext:Switch Administrator inurl:config\\/log_off_page"
+  },
+  {
+    "dork": "intitle:WebMO Login inurl:\\/~webmo\\/cgi-bin\\/login.cgi"
+  },
+  {
+    "dork": "inurl:\\/psp\\/ intext:ORACLE PEOPLESOFT"
+  },
+  {
+    "dork": "intitle:Nutanix Web Console"
+  },
+  {
+    "dork": "inurl:\\/web-ftp.cgi"
+  },
+  {
+    "dork": "intitle:XVR LOGIN inurl:\\/login.rsp"
+  },
+  {
+    "dork": "intitle:iMana 200 login"
+  },
+  {
+    "dork": "inurl:\\/sslvpn_logon.shtml intitle:User Authentication WatchGuard Technologies"
+  },
+  {
+    "dork": "intitle:Plesk inurl:\\/login_up.php3 Parallels IP Holdings GmbH"
+  },
+  {
+    "dork": "intitle:ISPConfig Powered by ISPConfig login"
+  },
+  {
+    "dork": "intitle:login - otrs Login Powered by OTRS"
+  },
+  {
+    "dork": "intitle:Webmodule inurl:\\/webmodule-ee\\/login.seam Version"
+  },
+  {
+    "dork": "intitle:GLPI - ?????????????? intext:GLPI Copyright"
+  },
+  {
+    "dork": "intitle:Schneider Electric Telecontrol - Industrial Web Control intext:Xflow "
+  },
+  {
+    "dork": "intitle:Huawei Inner Web"
+  },
+  {
+    "dork": "intitle:Viewer for Samsung NVR"
+  },
+  {
+    "dork": "Yeastar Information Technology Co."
+  },
+  {
+    "dork": "intitle:Ubiquiti intext:Please login to manage your wireless device."
+  },
+  {
+    "dork": "intitle:Scalance web management Switch to insecure HTTP"
+  },
+  {
+    "dork": "intitle:Login inurl:web\\/frame\\/login.html?ssl="
+  },
+  {
+    "dork": "Zenario CMS Login Page"
+  },
+  {
+    "dork": "inurl:\\/index.php\\/admin\\/authentication\\/ intext:clave"
+  },
+  {
+    "dork": "intext:Powered by Synnefo"
+  },
+  {
+    "dork": "inurl:EMSWebClient\\/Login.aspx"
+  },
+  {
+    "dork": "intitle:ONU intext:Please login to continue..."
+  },
+  {
+    "dork": "intitle:LANCOM intitle:login LANCOM Systems GmbH"
+  },
+  {
+    "dork": "intitle:Plesk Obsidian inurl:login_up.php"
+  },
+  {
+    "dork": "Name Password intitle:Business LAN"
+  },
+  {
+    "dork": "intitle:Gargoyle Router Management Utility intext:Enter Admin Password"
+  },
+  {
+    "dork": "Saferoads VMS login"
+  },
+  {
+    "dork": "intitle:OpenWrt - LuCI intext:Powered by LuCI | OpenWrt"
+  },
+  {
+    "dork": "intitle:Login intext:(Moka pot) inurl:login.php"
+  },
+  {
+    "dork": "intitle:GLPI - Authentication"
+  },
+  {
+    "dork": "intext:clave inurl:admin.php"
+  },
+  {
+    "dork": "intitle:Teampass intext:Server Time"
+  },
+  {
+    "dork": "Google Dork: inurl:\\/zm\\/index.php"
+  },
+  {
+    "dork": "intitle:Please Login inurl:\\/remote\\/login?lang=en"
+  },
+  {
+    "dork": "intitle:Gophish - Login"
+  },
+  {
+    "dork": "inurl:sslvpn_logon.shtml"
+  },
+  {
+    "dork": "intitle:ReACT Self-serve"
+  },
+  {
+    "dork": "inurl:glpi intitle:GLPI site:.br"
+  },
+  {
+    "dork": "intext:Cisco Webui - Login -www -cisco.com"
+  },
+  {
+    "dork": "intitle:TOTOLINK inurl:\\/login.htm"
+  },
+  {
+    "dork": "intitle:grafana inurl:\\/grafana\\/login Forgot your password"
+  },
+  {
+    "dork": "intitle:NetScaler AAA inurl:logon\\/LogonPoint\\/tmindex.html"
+  },
+  {
+    "dork": "intext:Please select your account intext:SSL Login"
+  },
+  {
+    "dork": "intitle:iLo Hewlett Packard Enterprise Development Firmware Version  Local user name:"
+  },
+  {
+    "dork": "intitle:Login intext:Herospeed Technology"
+  },
+  {
+    "dork": "intitle:login Are you a patient  eRAD"
+  },
+  {
+    "dork": "intitle:Frontier e-HR Login Page"
+  },
+  {
+    "dork": "inurl:b2b\\/init.do"
+  },
+  {
+    "dork": "intitle:Web user login"
+  },
+  {
+    "dork": "intitle:DIAM4 Login"
+  },
+  {
+    "dork": "intitle:Sauter moduWeb - Login"
+  },
+  {
+    "dork": "intitle:Greentree eHR Employee Code"
+  },
+  {
+    "dork": "intitle:Payvand PACS"
+  },
+  {
+    "dork": "inurl:\\/login.htm Hitron Technologies"
+  },
+  {
+    "dork": "intitle:UniFi Video login NVR"
+  },
+  {
+    "dork": "inurl:\\/deltaweb\\/hmi_login.asp intext:login"
+  },
+  {
+    "dork": "intitle:Component Browser Login"
+  },
+  {
+    "dork": "inurl:webdynpro\\/dispatcher"
+  },
+  {
+    "dork": "intitle:NUUO Network Video Recorder Login Language"
+  },
+  {
+    "dork": "inurl:template.gch ZTE Corporation."
+  },
+  {
+    "dork": "inurl:Main_Login.asp AND intext:Sign in with your ASUS router account"
+  },
+  {
+    "dork": "inurl:pandora_console intitle:Pandora FMS"
+  },
+  {
+    "dork": "intext:helpdesk software provided by deskpro"
+  },
+  {
+    "dork": "inurl:login.rsp Language -.com"
+  },
+  {
+    "dork": "intitle:Sign in to Cisco Finesse"
+  },
+  {
+    "dork": "inurl:\\/dana-na\\/auth\\/url_default\\/welcome.cgi VPN"
+  },
+  {
+    "dork": "site:*.herokuapp.com intitle:login"
+  },
+  {
+    "dork": "intitle:Blue Iris Login"
+  },
+  {
+    "dork": "site:*.com inurl:axis2-admin"
+  },
+  {
+    "dork": "Copyright Huawei Technologies co. Ltd Account Password -site:huawei.com"
+  },
+  {
+    "dork": "Username Password Please login to continue intitle:F670"
+  },
+  {
+    "dork": "inurl:simplesaml\\/module"
+  },
+  {
+    "dork": "inurl:ushell\\/shells\\/abap"
+  },
+  {
+    "dork": "Username Password Please login to continue intitle:F660"
+  },
+  {
+    "dork": "intitle:oracle business intelligence sign in"
+  },
+  {
+    "dork": "inurl:ui\\/login intitle:jfrog"
+  },
+  {
+    "dork": "intitle:ZXHN H108N intext:Welcome to ZXHN H108N"
+  },
+  {
+    "dork": "inurl:ejbexplorer"
+  },
+  {
+    "dork": "intitle:WEB LCT intext:Web local craft terminal"
+  },
+  {
+    "dork": "inurl:ext\\/pwdreset"
+  },
+  {
+    "dork": "intitle:Radius Manager intext:Control Panel"
+  },
+  {
+    "dork": "intitle:D-LINK SYSTEMS"
+  },
+  {
+    "dork": "inurl:index.php?s=\\/Admin\\/Public\\/login.html"
+  },
+  {
+    "dork": "intitle:Cisco Email Security Virtual Appliance inurl:csrfkey="
+  },
+  {
+    "dork": "intitle:phpLDAPadmin inurl:cmd.php"
+  },
+  {
+    "dork": "intitle:iLO: localhost + Firmware Version"
+  },
+  {
+    "dork": "inurl:jasperserver-pro\\/login.html"
+  },
+  {
+    "dork": "site:p2.*.* intitle:login"
+  },
+  {
+    "dork": "inurl:oidc\\/authorize"
+  },
+  {
+    "dork": "inurl:authorization.ping"
+  },
+  {
+    "dork": "intitle:Login intext:HIKVISION inurl:login.asp?"
+  },
+  {
+    "dork": "inurl:weblogin intitle:(USG20-VPN|USG20W-VPN|USG40|USG40W|USG60|USG60W|USG110|USG210|USG310|USG1100|USG1900|USG2200|ZyWALL110|ZyWALL310|ZyWALL1100|ATP100|ATP100W|ATP200|ATP500|ATP700|ATP800|VPN50|VPN100|VPN300|VPN000|FLEX)"
+  },
+  {
+    "dork": "inurl:idp\\/Authn\\/UserPassword"
+  },
+  {
+    "dork": "inurl:adfs inurl:wctx inurl:wtrealm -microsoft.com"
+  },
+  {
+    "dork": "intitle:Humatrix 8"
+  },
+  {
+    "dork": "intitle:Exchange Log In"
+  },
+  {
+    "dork": "inurl:idp\\/prp.wsf"
+  },
+  {
+    "dork": "inurl:nidp\\/idff\\/sso"
+  },
+  {
+    "dork": "intitle:web client: login"
+  },
+  {
+    "dork": "inurl:Sitefinity\\/Authenticate\\/SWT"
+  },
+  {
+    "dork": "site:password.*.* intitle:login"
+  },
+  {
+    "dork": "site:checkin.*.* intitle:login"
+  },
+  {
+    "dork": "intitle:irz router intext:login gsm info -site:*.com -site:*.net"
+  },
+  {
+    "dork": "site:portal.*.* intitle:login"
+  },
+  {
+    "dork": "intitle:Insurance Admin Login | (c) Copyright 2020 Cityline Websites. All Rights Reserved. | http:\\/\\/www.citylinewebsites.com"
+  },
+  {
+    "dork": "site:user.*.* intitle:login"
+  },
+  {
+    "dork": "inurl:\\/?op=register"
+  },
+  {
+    "dork": "inurl:servicedesk\\/customer\\/user\\/login"
+  },
+  {
+    "dork": "intitle:Xenmobile Console Logon"
+  },
+  {
+    "dork": "inurl:login.seam"
+  },
+  {
+    "dork": "inurl:\\/adfs\\/oauth2\\/authorize"
+  },
+  {
+    "dork": "inurl:\\/?q=user\\/password\\/"
+  },
+  {
+    "dork": "inurl:\\/eftclient\\/account\\/login.htm"
+  },
+  {
+    "dork": "inurl:\\/adfs\\/ls\\/idpinitiatedsignon"
+  },
+  {
+    "dork": "allintext:Copperfasten Technologies Login"
+  },
+  {
+    "dork": "inurl:\\/adfs\\/ls\\/?SAMLRequest"
+  },
+  {
+    "dork": "site:sftp.*.*\\/ intext:login intitle:server login"
+  },
+  {
+    "dork": "inurl:weblogin.cgi?=0"
+  },
+  {
+    "dork": "intitle:SiteOmat Loader"
+  },
+  {
+    "dork": "intitle:pi-hole Admin console intext:login"
+  },
+  {
+    "dork": "intext:Please Login SSL VPN inurl:remote\\/login intext:FortiClient"
+  },
+  {
+    "dork": "intitle:InfoView + Log On to InfoView"
+  },
+  {
+    "dork": "Vigor Login Page + intext:Group"
+  },
+  {
+    "dork": "intext:piwik login"
+  },
+  {
+    "dork": "inurl:weblogin.cgi?=1"
+  },
+  {
+    "dork": "allintitle:CrushFTP WebInterface"
+  },
+  {
+    "dork": "inurl:\\/phpPgAdmin\\/browser.php intext:Servers | PostgreSQL*"
+  },
+  {
+    "dork": "inurl:console-selfservice"
+  },
+  {
+    "dork": "inurl:AIMS\\/PS"
+  },
+  {
+    "dork": "inurl:\\/ usda login"
+  },
+  {
+    "dork": "inurl:\\/ emis login"
+  },
+  {
+    "dork": "inurl:idp\\/SSO.saml2"
+  },
+  {
+    "dork": "inurl:\\/ Kms login"
+  },
+  {
+    "dork": "inurl:VirtualEms\\/Login.aspx"
+  },
+  {
+    "dork": "inurl:\\/ lms login"
+  },
+  {
+    "dork": "inurl:sms login"
+  },
+  {
+    "dork": "inurl:plc login"
+  },
+  {
+    "dork": "inurl:\\/ ims login"
+  },
+  {
+    "dork": "inurl:rms login"
+  },
+  {
+    "dork": "inurl:\\/ mis login"
+  },
+  {
+    "dork": "site:jira.*.* inurl:\\/customer\\/portal\\/"
+  },
+  {
+    "dork": "inurl:\\/mifs\\/user"
+  },
+  {
+    "dork": "inurl:webclient\\/Login.xhtml"
+  },
+  {
+    "dork": "site:ftp.*.* CrushFTP WebInterface"
+  },
+  {
+    "dork": "intitle:Dell SonicWALL - Authentication inurl:auth.html"
+  },
+  {
+    "dork": "inurl: authorlogin.php"
+  },
+  {
+    "dork": "SonicWALL - Authentication inurl:\\/auth.html"
+  },
+  {
+    "dork": "inurl:\\/userportal\\/webpages\\/myaccount\\/login.jsp"
+  },
+  {
+    "dork": "Retrieve Your Password site:*\\/recoverpassword.aspx"
+  },
+  {
+    "dork": "inurl:weblogin.cgi?mobile=0"
+  },
+  {
+    "dork": "intitle:Web Login For security reasons only authorized users are allowed access to this web server. "
+  },
+  {
+    "dork": "intitle:login to webmin You must enter a username and password to login to the Webmin server"
+  },
+  {
+    "dork": "intitle:Wimax CPE Configuration"
+  },
+  {
+    "dork": "intitle:GoAnywhere Web Client - Login"
+  },
+  {
+    "dork": "allintitle:Welcome admin"
+  },
+  {
+    "dork": "inurl:login_up.php Plesk Onyx"
+  },
+  {
+    "dork": "Citrix Receiver inurl:index.html Gateway"
+  },
+  {
+    "dork": "inurl:\\/portal\\/webclient intitle:VMware Horizon"
+  },
+  {
+    "dork": "inurl:\\/rpAuth.html ZyWALL"
+  },
+  {
+    "dork": "inurl:device.rsp -com -www"
+  },
+  {
+    "dork": "inurl:\\/login.asp Configuration and Management"
+  },
+  {
+    "dork": "intitle:NVR LOGIN -inurl:nvr | com | www | net"
+  },
+  {
+    "dork": "site:*\\/piwik Sign in Matomo"
+  },
+  {
+    "dork": "inurl:\\/login?csrfkey= intitle:cisco email security"
+  },
+  {
+    "dork": "intitle:axigen webadmin"
+  },
+  {
+    "dork": "allintitle:MDVR Login"
+  },
+  {
+    "dork": "intitle:D-LINK inurl:Login.html"
+  },
+  {
+    "dork": "intitle:DVR LOGIN -com"
+  },
+  {
+    "dork": "intitle:Helpdesk Software Login login by Jitbit"
+  },
+  {
+    "dork": "intitle:NETGEAR inurl:\\/base\\/main_login.html"
+  },
+  {
+    "dork": "inurl:client_login="
+  },
+  {
+    "dork": "intitle:D-LINK SYSTEMS"
+  },
+  {
+    "dork": "intitle:OpenWrt - LuCI Authorization Required"
+  },
+  {
+    "dork": "site:.gov inurl:admin login"
+  },
+  {
+    "dork": "intitle:Login - OpenStack Dashboard inurl:\\/dashboard\\/auth\\/login"
+  },
+  {
+    "dork": "You have accessed a private computer system inurl:login"
+  },
+  {
+    "dork": "intitle:Remote Desktop Web Connection inurl:tsweb"
+  },
+  {
+    "dork": "inurl:\\/+CSCOE+\\/logon.html?"
+  },
+  {
+    "dork": "site:com sap netweaver portal"
+  },
+  {
+    "dork": "inurl:\\/webconsole\\/webpages\\/login.jsp"
+  },
+  {
+    "dork": "intitle:SFXAdmin intext:Login Form"
+  },
+  {
+    "dork": "site:police.*.*\\/ intext:login intitle:login"
+  },
+  {
+    "dork": "site:admin.*.*\\/ intext:login intitle:login"
+  },
+  {
+    "dork": "inurl:index.php Powered by PHP Server Monitor v3.1.1"
+  },
+  {
+    "dork": "login intitle:*payroll login"
+  },
+  {
+    "dork": "inurl:\\/seeyon\\/index.jsp"
+  },
+  {
+    "dork": "inurl:client_password="
+  },
+  {
+    "dork": "big-ip logout page ext:php3"
+  },
+  {
+    "dork": "inurl:\\/opac\\/index.jsp"
+  },
+  {
+    "dork": "TOPdesk ApplicationServer inurl:\\/index.jsp"
+  },
+  {
+    "dork": "login intitle:*reports login"
+  },
+  {
+    "dork": "site:gov.*.*\\/ intext:login intitle:login"
+  },
+  {
+    "dork": "inurl:\\/8080\\/admin.html"
+  },
+  {
+    "dork": "inurl:8080\\/login.php"
+  },
+  {
+    "dork": "site:vpn.*.*\\/ intext:login intitle:login"
+  },
+  {
+    "dork": "inurl:index.php\\/user\\/password\\/"
+  },
+  {
+    "dork": "allinurl:tsweb\\/default.htm"
+  },
+  {
+    "dork": "inurl:backend\\/web\\/site\\/login"
+  },
+  {
+    "dork": "inurl:passwordvault intext:cyberark"
+  },
+  {
+    "dork": "inurl:index.php\\/user\\/password\\/ intext:Password Reset"
+  },
+  {
+    "dork": "inurl:candidatelogin.aspx"
+  },
+  {
+    "dork": "inurl:adminlogin.jsp"
+  },
+  {
+    "dork": "intext:index of \\/ customer.php ~Login"
+  },
+  {
+    "dork": "intext:Welcome to Intranet login"
+  },
+  {
+    "dork": "index of jira inurl:login"
+  },
+  {
+    "dork": "inurl:.Admin;-aspx } ~Login"
+  },
+  {
+    "dork": "login intitle:intext:Welcome to Member login"
+  },
+  {
+    "dork": "intitle:*Admin Intranet Login"
+  },
+  {
+    "dork": "inurl:.*org\\/login"
+  },
+  {
+    "dork": "intitle:index of pass.php"
+  },
+  {
+    "dork": "intitle:Intranet Login"
+  },
+  {
+    "dork": "Pages Containing Login Portal into Various Web Server"
+  },
+  {
+    "dork": "intitle:.*edu\\/login"
+  },
+  {
+    "dork": "inurl:employee-login.php"
+  },
+  {
+    "dork": "inurl:userlogin.do"
+  },
+  {
+    "dork": "inurl:login.do?method=login"
+  },
+  {
+    "dork": "inurl:admin\\/admin\\/Login"
+  },
+  {
+    "dork": "inurl:auth\\/Login"
+  },
+  {
+    "dork": "inurl:admin\\/login.aspx"
+  },
+  {
+    "dork": "inurl:admin\\/upload.asp"
+  },
+  {
+    "dork": "inurl:resetpassword.do"
+  },
+  {
+    "dork": "inurl:\\/index.php?route=account\\/forgotten"
+  },
+  {
+    "dork": "inurl:emplogin.aspx"
+  },
+  {
+    "dork": "inurl:passwordreset.asp"
+  },
+  {
+    "dork": "inurl:admlogin.asp"
+  },
+  {
+    "dork": "site:*\\/auth.html intitle:login"
+  },
+  {
+    "dork": "inurl:forgotpassword.php"
+  },
+  {
+    "dork": "inurl:emplogin.html"
+  },
+  {
+    "dork": "intitle:index of admin-login.php"
+  },
+  {
+    "dork": "inurl:Cpanel\\/login.aspx"
+  },
+  {
+    "dork": "inurl:Cpanel\\/login.php"
+  },
+  {
+    "dork": "intitle:adminlogin inurl:login"
+  },
+  {
+    "dork": "inurl:admin\\/login.jsp"
+  },
+  {
+    "dork": "inurl:admlogin.php"
+  },
+  {
+    "dork": "inurl:\\/forgotpassword.php"
+  },
+  {
+    "dork": "site:*\\/password_forgotten.php"
+  },
+  {
+    "dork": "inurl:adminlogin.htm"
+  },
+  {
+    "dork": "inurl:resetpassword.jsf"
+  },
+  {
+    "dork": "inurl:adminpanel.aspx"
+  },
+  {
+    "dork": "inurl:admlogin.aspx"
+  },
+  {
+    "dork": "inurl:adminlogin.html"
+  },
+  {
+    "dork": "inurl:forgotpassword.do"
+  },
+  {
+    "dork": "inurl:adminlogin.do"
+  },
+  {
+    "dork": "site:*\\/joomla\\/login"
+  },
+  {
+    "dork": "inurl:forgotpassword.htm"
+  },
+  {
+    "dork": "login intitle:*board login"
+  },
+  {
+    "dork": "login intitle:*scada login"
+  },
+  {
+    "dork": "login intitle:*dashboard login"
+  },
+  {
+    "dork": "inurl:resetpassword.aspx"
+  },
+  {
+    "dork": "inurl:resetpassword.asp"
+  },
+  {
+    "dork": "inurl:passwordreset.php"
+  },
+  {
+    "dork": "inurl:adminlogin.jsp"
+  },
+  {
+    "dork": "inurl:forgotpassword.asp"
+  },
+  {
+    "dork": "intitle:HP System Management Homepage inurl:cpqlogin"
+  },
+  {
+    "dork": "intitle:ASUS AND inurl:Main_Login.asp AND intext:router account -asus.com"
+  },
+  {
+    "dork": "inurl:forgotpassword.aspx"
+  },
+  {
+    "dork": "inurl:login_admin admin"
+  },
+  {
+    "dork": "inurl:adminlogin.php"
+  },
+  {
+    "dork": "inurl:forgotpassword.jsf"
+  },
+  {
+    "dork": "You need to be logged in to see your course progress."
+  },
+  {
+    "dork": "inurl:pentaho\\/Login"
+  },
+  {
+    "dork": "inurl:login.jsf"
+  },
+  {
+    "dork": "intitle:Ice Hrm Login intext:Forgot Password"
+  },
+  {
+    "dork": "inurl:adminlogin.asp"
+  },
+  {
+    "dork": "inurl:enter.php?phpbb_root_path="
+  },
+  {
+    "dork": "inurl:client_id="
+  },
+  {
+    "dork": "intitle:ShowIt-Admin"
+  },
+  {
+    "dork": "inurl:admin.aspx"
+  },
+  {
+    "dork": "intext:Launch FortiClient and Please Login"
+  },
+  {
+    "dork": "site:*\\/auth\\/forgot"
+  },
+  {
+    "dork": "inurl:\\/emptyView4.html"
+  },
+  {
+    "dork": "index of adminer.php"
+  },
+  {
+    "dork": "inurl:userportal\\/webpages\\/myaccount\\/login.jsp"
+  },
+  {
+    "dork": "site:*\\/dana-na\\/auth\\/welcome.cgi?p=rolelogo"
+  },
+  {
+    "dork": "site:*\\/asana\\/login"
+  },
+  {
+    "dork": "site:*\\/login\\/pass"
+  },
+  {
+    "dork": "site:*\\/Drupal\\/login"
+  },
+  {
+    "dork": "inurl:\\/dynamic\\/login.html intext:Linksys Smart Wi-Fi Sign In"
+  },
+  {
+    "dork": "intitle:OpenMeetings intext:Username or mail address"
+  },
+  {
+    "dork": "intitle:Fortinet - Login"
+  },
+  {
+    "dork": "inurl:\\/dynamic\\/password-reset.html"
+  },
+  {
+    "dork": "The default username and password is admin:admin intitle:Login OR inurl:login.php"
+  },
+  {
+    "dork": "inurl:\\/8080\\/login.html"
+  },
+  {
+    "dork": "inurl:start.swe?SWECmd"
+  },
+  {
+    "dork": "inurl:8080\\/portal\\/pda\\/?force.login=yes"
+  },
+  {
+    "dork": "site:.atlassian.net Log in to your account"
+  },
+  {
+    "dork": "site:*\\/test\\/login"
+  },
+  {
+    "dork": "login intitle:iot login"
+  },
+  {
+    "dork": "inurl:login.html intitle:d-link"
+  },
+  {
+    "dork": "site:*\\/lost-password\\/"
+  },
+  {
+    "dork": "Welcome to Sentry"
+  },
+  {
+    "dork": "inurl:\\/DeclaranetPlusWebapp\\/ intext:Entrar"
+  },
+  {
+    "dork": "intext:Welcome Site\\/User Administrator"
+  },
+  {
+    "dork": "site:*\\/JIRA\\/login"
+  },
+  {
+    "dork": "site:*\\/admin\\/password.php"
+  },
+  {
+    "dork": "inurl:r51173 intext:Keep me logged in"
+  },
+  {
+    "dork": "inurl:\\/global-protect\\/login.esp"
+  },
+  {
+    "dork": "inurl:\\/sslvpn\\/Login\\/Login"
+  },
+  {
+    "dork": "inurl:main_login.html intitle:Netgear"
+  },
+  {
+    "dork": "intext:Any time & Any where intext:Username intext:Password intext:login intext:View: Mobile | PC"
+  },
+  {
+    "dork": "site:*\\/request-new-password"
+  },
+  {
+    "dork": "site:*\\/password_lost.php"
+  },
+  {
+    "dork": "site:*\\/auth.php"
+  },
+  {
+    "dork": "inurl:\\/auth.php?forgot_password=yes"
+  },
+  {
+    "dork": "site:account.*.*\\/recovery"
+  },
+  {
+    "dork": "site:*\\/PassRecover"
+  },
+  {
+    "dork": "site:*\\/user\\/forgotpass"
+  },
+  {
+    "dork": "site:*\\/signup\\/pass"
+  },
+  {
+    "dork": "site:*\\/lost_pass.php"
+  },
+  {
+    "dork": "site:*\\/signup\\/password.php"
+  },
+  {
+    "dork": "site:*\\/requestpassword.*"
+  },
+  {
+    "dork": "site:*\\/membersarea intitle:login"
+  },
+  {
+    "dork": "site:*\\/user\\/forgot"
+  },
+  {
+    "dork": "site:*\\/account-recovery.html"
+  },
+  {
+    "dork": "site:*\\/retrieve-password"
+  },
+  {
+    "dork": "site:*\\/resetpass.php"
+  },
+  {
+    "dork": "site:*\\/reminder_password"
+  },
+  {
+    "dork": "site:*\\/changePassword.php"
+  },
+  {
+    "dork": "site:*\\/*\\/pwdrecovery.php"
+  },
+  {
+    "dork": "site:*\\/adfs\\/ls\\/ intitle:Sign In"
+  },
+  {
+    "dork": "intext:Welcome! Log in or create an account to continue."
+  },
+  {
+    "dork": "inurl:8080\\/webinterface intitle:crushftp"
+  },
+  {
+    "dork": "site:*\\/retrieve.php"
+  },
+  {
+    "dork": "intext:Welcome Admin"
+  },
+  {
+    "dork": "site:*\\/Citrix\\/storeweb"
+  },
+  {
+    "dork": "intext:This computer system is the property of -error"
+  },
+  {
+    "dork": "inurl:\\/forgotpassword intext:enter username and email"
+  },
+  {
+    "dork": "site:*\\/LoginPanel.aspx"
+  },
+  {
+    "dork": "site:*\\/AdminPanel.aspx"
+  },
+  {
+    "dork": "intext:Please enter your new password inurl:login filetype:php"
+  },
+  {
+    "dork": "intext:please enter your username and password inurl:login filetype:php"
+  },
+  {
+    "dork": "intitle:Outlook Web App inurl:\\/owa\\/auth logon ext:aspx"
+  },
+  {
+    "dork": "intitle:WEB SERVICE intext:Please install plugins first!"
+  },
+  {
+    "dork": "inurl:\\/jw\\/web\\/login"
+  },
+  {
+    "dork": "inurl:\\/login.htm?page= intext:Loading login page"
+  },
+  {
+    "dork": "inurl:serverpush.htm intext:Real-time"
+  },
+  {
+    "dork": "inurl:manager\\/login"
+  },
+  {
+    "dork": "inurl:Orion\\/Login.aspx?ReturnUrl="
+  },
+  {
+    "dork": "intitle:Log In JIRA inurl:8080:\\/login.jsp"
+  },
+  {
+    "dork": "intext:Welcome to JIRA Powered by a free Atlassian Jira community"
+  },
+  {
+    "dork": "intext:OpenCart inurl:index.php?route=common\\/dashboard"
+  },
+  {
+    "dork": "intitle:Pentaho User Console - Login"
+  },
+  {
+    "dork": "inurl:\\/_layouts\\/userdisp.aspx?id= intext:password"
+  },
+  {
+    "dork": "inurl:auth.html intitle:SonicWall"
+  },
+  {
+    "dork": "intitle:VMware intext:VMware"
+  },
+  {
+    "dork": "intitle:VMware inurl:5480"
+  },
+  {
+    "dork": "inurl:saw.dll AND intitle:Sign In"
+  },
+  {
+    "dork": "intitle:RabbitMQ Management inurl:15672"
+  },
+  {
+    "dork": "intext:Rubicon Communications"
+  },
+  {
+    "dork": "inurl:check_mk\\/login.py"
+  },
+  {
+    "dork": "intitle:Check_MK Multisite Login"
+  },
+  {
+    "dork": "site:*\\/AdminPanel.php"
+  },
+  {
+    "dork": "inurl:memberlogin.php"
+  },
+  {
+    "dork": "intitle:Sign in site:*\\/idaas\\/"
+  },
+  {
+    "dork": "intitle:webview login alcatel lucent"
+  },
+  {
+    "dork": "intitle:LABVANTAGE Logon"
+  },
+  {
+    "dork": "site:*\\/cgi\\/domadmin.cgi"
+  },
+  {
+    "dork": "inurl::8080\\/login.jsp?os_destination="
+  },
+  {
+    "dork": "intext:powered by codoforum inurl:\\/user\\/login"
+  },
+  {
+    "dork": "intitle:Zabbix intext:username intext:password inurl:\\/zabbix\\/index.php"
+  },
+  {
+    "dork": "inurl:\\/index.php?reconnect=1"
+  },
+  {
+    "dork": "inurl::8080\\/login"
+  },
+  {
+    "dork": "intitle:Check Point - Login"
+  },
+  {
+    "dork": "inurl:\\/webis\\/webis_login.html"
+  },
+  {
+    "dork": "intitle:Pfsense - Login"
+  },
+  {
+    "dork": "intitle:WHMCS - Login inurl:\\/admin\\/login.php"
+  },
+  {
+    "dork": "intitle:WebSite X5 Manager inurl:\\/admin\\/login.php"
+  },
+  {
+    "dork": "inurl:admin\\/login.php?login= intitle:CMS"
+  },
+  {
+    "dork": "inurl:\\/login.aspx site:com.tr intitle:y\\u00f6netim"
+  },
+  {
+    "dork": "intext:Service provided by Horos."
+  },
+  {
+    "dork": "site:*\\/siteminderagent\\/forms\\/login.fcc"
+  },
+  {
+    "dork": "intext:civicplus Login"
+  },
+  {
+    "dork": "intitle:TMSoft MyAuth Gateway 3 -DOWNLOAD"
+  },
+  {
+    "dork": "intitle:MK-AUTH :: CONTEUDO RESTRITO -site:mk-auth.com.br"
+  },
+  {
+    "dork": "inurl:10443\\/remote\\/login"
+  },
+  {
+    "dork": "site:*\\/my.policy"
+  },
+  {
+    "dork": "inurl:login.jsp intitle:login"
+  },
+  {
+    "dork": "intitle:odoo inurl:login powered by odoo manage databases"
+  },
+  {
+    "dork": "inurl:\\/index.php?title=Special:Userlogin"
+  },
+  {
+    "dork": "inurl:\\/index.php?content=login"
+  },
+  {
+    "dork": "inurl:\\/index.php?p=login"
+  },
+  {
+    "dork": "inurl:\\/index.php?pageID=login"
+  },
+  {
+    "dork": "inurl:\\/index.php\\/main\\/login"
+  },
+  {
+    "dork": "site:*\\/cgi-bin\\/luci intext:Authorization Required"
+  },
+  {
+    "dork": "site:*\\/auth_index.htm?lang=kr&loginvalue=0&port=0"
+  },
+  {
+    "dork": "inurl:\\/Admin\\/Forget.php"
+  },
+  {
+    "dork": "site:*\\/admin\\/password\\/reset"
+  },
+  {
+    "dork": "site:*\\/account\\/reset"
+  },
+  {
+    "dork": "inurl:\\/password.php intitle:Forgot your password"
+  },
+  {
+    "dork": "inurl:\\/webconsole\\/webpages\\/login.jsp"
+  },
+  {
+    "dork": "inurl:.elasticbeanstalk.com\\/admin"
+  },
+  {
+    "dork": "intitle:Metabase inurl:\\/dash"
+  },
+  {
+    "dork": "redash inurl:\\/org_slug"
+  },
+  {
+    "dork": "site:*\\/cb-forgot-login"
+  },
+  {
+    "dork": "inurl:\\/wp-login.php?action=lostpassword"
+  },
+  {
+    "dork": "intitle:Pandora FMS mobile"
+  },
+  {
+    "dork": "site:*\\/account\\/lost_password"
+  },
+  {
+    "dork": "intitle:API Publisher- Login"
+  },
+  {
+    "dork": "site:passport.*.*\\/login"
+  },
+  {
+    "dork": "site:*\\/Dashboard\\/ intitle:login"
+  },
+  {
+    "dork": "site:watch.*.*\\/login"
+  },
+  {
+    "dork": "site:*\\/loginportal\\/ intitle:login"
+  },
+  {
+    "dork": "inurl:\\/index.php?action=login"
+  },
+  {
+    "dork": "site:*\\/password\\/remind"
+  },
+  {
+    "dork": "inurl:BasicAuthenticator:LOCAL"
+  },
+  {
+    "dork": "inurl:\\/showLogin.cc?isMobile=false"
+  },
+  {
+    "dork": "inurl:apex\\/f?p="
+  },
+  {
+    "dork": "site:*\\/oauth\\/authenticate"
+  },
+  {
+    "dork": "inurl:\\/index.php?route=account\\/login"
+  },
+  {
+    "dork": "inurl:\\/index.php?gt=member\\/login"
+  },
+  {
+    "dork": "inurl:\\/index.php?r=site\\/login"
+  },
+  {
+    "dork": "inurl:\\/index.php\\/site\\/login"
+  },
+  {
+    "dork": "inurl:\\/userlogin"
+  },
+  {
+    "dork": "inurl:\\/customerlogin"
+  },
+  {
+    "dork": "inurl:\\/clientlogin"
+  },
+  {
+    "dork": "inurl:\\/studentlogin"
+  },
+  {
+    "dork": "inurl:\\/stafflogin"
+  },
+  {
+    "dork": "site:*\\/usercp.php"
+  },
+  {
+    "dork": "inurl:\\/index.php?page=login"
+  },
+  {
+    "dork": "site:*\\/account\\/preferences"
+  },
+  {
+    "dork": "site:*\\/request-password-reset"
+  },
+  {
+    "dork": "inurl:\\/dana-na\\/ filetype:cgi"
+  },
+  {
+    "dork": "site:*\\/wp-admin\\/user-edit.php"
+  },
+  {
+    "dork": "site:*\\/pwdform.htm"
+  },
+  {
+    "dork": "site:*\\/oauth2\\/authorize"
+  },
+  {
+    "dork": "site:* intitle:reset password"
+  },
+  {
+    "dork": "inurl:webmail\\/src\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/prweb\\/prwebLDAP1\\/"
+  },
+  {
+    "dork": "intitle:login site:welcome.*.*"
+  },
+  {
+    "dork": "site:*\\/casAuthn\\/login.php"
+  },
+  {
+    "dork": "site:*\\/authzssl\\/forget_password"
+  },
+  {
+    "dork": "site:*\\/index_signin.php"
+  },
+  {
+    "dork": "site:*\\/authUpdate intitle:Account Access Help"
+  },
+  {
+    "dork": "inurl:\\/usp-core\\/app\\/authUpdate"
+  },
+  {
+    "dork": "site:*:8443\\/login_up.php"
+  },
+  {
+    "dork": "intext:Please log on to use the mikrotik hotspot service intitle:mikrotik hotspot "
+  },
+  {
+    "dork": "site:cpanel.*.* intitle:login -site:forums.cpanel.net"
+  },
+  {
+    "dork": "site:*\\/nms\\/login intitle:UNMS"
+  },
+  {
+    "dork": "inurl:\\/phpmyadmin\\/user_password.php -inurl:git"
+  },
+  {
+    "dork": "inurl:\\/SecureAuth.aspx"
+  },
+  {
+    "dork": "intitle:XENON :: Login"
+  },
+  {
+    "dork": "site:*\\/recover-pass"
+  },
+  {
+    "dork": "site:smtp.*.*\\/login"
+  },
+  {
+    "dork": "site:dev.*.*\\/signin"
+  },
+  {
+    "dork": "site:app.*.*\\/ intext:login"
+  },
+  {
+    "dork": "inurl:show_port_res_settings"
+  },
+  {
+    "dork": "site:exchange.*.*\\/owa\\/"
+  },
+  {
+    "dork": "site:remote.*.* intitle:User Authentication"
+  },
+  {
+    "dork": "inurl:\\/awcuser*"
+  },
+  {
+    "dork": "intitle:login enterprise"
+  },
+  {
+    "dork": "site:*\\/password_reset\\/"
+  },
+  {
+    "dork": "site:*:8000\\/login#forgot intitle:login"
+  },
+  {
+    "dork": "site:auth.*.*\\/signin"
+  },
+  {
+    "dork": "site:*\\/forgot-password"
+  },
+  {
+    "dork": "site:*\\/resetpassword.php"
+  },
+  {
+    "dork": "site:monitor.*.*\\/login intitle:Login"
+  },
+  {
+    "dork": "site:management.*.*\\/login\\/"
+  },
+  {
+    "dork": "site:moodle.*.*\\/login"
+  },
+  {
+    "dork": "site:*\\/SendPassword"
+  },
+  {
+    "dork": "site:intranet.*.*\\/login\\/"
+  },
+  {
+    "dork": "inurl:admin\\/changepassword*"
+  },
+  {
+    "dork": "site:*\\/updatepassword.php"
+  },
+  {
+    "dork": "site:*\\/validar_usuario.php"
+  },
+  {
+    "dork": "intitle:Login to Webmin intext:You must enter a username and password to login to the server"
+  },
+  {
+    "dork": "site:ftp:\\/\\/ftp.*.*\\/login -inurl:https:\\/\\/"
+  },
+  {
+    "dork": "site:*\\/securelogin.asp"
+  },
+  {
+    "dork": "site:*\\/authlogin\\/ intitle:login"
+  },
+  {
+    "dork": "site:*\\/exchange-login\\/ intitle:Login"
+  },
+  {
+    "dork": "site:*\\/m-login.html"
+  },
+  {
+    "dork": "site:*\\/Security\\/Login"
+  },
+  {
+    "dork": "site:*\\/admincp\\/ intitle:Admin Cp"
+  },
+  {
+    "dork": "site:*\\/user\\/password\\/"
+  },
+  {
+    "dork": "inurl:\\/index.php\\/admin\\/ intitle:login"
+  },
+  {
+    "dork": "inurl:\\/identify\\/ intitle:Forgotten Password"
+  },
+  {
+    "dork": "site:*.*.*\\/authentication\\/Logon"
+  },
+  {
+    "dork": "site:secure.*.* intitle:log in"
+  },
+  {
+    "dork": "site:sts.*.*\\/adfs\\/ls\\/?SAMLRequest= intitle:sign in"
+  },
+  {
+    "dork": "site:*\\/web-hosting\\/cplogin"
+  },
+  {
+    "dork": "inurl:\\/?action=login intitle:Log In"
+  },
+  {
+    "dork": "inurl:\\/EasyPAY\\/view"
+  },
+  {
+    "dork": "site:*\\/account-sign-in"
+  },
+  {
+    "dork": "site:*\\/login\\/ForgotPassword"
+  },
+  {
+    "dork": "site:admin.*.*\\/forgot?username="
+  },
+  {
+    "dork": "site:*\\/wp-login?redirect_to= intitle:login"
+  },
+  {
+    "dork": "site:*\\/Password.aspx"
+  },
+  {
+    "dork": "site:*\\/forgetpassword.php"
+  },
+  {
+    "dork": "intitle:dotCMS inurl:dotAdmin"
+  },
+  {
+    "dork": "intitle:synology intext:Choose login account:"
+  },
+  {
+    "dork": "site:*\\/index.php\\/login intitle:login"
+  },
+  {
+    "dork": "intitle:Login page intext:about SurgeMail"
+  },
+  {
+    "dork": "site:*\\/cgi\\/user.cgi"
+  },
+  {
+    "dork": "site:*\\/Webmail\\/"
+  },
+  {
+    "dork": "intitle:Local Run Manager intext:Local Run Manager Version:"
+  },
+  {
+    "dork": "site:identity.*.*\\/login"
+  },
+  {
+    "dork": "intitle:please login inurl:remote\\/login intext:FortiToken"
+  },
+  {
+    "dork": "site:mail.*.*\\/auth"
+  },
+  {
+    "dork": "site:*\\/pages\\/login.php intitle:Login"
+  },
+  {
+    "dork": "site:*\\/en\\/login\\/"
+  },
+  {
+    "dork": "site:vpn.*.*\\/ intitle:login"
+  },
+  {
+    "dork": "site:\\/*:8081\\/nexus\\/#welcome -inurl:\\/nexus\\/content\\/"
+  },
+  {
+    "dork": "inurl:*admin_login.php"
+  },
+  {
+    "dork": "inurl:\\/manage\\/login.html"
+  },
+  {
+    "dork": "site:*:8888\\/login.aspx"
+  },
+  {
+    "dork": "site:\\/*:81 -site:\\/*:8080 intitle:::: Login :::"
+  },
+  {
+    "dork": "inurl:\\/login.php?do=login"
+  },
+  {
+    "dork": "site:*\\/src\\/login.php"
+  },
+  {
+    "dork": "site:*\\/forum\\/login\\/"
+  },
+  {
+    "dork": "site:*\\/logon\\/logonpoint\\/tmindex.html"
+  },
+  {
+    "dork": "site:*\\/logon\\/ intitle:Sign In"
+  },
+  {
+    "dork": "site:*\\/sign_in.aspx"
+  },
+  {
+    "dork": "inurl:\\/oaam_server\\/login.do"
+  },
+  {
+    "dork": "intitle:Sales Central - Logon"
+  },
+  {
+    "dork": "site:\\/auth.*.*\\/login"
+  },
+  {
+    "dork": "inurl:\\/admin.login.php"
+  },
+  {
+    "dork": "site:*\\/admin\\/login.html"
+  },
+  {
+    "dork": "inurl:admin. intitle:admin login"
+  },
+  {
+    "dork": "intitle:Calendarix Admin Login"
+  },
+  {
+    "dork": "inurl:\\/admin\\/cal_login.php"
+  },
+  {
+    "dork": "inurl:\\/Login\\/Admin intitle:Admin Login"
+  },
+  {
+    "dork": "site:*\\/admin-login intitle:Admin Login"
+  },
+  {
+    "dork": "site:signin.*.* intitle:login"
+  },
+  {
+    "dork": "site:sso.*.* intitle:Login"
+  },
+  {
+    "dork": "site:admin.*.* intitle:Admin Login"
+  },
+  {
+    "dork": "site:login.*.* intitle:Admin Login"
+  },
+  {
+    "dork": "site:*\\/adminLogin\\/login\\/"
+  },
+  {
+    "dork": "inurl:\\/admin\\/ intext:login"
+  },
+  {
+    "dork": "inurl:\\/admin\\/admin.php intitle:login"
+  },
+  {
+    "dork": "site:member.*.* intitle:login"
+  },
+  {
+    "dork": "inurl:\\/users\\/sign_in"
+  },
+  {
+    "dork": "inurl:\\/member\\/login"
+  },
+  {
+    "dork": "inurl:\\/account\\/logon intitle:Log On"
+  },
+  {
+    "dork": "inurl:\\/account\\/signin intitle:signin"
+  },
+  {
+    "dork": "inurl:\\/wp-admin\\/admin.php intitle:Log In"
+  },
+  {
+    "dork": "site:*\\/quicklogin.php"
+  },
+  {
+    "dork": "site:*\\/auth\\/login.aspx"
+  },
+  {
+    "dork": "site:*\\/cgi-bin\\/login.html"
+  },
+  {
+    "dork": "viostor system"
+  },
+  {
+    "dork": "site:account.*.*\\/login"
+  },
+  {
+    "dork": "site:*\\/account\\/login"
+  },
+  {
+    "dork": "site:*\\/forum\\/ucp.php?mode=login"
+  },
+  {
+    "dork": "inurl:memberlist.php?mode=viewprofile"
+  },
+  {
+    "dork": "site:*\\/sign-in"
+  },
+  {
+    "dork": "intitle:EdgeOS intext:Please login"
+  },
+  {
+    "dork": "inurl:user_login.php"
+  },
+  {
+    "dork": "intitle:Web Management Login"
+  },
+  {
+    "dork": "site:*\\/users\\/login_form"
+  },
+  {
+    "dork": "site:*\\/access\\/unauthenticated"
+  },
+  {
+    "dork": "site:*\\/index.jsp intitle:login"
+  },
+  {
+    "dork": "site:*\\/login\\/auth"
+  },
+  {
+    "dork": "inurl:adminpanel\\/index.php"
+  },
+  {
+    "dork": "site:portal.*.com\\/signin\\/"
+  },
+  {
+    "dork": "site:admin.*.com\\/signin\\/"
+  },
+  {
+    "dork": "site:login.*.com\\/signin\\/"
+  },
+  {
+    "dork": "site:conf.*.com\\/signin\\/"
+  },
+  {
+    "dork": "site:social.*.com\\/signin\\/"
+  },
+  {
+    "dork": "inurl:login_user.asp"
+  },
+  {
+    "dork": "intitle:sign in inurl:\\/signin"
+  },
+  {
+    "dork": "intitle:sign in inurl:login.aspx"
+  },
+  {
+    "dork": "site:*\\/user\\/login"
+  },
+  {
+    "dork": "site:accounts.*.com\\/signin\\/"
+  },
+  {
+    "dork": "inurl:login.cgi"
+  },
+  {
+    "dork": "site:*\\/joomla\\/administrator"
+  },
+  {
+    "dork": "inurl:\\/login\\/index.jsp -site:hertz.*"
+  },
+  {
+    "dork": "inurl:cgi\\/login.pl"
+  },
+  {
+    "dork": "site:*\\/auth intitle:login"
+  },
+  {
+    "dork": "inurl: admin\\/login.aspx"
+  },
+  {
+    "dork": "inurl:\\/index.aspx\\/login"
+  },
+  {
+    "dork": "site:amazonaws.com inurl:login.php"
+  },
+  {
+    "dork": "inurl:\\/site\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/client\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/guest\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/administrator\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/system\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/student\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/teacher\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/employee\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/admin\\/login.php"
+  },
+  {
+    "dork": "inurl:wp\\/wp-login.php"
+  },
+  {
+    "dork": "site:*\\/login\\/login.php"
+  },
+  {
+    "dork": "inurl:Dashboard.jspa intext:Atlassian Jira Project Management Software"
+  },
+  {
+    "dork": "inurl:simple\\/view\\/login.html"
+  },
+  {
+    "dork": "inurl:\\/en-US\\/account\\/login?return_to="
+  },
+  {
+    "dork": "intext:Grafana New version available! -grafana.com -grafana.org inurl:\\/login"
+  },
+  {
+    "dork": "inurl:\\/admin\\/index.php?module=config"
+  },
+  {
+    "dork": "inurl:\\/admin\\/index.php"
+  },
+  {
+    "dork": "intext:evetsites Login"
+  },
+  {
+    "dork": "inurl:\\/vpn\\/tmindex.html vpn"
+  },
+  {
+    "dork": "inurl:\\/fuel\\/login"
+  },
+  {
+    "dork": "intitle:netscaler gateway intext:password please log on"
+  },
+  {
+    "dork": "inurl:9000 AND intext:Continuous Code Quality"
+  },
+  {
+    "dork": "Web Analytics powered by Open Web Analytics - v: 1.6.2"
+  },
+  {
+    "dork": "intitle:Outlook Web Access | Outlook Web app -office.com -youtube.com -microsoft.com"
+  },
+  {
+    "dork": "intext:Sign in with your organizational account login -github.com"
+  },
+  {
+    "dork": "inurl:CookieAuth.dll?GetLogon? intext:log on"
+  },
+  {
+    "dork": "-youtube.com login | password | username intitle:assessment"
+  },
+  {
+    "dork": "intitle:iLO Login intext:Integrated Lights-Out 3"
+  },
+  {
+    "dork": "please sign in sign in gophish +login"
+  },
+  {
+    "dork": "intitle:admin console inurl:login site:*.edu|site:*.gov|site:*.net -site:*.com -help -guide -documentation -release -notes -configure -support -price -cant"
+  },
+  {
+    "dork": "inurl:\\/login.rsp"
+  },
+  {
+    "dork": "intitle:oracle bi publisher enterprise login"
+  },
+  {
+    "dork": "inurl:\\/Shop\\/auth\\/login"
+  },
+  {
+    "dork": "inurl:office365 AND intitle:Sign In | Login | Portal"
+  },
+  {
+    "dork": "intext:Login | Password AND intext:Powered by | username AND intext:Drupal AND inurl:user"
+  },
+  {
+    "dork": "inurl:+CSCOE+\\/logon.html"
+  },
+  {
+    "dork": "inurl:login.aspx filetype:aspx intext:TMW Systems"
+  },
+  {
+    "dork": "site:mil ext:cfm inurl:login.cfm"
+  },
+  {
+    "dork": "intitle:qBittorrent Web UI inurl:8080"
+  },
+  {
+    "dork": "inurl:ctl\\/Login\\/Default.aspx"
+  },
+  {
+    "dork": "inurl:7474\\/browser intitle:Neo4j"
+  },
+  {
+    "dork": "intitle:OmniDB intext:user. pwd. Sign in."
+  },
+  {
+    "dork": "site:com inurl:b2blogin ext:cfm | jsp | php | aspx"
+  },
+  {
+    "dork": "intitle:iDRAC-login"
+  },
+  {
+    "dork": "intitle:Log In - Juniper Web Device Manager"
+  },
+  {
+    "dork": "intitle:.:: Welcome to the Web-Based Configurator::."
+  },
+  {
+    "dork": "online learning powered by bksb"
+  },
+  {
+    "dork": "inurl:'\\/scopia\\/entry\\/index.jsp'"
+  },
+  {
+    "dork": "inurl:'\\/logon\\/logonServlet'"
+  },
+  {
+    "dork": "inurl:'\\/zabbix\\/index.php'"
+  },
+  {
+    "dork": "intitle:'Centreon - IT & Network Monitoring'"
+  },
+  {
+    "dork": "\\/adp\\/self\\/service\\/login"
+  },
+  {
+    "dork": "inurl:SSOLogin.jsp intext:user"
+  },
+  {
+    "dork": "intitle:vendor | supply & login | portal intext:login | email & password"
+  },
+  {
+    "dork": "intext:pin | userid & password intitle:supplier | supply & login | portal"
+  },
+  {
+    "dork": "inurl:\\/za\\/login.do"
+  },
+  {
+    "dork": "inurl:\\/adfs\\/services\\/trust"
+  },
+  {
+    "dork": "intitle:rms webportal"
+  },
+  {
+    "dork": "inurl:F5Networks-SSO-Req?"
+  },
+  {
+    "dork": "inurl:shared\\/login.jsp?\\/ BMC arsys"
+  },
+  {
+    "dork": "inurl:login.htm xpress password"
+  },
+  {
+    "dork": "inurl:login.htm access database"
+  },
+  {
+    "dork": "inurl:\\/my-account-login | allintext:My Account"
+  },
+  {
+    "dork": "inurl:\\/FxCodeShell.jsp\\/ Login Form Blog Comments"
+  },
+  {
+    "dork": "inurl:\\/pwm\\/public\\/"
+  },
+  {
+    "dork": "inurl:\\/login.zul"
+  },
+  {
+    "dork": "inurl:\\/sap\\/bc\\/bsp"
+  },
+  {
+    "dork": "inurl:\\/irj\\/portal"
+  },
+  {
+    "dork": "inurl:infoviewapp"
+  },
+  {
+    "dork": "filetype:cwr inurl:apstoken"
+  },
+  {
+    "dork": "inurl:admin.php inurl:admin ext:php"
+  },
+  {
+    "dork": "inurl:webman\\/index.cgi"
+  },
+  {
+    "dork": "Example: jane.citizen1"
+  },
+  {
+    "dork": "intext:EQ1PCI"
+  },
+  {
+    "dork": "login:"
+  },
+  {
+    "dork": "inurl:_cpanel\\/forgotpwd"
+  },
+  {
+    "dork": "inurl:Umbraco\\/#\\/login site:*edu"
+  },
+  {
+    "dork": "inurl:\\/config\\/authentication_page.htm"
+  },
+  {
+    "dork": "intext:Type in Username and Password"
+  },
+  {
+    "dork": "vpnssl"
+  },
+  {
+    "dork": "inurl:\\/phpsqlitecms\\/cms\\/index.php"
+  },
+  {
+    "dork": "inurl:\\/saml2?SAMLRequest="
+  },
+  {
+    "dork": "intitle:login recruiter | employer | candidate"
+  },
+  {
+    "dork": "intext:authentication intranet password login inurl:account ext:(doc | pdf | xls| psw | ppt | pps | xml | txt | ps | rtf | odt | sxw | xlsx | docx | mail)"
+  },
+  {
+    "dork": "inurl:login intext:reset your password"
+  },
+  {
+    "dork": "intext:(username | user | email | sign on | login | auth) admin dashboard | panel -stackoverflow"
+  },
+  {
+    "dork": "inurl:login.do? | shoplogin.do | adminlogin"
+  },
+  {
+    "dork": "inurl:Default+Administrator+View"
+  },
+  {
+    "dork": "inur:arsys\\/forms | arsys\\/shared | \\/arsys\\/home"
+  },
+  {
+    "dork": "ProQuest provides subscription access to numerous premium technical journals"
+  },
+  {
+    "dork": "intitle:Log in - WhatsUp Gold"
+  },
+  {
+    "dork": "intitle:OAuth Server Login"
+  },
+  {
+    "dork": "intitle:Login inurl:login.php intext:admin\\/admin"
+  },
+  {
+    "dork": "inurl:\\/banking.jsp?fldsegment="
+  },
+  {
+    "dork": "inurl:\\/INALogin.jsp"
+  },
+  {
+    "dork": "intitle:phpVirtualBox - VirtualBox Web Console"
+  },
+  {
+    "dork": "inurl:\\/usersignin?"
+  },
+  {
+    "dork": "intext:Thank you for using BIG-IP."
+  },
+  {
+    "dork": "inurl:secure\\/dashboard jspa"
+  },
+  {
+    "dork": "inurl:\\/jira\\/login.jsp intitle:JIRA login"
+  },
+  {
+    "dork": "intitle:manager area password -stackoverflow.com"
+  },
+  {
+    "dork": "Copyright Metislab password"
+  },
+  {
+    "dork": "nd=m_fundraising_detail login here"
+  },
+  {
+    "dork": "inurl:login.jsp intitle:admin"
+  },
+  {
+    "dork": "Powered byPlanet eStream"
+  },
+  {
+    "dork": "webkactus"
+  },
+  {
+    "dork": "CCCLogin.aspx"
+  },
+  {
+    "dork": "PaperCut Login"
+  },
+  {
+    "dork": "intitle:MyWebSQL + User ID: Password:"
+  },
+  {
+    "dork": "intitle:SSL VPN Service + intext:Your system administrator provided the following information to help understand and remedy the security conditions:"
+  },
+  {
+    "dork": "filetype:png | proportal"
+  },
+  {
+    "dork": "frmLogin"
+  },
+  {
+    "dork": "2004 - 2018 iboss"
+  },
+  {
+    "dork": "intitle:Wagtail.-.Sign in intext:Javascript.is.required.to.use.Wagtail"
+  },
+  {
+    "dork": "inurl:\\/admin intitle:Pulse.CMS -pulsecms.com"
+  },
+  {
+    "dork": "intext:Omeka*Username Powered.by.Omeka inurl:admin -github -omeka.org"
+  },
+  {
+    "dork": "inurl:\\/sitefinity intext:Copyright.(c)*Telerik. Site.Finity"
+  },
+  {
+    "dork": "intext:Connect.with.Finalsite intitle:admin -facebook"
+  },
+  {
+    "dork": "inurl:\\/contao\\/main ext:php -community -github"
+  },
+  {
+    "dork": "inurl:\\/logon.aspx?ReturnUrl="
+  },
+  {
+    "dork": "inurl:login.jsp?permissionViolation"
+  },
+  {
+    "dork": "inurl:\\/CMSPages\\/logon ext:aspx"
+  },
+  {
+    "dork": "inurl:\\/index.php\\/login intext:Concrete.CMS"
+  },
+  {
+    "dork": "Powered by Open Source Chat Platform Rocket.Chat."
+  },
+  {
+    "dork": "inurl:'\\/blog\\/Account\\/login.aspx'"
+  },
+  {
+    "dork": "intext:2001.-.2018.umbraco.org ext:aspx"
+  },
+  {
+    "dork": "allintitle: Flexi Press System"
+  },
+  {
+    "dork": "intitle:Netgear\\u2122 - NETGEAR Configuration Manager Login"
+  },
+  {
+    "dork": "inurl:user_login\\/ bitcoin | crypto | wallet"
+  },
+  {
+    "dork": "intitle:login laboratory | nuclear | physics password authentication"
+  },
+  {
+    "dork": "intext:this login can be used only once inurl:user intitle:reset password"
+  },
+  {
+    "dork": "intitle:Login inurl:\\/itim\\/self | inurl:\\/itim\\/ui -ibm.com"
+  },
+  {
+    "dork": "intitle:BMC Remedy Mid Tier login"
+  },
+  {
+    "dork": "inurl:\\/mailscanner\\/login.php"
+  },
+  {
+    "dork": "intitle:Open Source HRMS intext:powered by"
+  },
+  {
+    "dork": "inurl:default.aspx?ReturnUrl=\\/spssmr -stackoverflow -youtube.com -github"
+  },
+  {
+    "dork": "inurl:\\/SAMLLogin\\/ -github"
+  },
+  {
+    "dork": "login adp login -adplogin.us -adplogin.org -adplogin.net"
+  },
+  {
+    "dork": "inurl:\\/Admin\\/Login?ReturnUrl= -github.com -gitlab.com"
+  },
+  {
+    "dork": "login inurl:account\\/auth -github -gitlab -stackoverflow"
+  },
+  {
+    "dork": "inurl:\\/forgotpwd.jspx"
+  },
+  {
+    "dork": "inurl:ssologin\\/ -github.com"
+  },
+  {
+    "dork": "inurl:cmd=auth? -github -stackoverflow -gitlab"
+  },
+  {
+    "dork": "inurl:\\/initiatesso?providerid= -github.com"
+  },
+  {
+    "dork": "Oracle peoplesoft sign in inurl:cmd=login? -github -stackoverflow -gitlab"
+  },
+  {
+    "dork": "inurl:\\/startSSO.ping? -stackoverflow.com"
+  },
+  {
+    "dork": "login intitle:scada login"
+  },
+  {
+    "dork": "intitle:private login username -github"
+  },
+  {
+    "dork": "inurl:intranet\\/login login"
+  },
+  {
+    "dork": "intitle:partners login"
+  },
+  {
+    "dork": "inurl:login.php?referer=profile.php"
+  },
+  {
+    "dork": "intitle:login credit login"
+  },
+  {
+    "dork": "intitle:login form powered by -tutorial"
+  },
+  {
+    "dork": "department | agency | government intitle:login form -youtube -template"
+  },
+  {
+    "dork": "service | military | federal intitle:login form -youtube -template -stackoverflow"
+  },
+  {
+    "dork": "login secure intitle:online banking -youtube -template -stackoverflow -stackexchange"
+  },
+  {
+    "dork": "intitle:login | intitle:sign in member private admin club -stackoverflow -github -youtube"
+  },
+  {
+    "dork": "intitle:login | intitle:hospital patient clinic admin medical login -stackoverflow -github -youtube"
+  },
+  {
+    "dork": "intitle:Please login username password"
+  },
+  {
+    "dork": "username password intitle:login here"
+  },
+  {
+    "dork": "inurl:form_id login username password"
+  },
+  {
+    "dork": "intitle:access your account login"
+  },
+  {
+    "dork": "intitle:your access id is login -youtube"
+  },
+  {
+    "dork": "intitle:Control Panel Login with your username and password below. +Email +Powered by"
+  },
+  {
+    "dork": "intitle:Control Panel + emailmarketer"
+  },
+  {
+    "dork": "intitle:Login to CMS Made Simple + inurl:\\/cmsms"
+  },
+  {
+    "dork": "inurl:\\/forms\\/frmservlet?config= login"
+  },
+  {
+    "dork": "intitle:tm4web login | logon | account | member | password"
+  },
+  {
+    "dork": "inurl:\\/frontend\\/paper_lantern\\/index.html"
+  },
+  {
+    "dork": "inurl:\\/login\\/index.php intitle:CentOS"
+  },
+  {
+    "dork": "inurl:\\/jde\\/E1Menu.maf"
+  },
+  {
+    "dork": "inurl:\\/libs\\/granite\\/core\\/content\\/login.html"
+  },
+  {
+    "dork": "inurl:\\/moodle\\/login\\/index.php"
+  },
+  {
+    "dork": "inurl:https:\\/\\/mylogin."
+  },
+  {
+    "dork": "intitle:Panel Administracyjny"
+  },
+  {
+    "dork": "inurl:communique_detail.php?id="
+  },
+  {
+    "dork": "inurl:xamppsecurity.php"
+  },
+  {
+    "dork": "inurl:https:\\/\\/owa"
+  },
+  {
+    "dork": "intitle:Django site admin inurl:admin -site:stackoverflow.com -site:github.com"
+  },
+  {
+    "dork": "inurl::8006 and intext:Proxmox VE Login"
+  },
+  {
+    "dork": "inurl:login\\/?next=\\/admin\\/ -https -stackoverflow.com -github.com"
+  },
+  {
+    "dork": "intitle:Welcome to QNAP Turbo NAS"
+  },
+  {
+    "dork": "inurl:front\\/central.php"
+  },
+  {
+    "dork": "inurl:index of= %2F \\/admin login %2F intitle:Administration Login -"
+  },
+  {
+    "dork": "inurl:\\/remote\\/login?lang=en"
+  },
+  {
+    "dork": "intitle:Sign in \\u00b7 GitLab"
+  },
+  {
+    "dork": "intitle:Plesk Onyx intext:Interface language"
+  },
+  {
+    "dork": "inurl:Login;jsessionid="
+  },
+  {
+    "dork": "intitle:Dell SonicWALL - Authentication"
+  },
+  {
+    "dork": "inurl:\\/siteadmin\\/index.php"
+  },
+  {
+    "dork": "inurl:http:\\/\\/webmail."
+  },
+  {
+    "dork": "inurl:\\/helpdesk\\/staff\\/index.php?"
+  },
+  {
+    "dork": "Log in Magento is a trademark of Magento Inc."
+  },
+  {
+    "dork": "inurl:member.php?action=login"
+  },
+  {
+    "dork": "inurl:\\/fmi\\/webd"
+  },
+  {
+    "dork": "inurl:\\/j_security_check;jsessionid="
+  },
+  {
+    "dork": "inurl:\\/admin.php?cont="
+  },
+  {
+    "dork": "inurl:\\/SecureAuth1"
+  },
+  {
+    "dork": "-english -help -printing -companies -archive -wizard -pastebin -adult -keywords Warning: this page requires Javascript. To correctly view"
+  },
+  {
+    "dork": "Joomla! Administration Login inurl:\\/index.php"
+  },
+  {
+    "dork": "inurl:.reset;-.pwd } ~ User"
+  },
+  {
+    "dork": "inurl:.Admin;-aspx } ~Login"
+  },
+  {
+    "dork": "intitle:Login - OpenStack Dashboard inurl:dashboard"
+  },
+  {
+    "dork": "inurl:forgot.do;jsessionid="
+  },
+  {
+    "dork": "intitle:Login Login to pfSense Password LLC"
+  },
+  {
+    "dork": "inurl:action=php.login"
+  },
+  {
+    "dork": "intitle:Vigor Login Page"
+  },
+  {
+    "dork": "intitle:Integrated Dell Remote Access Controller 6 - Enterprise"
+  },
+  {
+    "dork": "intitle:SonicWALL - Authentication"
+  },
+  {
+    "dork": "inurl:\\/web\\/device\\/login?lang=1"
+  },
+  {
+    "dork": "inurl:https:\\/\\/vdi"
+  },
+  {
+    "dork": "This WebUI administration tool requires scripting support intitle:'Login' intext:'Admin Name:' -score"
+  },
+  {
+    "dork": "inurl:\\/?skipANDROID=true intext:Pydio Community"
+  },
+  {
+    "dork": "inurl:\\/human.aspx?r="
+  },
+  {
+    "dork": "inurl:\\/sgdadmin\\/ Secure Global Desktop"
+  },
+  {
+    "dork": "intitle:Sign In inurl:\\/adfs\\/ls\\/?wa=wsignin1.0"
+  },
+  {
+    "dork": "inurl:\\/login\\/login.html intitle:Greenbone Security Assistant"
+  },
+  {
+    "dork": "inurl:Dialin\\/Conference.aspx"
+  },
+  {
+    "dork": "Zixmail inurl:\\/s\\/login?"
+  },
+  {
+    "dork": "inurl:\\/remote\\/login\\/ intext:please login|intext:FortiToken clock drift detected"
+  },
+  {
+    "dork": "inurl:\\/WebInterface\\/login.html"
+  },
+  {
+    "dork": "inurl:citrix inurl:login.asp -site:citrix.com"
+  },
+  {
+    "dork": "intitle:MODX CMF Manager Login"
+  },
+  {
+    "dork": "inurl:\\/owncloud\\/index.php -github -forum"
+  },
+  {
+    "dork": "inurl:\\/eyeos\\/index.php -github -forum"
+  },
+  {
+    "dork": "filetype:pwd intitle:index"
+  },
+  {
+    "dork": "inurl:inmotionhosting.com:2096\\/"
+  },
+  {
+    "dork": "inurl:dynamic.php?page=mailbox"
+  },
+  {
+    "dork": "inurl:\\/Remote\\/logon?ReturnUrl"
+  },
+  {
+    "dork": "inurl:\\/dynamic\\/login-simple.html?"
+  },
+  {
+    "dork": "inurl:https:\\/\\/pma."
+  },
+  {
+    "dork": "inurl:index.php?app=main intitle:sms"
+  },
+  {
+    "dork": "inurl:9443\\/vsphere-client"
+  },
+  {
+    "dork": "intitle:OneAccess WCF Username"
+  },
+  {
+    "dork": "inurl:backoffice intitle:login"
+  },
+  {
+    "dork": "filetype:asp intitle: Microsoft Outlook Web Access"
+  },
+  {
+    "dork": "intitle:vood act=index Gateway "
+  },
+  {
+    "dork": "intitle:Login Page intext:Phone Adapter Configuration Utility"
+  },
+  {
+    "dork": "intitle:VOOD - Welcome to Vood Residential Gateway "
+  },
+  {
+    "dork": "inurl:\\/sap\\/bc\\/webdynpro\\/sap\\/ | sap-system-login-oninputprocessing"
+  },
+  {
+    "dork": "inurl:sap-system-login"
+  },
+  {
+    "dork": "inurl:sap\\/hrrcf_a_startpage_ext_cand | inurl:sap\\/hrrcf_a_pw_via_email_extern"
+  },
+  {
+    "dork": "intitle:Logon - SAP Web Application Server"
+  },
+  {
+    "dork": "intext:2016 SAP AG. All rights reserved. intitle:Logon"
+  },
+  {
+    "dork": "intext:Powered by net2ftp"
+  },
+  {
+    "dork": "intitle:Login intext:Use Web Messaging Lite"
+  },
+  {
+    "dork": "intext:2008 intext:OpenERP SA intitle:Login"
+  },
+  {
+    "dork": "intitle:mikrotik routeros "
+  },
+  {
+    "dork": "intitle:RouterOS intitle:configuration page intext:You have connected to a router. Administrative access only."
+  },
+  {
+    "dork": "intitle:Honeywell XL Web Controller - Login (inurl:standard\\/default.php | inurl:standard\\/header\\/header.php | inurl:standard\\/mainframe.php | inurl:standard\\/footer\\/footer.php | inurl:standard\\/update.php)"
+  },
+  {
+    "dork": "intitle:Openbravo (inurl:openbravo\\/security\\/Login_FS.html | inurl:openbravo\\/security\\/Login_Welcome.html | inurl:openbravo\\/security\\/Login_F1.html | inurl:openbravo\\/security\\/Login_F0.html)"
+  },
+  {
+    "dork": "intitle:DirectAdmin Login Please enter your Username and Password"
+  },
+  {
+    "dork": "inurl:login.php?action=recover"
+  },
+  {
+    "dork": "inurl:\\/"
+  },
+  {
+    "dork": "inurl:8000 inurl:login"
+  },
+  {
+    "dork": "intitle:FirstSpirit - login"
+  },
+  {
+    "dork": "intitle:D-Link VoIP Router Welcome"
+  },
+  {
+    "dork": "intitle:ASUS Login SIGN IN"
+  },
+  {
+    "dork": "intitle:Helm : The Web Hosting Control System"
+  },
+  {
+    "dork": "inurl:\\/AT-admin.cgi? intitle:login | private | employee | intranet | admin"
+  },
+  {
+    "dork": "inurl:login.do intext:government"
+  },
+  {
+    "dork": "inurl:intranet site:www.*.gov"
+  },
+  {
+    "dork": "intitle:Welcome | PRTG Network Monitor inurl:\\/index.htm"
+  },
+  {
+    "dork": "site:www.tribunale.*.*.* inurl:login"
+  },
+  {
+    "dork": "inurl:\\/AirWatch\\/Login?"
+  },
+  {
+    "dork": "Site:www.comune.*.*.* inurl:login"
+  },
+  {
+    "dork": "inurl:\\/oam\\/server\\/obrareq.cgi | ext:encquery | ext:Portal_Webcenter"
+  },
+  {
+    "dork": "inurl:\\/welcome.cgi? | p=no-cert"
+  },
+  {
+    "dork": "inurl:intranet -intext:intranet"
+  },
+  {
+    "dork": "inurl:\\/tmui\\/login.jsp"
+  },
+  {
+    "dork": "ext:html intext:Airties inurl:login.html"
+  },
+  {
+    "dork": "inurl:\\/weblogin.aspx"
+  },
+  {
+    "dork": "intitle:Lost Password Reset | inurl:\\/secure\\/pwreset.php | inurl:\\/portal\\/index.php"
+  },
+  {
+    "dork": "intitle:Microsoft+Outlook+Web+Access+Log+On | inurl:\\/owa\\/auth\\/logon.aspx"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/MANGA\\/index.cgi"
+  },
+  {
+    "dork": "intext:Roundcube Webmail intitle:Welcome to Roundcube Webmail -site:roundcube.net"
+  },
+  {
+    "dork": "intitle:Mail - AfterLogic WebMail"
+  },
+  {
+    "dork": "intitle:FootPrints Login | inurl:\\/MRcgi\\/MRentrancePage.pl"
+  },
+  {
+    "dork": "inurl:.gov\\/wp-login.php | inurl:.edu\\/wp-login.php | inurl:.mil\\/wp-login.php | inurl:.us\\/wp-login.php"
+  },
+  {
+    "dork": "intitle:AP Router New Generation | inurl:\\/home.asp"
+  },
+  {
+    "dork": "inurl:https:\\/\\/blackboard | inurl:http:\\/\\/blackboard"
+  },
+  {
+    "dork": "inurl:http:\\/\\/canvas | inurl:https:\\/\\/canvas | intitle:Log In to Canvas"
+  },
+  {
+    "dork": "intitle:Workspace Login intext:WinOcular WorkSpace"
+  },
+  {
+    "dork": "intitle:SmarterMail Login inurl:\\/Login.aspx"
+  },
+  {
+    "dork": "inurl:portal | intitle:portal (login | logon | admin) inurl:patient | intitle:patient"
+  },
+  {
+    "dork": "inurl:http:\\/\\/cms | inurl:https:\\/\\/cms (login | logon | admin) -school"
+  },
+  {
+    "dork": "inurl:webgps intitle:GPS Monitoring System"
+  },
+  {
+    "dork": "inurl:\\/my.logon.php3?"
+  },
+  {
+    "dork": "intitle:Parallels Plesk Panel for Microsoft Windows \\/login_up.php3"
+  },
+  {
+    "dork": "inurl:agc\\/vicidial.php"
+  },
+  {
+    "dork": "inurl:imapuser Mail :: Welcome to Horde imp login.php password"
+  },
+  {
+    "dork": "intitle:Oracle PeopleSoft Sign-in Oracle Sign-in error"
+  },
+  {
+    "dork": "inurl:remote.php\\/webdav -site:owncloud.org"
+  },
+  {
+    "dork": "intitle:Logon OrderCloud ui\\/logon.aspx"
+  },
+  {
+    "dork": "inurl:\\/wap\\/LoginPolicy.jsp"
+  },
+  {
+    "dork": "intitle:IBM Lotus iNotes Login"
+  },
+  {
+    "dork": "site: edu|org + inurl:faculty_login.asp | .php"
+  },
+  {
+    "dork": "intitle:InterWorx-CP Forgot your password"
+  },
+  {
+    "dork": "site:.mil + inurl:login.aspx | .asp | .html | .php | .htm"
+  },
+  {
+    "dork": "inurl:Citrix\\/MetaframeXP"
+  },
+  {
+    "dork": "Auth inurl:welcome ext:cgi"
+  },
+  {
+    "dork": "intext:Please Authenticate intitle:Peakflow"
+  },
+  {
+    "dork": "inurl:logon.html CSCOE"
+  },
+  {
+    "dork": "intitle:FRITZ!Box inurl:login.lua"
+  },
+  {
+    "dork": "intitle:virtual office sonicwall domain"
+  },
+  {
+    "dork": "intitle:index intext:Login to the Administrative Interface"
+  },
+  {
+    "dork": "intitle:Zimbra Web Client Sign In"
+  },
+  {
+    "dork": "intitle:Zimbra Web Client Log In"
+  },
+  {
+    "dork": "inurl:typo3\\/install\\/index.php?mode="
+  },
+  {
+    "dork": "inurl:Citrix\\/XenApp\\/auth\\/login.aspx"
+  },
+  {
+    "dork": "intitle:Admin inurl:login.php site:.co.in"
+  },
+  {
+    "dork": "allinurl:zimbra\\/?zinitmode=http -google -github"
+  },
+  {
+    "dork": "allinurl:\\/main\\/auth\\/profile.php -github -google"
+  },
+  {
+    "dork": "inurl:\\/administrator\\/index.php?autologin=1"
+  },
+  {
+    "dork": "inurl:\\/module.php\\/core\\/loginuserpass.php"
+  },
+  {
+    "dork": "allinurl:owa\\/auth\\/logon.aspx -google -github"
+  },
+  {
+    "dork": "inurl:\\/data\\/nanoadmin.php"
+  },
+  {
+    "dork": "inurl:\\/jenkins\\/login Page generated"
+  },
+  {
+    "dork": "intitle:Comrex ACCESS Rack"
+  },
+  {
+    "dork": "intitle:VNC Viewer for Java"
+  },
+  {
+    "dork": "Welcome to phpMyAdmin + Username: + Password: + Language: + Afrikaans"
+  },
+  {
+    "dork": "inurl:5000\\/webman\\/index.cgi"
+  },
+  {
+    "dork": "intitle:Internet Security Appliance & intext:Enter Password and click Login"
+  },
+  {
+    "dork": "intitle:Login - OTRS inurl:pl"
+  },
+  {
+    "dork": "intitle:WebMail | Powered by Winmail Server - Login & (intext:Username & intext:Password)"
+  },
+  {
+    "dork": "inurl:8080 intitle:login intext:UserLogin English"
+  },
+  {
+    "dork": "intitle:::: Login ::: & intext:Customer Login & Any time & Any where"
+  },
+  {
+    "dork": "inurl:phpmyadmin\\/index.php & (intext:username & password & Welcome to)"
+  },
+  {
+    "dork": "inurl:dasdec\\/dasdec.csp"
+  },
+  {
+    "dork": "intitle:Cisco Integrated Management Controller Login"
+  },
+  {
+    "dork": "inurl:\\/secure\\/Dashboard.jspa intitle:System Dashboard"
+  },
+  {
+    "dork": "intitle:.:: Welcome to the Web-Based Configurator::. & intext:Welcome to your router Configuration Interface"
+  },
+  {
+    "dork": "intext:I'm using a public or shared computer & intext:Remote Web Workplace"
+  },
+  {
+    "dork": "inurl:\\/secure\\/login.aspx"
+  },
+  {
+    "dork": "Serv-U (c) Copyright 1995-2013 Rhino Software"
+  },
+  {
+    "dork": "allintext: Please login to continue... ZTE Corporation. All rights reserved."
+  },
+  {
+    "dork": "intext:THIS IS A PRIVATE SYSTEM AUTHORISED ACCESS ONLY inurl:login.aspx"
+  },
+  {
+    "dork": "intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl:login.aspx"
+  },
+  {
+    "dork": "intext:Computer Misuse Act inurl:login.aspx"
+  },
+  {
+    "dork": "site:login.*.*"
+  },
+  {
+    "dork": "you really should fix this security hole by setting a password for user '.root'. inurl:\\/phpmyadmin intitle:localhost"
+  },
+  {
+    "dork": "inurl:phpliteadmin.php"
+  },
+  {
+    "dork": "inurl:InfoViewApp\\/logon.jsp"
+  },
+  {
+    "dork": "inurl:cgi-bin\\/webcgi\\/main"
+  },
+  {
+    "dork": "inurl:\\/app_dev.php\\/login Environment"
+  },
+  {
+    "dork": "Please-logon intitle:zarafa webaccess "
+  },
+  {
+    "dork": "intitle:Log In Access unsecured content without logging in"
+  },
+  {
+    "dork": "intitle:DVR+Web+Client"
+  },
+  {
+    "dork": "Welcome to Sitecore + License Holder"
+  },
+  {
+    "dork": "mailing list memberships reminder"
+  },
+  {
+    "dork": "intitle:Enabling Self-Service Procurement"
+  },
+  {
+    "dork": "intitle:cyber recruiter User ID"
+  },
+  {
+    "dork": "Login Name Repository Webtop intitle:login"
+  },
+  {
+    "dork": "intitle:cascade server inurl:login.act"
+  },
+  {
+    "dork": "inurl:src\\/login.php"
+  },
+  {
+    "dork": "inurl:\\/dana-na\\/auth\\/"
+  },
+  {
+    "dork": "||Powered by [ClipBucket 2.0.91]"
+  },
+  {
+    "dork": "Remote Supervisor Adapter II inurl:userlogin_logo.ssi"
+  },
+  {
+    "dork": "intitle:AdventNet ManageEngine ServiceDesk Plus intext:Remember Me"
+  },
+  {
+    "dork": "intitle:ARI Phone System Administrator"
+  },
+  {
+    "dork": "inurl:+:8443\\/login.php3"
+  },
+  {
+    "dork": "inurl:\\/?pagename=AdministratorLogin"
+  },
+  {
+    "dork": "inurl:\\/?pagename=CustomerLogin"
+  },
+  {
+    "dork": "SurgeMAIL inurl:\\/cgi\\/user.cgi ext:cgi"
+  },
+  {
+    "dork": "(intitle:SilkyMail by Cyrusoft International"
+  },
+  {
+    "dork": "intitle:Login to @Mail (ext:pl | inurl:index) -dwaffleman"
+  },
+  {
+    "dork": "FlashChat v4.5.7"
+  },
+  {
+    "dork": "intitle:Ampache intitle:love of music password | login | Remember Me. -welcome"
+  },
+  {
+    "dork": "intitle:TWIG Login"
+  },
+  {
+    "dork": "intitle:IMP inurl:imp\\/index.php3"
+  },
+  {
+    "dork": "intitle:SHOUTcast Administrator inurl:admin.cgi"
+  },
+  {
+    "dork": "(intitle:WmSC e-Cart Administration)|(intitle:WebMyStyle e-Cart Administration)"
+  },
+  {
+    "dork": "intitle:eXist Database Administration -demo"
+  },
+  {
+    "dork": "inurl:php121login.php"
+  },
+  {
+    "dork": "intitle:(TrackerCam Live Video)|(TrackerCam Application Login)|(Trackercam Remote) -trackercam.com"
+  },
+  {
+    "dork": "(intitle:Please login - Forums powered by WWWThreads)|(inurl:wwwthreads\\/login.php)|(inurl:wwwthreads\\/login.pl?Cat=)"
+  },
+  {
+    "dork": "(intitle:rymo Login)|(intext:Welcome to rymo) -family"
+  },
+  {
+    "dork": "intitle:Employee Intranet Login"
+  },
+  {
+    "dork": "inurl:\\/slxweb.dll\\/external?name=(custportal|webticketcust)"
+  },
+  {
+    "dork": "SquirrelMail version By the SquirrelMail Development Team"
+  },
+  {
+    "dork": "(intitle:Please login - Forums powered by UBB.threads)|(inurl:login.php ubb)"
+  },
+  {
+    "dork": "Please enter a valid password! inurl:polladmin"
+  },
+  {
+    "dork": "intitle:EZPartner -netpond"
+  },
+  {
+    "dork": "inurl:2000 intitle:RemotelyAnywhere -site:realvnc.comg"
+  },
+  {
+    "dork": "Web-Based Management Please input password to login -inurl:johnny.ihackstuff.com"
+  },
+  {
+    "dork": "inurl:vsadmin\\/login | inurl:vsadmin\\/admin inurl:.php|.asp -Response.Buffer = True -javascript"
+  },
+  {
+    "dork": "intitle:Login to @Mail (ext:pl | inurl:index) -dwaffleman"
+  },
+  {
+    "dork": "inurl:\\/admin\\/configuration. php? Mystore"
+  },
+  {
+    "dork": "inurl:ids5web"
+  },
+  {
+    "dork": "intext:Fill out the form below completely to change your password and user name. If new username is left blank"
+  },
+  {
+    "dork": "intitle:Ovislink inurl:private\\/login"
+  },
+  {
+    "dork": "Powered by Midmart Messageboard Administrator Login"
+  },
+  {
+    "dork": "intitle:3300 Integrated Communications Platform inurl:main.htm"
+  },
+  {
+    "dork": "bp blog admin intitle:login | intitle:admin -site:johnny.ihackstuff.com"
+  },
+  {
+    "dork": "Emergisoft web applications are a part of our"
+  },
+  {
+    "dork": "inurl:\\/Merchant2\\/admin.mv | inurl:\\/Merchant2\\/admin.mvc | intitle:Miva Merchant Administration Login -inurl:cheap-malboro.net"
+  },
+  {
+    "dork": "intitle:Admin login Web Site Administration Copyright"
+  },
+  {
+    "dork": "intitle:b2evo "
+  },
+  {
+    "dork": "site info for Enter Admin Password"
+  },
+  {
+    "dork": "Establishing a secure Integrated Lights Out session with OR intitle:Data Frame - Browser not HTTP 1.1 compatible OR intitle:HP Integrated Lights-"
+  },
+  {
+    "dork": "intitle:Merak Mail Server Web Administration -ihackstuff.com"
+  },
+  {
+    "dork": "This is a restricted Access Server Javascript Not Enabled!|Messenger Express -edu -ac"
+  },
+  {
+    "dork": "inurl:webvpn.html login Please enter your"
+  },
+  {
+    "dork": "Powered by Merak Mail Server Software -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff"
+  },
+  {
+    "dork": "intitle:EXTRANET * - Identification"
+  },
+  {
+    "dork": "intitle:EXTRANET login -.edu -.mil -.gov -johnny.ihackstuff"
+  },
+  {
+    "dork": "intitle:*- HP WBEM Login | You are being prompted to provide login account information for * | Please provide the information requested and press"
+  },
+  {
+    "dork": "intitle:Novell Web Services GroupWise -inurl:doc\\/11924 -.mil -.edu -.gov -filetype:pdf"
+  },
+  {
+    "dork": "intitle:OnLine Recruitment Program - Login -johnny.ihackstuff"
+  },
+  {
+    "dork": "iCONECT 4.1 :: Login"
+  },
+  {
+    "dork": "intitle:Docutek ERes - Admin Login -edu"
+  },
+  {
+    "dork": "inurl:ocw_login_username"
+  },
+  {
+    "dork": "intitle:Supero Doctor III -inurl:supermicro"
+  },
+  {
+    "dork": "intitle:iDevAffiliate - admin -demo"
+  },
+  {
+    "dork": "intitle:Admin Login admin login blogware"
+  },
+  {
+    "dork": "Please login with admin pass -leak -sourceforge"
+  },
+  {
+    "dork": "intitle:Login Forum Powered By AnyBoard intitle:If you are a new user: intext:Forum Powered By AnyBoard inurl:gochat -edu"
+  },
+  {
+    "dork": "inurl:\\/modcp\\/ intext:Moderator+vBulletin"
+  },
+  {
+    "dork": "intitle:i-secure v1.1 -edu"
+  },
+  {
+    "dork": "intitle:Login to the forums - @www.aimoo.com inurl:login.cfm?id="
+  },
+  {
+    "dork": "intitle:PHProjekt - login login password"
+  },
+  {
+    "dork": "intitle:Content Management System user name|password|admin Microsoft IE 5.5 -mambo -johnny.ihackstuff"
+  },
+  {
+    "dork": "Powered by Monster Top List MTL numrange:200-"
+  },
+  {
+    "dork": "login prompt inurl:GM.cgi"
+  },
+  {
+    "dork": "intext:Master Account Domain Name Password inurl:\\/cgi-bin\\/qmailadmin"
+  },
+  {
+    "dork": "intitle:Content Management System user name|password|admin Microsoft IE 5.5 -mambo -johnny.ihackstuff"
+  },
+  {
+    "dork": "intext:Master Account Domain Name Password inurl:\\/cgi-bin\\/qmailadmin"
+  },
+  {
+    "dork": "intitle:web-cyradm|by Luc de Louw This is only for authorized users -tar.gz -site:web-cyradm.org -johnny.ihackstuff"
+  },
+  {
+    "dork": "You have requested to access the management functions -.edu"
+  },
+  {
+    "dork": "Please authenticate yourself to get access to the management interface"
+  },
+  {
+    "dork": "inurl:csCreatePro.cgi"
+  },
+  {
+    "dork": "intitle:AlternC Desktop"
+  },
+  {
+    "dork": "inspanel intitle:login -cannot Login ID -site:inspediumsoft.com"
+  },
+  {
+    "dork": "intitle:xams 0.0.0..15 - Login"
+  },
+  {
+    "dork": "HostingAccelerator intitle:login +Username -news -demo"
+  },
+  {
+    "dork": "intitle:communigate pro entrance"
+  },
+  {
+    "dork": "intitle:phpnews.login"
+  },
+  {
+    "dork": "intitle:Cisco CallManager User Options Log On Please enter your User ID and Password in the spaces provided below and click the Log On button to co"
+  },
+  {
+    "dork": "inurl:default\\/login.php intitle:kerio"
+  },
+  {
+    "dork": "This section is for Administrators only. If you are an administrator then please"
+  },
+  {
+    "dork": "intitle:Member Login NOTE: Your browser must have cookies enabled in order to log into the site. ext:php OR ext:cgi"
+  },
+  {
+    "dork": "intitle:TOPdesk ApplicationServer"
+  },
+  {
+    "dork": "intitle:Welcome to Mailtraq WebMail"
+  },
+  {
+    "dork": "You have requested access to a restricted area of our website. Please authenticate yourself to continue."
+  },
+  {
+    "dork": "intitle:Login to Cacti"
+  },
+  {
+    "dork": "intitle:XMail Web Administration Interface intext:Login intext:password"
+  },
+  {
+    "dork": "inurl:textpattern\\/index.php"
+  },
+  {
+    "dork": "intitle:XcAuctionLite | DRIVEN BY XCENT Lite inurl:admin"
+  },
+  {
+    "dork": "intitle:VisNetic WebMail inurl:\\/mail\\/"
+  },
+  {
+    "dork": "intext:Welcome to inurl:cp intitle:H-SPHERE inurl:begin.html -Fee"
+  },
+  {
+    "dork": "allintitle:Welcome to the Cyclades"
+  },
+  {
+    "dork": "inurl:\\/SUSAdmin intitle:Microsoft Software Update Services"
+  },
+  {
+    "dork": "inurl:Citrix\\/MetaFrame\\/default\\/default.aspx"
+  },
+  {
+    "dork": "inurl:exchweb\\/bin\\/auth\\/owalogon.asp"
+  },
+  {
+    "dork": "inurl::2082\\/frontend -demo"
+  },
+  {
+    "dork": "Powered by DWMail password intitle:dwmail"
+  },
+  {
+    "dork": "inurl:gnatsweb.pl"
+  },
+  {
+    "dork": "intitle:open-xchange inurl:login.pl"
+  },
+  {
+    "dork": "intitle:site administration: please log in site designed by emarketsouth"
+  },
+  {
+    "dork": "intitle:WorldClient intext:\\u00a9 (2003|2004) Alt-N Technologies."
+  },
+  {
+    "dork": "intitle:Zope Help System inurl:HelpSys"
+  },
+  {
+    "dork": "intitle:SFXAdmin - sfx_global | intitle:SFXAdmin - sfx_local | intitle:SFXAdmin - sfx_test"
+  },
+  {
+    "dork": "intitle:ilohamail Powered by IlohaMail"
+  },
+  {
+    "dork": "intitle:inc. vpn 3000 concentrator"
+  },
+  {
+    "dork": "intitle:ilohamail intext:Version 0.8.10 Powered by IlohaMail"
+  },
+  {
+    "dork": "intext:vbulletin inurl:admincp"
+  },
+  {
+    "dork": "inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0"
+  },
+  {
+    "dork": "intitle:endymion.sak\\u00c3\\u0192\\u00c6\\u2019\\u00c3\\u201a\\u00c2\\u00a9.mail.login.page | inurl:sake.servlet"
+  },
+  {
+    "dork": "intitle:asterisk.management.portal web-access"
+  },
+  {
+    "dork": "intitle:Flash Operator Panel -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists"
+  },
+  {
+    "dork": "Powered by UebiMiau -site:sourceforge.net"
+  },
+  {
+    "dork": "intitle:VMware Management Interface: inurl:vmware\\/en\\/"
+  },
+  {
+    "dork": "inurl:webmail.\\/index.pl Interface"
+  },
+  {
+    "dork": "ext:cgi intitle:control panel enter your owner password to continue!"
+  },
+  {
+    "dork": "intitle:ListMail Login admin -demo"
+  },
+  {
+    "dork": "intitle:Kurant Corporation StoreSense filetype:bok"
+  },
+  {
+    "dork": "intitle:SuSE Linux Openexchange Server Please activate JavaScript!"
+  },
+  {
+    "dork": "inurl:WCP_USER"
+  },
+  {
+    "dork": "intitle:phpPgAdmin - Login Language"
+  },
+  {
+    "dork": "allinurl:wps\\/portal\\/ login"
+  },
+  {
+    "dork": "inurl:suse\\/login.pl"
+  },
+  {
+    "dork": "Microsoft CRM : Unsupported Browser Version"
+  },
+  {
+    "dork": "intitle:opengroupware.org resistance is obsolete Report Bugs Username password"
+  },
+  {
+    "dork": "intitle:welcome to netware * -site:novell.com"
+  },
+  {
+    "dork": "intitle:ePowerSwitch Login"
+  },
+  {
+    "dork": "inurl:orasso.wwsso_app_admin.ls_login"
+  },
+  {
+    "dork": "intitle:Group-Office Enter your username and password to login"
+  },
+  {
+    "dork": "inurl:usysinfo?login=true"
+  },
+  {
+    "dork": "intext:Mail admins login here to administrate your domain."
+  },
+  {
+    "dork": "inurl:631\\/admin (inurl:op=*) | (intitle:CUPS)"
+  },
+  {
+    "dork": "pcANYWHERE EXPRESS Java Client"
+  },
+  {
+    "dork": "inurl:Activex\\/default.htm Demo"
+  },
+  {
+    "dork": "intitle:VNC viewer for Java"
+  },
+  {
+    "dork": "uploadpics.php?did= -forum"
+  },
+  {
+    "dork": "intitle:PHPhotoalbum - Upload | inurl:PHPhotoalbum\\/upload"
+  },
+  {
+    "dork": "inurl:PHPhotoalbum\\/statistics intitle:PHPhotoalbum - Statistics"
+  },
+  {
+    "dork": "-Login inurl:photopost\\/uploadphoto.php"
+  },
+  {
+    "dork": "intitle:MX Control Console If you can't remember"
+  },
+  {
+    "dork": "intitle:WebLogic Server intitle:Console Login inurl:console"
+  },
+  {
+    "dork": "inurl:1810 Oracle Enterprise Manager"
+  },
+  {
+    "dork": "intitle:Novell Web Services intext:Select a service and a language."
+  },
+  {
+    "dork": "intitle:Athens Authentication Point"
+  },
+  {
+    "dork": "intitle:Login intext:RT is \\u00a9 Copyright"
+  },
+  {
+    "dork": "intext:BiTBOARD v2.0 BiTSHiFTERS Bulletin Board"
+  },
+  {
+    "dork": "intitle:vhost intext:vHost . 2000-2004"
+  },
+  {
+    "dork": "inurl:1220\\/parse_xml.cgi?"
+  },
+  {
+    "dork": "intitle:VitalQIP IP Management System"
+  },
+  {
+    "dork": "intext:Storage Management Server for intitle:Server Administration"
+  },
+  {
+    "dork": "inurl:coranto.cgi intitle:Login (Authorized Users Only)"
+  },
+  {
+    "dork": "intitle:PHP Advanced Transfer inurl:login.php"
+  },
+  {
+    "dork": "inurl:\\/webedit.* intext:WebEdit Professional -html"
+  },
+  {
+    "dork": "inurl:postfixadmin intitle:postfix admin ext:php"
+  },
+  {
+    "dork": "intext:Icecast Administration Admin Page intitle:Icecast Administration Admin Page"
+  },
+  {
+    "dork": "inurl:irc filetype:cgi cgi:irc"
+  },
+  {
+    "dork": "intitle:php icalendar administration -site:sourceforge.net"
+  },
+  {
+    "dork": "intitle:php icalendar administration -site:sourceforge.net"
+  },
+  {
+    "dork": "intitle:plesk inurl:login.php3"
+  },
+  {
+    "dork": "inurl:\\/dana-na\\/auth\\/welcome.html"
+  },
+  {
+    "dork": "inurl:login.php SquirrelMail version"
+  },
+  {
+    "dork": "intitle:Virtual Server Administration System"
+  },
+  {
+    "dork": "OPENSRS Domain Management inurl:manage.cgi"
+  },
+  {
+    "dork": "IMail Server Web Messaging intitle:login"
+  },
+  {
+    "dork": "inurl:confixx inurl:login|anmeldung"
+  },
+  {
+    "dork": "VHCS Pro ver -demo"
+  },
+  {
+    "dork": "SysCP - login"
+  },
+  {
+    "dork": "intitle:ISPMan : Unauthorized Access prohibited"
+  },
+  {
+    "dork": "Login - Sun Cobalt RaQ"
+  },
+  {
+    "dork": "WebExplorer Server - Login Welcome to WebExplorer Server"
+  },
+  {
+    "dork": "intitle:remote assessment OpenAanval Console"
+  },
+  {
+    "dork": "inurl:default.asp intitle:WebCommander"
+  },
+  {
+    "dork": "intitle:Philex 0.2* -script -site:freelists.org"
+  },
+  {
+    "dork": "intitle:MailMan Login"
+  },
+  {
+    "dork": "inurl:calendar.asp?action=login"
+  },
+  {
+    "dork": "intitle:oMail-admin Administration - Login -inurl:omnis.ch"
+  },
+  {
+    "dork": "intitle:microsoft certificate services inurl:certsrv"
+  },
+  {
+    "dork": "inurl:mewebmail"
+  },
+  {
+    "dork": "Admin intitle:eZ publish administration"
+  },
+  {
+    "dork": "inurl:administrator welcome to mambo"
+  },
+  {
+    "dork": "inurl:typo3\\/index.php?u= -demo"
+  },
+  {
+    "dork": "intitle:TUTOS Login"
+  },
+  {
+    "dork": "Login to Usermin inurl:20000"
+  },
+  {
+    "dork": "intitle:Login - powered by Easy File Sharing Web"
+  },
+  {
+    "dork": "intitle:Tomcat Server Administration"
+  },
+  {
+    "dork": "filetype:pl Download: SuSE Linux Openexchange Server CA"
+  },
+  {
+    "dork": "4images Administration Control Panel"
+  },
+  {
+    "dork": "intitle:Novell intitle:WebAccess Copyright *-* Novell"
+  },
+  {
+    "dork": "Login (Powered by Jetbox One CMS \\u00c3\\u0192\\u00c2\\u00a2\\u00c3\\u00a2\\u00e2\\u201a\\u00ac\\u00c5\\u00be\\u00c3\\u201a\\u00c2\\u00a2 | Powered by Jetstream \\u00c3\\u0192\\u00e2\\u20ac\\u0161\\u00c3\\u201a\\u00c2\\u00a9 *)"
+  },
+  {
+    "dork": "intitle:Login * Webmailer"
+  },
+  {
+    "dork": "inurl:gs\\/adminlogin.aspx"
+  },
+  {
+    "dork": "powered by CuteNews 2003..2005 CutePHP"
+  },
+  {
+    "dork": "Novell NetWare intext:netware management portal version"
+  },
+  {
+    "dork": "intitle:ITS System Information Please log on to the SAP System"
+  },
+  {
+    "dork": "intitle:please login your password is *"
+  },
+  {
+    "dork": "inurl:cgi-bin\\/ultimatebb.cgi?ubb=login"
+  },
+  {
+    "dork": "filetype:cfg login LoginServer="
+  },
+  {
+    "dork": "intitle:teamspeak server-administration"
+  },
+  {
+    "dork": "WebSTAR Mail - Please Log In"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/sqwebmail?noframes=1"
+  },
+  {
+    "dork": "intitle:Node.List Win32.Version.3.11"
+  },
+  {
+    "dork": "(inurl:ars\\/cgi-bin\\/arweb?O=0 | inurl:arweb.jsp)"
+  },
+  {
+    "dork": "inurl:utilities\\/TreeView.asp"
+  },
+  {
+    "dork": "ASP.login_aspx ASP.NET_SessionId"
+  },
+  {
+    "dork": "+Powered by INDEXU inurl:(browse|top_rated|power"
+  },
+  {
+    "dork": "filetype:php login (intitle:phpWebMail|WebMail)"
+  },
+  {
+    "dork": "filetype:php inurl:webeditor.php"
+  },
+  {
+    "dork": "filetype:cgi inurl:irc.cgi | intitle:CGI:IRC Login"
+  },
+  {
+    "dork": "inurl:exchange\\/logon.asp OR intitle:Microsoft Outlook Web Access - Logon"
+  },
+  {
+    "dork": "intitle:Welcome Site\\/User Administrator Please select the language -demos"
+  },
+  {
+    "dork": "intitle:ZyXEL Prestige Router Enter password"
+  },
+  {
+    "dork": "filetype:r2w r2w"
+  },
+  {
+    "dork": "ttawlogin.cgi\\/?action="
+  },
+  {
+    "dork": "inurl:search\\/admin.php"
+  },
+  {
+    "dork": "inurl:\\/eprise\\/"
+  },
+  {
+    "dork": "intitle:Dell Remote Access Controller"
+  },
+  {
+    "dork": "please log in"
+  },
+  {
+    "dork": "inurl:login filetype:swf swf"
+  },
+  {
+    "dork": "inurl:webadmin filetype:nsf"
+  },
+  {
+    "dork": "intitle:eMule * intitle:- Web Control Panel intext:Web Control Panel Enter your password here."
+  },
+  {
+    "dork": "inurl:metaframexp\\/default\\/login.asp | intitle:Metaframe XP Login"
+  },
+  {
+    "dork": "inurl:\\/Citrix\\/Nfuse17\\/"
+  },
+  {
+    "dork": "inurl:names.nsf?opendatabase"
+  },
+  {
+    "dork": "intitle:Remote.Desktop.Web.Connection inurl:tsweb"
+  },
+  {
+    "dork": "intitle:MikroTik RouterOS Managing Webpage"
+  },
+  {
+    "dork": "inurl:login.asp"
+  },
+  {
+    "dork": "inurl:\\/admin\\/login.asp"
+  },
+  {
+    "dork": "VNC Desktop inurl:5800"
+  },
+  {
+    "dork": "inurl::10000 intext:webmin"
+  },
+  {
+    "dork": "intitle:ColdFusion Administrator Login"
+  },
+  {
+    "dork": "inurl:login.cfm"
+  },
+  {
+    "dork": "allinurl:exchange\\/logon.asp"
+  }
+]

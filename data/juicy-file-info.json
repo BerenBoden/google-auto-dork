@@ -1,0 +1,3962 @@
+[
+  {
+    "dork": "site:gov.* intitle:index of *.csv"
+  },
+  {
+    "dork": "Fwd: intitle:Index of \\/ intext:resource\\/"
+  },
+  {
+    "dork": "Google to wordpress"
+  },
+  {
+    "dork": "Fwd: intitle:atvise - next generation"
+  },
+  {
+    "dork": "site:papaly.com + keyword"
+  },
+  {
+    "dork": "site:pastebin.com intitle:cpanel"
+  },
+  {
+    "dork": "intitle:index of settings.py"
+  },
+  {
+    "dork": "site:postman.com + keyword"
+  },
+  {
+    "dork": "inurl:admin filetype:xlsx site:gov.*"
+  },
+  {
+    "dork": "db_password filetype:env"
+  },
+  {
+    "dork": "inurl: \\/wp-content\\/uploads\\/ inurl:robots.txt Disallow: filetype:txt"
+  },
+  {
+    "dork": "inurl:admin filetype:xls"
+  },
+  {
+    "dork": "site:gov.* intitle:index of *.apk"
+  },
+  {
+    "dork": "inurl:admin filetype:txt"
+  },
+  {
+    "dork": "inurl:admin filetype:xls site:gov.in"
+  },
+  {
+    "dork": "intitle:index of \\/products"
+  },
+  {
+    "dork": "intitle:index of \\/mysql"
+  },
+  {
+    "dork": "site:*.ng intitle:index of"
+  },
+  {
+    "dork": "site:*.edu.in intitle:index of"
+  },
+  {
+    "dork": "inurl:*gov intitle:index of docker-compose"
+  },
+  {
+    "dork": "inurl:pastebin SHODAN_API_KEY"
+  },
+  {
+    "dork": "inurl:*gov intitle:index of\\/documents"
+  },
+  {
+    "dork": "intitleindex of php"
+  },
+  {
+    "dork": "intitle:index of site:gov.in"
+  },
+  {
+    "dork": "site:*.github.io intext:cheatsheet+offensive+pentesting"
+  },
+  {
+    "dork": "intitle:index of admin.js"
+  },
+  {
+    "dork": "inurl:gov.in & inurl:admin"
+  },
+  {
+    "dork": "intitle:index of wp-inc"
+  },
+  {
+    "dork": "allintextaccount number"
+  },
+  {
+    "dork": "site:.edu intext:index of payroll"
+  },
+  {
+    "dork": "intitle:index of *.yaml"
+  },
+  {
+    "dork": "site:*.se intitle:index of"
+  },
+  {
+    "dork": "site:*.id intitle:index of screenshot*.jpg"
+  },
+  {
+    "dork": "intitle:index of *.vcf"
+  },
+  {
+    "dork": "intitle:index of apache.log | apache.logs"
+  },
+  {
+    "dork": "site:drive.google.com *.pdf"
+  },
+  {
+    "dork": "intitle:index of \\/key\\/ key.txt"
+  },
+  {
+    "dork": "inurl:linkedin.com view my resume facebook"
+  },
+  {
+    "dork": "intitle.index of .log"
+  },
+  {
+    "dork": "intitle:index of sysinfo"
+  },
+  {
+    "dork": "intitle.index of .exe"
+  },
+  {
+    "dork": "intitle.index of API*.txt"
+  },
+  {
+    "dork": "intitle:index of site:gov.np"
+  },
+  {
+    "dork": "intitle:index of *.mp4"
+  },
+  {
+    "dork": "intitle:index of admin*.txt"
+  },
+  {
+    "dork": "site:.nic.in inurl:.php?id="
+  },
+  {
+    "dork": "inurl:.org intitle index.of inflation"
+  },
+  {
+    "dork": "site:*\\/admin-portal\\/"
+  },
+  {
+    "dork": "intitle:index of site:gov.ru"
+  },
+  {
+    "dork": "intitle:index of site:gov.gr"
+  },
+  {
+    "dork": "site:.in | .com | .net intitle:index of ftp"
+  },
+  {
+    "dork": "inurl:forgotpassword.php"
+  },
+  {
+    "dork": "intitle:index of site:gov.*"
+  },
+  {
+    "dork": "intitle:index of \\/public_html"
+  },
+  {
+    "dork": "inurl:node_modules\\/ua-parser-js"
+  },
+  {
+    "dork": "intitle:index of \\/public\\/js"
+  },
+  {
+    "dork": "inurl:pastebin SHODAN_API_KEY"
+  },
+  {
+    "dork": "inurl:*gov intitle:index of\\/documents"
+  },
+  {
+    "dork": "inurl:.php?=*php site:.nic.in"
+  },
+  {
+    "dork": "intitle:index of \\/students"
+  },
+  {
+    "dork": "site:com rfp filetype:pdf"
+  },
+  {
+    "dork": "site:.edu intext:index of logs"
+  },
+  {
+    "dork": "intext:Index of \\/chatlogs"
+  },
+  {
+    "dork": "inurl:pastebin CVV"
+  },
+  {
+    "dork": "site: com intext  organisation data filetype:xls"
+  },
+  {
+    "dork": "intitle:index of default.asp "
+  },
+  {
+    "dork": "intitle:index of  fileadmin "
+  },
+  {
+    "dork": "intitle:index of  YaBB.pl "
+  },
+  {
+    "dork": "intitle:index of  htsearch "
+  },
+  {
+    "dork": "intitle:index of  glimpse "
+  },
+  {
+    "dork": "intitle:index of  webdriver "
+  },
+  {
+    "dork": "intitle:index of  index.php.bak "
+  },
+  {
+    "dork": "intitle:index of  sendmail.inc "
+  },
+  {
+    "dork": "intitle:index of  login.jsp "
+  },
+  {
+    "dork": "intitle:index of  mod_auth_mysql "
+  },
+  {
+    "dork": "intitle:index of test.bat "
+  },
+  {
+    "dork": "intitle:index of msadcs.dll "
+  },
+  {
+    "dork": "intitle:index of browser.inc "
+  },
+  {
+    "dork": "intitle:index of hello.bat "
+  },
+  {
+    "dork": "intitle:index of dvwssr.dll "
+  },
+  {
+    "dork": "intitle:index of Servlet"
+  },
+  {
+    "dork": "intitle:index of upload.asp "
+  },
+  {
+    "dork": "inurl:pastebin API_KEY"
+  },
+  {
+    "dork": "inurl:pastebin Windows 10 Product Keys*"
+  },
+  {
+    "dork": "intitle:index of data*"
+  },
+  {
+    "dork": "intitle:index of document*.pdf"
+  },
+  {
+    "dork": "{intitle: indexof\\/.git }"
+  },
+  {
+    "dork": "site:gov.hk intitle:index of \\/"
+  },
+  {
+    "dork": "inurl:pastebin AWS_ACCESS_KEY"
+  },
+  {
+    "dork": "site:*\\/forgotpassword.php"
+  },
+  {
+    "dork": "site:.edu intitle:index of"
+  },
+  {
+    "dork": "site:pastebin.com *@gmail.com password"
+  },
+  {
+    "dork": "site:.edu inurl:search"
+  },
+  {
+    "dork": "intitle:Index of DCIM\\/camera"
+  },
+  {
+    "dork": "intitle:Index of Screenshot"
+  },
+  {
+    "dork": "intitle:Index of system32"
+  },
+  {
+    "dork": "intitle:Index of Program files"
+  },
+  {
+    "dork": "intitle:Index of *.py"
+  },
+  {
+    "dork": "intitle:index of certificates"
+  },
+  {
+    "dork": "intitle:index of \\/.cpanel"
+  },
+  {
+    "dork": "index of :excel documents"
+  },
+  {
+    "dork": "intitle:index of :mobile number"
+  },
+  {
+    "dork": "intitle:index of node.js"
+  },
+  {
+    "dork": "intext:Index of intext:config.zip"
+  },
+  {
+    "dork": "inurl: conf\\/fastcgi.conf"
+  },
+  {
+    "dork": "inurl:conf\\/nginx.conf"
+  },
+  {
+    "dork": "site:com intitle:index of .env"
+  },
+  {
+    "dork": "intitle:Index of *.xlsx"
+  },
+  {
+    "dork": "inurl:\\/mutillidae\\/ Toggle Hints"
+  },
+  {
+    "dork": "intext:index of inurl:\\/etc\\/"
+  },
+  {
+    "dork": "inurl:wp-content\\/uploads\\/wooccm_uploads"
+  },
+  {
+    "dork": "intitle:index of particle.js"
+  },
+  {
+    "dork": "index of: invoice upload"
+  },
+  {
+    "dork": "intitle:index of Hindi movies"
+  },
+  {
+    "dork": "intext:index of wp-uploads"
+  },
+  {
+    "dork": "intext:index of signin"
+  },
+  {
+    "dork": "index of: marksheet upload"
+  },
+  {
+    "dork": "inurl:gov.uk"
+  },
+  {
+    "dork": "intext:Index of intext:users.zip"
+  },
+  {
+    "dork": "intext:Index of services.php | pass.php | passwd.php | credentials.txt"
+  },
+  {
+    "dork": "intitle:index of dhcp"
+  },
+  {
+    "dork": "index of:blog upload"
+  },
+  {
+    "dork": "inurl:cache\\/uploads"
+  },
+  {
+    "dork": "intitle:index of Apache\\/2.4.41 (Ubuntu) Server"
+  },
+  {
+    "dork": "index of: participants uploads"
+  },
+  {
+    "dork": "filetype:txt site:gitlab.* secret OR authtoken"
+  },
+  {
+    "dork": "site:gitlab.* intext:password intext:@gmail.com | @yahoo.com | @hotmail.com"
+  },
+  {
+    "dork": "inurl: *\\/.env"
+  },
+  {
+    "dork": "intitle:index of \\/.git\\/config"
+  },
+  {
+    "dork": "intitle:index of *\\/ftp.txt"
+  },
+  {
+    "dork": "intext:index of user-config"
+  },
+  {
+    "dork": "intitle:database backup filetype:sql"
+  },
+  {
+    "dork": "intext:sitemap filetype:txt"
+  },
+  {
+    "dork": "intext:pass filetype:txt"
+  },
+  {
+    "dork": "inurl:\\/package.json"
+  },
+  {
+    "dork": "intitleindex of username password filetype: xlsx"
+  },
+  {
+    "dork": "intitle:Index of \\/logs\\/ nginx"
+  },
+  {
+    "dork": "intext:index of home_page"
+  },
+  {
+    "dork": "intext:password | passwd | pwd site:anonfiles.com"
+  },
+  {
+    "dork": "site:*.example.com inurl:(elmah.axd | errorlog.axd) ext:axd"
+  },
+  {
+    "dork": "inurl:errorlog.axd ext:axd"
+  },
+  {
+    "dork": "showing putty logs"
+  },
+  {
+    "dork": "intitle:index of script.js"
+  },
+  {
+    "dork": "intitle:index of admin-config"
+  },
+  {
+    "dork": "intitle:index of admin.login.php"
+  },
+  {
+    "dork": "intitle:index of admin.login.php"
+  },
+  {
+    "dork": "intitle:index of  wp-mail-smtp"
+  },
+  {
+    "dork": "intitle:index of \\/resources"
+  },
+  {
+    "dork": "intext:index of ftp"
+  },
+  {
+    "dork": "intitle:index of untitled"
+  },
+  {
+    "dork": "intitle:index of untitled wp-content intext:scanned"
+  },
+  {
+    "dork": "index of :uploads parent salary intext:salary"
+  },
+  {
+    "dork": "index of :wp-config.zip"
+  },
+  {
+    "dork": "intitle:index of .ssh\\/authorized_keys"
+  },
+  {
+    "dork": "Intitle:database ext:sql"
+  },
+  {
+    "dork": "index of: parent directory uploads"
+  },
+  {
+    "dork": "index of: confidential uploads"
+  },
+  {
+    "dork": "index of: cache uploads"
+  },
+  {
+    "dork": "index of: QRcodes uploads"
+  },
+  {
+    "dork": "index of: contracts uploads"
+  },
+  {
+    "dork": "index of : phonebook "
+  },
+  {
+    "dork": "index of : truecaller uploads"
+  },
+  {
+    "dork": "index of: license upload"
+  },
+  {
+    "dork": "index of: certificate upload"
+  },
+  {
+    "dork": "index of: certificate wp-content"
+  },
+  {
+    "dork": "index of: application upload"
+  },
+  {
+    "dork": "index of: application form upload"
+  },
+  {
+    "dork": "index of: documents wp-content"
+  },
+  {
+    "dork": "intitle:index of _vti_inf.html"
+  },
+  {
+    "dork": "intitle:index of service.pwd"
+  },
+  {
+    "dork": "intitle:index of shtml.dll "
+  },
+  {
+    "dork": "inurl:admin ext:sql"
+  },
+  {
+    "dork": "index of:password wp-content"
+  },
+  {
+    "dork": "index of: putty uploads"
+  },
+  {
+    "dork": "intitle:index of master01"
+  },
+  {
+    "dork": "intitle:index of  unidecode"
+  },
+  {
+    "dork": "intitle:index of  cldr-data"
+  },
+  {
+    "dork": "intitle:index of  gettext"
+  },
+  {
+    "dork": "intitle:index of  src "
+  },
+  {
+    "dork": "intitle:index of  src.hint"
+  },
+  {
+    "dork": "intitle:index of tar.xz"
+  },
+  {
+    "dork": "intitle:index of pkgs"
+  },
+  {
+    "dork": "intitle:index of ftp.riken"
+  },
+  {
+    "dork": "intitle:index of pub"
+  },
+  {
+    "dork": "intitle:index of cygwin"
+  },
+  {
+    "dork": "intitle:index of kde-l10n-de"
+  },
+  {
+    "dork": "intitle:index of txdot"
+  },
+  {
+    "dork": "intitle:index of mirror.koddos.net"
+  },
+  {
+    "dork": "intitle:index of Squid-cache"
+  },
+  {
+    "dork": "intitle:index of -login.php"
+  },
+  {
+    "dork": "intitle:index of metin"
+  },
+  {
+    "dork": "intitle:index of html-en"
+  },
+  {
+    "dork": "intitle:index of html-intro"
+  },
+  {
+    "dork": "intitle:index of echo-linux"
+  },
+  {
+    "dork": "intitle:index of filelist.xml"
+  },
+  {
+    "dork": "intitle:index of wp-content"
+  },
+  {
+    "dork": "intitle:index of css"
+  },
+  {
+    "dork": "intitle:index of CD.pdf "
+  },
+  {
+    "dork": "intitle:index of DOCS-TECH "
+  },
+  {
+    "dork": "intitle:index of  Server-Side "
+  },
+  {
+    "dork": "intitle:index of  py-text"
+  },
+  {
+    "dork": "Google Dork"
+  },
+  {
+    "dork": "Google Dork"
+  },
+  {
+    "dork": "Google Dork"
+  },
+  {
+    "dork": "intitle:index of htdocs"
+  },
+  {
+    "dork": "intitle:index of .ppt"
+  },
+  {
+    "dork": "site:github.com intext:unattend xmlns AND password ext:xml"
+  },
+  {
+    "dork": "intitle:index of workspace.xml"
+  },
+  {
+    "dork": "intitle:index of -qpf"
+  },
+  {
+    "dork": "intitle:index of -ipk"
+  },
+  {
+    "dork": "intitle:index of Packages.gz"
+  },
+  {
+    "dork": "intitle:index of mips32el-nf"
+  },
+  {
+    "dork": "intitle:index of .phpunit.xml"
+  },
+  {
+    "dork": "intitle:index of  .AndroidManifest.xml"
+  },
+  {
+    "dork": "intitle:Index of \\/ intext:pass.txt"
+  },
+  {
+    "dork": "inurl:WS_FTP.log"
+  },
+  {
+    "dork": "intext:Index of email.txt"
+  },
+  {
+    "dork": "intitle:index of pptx"
+  },
+  {
+    "dork": "intitle:index of ppt.html"
+  },
+  {
+    "dork": "intitle:index of slides-ppt"
+  },
+  {
+    "dork": "intitle:index of -XML.pdf "
+  },
+  {
+    "dork": "intitle:index of XML "
+  },
+  {
+    "dork": "intitle:index of XML.Xerces "
+  },
+  {
+    "dork": "intitle:index of infn.it"
+  },
+  {
+    "dork": "intitle:index of lngs.infn.it "
+  },
+  {
+    "dork": "intitle:index of extra"
+  },
+  {
+    "dork": "intitle:index of extranet"
+  },
+  {
+    "dork": "intitle:index of fsi"
+  },
+  {
+    "dork": "intitle:index of oxid-esales"
+  },
+  {
+    "dork": "site:pastebin.com intext:license key | expiration"
+  },
+  {
+    "dork": "site:pastebin.com intext:username | password | secret_key | token"
+  },
+  {
+    "dork": "intitle:index.of \\/email \\/robots.txt"
+  },
+  {
+    "dork": "intitle:index.of \\/cftp \\/robots.txt"
+  },
+  {
+    "dork": "allinurl:index.php?page= site:.gov.in"
+  },
+  {
+    "dork": "inurl:php?id= site:.gov.bd"
+  },
+  {
+    "dork": "Index of \\/vendor\\/spatie\\/robots-txt"
+  },
+  {
+    "dork": "intitle:index of .private.xml"
+  },
+  {
+    "dork": "site:pastebin.com intext:administrator:500:"
+  },
+  {
+    "dork": "inurl:php?id= site:.com"
+  },
+  {
+    "dork": "Index of \\/apidoc\\/api-web\\/target\\/classes\\/"
+  },
+  {
+    "dork": "intitle:password reset"
+  },
+  {
+    "dork": "intitle:index.of \\/CMS \\/robots.txt"
+  },
+  {
+    "dork": "intitle:index of server.log"
+  },
+  {
+    "dork": "intitle:index of \\/backup\\/sql"
+  },
+  {
+    "dork": "intitle:index of cv site:.com"
+  },
+  {
+    "dork": "intext:swagger filetype:log"
+  },
+  {
+    "dork": "intitle:index of server.properties"
+  },
+  {
+    "dork": "inurl:robots | robot intext:admin AND Disallow ext:txt"
+  },
+  {
+    "dork": "intitle:index of mongod*"
+  },
+  {
+    "dork": "intitle:index.of wp.login"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/simple-forum\\/admin\\/"
+  },
+  {
+    "dork": "intitle:index.of \\/Snowflake \\/robots.txt"
+  },
+  {
+    "dork": "intitle:index of .env.example"
+  },
+  {
+    "dork": "inurl:app.yaml intext:runtime:  ext:yaml"
+  },
+  {
+    "dork": "inurl: https:\\/\\/app.zerocopter.com\\/rd\\/"
+  },
+  {
+    "dork": "intitle:index.of conf.mysql"
+  },
+  {
+    "dork": "intext:password intitle:index of"
+  },
+  {
+    "dork": "Fwd: intitle:Authorize application Learn more about OAuth"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/elementor\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-filebase\\/"
+  },
+  {
+    "dork": "intitle:index of console"
+  },
+  {
+    "dork": "intitle:index of logs"
+  },
+  {
+    "dork": "index of \\/ inurl:\\/pki\\/"
+  },
+  {
+    "dork": "intext:index of\\/ top secret gov"
+  },
+  {
+    "dork": "inurl:\\/servicedesk\\/customer\\/user\\/signup"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/easy-wp-smtp"
+  },
+  {
+    "dork": "Re: inurl:\\/app\\/kibana#"
+  },
+  {
+    "dork": "intext:adobe coldfusion 8"
+  },
+  {
+    "dork": "New Dork"
+  },
+  {
+    "dork": "intitle:Index of inurl:data\\/plugins\\/"
+  },
+  {
+    "dork": "Google Dork: intitle:Index of Apache\\/2.4.50"
+  },
+  {
+    "dork": "site:*\\/node_modules\\/ content:ssh"
+  },
+  {
+    "dork": "site:*\\/node_modules\\/ content:PEM"
+  },
+  {
+    "dork": "intitle:index of schema.mysql"
+  },
+  {
+    "dork": "intitle:Pi-hole - raspberrypi"
+  },
+  {
+    "dork": "inurl:\\/responsible disclosure"
+  },
+  {
+    "dork": "Warehouse Management System Ext:pdf site:.gov"
+  },
+  {
+    "dork": "intitle: index of admin \\/backup"
+  },
+  {
+    "dork": "intitle: Library System by YahooBaba"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/thecartpress\\/"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/mstore-api\\/"
+  },
+  {
+    "dork": "inurl:\\/plugins\\/pie-register\\/"
+  },
+  {
+    "dork": "filetype:log intext:(apache2 | htdocs)"
+  },
+  {
+    "dork": "intext:index of\\/ client-1.0-SNAPSHOT"
+  },
+  {
+    "dork": "intitle:phpinfo() inurl:phpinfo.php"
+  },
+  {
+    "dork": "intitle:index of passwords gov"
+  },
+  {
+    "dork": "site:pastebin.com intitle:leak | breach intext:password | pw | pwd"
+  },
+  {
+    "dork": "intitle:index of credentials"
+  },
+  {
+    "dork": "site:pastebin.com intext:root: & :0: & ::: | intitle:passwd | shadow"
+  },
+  {
+    "dork": "intitle:Index of Apache\\/2.4.49"
+  },
+  {
+    "dork": "intitle: access log filetype: txt"
+  },
+  {
+    "dork": "boarding pass site:http:\\/\\/tripadvisor.com"
+  },
+  {
+    "dork": "intitle:index de sshd_config"
+  },
+  {
+    "dork": "intitle:index of mysql.yaml"
+  },
+  {
+    "dork": "site:*\\/oauth\\/token"
+  },
+  {
+    "dork": "intitle:index of sftp.json"
+  },
+  {
+    "dork": "inurl:simplesaml\\/saml2\\/idp"
+  },
+  {
+    "dork": ".:\\/opt\\/remi\\/php56\\/root\\/usr\\/share\\/pear | :\\/opt\\/remi\\/php56\\/root\\/usr\\/share\\/php"
+  },
+  {
+    "dork": "intitle:index of config.json"
+  },
+  {
+    "dork": "intitle:index of docker-compose.yaml"
+  },
+  {
+    "dork": "inurl:execute-api site:amazonaws.com"
+  },
+  {
+    "dork": "intitle:index of django.config"
+  },
+  {
+    "dork": "intitle:index of inurl:gov Juicy Info |GHDB"
+  },
+  {
+    "dork": "intitle: index of Health Records"
+  },
+  {
+    "dork": "intitle:index of \\/api-debug.log"
+  },
+  {
+    "dork": "site:pastebin.com intext:-----BEGIN CERTIFICATE-----"
+  },
+  {
+    "dork": "site:pastebin.com intext:-----BEGIN RSA PRIVATE KEY-----"
+  },
+  {
+    "dork": "site:pastebin.com intext::aad3b435b51404eeaad3b435b51404ee:"
+  },
+  {
+    "dork": "intitle:index of schema.graphql"
+  },
+  {
+    "dork": "site:.execute-api.us-east-1.amazonaws.com"
+  },
+  {
+    "dork": "inurl:employee filetype:xls"
+  },
+  {
+    "dork": "ext:xls intext:\\/etc\\/passwd | inurl:password"
+  },
+  {
+    "dork": "index of intext:wpbdp-csv-exports"
+  },
+  {
+    "dork": "inurl:mil intext:UNCLASSIFIED\\/FOUO ext:pdf"
+  },
+  {
+    "dork": "filetype:log AUTHTOKEN"
+  },
+  {
+    "dork": "intitle: Index of ipcam"
+  },
+  {
+    "dork": "intitle: index of data clinic"
+  },
+  {
+    "dork": "intitle:index of mongod.conf"
+  },
+  {
+    "dork": "intitle:index of  inurl:.bash_profile "
+  },
+  {
+    "dork": "intitle:Operations Automation Default Page"
+  },
+  {
+    "dork": "intext:Powered by YzmCMS"
+  },
+  {
+    "dork": "intitle:index of sourcecode"
+  },
+  {
+    "dork": "# Exploit Title: [SF Dork]"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/striking_r"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/avada"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/centum"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/ultimatum"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/IncredibleWP"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/plugins\\/wp-e-commerce"
+  },
+  {
+    "dork": "intitle: index inurl: log"
+  },
+  {
+    "dork": "allintitle:Index of \\/wp-includes\\/"
+  },
+  {
+    "dork": "intext:private_key filetype:log"
+  },
+  {
+    "dork": "intext:api_key filetype:log"
+  },
+  {
+    "dork": "inurl: \\/admin\\/webeditor\\/admin_login.asp"
+  },
+  {
+    "dork": "inurl:sap\\/public\\/bc"
+  },
+  {
+    "dork": "intext:docs.google.com\\/forms\\/d\\/"
+  },
+  {
+    "dork": "intitle: index of  \\/BigIp"
+  },
+  {
+    "dork": "intitle:index of robots.txt"
+  },
+  {
+    "dork": "intext:Number of Requests for items accessed on this Server"
+  },
+  {
+    "dork": "allintext:[Sec. Info] file.php"
+  },
+  {
+    "dork": "allintext:Call to undefined function"
+  },
+  {
+    "dork": "intitle:GoogleService-Info filetype:plist"
+  },
+  {
+    "dork": "intitle:Index of build-an-atom"
+  },
+  {
+    "dork": "inurl:robots | robot intext:Disallow: | Allow: ext:txt"
+  },
+  {
+    "dork": "inurl:autodiscover\\/autodiscover.xml"
+  },
+  {
+    "dork": "intitle:index of robots.txt"
+  },
+  {
+    "dork": "intitle:index of development.js"
+  },
+  {
+    "dork": "intext:Authorization: Bearer filetype:log"
+  },
+  {
+    "dork": "intitle.index of .env"
+  },
+  {
+    "dork": "intitle:index.of root user"
+  },
+  {
+    "dork": "intext:Powered by SmarterTrack"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/themes\\/beach_apollo"
+  },
+  {
+    "dork": "phpMyAdmin -www filetype:conf site:*"
+  },
+  {
+    "dork": "Google Dork: intitle:index.of ipconfig"
+  },
+  {
+    "dork": "intitle:index of tls-cert.pem | tls-csr.pem | tls-key.pem"
+  },
+  {
+    "dork": "intitle:index of development.py"
+  },
+  {
+    "dork": "intitle:index of production.py"
+  },
+  {
+    "dork": "intitle:index of local_settings.py"
+  },
+  {
+    "dork": "inurl:\\/admin\\/radeditorprovider\\/dialoghandler.aspx Loading the dialog..."
+  },
+  {
+    "dork": "inurl:\\/_vti_bin\\/Authentication.asmx"
+  },
+  {
+    "dork": "ext:txt intext:Windows PowerShell transcript start"
+  },
+  {
+    "dork": "intitle:index of database.py"
+  },
+  {
+    "dork": "intitle: index of \\/files clients"
+  },
+  {
+    "dork": "intitle:index of irc.log | irc.logs"
+  },
+  {
+    "dork": "site:*\\/phpmyadmin\\/import.php"
+  },
+  {
+    "dork": "site:*\\/phpmyadmin\\/server_import.php"
+  },
+  {
+    "dork": "intext:Welcome to Huawei web page for network configuration."
+  },
+  {
+    "dork": "intitle: index of \\/bin\\/php.ini"
+  },
+  {
+    "dork": "intitle:LiveZilla Server Page"
+  },
+  {
+    "dork": "intitle:index of \\/webpack-dev-server\\/ssl\\/"
+  },
+  {
+    "dork": "intitle:index of \\/wp-content\\/uploads\\/"
+  },
+  {
+    "dork": "intext:API KEY site:pastebin.com"
+  },
+  {
+    "dork": "intitle:Index of service.pwd"
+  },
+  {
+    "dork": "inurl:gov filetype:xls intext:password"
+  },
+  {
+    "dork": "intext:SECRET_KEY= site:pastebin.com"
+  },
+  {
+    "dork": "intext:private_key= site:pastebin.com"
+  },
+  {
+    "dork": "allintext:adhaar filetype:xlsx"
+  },
+  {
+    "dork": "filetype:xlsx intext:gmail.com OR hotmail.com site:gov"
+  },
+  {
+    "dork": "intitle:untitled filetype:xls intext:password"
+  },
+  {
+    "dork": "inurl:wp-content\\/plugins\\/modern-events-calendar-lite"
+  },
+  {
+    "dork": "inurl:\\/inicis\\/ ext:log"
+  },
+  {
+    "dork": "Not for Public Release + Confidential ext:pdf | ext:doc | ext:xlsx"
+  },
+  {
+    "dork": "intitle:index of ssh_host_rsa_key + ssh_host_rsa_key.pub"
+  },
+  {
+    "dork": "intitle:index of db.sqlite3"
+  },
+  {
+    "dork": "intitle:index of \\/sql"
+  },
+  {
+    "dork": "index of storage\\/oauth-private.key"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/ phpMyAdmin SQL Dump"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/wpdm-cache"
+  },
+  {
+    "dork": "site:*\\/phpmyadmin\\/server_databases.php"
+  },
+  {
+    "dork": "site:*\\/phpmyadmin\\/server_privileges.php"
+  },
+  {
+    "dork": "inurl:phpmyadmin\\/sql.php?server=1"
+  },
+  {
+    "dork": "inurl:ALFA_DATA intitle:index of"
+  },
+  {
+    "dork": "site:*\\/phpmyadmin\\/server_sql.php"
+  },
+  {
+    "dork": "site:.gov.co intitle:Index of"
+  },
+  {
+    "dork": "intitle:index of intext:senha"
+  },
+  {
+    "dork": "intitle:index of google-services.json"
+  },
+  {
+    "dork": "intitle:Index of ws_ftp.ini"
+  },
+  {
+    "dork": "intext:Your client connection + Network name + Hardware address"
+  },
+  {
+    "dork": "Parent Directory AND Index of AND config.php_old"
+  },
+  {
+    "dork": "intext:cv OR intext:curriculum vitae AND intext:SSN ext:doc"
+  },
+  {
+    "dork": "inurl:ftp -inurl:(http|https) intext:@gmail.com intext:subject fwd|confidential|important|CARD|cvv"
+  },
+  {
+    "dork": "intitle:index of secret.yaml"
+  },
+  {
+    "dork": "inurl:dcwp_twitter.php"
+  },
+  {
+    "dork": "intitle:index of application.properties"
+  },
+  {
+    "dork": "ext:(doc | pdf | xls | txt |) (intext:confidential salary) inurl:confidential"
+  },
+  {
+    "dork": "filetype:log inurl:paypal"
+  },
+  {
+    "dork": "intitle:final.attendee.list | inurl:final.attendee.list"
+  },
+  {
+    "dork": "ext:xlsx inurl:database"
+  },
+  {
+    "dork": "allintext:@gmail.com filetype:log"
+  },
+  {
+    "dork": "inurl:https:\\/\\/trello.com AND intext:@gmail.com AND intext:password"
+  },
+  {
+    "dork": "intitle:index of intext:apikey.txt"
+  },
+  {
+    "dork": "inurl:\\/php\\/info.php PHP Version"
+  },
+  {
+    "dork": "site:ftp.*.*.* ComputerName= + [Unattended] UnattendMode"
+  },
+  {
+    "dork": "ext:yml | ext:txt | ext:env Database Connection Information Database server ="
+  },
+  {
+    "dork": "The SQL command completed successfully. ext:txt | ext:log"
+  },
+  {
+    "dork": "putty.log ext:log | ext:cfg | ext:txt | ext:sql | ext:env"
+  },
+  {
+    "dork": "ext:php intitle:phpinfo published by the PHP Group"
+  },
+  {
+    "dork": "intitle:index of intext:web.xml"
+  },
+  {
+    "dork": "ext:txt | ext:log | ext:cfg Building configuration..."
+  },
+  {
+    "dork": "ext:sql | ext:txt intext:-- phpMyAdmin SQL Dump -- + intext:admin"
+  },
+  {
+    "dork": "secret_key_base: ext:exs | ext:txt | ext:env | ext:cfg"
+  },
+  {
+    "dork": "site:gov ext:sql | ext:dbf | ext:mdb"
+  },
+  {
+    "dork": "intitle:index of Clientaccesspolicy.xml"
+  },
+  {
+    "dork": "intitle:index of intext:credentials"
+  },
+  {
+    "dork": "Index of \\/_vti_pvt +*.pwd"
+  },
+  {
+    "dork": "intitle:index of service-Account-Credentials.json | creds.json"
+  },
+  {
+    "dork": "intitle:index of \\/.idea"
+  },
+  {
+    "dork": "intitle:index of \\/xampp\\/htdocs | C:\\/xampp\\/htdocs\\/"
+  },
+  {
+    "dork": "* Authentication Unique Keys and Salts ext:txt | ext:log"
+  },
+  {
+    "dork": "-- Server version -- MySQL Administrator dump 1.4 ext:sql"
+  },
+  {
+    "dork": "site:*gov.* intitle:index.of db"
+  },
+  {
+    "dork": "allintext:Index Of cookies.txt"
+  },
+  {
+    "dork": "ext:txt | ext:log | ext:cfg | ext:yml administrator:500:"
+  },
+  {
+    "dork": "index of \\/home\\/000~ROOT~000\\/etc"
+  },
+  {
+    "dork": "intitle:PowerMTA inurl:logs"
+  },
+  {
+    "dork": "allintext:index of oauth-private.key"
+  },
+  {
+    "dork": "UV9 Error (1.0)"
+  },
+  {
+    "dork": "intitle:Environment Variables inurl:\\/cgi-bin\\/"
+  },
+  {
+    "dork": "intitle:index of mysql.log | mysql.logs"
+  },
+  {
+    "dork": "putty.log ext:log | ext:cfg | ext:txt"
+  },
+  {
+    "dork": "intitle:index of config.db"
+  },
+  {
+    "dork": "intitle:index of phpmyadmin.sql"
+  },
+  {
+    "dork": "Database:phpmyadmin intext:mysql ext:sql inurl:phpmyadmin"
+  },
+  {
+    "dork": "'AUTH_SALT' | 'SECURE_AUTH_SALT' | 'LOGGED_IN_SALT' | 'NONCE_SALT' ext:txt | ext:cfg | ext:env | ext:ini"
+  },
+  {
+    "dork": "intitle:index of composer.lock"
+  },
+  {
+    "dork": "index of callback.php"
+  },
+  {
+    "dork": "site:ftp:\\/\\/ftp.*.* ext:sql"
+  },
+  {
+    "dork": "intext:admin ext:sql inurl:admin"
+  },
+  {
+    "dork": "ext:log intext:NetworkManager systemd"
+  },
+  {
+    "dork": "index of user.MYD"
+  },
+  {
+    "dork": "allintext:API_SECRET* ext:env | ext:yml"
+  },
+  {
+    "dork": "Reflector Dashboard inurl:\\/db\\/index.php\\/"
+  },
+  {
+    "dork": "intitle:index of jboss-service.xml"
+  },
+  {
+    "dork": "intext:ISUR_MACHINE IIS -log"
+  },
+  {
+    "dork": "allintext:username"
+  },
+  {
+    "dork": "intitle:index of exception.log"
+  },
+  {
+    "dork": "intitle:report (OpenVAS | Nikto) ext:pdf OR ext:html"
+  },
+  {
+    "dork": "intitle:report (Fortify | Web Inspect) filetype:pdf"
+  },
+  {
+    "dork": "intitle:Index of \\/ joomla\\/database"
+  },
+  {
+    "dork": "intitle:report (qualys | acunetix | nessus | netsparker | nmap) filetype:html"
+  },
+  {
+    "dork": "intitle:index of .\\/bash_history"
+  },
+  {
+    "dork": "-----BEGIN RSA PRIVATE KEY----- inurl:id_rsa"
+  },
+  {
+    "dork": "Index of accounts.sql"
+  },
+  {
+    "dork": "intitle:index of bundle.pem"
+  },
+  {
+    "dork": "intitle:index of \\/etc\\/openvpn\\/"
+  },
+  {
+    "dork": "intitle:index of *named.root.key"
+  },
+  {
+    "dork": "Index of \\/__MACOSX\\/System"
+  },
+  {
+    "dork": "intitle:index of id_rsa.pub"
+  },
+  {
+    "dork": "intext:Not to be distributed ext:doc OR ext:pdf OR ext:xls OR ext:xlsx"
+  },
+  {
+    "dork": "index of \\/backend\\/prod\\/config"
+  },
+  {
+    "dork": "Index of \\/access"
+  },
+  {
+    "dork": "intext:index of \\/ *.yaml"
+  },
+  {
+    "dork": "index of siri"
+  },
+  {
+    "dork": "intitle:index of secrets.yml"
+  },
+  {
+    "dork": "intitle:index of \\/ *key.pem"
+  },
+  {
+    "dork": "intext:index of \\/ config.json"
+  },
+  {
+    "dork": "index of .svn\\/text-base\\/index.php.svn-base"
+  },
+  {
+    "dork": "intitle:index of admin.tar"
+  },
+  {
+    "dork": "Index of customer.php"
+  },
+  {
+    "dork": "intitle:index.of.?.db"
+  },
+  {
+    "dork": "index of sqlite"
+  },
+  {
+    "dork": "root.log ext:log"
+  },
+  {
+    "dork": "intitle:index of dev\\/config"
+  },
+  {
+    "dork": "index of logs.zip"
+  },
+  {
+    "dork": "index of dbbackup"
+  },
+  {
+    "dork": "intitle:index of \\/ nginx.conf"
+  },
+  {
+    "dork": "intitle:index of wp-admin.zip"
+  },
+  {
+    "dork": "DORK : intext:index of var\\/log\\/"
+  },
+  {
+    "dork": "microsoft internet information services ext:log"
+  },
+  {
+    "dork": "index of backup.zip"
+  },
+  {
+    "dork": "inurl:admin intitle:index of ext:sql | xls | xml | json | csv"
+  },
+  {
+    "dork": "phpMyAdmin MySQL-Dump INSERT INTO -the"
+  },
+  {
+    "dork": "intitle:index of var\\/log\\/"
+  },
+  {
+    "dork": "intitle:index of config.asp"
+  },
+  {
+    "dork": "intitle:index of security.php"
+  },
+  {
+    "dork": "index.of:pcap -site:stackoverflow.com -site:github.com"
+  },
+  {
+    "dork": "intitle:index of .config"
+  },
+  {
+    "dork": "inurl:.drone.yml intext:git config user.email"
+  },
+  {
+    "dork": "intitle:index of adminsubscribeack.txt"
+  },
+  {
+    "dork": "intitle:index of log.bak"
+  },
+  {
+    "dork": "inurl:ReportServer\\/Pages\\/ReportViewer.aspx"
+  },
+  {
+    "dork": "intitle:index of database\\/config"
+  },
+  {
+    "dork": "intitle:index of auth_config.php"
+  },
+  {
+    "dork": "intitle:index of aws-config.php"
+  },
+  {
+    "dork": "intitle:index of auth.config"
+  },
+  {
+    "dork": "index of sshd_config"
+  },
+  {
+    "dork": "index of \\/ftp\\/logs"
+  },
+  {
+    "dork": "index of \\/private\\/logs"
+  },
+  {
+    "dork": "allinurl:index.php?db=information_schema"
+  },
+  {
+    "dork": "filetype:sql intext: sql dump"
+  },
+  {
+    "dork": "index of user.sqlite"
+  },
+  {
+    "dork": "ext:sql intext:-- phpMyAdmin SQL Dump"
+  },
+  {
+    "dork": "intitle:index of properties.ini"
+  },
+  {
+    "dork": "intitle:index of db.log"
+  },
+  {
+    "dork": "intext:W E L C O M E to R O O T ext:cfg OR ext:log OR ext:txt"
+  },
+  {
+    "dork": "intitle:index of userdata.json"
+  },
+  {
+    "dork": "intitle:index of  users.json"
+  },
+  {
+    "dork": "intitle:index of wpadmin-secure.htaccess"
+  },
+  {
+    "dork": "intitle:index of privkey.pem"
+  },
+  {
+    "dork": "intitle:index of dhparams.pem"
+  },
+  {
+    "dork": "intitle:index of token.txt"
+  },
+  {
+    "dork": "intitle:index of refresh_token.txt OR access_token.txt OR jsapi_ticket.txt"
+  },
+  {
+    "dork": "intitle:index of *root.pem"
+  },
+  {
+    "dork": "index of wp-config.zip"
+  },
+  {
+    "dork": "intitle:index of cassandra-yaml"
+  },
+  {
+    "dork": "intitle:index of configure.in"
+  },
+  {
+    "dork": "intitle:index of user data.txt"
+  },
+  {
+    "dork": "intitle:index of jsapi_ticket.json"
+  },
+  {
+    "dork": "intitle:index of mvn-settings.xml"
+  },
+  {
+    "dork": "intitle:index of admin.jsp"
+  },
+  {
+    "dork": "intitle:index of postgresql.conf"
+  },
+  {
+    "dork": "intitle:Index of backup-audio-queue.log OR backup-audio.log OR backup-mysql.log"
+  },
+  {
+    "dork": "intitle:index of token_info.json OR get_access_token.json"
+  },
+  {
+    "dork": "intitle:index of fullchain.pem OR chain.pem"
+  },
+  {
+    "dork": "intitle:index of users.txt"
+  },
+  {
+    "dork": "intitle:Index of ca-key.pem OR ca-req.pem"
+  },
+  {
+    "dork": "intitle:index of local.json"
+  },
+  {
+    "dork": "intitle:index of oauth-credentials.json"
+  },
+  {
+    "dork": "intitle:index of backup.js"
+  },
+  {
+    "dork": "intitle:index of debian-security.log"
+  },
+  {
+    "dork": "intitle:index of auth.asc"
+  },
+  {
+    "dork": "intitle:index of security.json"
+  },
+  {
+    "dork": "intitle:index of google-api-private-key.json"
+  },
+  {
+    "dork": "intitle:index of secrets.py"
+  },
+  {
+    "dork": "intitle:index of cfg.go"
+  },
+  {
+    "dork": "intitle:index of config.rb"
+  },
+  {
+    "dork": "intitle:index of login.docx"
+  },
+  {
+    "dork": "intitle:index of config.pl"
+  },
+  {
+    "dork": "intitle:index of manage.py"
+  },
+  {
+    "dork": "intitle:index of config.js"
+  },
+  {
+    "dork": "intitle:Index of test.logs"
+  },
+  {
+    "dork": "intitle:index of queue.log"
+  },
+  {
+    "dork": "intitle:index of web.log OR web.logs"
+  },
+  {
+    "dork": "intitle:index of Logins.txt"
+  },
+  {
+    "dork": "intitle:index of keys.asc"
+  },
+  {
+    "dork": "intitle:index of login.txt"
+  },
+  {
+    "dork": "intitle:index of auth.log"
+  },
+  {
+    "dork": "intitle:index of users.bak"
+  },
+  {
+    "dork": "inurl:administrator\\/components\\/com_comprofiler\\/plugin.class.php?mosConfig_absolute_path="
+  },
+  {
+    "dork": "intitle:index of secret.js"
+  },
+  {
+    "dork": "intext:laravel ext:env intext:db_password -git"
+  },
+  {
+    "dork": "intitle:index of accounts.json"
+  },
+  {
+    "dork": "intitle:index of admin.bak"
+  },
+  {
+    "dork": "intitle:index of settings.yaml"
+  },
+  {
+    "dork": "intitle:index of api.yaml"
+  },
+  {
+    "dork": "intitle:index of client_id.json"
+  },
+  {
+    "dork": "intitle:index of \\/config.bak"
+  },
+  {
+    "dork": "intitle:index of \\/yum.log"
+  },
+  {
+    "dork": "intitle:index of \\/users.xls"
+  },
+  {
+    "dork": "intitle:index of users.ini"
+  },
+  {
+    "dork": "intitle:index of \\/accounts.txt"
+  },
+  {
+    "dork": "intitle:index of dataSources.local.xml"
+  },
+  {
+    "dork": "intitle:index of apis.json"
+  },
+  {
+    "dork": "intitle:index of admin.txt"
+  },
+  {
+    "dork": "intitle:index of parameters.yml.test OR parameters.yml.dist"
+  },
+  {
+    "dork": "intitle:index of docker-cloud.yml"
+  },
+  {
+    "dork": "intitle:index of application.yml"
+  },
+  {
+    "dork": "intitle:index of database.json"
+  },
+  {
+    "dork": "intitle:index of db.json"
+  },
+  {
+    "dork": "intitle:index of license-key.txt"
+  },
+  {
+    "dork": "intitle:index of settings.xml"
+  },
+  {
+    "dork": "settings.ini intext:fbconnectkey = intext:msverify ="
+  },
+  {
+    "dork": "intitle:index of keys.ini"
+  },
+  {
+    "dork": "intitle:index of credentials.json"
+  },
+  {
+    "dork": "intitle:index of client_secret.json OR client secret OR client_secret live.json"
+  },
+  {
+    "dork": "intitle:index of token.json"
+  },
+  {
+    "dork": "intitle:index of \\/insecure_private_key"
+  },
+  {
+    "dork": "intitle:index of credentials.ini"
+  },
+  {
+    "dork": "intitle:index of dovecot.key OR dovecot.crt.cache OR dovecot.crt"
+  },
+  {
+    "dork": "intitle:index of apache.log"
+  },
+  {
+    "dork": "intitle:index of machine.config"
+  },
+  {
+    "dork": "intitle:index of \\/known_hosts"
+  },
+  {
+    "dork": "intitle:index of \\/.ssh\\/id_rsa OR id_rsa.pub"
+  },
+  {
+    "dork": "intitle:index of syslog"
+  },
+  {
+    "dork": "intitle:index of \\/cron.log"
+  },
+  {
+    "dork": "intitle:index of keepass.kdbx OR database.kdbx"
+  },
+  {
+    "dork": "intitle:Index of db_mysql.inc"
+  },
+  {
+    "dork": "intitle:Index of db.inc"
+  },
+  {
+    "dork": "DBPassword ext:cfg OR ext:log OR ext:txt OR ext:sql -git"
+  },
+  {
+    "dork": "SecretAccessKey OR AccessKeyId ext:txt OR ext:cfg -git"
+  },
+  {
+    "dork": "intitle:index of errorlog.txt"
+  },
+  {
+    "dork": "-----BEGIN OpenVPN Static key V1----- ext:key"
+  },
+  {
+    "dork": "-----BEGIN CERTIFICATE----- ext:pem -git"
+  },
+  {
+    "dork": "intext:Current Configuration: ext:cfg -git"
+  },
+  {
+    "dork": "intitle:index of vpn-config.*"
+  },
+  {
+    "dork": "intitle:index of default.rdp"
+  },
+  {
+    "dork": "intitle:index of cvsweb.conf"
+  },
+  {
+    "dork": "filetype:reg reg [HKEY_CURRENT_USERSoftware] -git"
+  },
+  {
+    "dork": "filetype:reg reg HKEY_CLASSES_ROOT -git"
+  },
+  {
+    "dork": "filetype:reg reg HKEY_USERS -git"
+  },
+  {
+    "dork": "ext:cfg tac_plus.cfg"
+  },
+  {
+    "dork": "inurl:-cfg intext:password cipher"
+  },
+  {
+    "dork": "intitle:index of mysql.properties"
+  },
+  {
+    "dork": "intext:dspace.cfg db.username = dspace"
+  },
+  {
+    "dork": "inurl:cfg intext:srb.username.1= srb.password.1 = "
+  },
+  {
+    "dork": "intext:index of \\/ token.yml"
+  },
+  {
+    "dork": "# Kickstart filetype:cfg"
+  },
+  {
+    "dork": "intitle:index of database.yml"
+  },
+  {
+    "dork": "intitle:index of configuration.yml"
+  },
+  {
+    "dork": "intitle:index of backup.bak"
+  },
+  {
+    "dork": "intitle:index of settings.yml"
+  },
+  {
+    "dork": "intitle:index of backup.yml"
+  },
+  {
+    "dork": "intitle:index of secrets.yml"
+  },
+  {
+    "dork": "intitle:index of access_token"
+  },
+  {
+    "dork": "intitle:index of settings.py"
+  },
+  {
+    "dork": "intitle:index of accounts.xml"
+  },
+  {
+    "dork": "intitle:index of php.ini"
+  },
+  {
+    "dork": "intext:index of \\/ auth.json"
+  },
+  {
+    "dork": "intitle:index of \\/privatekey.txt OR private key.txt"
+  },
+  {
+    "dork": "intitle:index.of cacert.pem"
+  },
+  {
+    "dork": "intitle:index of env.bak"
+  },
+  {
+    "dork": "intitle:index of smtp.log"
+  },
+  {
+    "dork": "intitle: index of *db.tar.gz"
+  },
+  {
+    "dork": "intitle:index of\\/ db.sql"
+  },
+  {
+    "dork": "intitle:index.of awsconfig.json"
+  },
+  {
+    "dork": "intext:SECRET_KEY ext|py inurl:mysite -site:stackoverflow.com -site:github.com"
+  },
+  {
+    "dork": "intitle:index.of keys.txt"
+  },
+  {
+    "dork": "intitle:index.of intext:access.txt"
+  },
+  {
+    "dork": "intitle:index.of intext:api.txt"
+  },
+  {
+    "dork": "krb.conf OR krb.realms intitle:index of -public -archive -packages -pub"
+  },
+  {
+    "dork": "accdb OR accde intitle:index of -pub -google -books"
+  },
+  {
+    "dork": "filetype:env intext:APP_NAME"
+  },
+  {
+    "dork": "-pub -pool intitle:index of db.key OR server.key OR ftp.key OR exchange.key OR host.key OR mail.key"
+  },
+  {
+    "dork": "intitle:index of lesshsQ\\/ OR .lesshst\\/ -pool -pub"
+  },
+  {
+    "dork": "intitle:index of crontab.conf"
+  },
+  {
+    "dork": "intitle:index of ticket.conf"
+  },
+  {
+    "dork": "fetchmailrc intitle:index of -linux"
+  },
+  {
+    "dork": "inurl:_notes\\/dwsync.xml"
+  },
+  {
+    "dork": "intitle:index of wp-security-audit-log"
+  },
+  {
+    "dork": "MailChimp API error: ext:log"
+  },
+  {
+    "dork": "inurl:\\/fmi\\/webd intitle:FileMaker WebDirect"
+  },
+  {
+    "dork": "[ipn] ext:log"
+  },
+  {
+    "dork": "inurl:web.config & intext:Data Source & User ID & Password & connectionString & ext:config -git"
+  },
+  {
+    "dork": "Navicat MySQL Data Transfer filetype:sql"
+  },
+  {
+    "dork": "ext:sql intext:@gmail.com intext:e10adc3949ba59abbe56e057f20f883e"
+  },
+  {
+    "dork": "filetype:xls | xlsx | doc | docx | ppt | pptx | pdf site:gov FOUO | NOFORN | Confidential"
+  },
+  {
+    "dork": "intext:@outlook.com ext:log"
+  },
+  {
+    "dork": "intitle:index of mail.log"
+  },
+  {
+    "dork": "intext:@gmail.com ext:log"
+  },
+  {
+    "dork": "intitle:index.of access.conf"
+  },
+  {
+    "dork": "intitle:index of ssh.yml"
+  },
+  {
+    "dork": "intitle:index of databases.yml"
+  },
+  {
+    "dork": "db_password filetype:env -site:github.com -git"
+  },
+  {
+    "dork": "intitle:index of inurl:ftp intext:logs"
+  },
+  {
+    "dork": "intitle:index.of private-key.pem"
+  },
+  {
+    "dork": "intitle:index.of userpass.txt"
+  },
+  {
+    "dork": "intitle:index.of credential.txt"
+  },
+  {
+    "dork": "intitle:index.of key.txt"
+  },
+  {
+    "dork": "accounts.xlsx ext:xlsx"
+  },
+  {
+    "dork": "site:mypublicinbox.com intitle:email"
+  },
+  {
+    "dork": "site:*.freshservice.com\\/support\\/solutions"
+  },
+  {
+    "dork": "inurl:\\/.vscode\\/sftp.json"
+  },
+  {
+    "dork": "inurl:\\/.vscode\\/ftp-sync.json"
+  },
+  {
+    "dork": "intitle:Index Of intext:sftp-config.json"
+  },
+  {
+    "dork": "intitle:index of web.config.txt"
+  },
+  {
+    "dork": "site:*\\/wp-settings.php"
+  },
+  {
+    "dork": "site:*\\/logs\\/error.log"
+  },
+  {
+    "dork": "site:*\\/*\\/conf\\/httpd.conf"
+  },
+  {
+    "dork": "inurl:credentials.txt -github -git -gitlab"
+  },
+  {
+    "dork": "site:ftp.*.* index of: manifest.xml"
+  },
+  {
+    "dork": "index.of crossdomain.xml"
+  },
+  {
+    "dork": "intitle:index of inurl:\\/*sql* filetype:log"
+  },
+  {
+    "dork": "intitle:index of debian.conf"
+  },
+  {
+    "dork": "inurl:\\/application\\/config\\/database.php*"
+  },
+  {
+    "dork": "intitle:index of \\/mysql.log"
+  },
+  {
+    "dork": "site:*\\/sitemap\\/sitemap.xml"
+  },
+  {
+    "dork": "Scanned by Camscanner filetype:pdf"
+  },
+  {
+    "dork": "inurl: \\/config.txt ext:txt intext:"
+  },
+  {
+    "dork": "site:*\\/robots.txt intext:User-agent:"
+  },
+  {
+    "dork": "site:*\\/phpMyAdmin\\/robots.txt"
+  },
+  {
+    "dork": "site:*\\/log\\/access_log"
+  },
+  {
+    "dork": "intitle:index of debian.cnf"
+  },
+  {
+    "dork": "intitle:index.of.?.config.ini"
+  },
+  {
+    "dork": "ext:sql intext:-- phpMyAdmin SQL Dump -site:github.*"
+  },
+  {
+    "dork": "site:docs.google.com inurl:forms | viewanalytics intext:see previous responses"
+  },
+  {
+    "dork": "ext:sql intext:contrasena"
+  },
+  {
+    "dork": "site:*\\/phpinfo.php intitle:phpinfo()"
+  },
+  {
+    "dork": "ext:sql intext:clave"
+  },
+  {
+    "dork": "inurl:robots.txt site:gov + intext:password"
+  },
+  {
+    "dork": "s3 site:amazonaws.com filetype:log"
+  },
+  {
+    "dork": "inurl:\\/filedown.php?file="
+  },
+  {
+    "dork": "intitle:Index of pass.txt"
+  },
+  {
+    "dork": "filetype:xls nomina"
+  },
+  {
+    "dork": "site:*.com intitle:Thank You For Your Order intext:Click Here to Download"
+  },
+  {
+    "dork": "site:https:\\/\\/docs.google.com\\/spreadsheets edit"
+  },
+  {
+    "dork": "site:https:\\/\\/docs.google.com\\/spreadsheets responses"
+  },
+  {
+    "dork": "site:https:\\/\\/docs.google.com\\/forms responses"
+  },
+  {
+    "dork": "site:https:\\/\\/docs.google.com\\/forms viewanalytics"
+  },
+  {
+    "dork": "MAIL_HOST filetype:env"
+  },
+  {
+    "dork": "inurl:paypal.log ext:log"
+  },
+  {
+    "dork": "intitle:index of unattend.xml"
+  },
+  {
+    "dork": "site:https:\\/\\/docs.google.com\\/document\\/d\\/ password"
+  },
+  {
+    "dork": "site:https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/ password"
+  },
+  {
+    "dork": "DB_USERNAME filetype:env"
+  },
+  {
+    "dork": "inurl:old index of wp-config.php"
+  },
+  {
+    "dork": "s3 site:amazonaws.com filetype:sql"
+  },
+  {
+    "dork": "\\/FTPSVC2 intitle:index of"
+  },
+  {
+    "dork": "intitle:index of W3SVC1"
+  },
+  {
+    "dork": "s3 site:amazonaws.com filetype:xls login"
+  },
+  {
+    "dork": "intext:backup.sql intitle:index.of"
+  },
+  {
+    "dork": "intext:user.sql intitle:index.of"
+  },
+  {
+    "dork": "filetype:inc php -site:github.com -site:sourceforge.net"
+  },
+  {
+    "dork": "inurl:github.com intext:.ftpconfig -issues"
+  },
+  {
+    "dork": "site:global.gotomeeting.com inurl:recording"
+  },
+  {
+    "dork": "keyed alike site:gov filetype:pdf"
+  },
+  {
+    "dork": "intext:config intitle:Index of .ssh"
+  },
+  {
+    "dork": "php class JConfig AND inurl:configuration AND ext:bak | old | pdf | php | txt"
+  },
+  {
+    "dork": "jmeter.log filetype:log"
+  },
+  {
+    "dork": "intext:@gmail.com AND intext:@yahoo.com filetype:sql"
+  },
+  {
+    "dork": "intext:the WordPress inurl:wp-config ext:txt"
+  },
+  {
+    "dork": "passport filetype:xls site:*.edu.* | site:*.gov.* | site:*.com.* | site:*.org.* | site:*.net.* | site:*.mil.*"
+  },
+  {
+    "dork": "intext:[To Parent Directory] & ext:sql | ext:cnf | ext:config | ext:log"
+  },
+  {
+    "dork": "ext:txt | ext:sql | ext:cnf | ext:config | ext:log & intext:admin | intext:root | intext:administrator & intext:password | intext:root | intext:admin | intext:administrator"
+  },
+  {
+    "dork": "inurl:_vti_bin\\/sites.asmx?wsdl | intitle:_vti_bin\\/sites.asmx?wsdl"
+  },
+  {
+    "dork": "inurl:\\/files\\/_log\\/ filetype:log"
+  },
+  {
+    "dork": "intext:reports filetype:cache"
+  },
+  {
+    "dork": "inurl:pipermail filetype:txt"
+  },
+  {
+    "dork": "intitle:index of hosts.csv | firewalls.csv | linux.csv | windows.csv"
+  },
+  {
+    "dork": "intitle:index of users.csv | credentials.csv | accounts.csv"
+  },
+  {
+    "dork": "inurl:scanned & documents intitle:index of IT"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/WS_FTP.LOG"
+  },
+  {
+    "dork": "intitle:index of hiberfil.sys"
+  },
+  {
+    "dork": "intext:Portador do CPF"
+  },
+  {
+    "dork": "inurl:apspassword"
+  },
+  {
+    "dork": "filetype:pub ssh-rsa"
+  },
+  {
+    "dork": "filetype:doc Answer Key"
+  },
+  {
+    "dork": "inurl:LOG.txt X-System folder"
+  },
+  {
+    "dork": "intext:password Login Info filetype:txt"
+  },
+  {
+    "dork": "filetype:txt Registration Code"
+  },
+  {
+    "dork": "site:ghostbin.com  \\/  "
+  },
+  {
+    "dork": "site:hastebin.com  \\/  "
+  },
+  {
+    "dork": "filetype:rdp default.rdp"
+  },
+  {
+    "dork": "filetype:txt License Key"
+  },
+  {
+    "dork": "intitle:index of pagefile.sys"
+  },
+  {
+    "dork": "inurl:\\/_vti_pvt\\/service.cnf | inurl:\\/_vti_inf.html | inurl:\\/_vti_bin\\/ | inurl:\\/_vti_bin\\/spsdisco.aspx"
+  },
+  {
+    "dork": "intext:Resource dumped by intext:jcr -site:adobe.com"
+  },
+  {
+    "dork": "ext:env intext:APP_ENV= | intext:APP_DEBUG= | intext:APP_KEY="
+  },
+  {
+    "dork": "[HKEY_CURRENT_USERSoftwareSimonTathamPuTTYSessions] ext:reg"
+  },
+  {
+    "dork": "filetype:txt line vty 0 4"
+  },
+  {
+    "dork": "intext:Modified files in JOE when it aborted on JOE was aborted because the terminal closed"
+  },
+  {
+    "dork": "intext:please find attached login | password ext:pdf"
+  },
+  {
+    "dork": "configuration"
+  },
+  {
+    "dork": "inurl:logs\\/gravityforms"
+  },
+  {
+    "dork": "inurl:robots.txt intext:Disallow: \\/web.config"
+  },
+  {
+    "dork": "\\/var\\/www\\/manage\\/storage\\/logs\\/laravel- ext:log"
+  },
+  {
+    "dork": "inurl:\\/yum.log | intitle:yum.log + ext:log"
+  },
+  {
+    "dork": "intitle:index of intext:twr.html"
+  },
+  {
+    "dork": "intext:define('DB_NAME'"
+  },
+  {
+    "dork": "intext:class JConfig { inurl:configuration.php"
+  },
+  {
+    "dork": "inurl:\\/wp-json\\/wp\\/v2\\/users\\/ id:1"
+  },
+  {
+    "dork": "intext:PHP Version  ext:php intext:disabled intext:Build Date intext:System intext:allow_url_fopen"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/ai1wm-backups + wpress"
+  },
+  {
+    "dork": "ext:ppk ssh key -github.com -gitlab"
+  },
+  {
+    "dork": "inurl:conf\\/tomcat-users.xml -github"
+  },
+  {
+    "dork": "inurl:elmah.axd intext:Powered by ELMAH -inurl:detail"
+  },
+  {
+    "dork": "inurl:login.php.bak"
+  },
+  {
+    "dork": "intitle:index of .travis.yml | .travis.xml"
+  },
+  {
+    "dork": "intitle:index of laravel.log | main.yaml | server.cfg"
+  },
+  {
+    "dork": "swiftmailer intitle:index of smtp.yml | smtp.xml"
+  },
+  {
+    "dork": "intitle:index of config.yml | config.xml intext:login | auth"
+  },
+  {
+    "dork": "intitle:index of config.yml | config.xml intext:login | auth"
+  },
+  {
+    "dork": "intitle:index of .gitignore"
+  },
+  {
+    "dork": "intext:APIKey ext:js | xml | yml | txt | conf | py -github -stackoverflow intitle:index of"
+  },
+  {
+    "dork": "inurl:lighttpd.conf lighttpd site:github.com"
+  },
+  {
+    "dork": "-site:smarty.net ext:tpl intext:"
+  },
+  {
+    "dork": "inurl:nginx.conf nginx site:github.com"
+  },
+  {
+    "dork": "intext:successfully intitle:index of config | log | logged -stackoverflow"
+  },
+  {
+    "dork": "ext:log intext:connection intitle:index of -stackoverflow"
+  },
+  {
+    "dork": "employee training intitle:index.of ext:doc | pdf | xls |docx |xlsx"
+  },
+  {
+    "dork": "hardware | software migration intitle:index.of ext:xls | xlsx | doc | docx | pdf"
+  },
+  {
+    "dork": "var miner=new CryptoLoot.Anonymous intext:CryptoLoot.Anonymous"
+  },
+  {
+    "dork": "inurl:travis.yml tornado site:github.com"
+  },
+  {
+    "dork": "inurl:\\/p3p.xml | intitle: p3p.xml -github.com"
+  },
+  {
+    "dork": "air confirmation passenger(s)"
+  },
+  {
+    "dork": "inurl:debug\\/default\\/view?panel=config"
+  },
+  {
+    "dork": "inurl:root?originalDomain"
+  },
+  {
+    "dork": "filetype:txt Administrator:500:"
+  },
+  {
+    "dork": "filetype:xls | xlsx intext:software license site:.gov"
+  },
+  {
+    "dork": "filetype:xls | xlsx intext:cisco -cisco.com site:.gov"
+  },
+  {
+    "dork": "intext:vmware virtual site:.gov filetype:xls | xlsx | doc | pdf"
+  },
+  {
+    "dork": "intitle:This is pdfTeX"
+  },
+  {
+    "dork": "intext:cv OR intext:curriculum vitae passport details ext:doc -template"
+  },
+  {
+    "dork": "allintitle:restricted filetype:doc site:gov"
+  },
+  {
+    "dork": "filetype:gitattributes intext:CHANGELOG.md -site:github.com"
+  },
+  {
+    "dork": "filetype:env intext:AWS_SECRET"
+  },
+  {
+    "dork": "filetype:env intext:mail_host + intext:bluehost"
+  },
+  {
+    "dork": "AndroidManifest ext:xml -github -gitlab -googlesource"
+  },
+  {
+    "dork": "inurl:?db_backup | inurl:dbbackup -site:github.com sql.gz | sql.tgz | sql.tar | sql.7z"
+  },
+  {
+    "dork": "inurl:fisheye AND inurl:changelog -site:atlassian.com -site:github.com -intext:Log in to FishEye"
+  },
+  {
+    "dork": "intitle:Powered by Qualys SSL Labs"
+  },
+  {
+    "dork": "ext:txt {wallet_address :"
+  },
+  {
+    "dork": "inurl:..\\/\\/drivers\\/etc\\/ intitle:index of"
+  },
+  {
+    "dork": "inurl:\\/bigdump.php + intitle:BigDump ver."
+  },
+  {
+    "dork": "inurl:\\/.well-known\\/security.txt"
+  },
+  {
+    "dork": "inurl:\\/daten\\/webyep-log.txt"
+  },
+  {
+    "dork": "ext:adr adr filetype:adr bookmarks.adr"
+  },
+  {
+    "dork": "inurl:\\/Setup\\/Default.aspx mojoPortal"
+  },
+  {
+    "dork": "intitle:index.of.virtualbox -mirror -mirrors -public -ubuntu.com -edu -pub"
+  },
+  {
+    "dork": "Declassified and Approved for Release by filetype: pdf"
+  },
+  {
+    "dork": "intitle:Index of \\/logs\\/ lighttpd"
+  },
+  {
+    "dork": "filetype:env intext:APP_ENV"
+  },
+  {
+    "dork": "filetype:log inurl:log [SERVER_SOFTWARE]"
+  },
+  {
+    "dork": "CakePHP filetype:sql intext:password | pwd intext:username | uname intext: Insert into users values"
+  },
+  {
+    "dork": "intitle:Deluge: Web UI 1.3"
+  },
+  {
+    "dork": "intitle:Deluge: Web UI inurl::8112"
+  },
+  {
+    "dork": "intext:database inurl:laravel.log ext:log"
+  },
+  {
+    "dork": "dwsync.xml intitle:index of -gitlab -github"
+  },
+  {
+    "dork": "allinurl:mc4wp-debug.log ext:log"
+  },
+  {
+    "dork": "config.yaml intitle:index of vagrantfile"
+  },
+  {
+    "dork": "intext:[***] Results from + ext:txt + snort-"
+  },
+  {
+    "dork": "intitle:index of inurl:paypal log"
+  },
+  {
+    "dork": "intitle:index of intext:pip-selfcheck.json"
+  },
+  {
+    "dork": "inurl:\\/?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000 | inurl:\\/?=PHPE9568F35-D428-11d2-A769-00AA001ACF42"
+  },
+  {
+    "dork": "intitle:Proberv0. | inurl:\\/proberv.php"
+  },
+  {
+    "dork": "intitle:index of docker-compose.yml"
+  },
+  {
+    "dork": "intitle:index of .env"
+  },
+  {
+    "dork": "filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES"
+  },
+  {
+    "dork": "inurl:\\/gravity_forms\\/logs ext:txt"
+  },
+  {
+    "dork": "intext:Dr.Web (R) Anti-virus. Virus base add-on + ext:txt"
+  },
+  {
+    "dork": "ext:pem PRIVATE KEY -site:facebook.com -example -test*"
+  },
+  {
+    "dork": "inurl:\\/etc\\/fail2ban\\/ + ext:conf"
+  },
+  {
+    "dork": "inurl:\\/fantastico_fileslist.txt + ext:txt"
+  },
+  {
+    "dork": "allinurl:awstats.pl?config="
+  },
+  {
+    "dork": "inurl:plesk-stat"
+  },
+  {
+    "dork": "inurl:\\/xmlrpc.php?rsd & ext:php"
+  },
+  {
+    "dork": "allintitle:Forum Post Assistant : ext:php -site:joomla.org"
+  },
+  {
+    "dork": "[LocalizedFileNames] inurl:desktop.ini ext:ini -git -wiki"
+  },
+  {
+    "dork": "[Tera Term] inurl:teraterm.ini ext:ini -git"
+  },
+  {
+    "dork": "inurl:main.php?action=db"
+  },
+  {
+    "dork": "inurl:module=coreHome"
+  },
+  {
+    "dork": "intitle:index.of intext:zc_install intitle:zen-cart"
+  },
+  {
+    "dork": "Email delivery powered by Google ext:pdf OR ext:txt"
+  },
+  {
+    "dork": "intitle:PHP Web Stat - Sysinfo intext:php inurl:stat\\/sysinfo.php"
+  },
+  {
+    "dork": "SiteBar Bookmark Manager inurl:index.php?w="
+  },
+  {
+    "dork": "inurl:test\\/php\\/test.html Plesk File"
+  },
+  {
+    "dork": "intitle:Chorus 2 - Kodi web interface"
+  },
+  {
+    "dork": "intitle:Kodi inurl::8080 Music. Music;"
+  },
+  {
+    "dork": "intitle:rutorrent v3 AND intext:Uploaded -github.com"
+  },
+  {
+    "dork": "ext:pdf intext:Category: Password Management: Hardcoded Password intext:Issues)"
+  },
+  {
+    "dork": "intext:----- Begin SAP License ----- ext:txt"
+  },
+  {
+    "dork": "intext:Server.MapPath(.mdb) ext:asp"
+  },
+  {
+    "dork": "intext:Set objConn=Server.CreateObject(ADODB.Connection) ext:asp"
+  },
+  {
+    "dork": "Do not distribute (ext:pdf | ext:doc | ext:docx | ext:rtf)"
+  },
+  {
+    "dork": "Start of NVIDIA bug report log file ext:log"
+  },
+  {
+    "dork": "OTL Extras logfile created on: ext:txt"
+  },
+  {
+    "dork": "intext:softperms.txt ext:TXT"
+  },
+  {
+    "dork": "inurl:composer.json filetype:json -site:github.com"
+  },
+  {
+    "dork": "-- Dumping data for table ext:sql"
+  },
+  {
+    "dork": "inurl:wp-links-opml.php"
+  },
+  {
+    "dork": "inurl:\\/horde\\/test.php"
+  },
+  {
+    "dork": "inurl:wp-security-audit-log ext:log"
+  },
+  {
+    "dork": "inurl:\\/Divi\\/Changelog.txt \\/Divi\\/Changelog.txt"
+  },
+  {
+    "dork": "inurl:FileListAbsolute ext:txt"
+  },
+  {
+    "dork": "OTL logfile by OldTimer ext:txt"
+  },
+  {
+    "dork": "QuickDiag by g3n-h@ckm@n ext:txt"
+  },
+  {
+    "dork": "ext:txt | ext:conf | ext:inc | ext:doc intext:php class JConfig"
+  },
+  {
+    "dork": "filetype:tpl intext:mysql_connect"
+  },
+  {
+    "dork": "ext:asax"
+  },
+  {
+    "dork": "inurl:.hg\\/store\\/fncache"
+  },
+  {
+    "dork": "ext:vbproj"
+  },
+  {
+    "dork": "ext:csproj"
+  },
+  {
+    "dork": "inurl:scan_result_file"
+  },
+  {
+    "dork": "inurl:\\/maint\\/repair.php?repair=1"
+  },
+  {
+    "dork": "inurl:\\/secure\\/attachment\\/ filetype:log OR filetype:txt"
+  },
+  {
+    "dork": "ext:log inurl:\\/pgadmin"
+  },
+  {
+    "dork": "-- Account dump ext:sql -git"
+  },
+  {
+    "dork": "TX_start card_name ext:log"
+  },
+  {
+    "dork": "inurl:wp-content\\/uploads\\/file-manager\\/log.txt"
+  },
+  {
+    "dork": "You're successfully running JSON Server"
+  },
+  {
+    "dork": "inurl:\\/logs\\/www ext:log"
+  },
+  {
+    "dork": "Blocking Reason: ext:log -git"
+  },
+  {
+    "dork": "intext:uploadOverwrite || intext:OPEN || intext:cwd"
+  },
+  {
+    "dork": "[FFFTP] ext:ini"
+  },
+  {
+    "dork": "inurl:\\/Windows\\/Cookies\\/ ext:txt -telecom -forbidden -git"
+  },
+  {
+    "dork": "Protocol=unreal ext:ini -git"
+  },
+  {
+    "dork": "random's system information tool ext:txt"
+  },
+  {
+    "dork": "inurl:dcwp_twitter.php?1="
+  },
+  {
+    "dork": "inurl:app\\/config\\/ intext:parameters.yml intitle:index.of"
+  },
+  {
+    "dork": "-----BEGIN X509 CERTIFICATE----- ext:pem -git"
+  },
+  {
+    "dork": "-- MySQL Administrator dump ext:sql"
+  },
+  {
+    "dork": "Consola de Joomla! Debug inurl:index.php"
+  },
+  {
+    "dork": "START securepay ext:log"
+  },
+  {
+    "dork": "inurl:idx_config"
+  },
+  {
+    "dork": "KVP_ENCDATA:Version=1.0 ext:log"
+  },
+  {
+    "dork": "Operating System Intel Recovery ext:txt"
+  },
+  {
+    "dork": "WEB Browser Password Recovery ext:txt"
+  },
+  {
+    "dork": "MiniToolBox by Farbar ext:txt"
+  },
+  {
+    "dork": "-- MySQL dump ext:sql -git"
+  },
+  {
+    "dork": "inurl:core.windows.net ext:xlsx"
+  },
+  {
+    "dork": "inurl:\\/data\\/urllist.txt ext:txt -git"
+  },
+  {
+    "dork": "SECRET\\/\\/NOFORN ext:pdf"
+  },
+  {
+    "dork": "PHP Fatal error: require() ext:log"
+  },
+  {
+    "dork": "Section inurl:xorg.conf ext:conf -wiki"
+  },
+  {
+    "dork": "inurl:\\/Windows\\/Cookies\\/ ext:txt -git"
+  },
+  {
+    "dork": "screen mode id: ext:rdp"
+  },
+  {
+    "dork": "HTTP inurl:access.log ext:log"
+  },
+  {
+    "dork": "inurl:Makefile.in ext:in"
+  },
+  {
+    "dork": "InnoDB: ext:log"
+  },
+  {
+    "dork": "[dirs] inurl:mirc.ini -git"
+  },
+  {
+    "dork": "# AdwCleaner ext:txt"
+  },
+  {
+    "dork": "\\/wp-admin\\/admin-ajax ext:txt"
+  },
+  {
+    "dork": "Scan result of Farbar Recovery Scan Tool ext:txt"
+  },
+  {
+    "dork": "[PHPSESSID] ext:log"
+  },
+  {
+    "dork": "Logfile of Trend Micro HijackThis ext:log"
+  },
+  {
+    "dork": "LGD_CARDNUM ext:log -site:camper.com"
+  },
+  {
+    "dork": "SERVER_ADDR SERVER_PORT SERVER_NAME ext:log"
+  },
+  {
+    "dork": "%@ ext:ascx"
+  },
+  {
+    "dork": "inurl:mail ext:mai"
+  },
+  {
+    "dork": "# This file was generated by libcurl! Edit at your own risk. ext:txt"
+  },
+  {
+    "dork": "inurl:\\/fb_ca_chain_bundle.crt ext:crt"
+  },
+  {
+    "dork": "inurl:\\/sitemap.xsd ext:xsd"
+  },
+  {
+    "dork": "intext:Table structure for table `wp_users` filetype:sql"
+  },
+  {
+    "dork": "havij report Target ext:html"
+  },
+  {
+    "dork": "PGP SIGNED MESSAGE----- inurl:md5sums"
+  },
+  {
+    "dork": "Greenstone receptionist inurl:\\/etc\\/main.cfg"
+  },
+  {
+    "dork": "inurl:\\/phpinfo.php PHP Version"
+  },
+  {
+    "dork": "Fatal NI connect error "
+  },
+  {
+    "dork": "inurl:\\/attachment\\/ ext:log"
+  },
+  {
+    "dork": "inurl:\\/irclogs\\/ ext:log"
+  },
+  {
+    "dork": "filetype:pcmcfg"
+  },
+  {
+    "dork": "httrack inurl:hts-log.txt ext:txt -github.com"
+  },
+  {
+    "dork": "intitle:FormAssembly Enterprise :"
+  },
+  {
+    "dork": "inurl:\\/o\\/oauth2 inurl:client_id"
+  },
+  {
+    "dork": "inurl:iProber2.php ext:php"
+  },
+  {
+    "dork": "allinurl: drive.google.com\\/open?id="
+  },
+  {
+    "dork": "inurl:\\/debug\\/default intitle:Yii Debugger"
+  },
+  {
+    "dork": "inurl:ManageFilters.jspa?filterView=popular"
+  },
+  {
+    "dork": "https:\\/\\/paper.dropbox.com inurl:\\/doc\\/"
+  },
+  {
+    "dork": "PHP Version inurl:\\/php\\/phpinfo.php"
+  },
+  {
+    "dork": "[HKEY_CURRENT_USER\\\\Software\\\\sota\\\\FFFTP] filetype:reg"
+  },
+  {
+    "dork": "(@gmail.com || @yahoo.com || @hotmail.com) ext:php inurl:compose"
+  },
+  {
+    "dork": "inurl:calendar.google.com\\/calendar\\/embed?src="
+  },
+  {
+    "dork": "inurl:log -intext:log ext:log inurl:wp-"
+  },
+  {
+    "dork": "inurl:wp-content\\/debug.log"
+  },
+  {
+    "dork": "inurl:DiGIR.php"
+  },
+  {
+    "dork": "filetype:sql intext:wp_users phpmyadmin"
+  },
+  {
+    "dork": "Index of \\/wp-content\\/uploads\\/backupbuddy_backups zip"
+  },
+  {
+    "dork": "intext:\\/LM\\/W3SVC\\/ ext:asp"
+  },
+  {
+    "dork": "intext:\\/showme.asp HTTP_ACCEPT"
+  },
+  {
+    "dork": "inurl:vidyo -site:vidyo.com inurl:portal"
+  },
+  {
+    "dork": "filetype:txt gmail | hotmail | yahoo -robots site:gov | site:us"
+  },
+  {
+    "dork": "index of \\/wp-content\\/uploads\\/userpro"
+  },
+  {
+    "dork": "site:github.com filetype:md | filetype:js | filetype:txt xoxp-"
+  },
+  {
+    "dork": "inurl:configfile.cgi"
+  },
+  {
+    "dork": "filetype:rcf inurl:vpn"
+  },
+  {
+    "dork": "intitle:Skipfish . scan"
+  },
+  {
+    "dork": "filetype:pdf intitle:SSL Report"
+  },
+  {
+    "dork": "inurl:sugarcrm.log ext:log -git -google"
+  },
+  {
+    "dork": "intitle:TurnKey LAMP intext:turnkey lamp release notes Apache PHP information"
+  },
+  {
+    "dork": "inurl:haproxy-status site:example.com"
+  },
+  {
+    "dork": "intext:Microsoft(R) Server Maintenance Utility (Unicode) ext:txt"
+  },
+  {
+    "dork": "Stats generated by pisg v0.73"
+  },
+  {
+    "dork": "inurl:server-status intext:Apache Server Status"
+  },
+  {
+    "dork": "inurl:http | -inurl:https inurl:ftp ext:pdf taxreturn"
+  },
+  {
+    "dork": "inurl:trace ext:axd intext:password"
+  },
+  {
+    "dork": "-inurl:http | -inurl:https inurl:ftp ext:xls | ext:xlsx bank"
+  },
+  {
+    "dork": "intitle:Tomcat Status | inurl:\\/status?full=true"
+  },
+  {
+    "dork": "site:ws.kik.com | site:ws2.kik.com k="
+  },
+  {
+    "dork": "site:target.com ext:xml | ext:conf | ext:cnf | ext:reg | ext:inf | ext:rdp | ext:cfg | ext:txt | ext:ora | ext:ini"
+  },
+  {
+    "dork": "inurl:xampp inurl:perlinfo.pl ext:pl"
+  },
+  {
+    "dork": "site:.edu | .gov ext:bkf | ext:bkp | ext:bak | ext:old | ext:backup"
+  },
+  {
+    "dork": "inurl:src\\/viewcvs.cgi\\/log\\/.c?="
+  },
+  {
+    "dork": "inurl: mil|\\/issue.php filetype:xls"
+  },
+  {
+    "dork": "filetype:pac inurl:\\/proxy"
+  },
+  {
+    "dork": "intext:bbdd index.of \\/ Parent Directory"
+  },
+  {
+    "dork": "intext:\\/homedir\\/.cpanel-datastore\\/"
+  },
+  {
+    "dork": "inurl:cgi-bin ext:pl intext:-rwxr-xr-x"
+  },
+  {
+    "dork": "intext:Full path to a .htpasswd file in this dir: filetype:php"
+  },
+  {
+    "dork": "inurl:wp-admin\\/admin-ajax.php inurl:wp-config.php"
+  },
+  {
+    "dork": "inurl:access.cnf ext:cnf"
+  },
+  {
+    "dork": "intext:OLD_FOREIGN_KEY_CHECKS; = ext:txt"
+  },
+  {
+    "dork": "Futon on Apache inurl:_utils"
+  },
+  {
+    "dork": "phpMyAdmin SQL Dump"
+  },
+  {
+    "dork": "signons.sqlite intitle:index of"
+  },
+  {
+    "dork": "intitle:Index of mail Inbox Sent"
+  },
+  {
+    "dork": "filetype:pcf vpn OR Group"
+  },
+  {
+    "dork": "intitle:index of fic ndx"
+  },
+  {
+    "dork": "inurl:\\/dbg-wizard.php"
+  },
+  {
+    "dork": "intitle:index of archive.pst -contrib"
+  },
+  {
+    "dork": "filetype:pub inurl:ssh"
+  },
+  {
+    "dork": "intext:JSESSIONID OR intext:PHPSESSID inurl:access.log ext:log"
+  },
+  {
+    "dork": "intitle:index of \\/weekly cpbackup"
+  },
+  {
+    "dork": "filetype:xml inurl:\\/WEB-INF\\/ inurl:ftp:\\/\\/ -www"
+  },
+  {
+    "dork": "inurl:\\/server-info intext:Loaded Modules"
+  },
+  {
+    "dork": "inurl:installer-log.txt intext:DUPLICATOR INSTALL-LOG"
+  },
+  {
+    "dork": "ext:pem intext:BEGIN CERTIFICATE"
+  },
+  {
+    "dork": "ext:log telnet intext:password"
+  },
+  {
+    "dork": "filetype:mobileconfig intext:password OR intext:pass"
+  },
+  {
+    "dork": "ext:txt inurl:gov intext:Content-Type: text\\/plain; charset=utf-8 AND intext:Received: from "
+  },
+  {
+    "dork": "ext:msg OR ext:eml site:gov OR site:edu"
+  },
+  {
+    "dork": "filetype:log intext:org.apache.hadoop.hdfs"
+  },
+  {
+    "dork": "(intext:mail AND intext:samAccountName) AND (filetype:xlsx OR filetype:xls OR filetype:csv OR filetype:txt)"
+  },
+  {
+    "dork": "intext:5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8 AND (ext:txt OR ext:csv OR ext:xls OR ext:lst)"
+  },
+  {
+    "dork": "google confidential filetype:pdf"
+  },
+  {
+    "dork": "filetype:sql site:com and insert into admin 2014"
+  },
+  {
+    "dork": "filetype:sql site:gov and insert into"
+  },
+  {
+    "dork": "(DMZ | Public IP | Private IP) filetype:xls"
+  },
+  {
+    "dork": "filetype:pdf acunetix website audit alerts summary"
+  },
+  {
+    "dork": "inurl:crossdomain filetype:xml intext:allow-access-from"
+  },
+  {
+    "dork": "inurl:clientaccesspolicy filetype:xml intext:allow-from"
+  },
+  {
+    "dork": "site:bitbucket.org inurl:.bash_history"
+  },
+  {
+    "dork": "inurl:mikrotik filetype:backup"
+  },
+  {
+    "dork": "intext:phpMyAdmin SQL Dump filetype:sql intext:INSERT INTO `admin` (`id`"
+  },
+  {
+    "dork": "site:github.com inurl:known_hosts ssh-rsa"
+  },
+  {
+    "dork": "site:github.com inurl:id_rsa -inurl:pub"
+  },
+  {
+    "dork": "inurl:github.com intext:sftp-conf.json +intext:\\/wp-content\\/"
+  },
+  {
+    "dork": "filetype:php intext:PROJECT HONEY POT ADDRESS DISTRIBUTION SCRIPT"
+  },
+  {
+    "dork": "inurl:config fetch = +refs\\/heads\\/*:refs\\/remotes\\/origin\\/*"
+  },
+  {
+    "dork": "inurl:\\/wp-content\\/uploads\\/ filetype:sql"
+  },
+  {
+    "dork": "filetype:bak (inurl:php | inurl:asp | inurl:rb)"
+  },
+  {
+    "dork": "inurl:tar filetype:gz"
+  },
+  {
+    "dork": "inurl:jmx-console\\/HtmlAdaptor intitle:Mbean"
+  },
+  {
+    "dork": "filetype:xml inurl:sitemap"
+  },
+  {
+    "dork": "inurl:*\\/webalizer\\/* intitle:Usage Statistics"
+  },
+  {
+    "dork": "intitle:index.of intext:.ssh"
+  },
+  {
+    "dork": "information_schema filetype:sql"
+  },
+  {
+    "dork": "inurl:zendesk.com\\/attachments\\/token site:zendesk.com"
+  },
+  {
+    "dork": "inurl:fluidgalleries\\/dat\\/login.dat"
+  },
+  {
+    "dork": "inurl:wp-content\\/uploads\\/dump.sql"
+  },
+  {
+    "dork": "intitle:WAMPSERVER Homepage & intext:Server Configuration"
+  },
+  {
+    "dork": "inurl:~~joomla3.txt filetype:txt"
+  },
+  {
+    "dork": "filetype:txt inurl:wp-config.txt"
+  },
+  {
+    "dork": "filetype:txt inurl:~~Wordpress2.txt"
+  },
+  {
+    "dork": "allintext: \\/iissamples\\/default\\/"
+  },
+  {
+    "dork": "filetype:ini This is the default settings file for new PHP installations"
+  },
+  {
+    "dork": "filetype:php -site:php.net intitle:phpinfo published by the PHP Group"
+  },
+  {
+    "dork": "inurl:php?id= intext:DB_Error Object "
+  },
+  {
+    "dork": "runtimevar softwareVersion="
+  },
+  {
+    "dork": "ext:gnucash"
+  },
+  {
+    "dork": "inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls"
+  },
+  {
+    "dork": "inurl:newsnab\\/www\\/ automated.config.php"
+  },
+  {
+    "dork": "inurl:.com\\/configuration.php-dist"
+  },
+  {
+    "dork": "inurl:phpmyadmin\\/index.php intext:[ Edit ] [ Create PHP Code ] [ Refresh ]"
+  },
+  {
+    "dork": "filetype:docx Domain Registrar $user $pass"
+  },
+  {
+    "dork": "filetype:avastlic"
+  },
+  {
+    "dork": "intext:~~Joomla1.txt title:Index of \\/"
+  },
+  {
+    "dork": "?intitle:index.of?.mysql_history"
+  },
+  {
+    "dork": "intext:Thank you for your purchase\\/trial of ALWIL Software products.:"
+  },
+  {
+    "dork": "allintext:D.N.I filetype:xls"
+  },
+  {
+    "dork": "Microsoft-IIS\\/7.0 intitle:index.of name size"
+  },
+  {
+    "dork": "List of Phone Numbers (In XLS File ) allinurl:telefonos filetype:xls"
+  },
+  {
+    "dork": "Google Dork inurl:Curriculum Vitale filetype:doc ( Vital Informaticon "
+  },
+  {
+    "dork": "Google Dork For Social Security Number ( In Spain and Argentina is D.N.I )"
+  },
+  {
+    "dork": "filetype:old (define)(DB_USER|DB_PASS|DB_NAME)"
+  },
+  {
+    "dork": "filetype:old (mysql_connect) ()"
+  },
+  {
+    "dork": "filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS"
+  },
+  {
+    "dork": "inurl:trace.axd ext:axd Application Trace"
+  },
+  {
+    "dork": "inurl:\\/includes\\/config.php"
+  },
+  {
+    "dork": "intitle:index.of? configuration.php.zip"
+  },
+  {
+    "dork": "+intext:AWSTATS DATA FILE filetype:txt"
+  },
+  {
+    "dork": "filetype:ini Bootstrap.php (pass|passwd|password|pwd)"
+  },
+  {
+    "dork": "inurl:server-info intitle:Server Information Apache Server Information"
+  },
+  {
+    "dork": "filetype:pem Microsoft"
+  },
+  {
+    "dork": "site:docs.google.com intitle:(cv Or resume OR curriculum vitae)"
+  },
+  {
+    "dork": "site:mediafire.com cv Or resume OR curriculum vitae filetype:pdf OR doc"
+  },
+  {
+    "dork": "site:stashbox.org cv Or resume OR curriculum vitae filetype:pdf OR doc"
+  },
+  {
+    "dork": "inurl:\\/push\\/ .pem apns -push notifications bag attributes"
+  },
+  {
+    "dork": "site:dl.dropbox.com filetype:pdf cv OR curriculum vitae OR resume"
+  },
+  {
+    "dork": "inurl:sarg inurl:siteuser.html"
+  },
+  {
+    "dork": "allinurl:http:\\/\\/www.google.co.in\\/latitude\\/apps\\/badge\\/api?user="
+  },
+  {
+    "dork": "filetype:xls + password + inurl:.com"
+  },
+  {
+    "dork": "intext:db_pass inurl:settings.ini"
+  },
+  {
+    "dork": "inurl:app\\/etc\\/local.xml"
+  },
+  {
+    "dork": "allinurl:\\/xampp\\/security.php"
+  },
+  {
+    "dork": "inurl:phpinfo.php"
+  },
+  {
+    "dork": "inurl:configuration.php-dist"
+  },
+  {
+    "dork": "inurl:config.php.new +vbulletin"
+  },
+  {
+    "dork": "filetype: log inurl:access.log +intext:HTTP\\/1.1"
+  },
+  {
+    "dork": "filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS"
+  },
+  {
+    "dork": "Cisco PIX Security Appliance Software Version + Serial Number + show ver -inurl"
+  },
+  {
+    "dork": "intitle:AppServ Open Project * AppServ is a merging open source software installer package -phpbb"
+  },
+  {
+    "dork": "intitle:LOGREP - Log file reporting system -site:itefix.no"
+  },
+  {
+    "dork": "intitle:Joomla - Web Installer"
+  },
+  {
+    "dork": "(intitle:PRTG Traffic Grapher inurl:allsensors)|(intitle:PRTG Traffic Grapher - Monitoring Results)"
+  },
+  {
+    "dork": "not for public release -.edu -.gov -.mil"
+  },
+  {
+    "dork": "intext:ViewCVS inurl:Settings.php"
+  },
+  {
+    "dork": "inurl:build.err"
+  },
+  {
+    "dork": "inurl:\\/cgi-bin\\/pass.txt"
+  },
+  {
+    "dork": "(intitle:WebStatistica inurl:main.php) | (intitle:WebSTATISTICA server) -inurl:statsoft -inurl:statsoftsa -inurl:statsoftinc.com -edu -software -rob"
+  },
+  {
+    "dork": "inurl:wp-mail.php + There doesn't seem to be any new mail."
+  },
+  {
+    "dork": "intitle:Welcome to F-Secure Policy Manager Server Welcome Page"
+  },
+  {
+    "dork": "intitle:Bookmarks inurl:bookmarks.html Bookmarks"
+  },
+  {
+    "dork": "intitle:urchin (5|3|admin) ext:cgi"
+  },
+  {
+    "dork": "rdbqds -site:.edu -site:.mil -site:.gov"
+  },
+  {
+    "dork": "contacts ext:wml"
+  },
+  {
+    "dork": "intitle:admin panel +Powered by RedKernel"
+  },
+  {
+    "dork": "intitle:curriculum vitae filetype:doc"
+  },
+  {
+    "dork": "ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:budget approved) inurl:confidential"
+  },
+  {
+    "dork": "site:www.mailinator.com inurl:ShowMail.do"
+  },
+  {
+    "dork": "allinurl:cdkey.txt"
+  },
+  {
+    "dork": "filetype:PS ps"
+  },
+  {
+    "dork": "filetype:QBW qbw"
+  },
+  {
+    "dork": "inurl:XcCDONTS.asp"
+  },
+  {
+    "dork": "ext:jbf jbf"
+  },
+  {
+    "dork": "ext:DBF DBF"
+  },
+  {
+    "dork": "ext:CDX CDX"
+  },
+  {
+    "dork": "ext:ccm ccm -catacomb"
+  },
+  {
+    "dork": "ext:DCA DCA"
+  },
+  {
+    "dork": "MacHTTP filetype:log inurl:machttp.log"
+  },
+  {
+    "dork": "ext:ics ics"
+  },
+  {
+    "dork": "ext:plist filetype:plist inurl:bookmarks.plist"
+  },
+  {
+    "dork": "allinurl:weblog\\/referrers"
+  },
+  {
+    "dork": "inurl:getmsg.html intitle:hotmail"
+  },
+  {
+    "dork": "+HSTSNR -netop.com"
+  },
+  {
+    "dork": "#mysql dump filetype:sql 21232f297a57a5a743894a0e4a801fc3"
+  },
+  {
+    "dork": "-site:php.net -The PHP Group inurl:source inurl:url ext:pHp"
+  },
+  {
+    "dork": "filetype:ora tnsnames"
+  },
+  {
+    "dork": "intitle:web server status SSH Telnet"
+  },
+  {
+    "dork": "ext:reg username=* putty"
+  },
+  {
+    "dork": "intitle:edna:streaming mp3 server -forums"
+  },
+  {
+    "dork": "inurl:netscape.ini"
+  },
+  {
+    "dork": "inurl:netscape.hst"
+  },
+  {
+    "dork": "inurl:netscape.hst"
+  },
+  {
+    "dork": "inurl:bookmark.htm"
+  },
+  {
+    "dork": "ext:txt inurl:dxdiag"
+  },
+  {
+    "dork": "intitle:FTP root at"
+  },
+  {
+    "dork": "intext:gmail invite intext:http:\\/\\/gmail.google.com\\/gmail\\/a"
+  },
+  {
+    "dork": "filetype:ctt Contact"
+  },
+  {
+    "dork": "filetype:ctt msn"
+  },
+  {
+    "dork": "filetype:cnf inurl:_vti_pvt access.cnf"
+  },
+  {
+    "dork": "intitle:index.of .diz .nfo last modified"
+  },
+  {
+    "dork": "filetype:blt buddylist"
+  },
+  {
+    "dork": "ext:conf inurl:rsyncd.conf -cvs -man"
+  },
+  {
+    "dork": "inurl:preferences.ini [emule]"
+  },
+  {
+    "dork": "intitle:welcome.to.squeezebox"
+  },
+  {
+    "dork": "ext:dat bpk.dat"
+  },
+  {
+    "dork": "inurl:ds.py"
+  },
+  {
+    "dork": "Generated by phpSystem"
+  },
+  {
+    "dork": "php-addressbook This is the addressbook for * -warning"
+  },
+  {
+    "dork": "inurl:\\/axs\\/ax-admin.pl -script"
+  },
+  {
+    "dork": "intitle:Multimon UPS status page"
+  },
+  {
+    "dork": "ext:gho gho"
+  },
+  {
+    "dork": "ext:pqi pqi -database"
+  },
+  {
+    "dork": "ext:vmdk vmdk"
+  },
+  {
+    "dork": "ext:vmx vmx"
+  },
+  {
+    "dork": "ext:txt Final encryption key"
+  },
+  {
+    "dork": "intitle:DocuShare inurl:docushare\\/dsweb\\/ -faq"
+  },
+  {
+    "dork": "intitle:PHP Advanced Transfer (inurl:index.php | inurl:showrecent.php )"
+  },
+  {
+    "dork": "Microsoft (R) Windows * (TM) Version * DrWtsn32 Copyright (C) ext:log"
+  },
+  {
+    "dork": "intitle:Apache::Status (inurl:server-status | inurl:status.html | inurl:apache.html)"
+  },
+  {
+    "dork": "inurl:report EVEREST Home Edition "
+  },
+  {
+    "dork": "intitle:phpinfo PHP Version"
+  },
+  {
+    "dork": "filetype:myd myd -CVS"
+  },
+  {
+    "dork": "intitle:PhpMyExplorer inurl:index.php -cvs"
+  },
+  {
+    "dork": "ext:cgi inurl:editcgi.cgi inurl:file="
+  },
+  {
+    "dork": "filetype:ns1 ns1"
+  },
+  {
+    "dork": "filetype:config web.config -CVS"
+  },
+  {
+    "dork": "filetype:pst pst -from -to -date"
+  },
+  {
+    "dork": "inurl:putty.reg"
+  },
+  {
+    "dork": "ext:conf NoCatAuth -cvs"
+  },
+  {
+    "dork": "filetype:inf inurl:capolicy.inf"
+  },
+  {
+    "dork": "Certificate Practice Statement inurl:(PDF | DOC)"
+  },
+  {
+    "dork": "intitle:AppServ Open Project -site:www.appservnetwork.com"
+  },
+  {
+    "dork": "intitle:Web Server Statistics for ****"
+  },
+  {
+    "dork": "filetype:php inurl:index inurl:phpicalendar -site:sourceforge.net"
+  },
+  {
+    "dork": "intitle:Index of upload size parent directory"
+  },
+  {
+    "dork": "ext:nsf nsf -gov -mil"
+  },
+  {
+    "dork": "inurl:log.nsf -gov"
+  },
+  {
+    "dork": "intitle:index.of * admin news.asp configview.asp"
+  },
+  {
+    "dork": "ext:mdb inurl:*.mdb inurl:fpdb shop.mdb"
+  },
+  {
+    "dork": "inurl:cgi-bin\\/testcgi.exe Please distribute TestCGI"
+  },
+  {
+    "dork": "intitle:ASP Stats Generator *.* ASP Stats Generator 2003-2004 weppos"
+  },
+  {
+    "dork": "Installed Objects Scanner inurl:default.asp"
+  },
+  {
+    "dork": "ext:ini intext:env.ini"
+  },
+  {
+    "dork": "inurl:odbc.ini ext:ini -cvs"
+  },
+  {
+    "dork": "intext:SQLiteManager inurl:main.php"
+  },
+  {
+    "dork": "+:8080 +:3128 +:80 filetype:txt"
+  },
+  {
+    "dork": "ext:ldif ldif"
+  },
+  {
+    "dork": "inurl:\\/_layouts\\/settings"
+  },
+  {
+    "dork": "filetype:vcs vcs"
+  },
+  {
+    "dork": "ext:log Software: Microsoft Internet Information Services *.*"
+  },
+  {
+    "dork": "filetype:asp DBQ= * Server.MapPath(*.mdb)"
+  },
+  {
+    "dork": "inurl:\\/names.nsf?OpenDatabase"
+  },
+  {
+    "dork": "filetype:pst inurl:outlook.pst"
+  },
+  {
+    "dork": "filetype:pot inurl:john.pot"
+  },
+  {
+    "dork": "filetype:pdb pdb backup (Pilot | Pluckerdb)"
+  },
+  {
+    "dork": "filetype:xls inurl:email.xls"
+  },
+  {
+    "dork": "inurl:snitz_forums_2000.mdb"
+  },
+  {
+    "dork": "filetype:rdp rdp"
+  },
+  {
+    "dork": "filetype:reg Terminal Server Client"
+  },
+  {
+    "dork": "filetype:qbb qbb"
+  },
+  {
+    "dork": "filetype:bkf bkf"
+  },
+  {
+    "dork": "( filetype:mail | filetype:eml | filetype:mbox | filetype:mbx ) intext:password|subject"
+  },
+  {
+    "dork": "filetype:QDF QDF"
+  },
+  {
+    "dork": "phone * * * address * e-mail intitle:curriculum vitae"
+  },
+  {
+    "dork": "ext:asp inurl:pathto.asp"
+  },
+  {
+    "dork": "mail filetype:csv -site:gov intext:name"
+  },
+  {
+    "dork": "filetype:xls -site:gov inurl:contact"
+  },
+  {
+    "dork": "(inurl:robot.txt | inurl:robots.txt ) intext:disallow filetype:txt"
+  },
+  {
+    "dork": "intext:Session Start * * * *:*:* * filetype:log"
+  },
+  {
+    "dork": "filetype:fp3 fp3"
+  },
+  {
+    "dork": "filetype:fp7 fp7"
+  },
+  {
+    "dork": "filetype:cfg auto_inst.cfg"
+  },
+  {
+    "dork": "filetype:fp5 fp5 -site:gov -site:mil -cvs log"
+  },
+  {
+    "dork": "allow_call_time_pass_reference PATH_INFO"
+  },
+  {
+    "dork": "inurl:*db filetype:mdb"
+  },
+  {
+    "dork": "filetype:ora ora"
+  },
+  {
+    "dork": "intitle:Index Of -inurl:maillog maillog size"
+  },
+  {
+    "dork": "inurl:email filetype:mdb"
+  },
+  {
+    "dork": "data filetype:mdb -site:gov -site:mil"
+  },
+  {
+    "dork": "intitle:Index Of cookies.txt size"
+  },
+  {
+    "dork": "inurl:backup filetype:mdb"
+  },
+  {
+    "dork": "inurl:forum filetype:mdb"
+  },
+  {
+    "dork": "intext:(password | passcode) intext:(username | userid | user) filetype:csv"
+  },
+  {
+    "dork": "inurl:profiles filetype:mdb"
+  },
+  {
+    "dork": "intitle:index of +myd size"
+  },
+  {
+    "dork": "sets mode: +s"
+  },
+  {
+    "dork": "sets mode: +p"
+  },
+  {
+    "dork": "inurl:ssl.conf filetype:conf"
+  },
+  {
+    "dork": "BEGIN (CERTIFICATE|DSA|RSA) filetype:key"
+  },
+  {
+    "dork": "BEGIN (CERTIFICATE|DSA|RSA) filetype:csr"
+  },
+  {
+    "dork": "e-mail address filetype:csv csv"
+  },
+  {
+    "dork": "filetype:conf inurl:unrealircd.conf -cvs -gentoo"
+  },
+  {
+    "dork": "# Dumping data for table (username|user|users|password)"
+  },
+  {
+    "dork": "intitle:Welcome to ntop!"
+  },
+  {
+    "dork": "filetype:mny mny"
+  },
+  {
+    "dork": "inurl:\\/public\\/?Cmd=contents"
+  },
+  {
+    "dork": "filetype:ctt ctt messenger"
+  },
+  {
+    "dork": "94FBR ADOBE PHOTOSHOP"
+  },
+  {
+    "dork": "inurl:forward filetype:forward -cvs"
+  },
+  {
+    "dork": "intitle:Big Sister +OK Attention Trouble"
+  },
+  {
+    "dork": "inurl:\\/cricket\\/grapher.cgi"
+  },
+  {
+    "dork": "inurl:cacti +inurl:graph_view.php +Settings Tree View -cvs -RPM"
+  },
+  {
+    "dork": "intitle:System Statistics +System and Network Information Center"
+  },
+  {
+    "dork": "Mecury Version Infastructure Group"
+  },
+  {
+    "dork": "intitle:intranet inurl:intranet +intext:phone"
+  },
+  {
+    "dork": "inurl:php.ini filetype:ini"
+  },
+  {
+    "dork": "filetype:log cron.log"
+  },
+  {
+    "dork": "filetype:log access.log -CVS"
+  },
+  {
+    "dork": "filetype:blt blt +intext:screenname"
+  },
+  {
+    "dork": "intitle:index of mysql.conf OR mysql_config"
+  },
+  {
+    "dork": "filetype:lic lic intext:key"
+  },
+  {
+    "dork": "filetype:eml eml +intext:Subject +intext:From"
+  },
+  {
+    "dork": "filetype:mbx mbx intext:Subject"
+  },
+  {
+    "dork": "filetype:wab wab"
+  },
+  {
+    "dork": "HTTP_FROM=googlebot googlebot.com Server_Software="
+  },
+  {
+    "dork": "Request Details Control Tree Server Variables"
+  },
+  {
+    "dork": "filetype:conf inurl:firewall -intitle:cvs"
+  },
+  {
+    "dork": "inurl:smb.conf intext:workgroup filetype:conf"
+  },
+  {
+    "dork": "intext:Tobias Oetiker traffic analysis"
+  },
+  {
+    "dork": "inurl:tdbin"
+  },
+  {
+    "dork": "inurl:fcgi-bin\\/echo"
+  },
+  {
+    "dork": "inurl:cgi-bin\\/printenv"
+  },
+  {
+    "dork": "inurl:perl\\/printenv"
+  },
+  {
+    "dork": "inurl:server-info Apache Server Information"
+  },
+  {
+    "dork": "inurl:server-status apache"
+  },
+  {
+    "dork": "Running in Child mode"
+  },
+  {
+    "dork": "This is a Shareaza Node"
+  },
+  {
+    "dork": "allinurl:\\/examples\\/jsp\\/snp\\/snoop.jsp"
+  },
+  {
+    "dork": "allinurl:servlet\\/SnoopServlet"
+  },
+  {
+    "dork": "inurl:newsletter\\/admin\\/ intitle:newsletter admin"
+  },
+  {
+    "dork": "inurl:newsletter\\/admin\\/"
+  },
+  {
+    "dork": "Index of \\/ chat\\/logs"
+  },
+  {
+    "dork": "inurl:vbstats.php page generated"
+  },
+  {
+    "dork": "intitle:index.of inbox"
+  },
+  {
+    "dork": "intitle:index.of inbox dbx"
+  },
+  {
+    "dork": "intitle:index.of inbox dbx"
+  },
+  {
+    "dork": "#mysql dump filetype:sql"
+  },
+  {
+    "dork": "Network Vulnerability Assessment Report"
+  },
+  {
+    "dork": "Host Vulnerability Summary Report"
+  },
+  {
+    "dork": "not for distribution confidential"
+  },
+  {
+    "dork": "Thank you for your order +receipt"
+  },
+  {
+    "dork": "inurl:changepassword.asp"
+  },
+  {
+    "dork": "Most Submitted Forms and Scripts this section"
+  },
+  {
+    "dork": "inurl:admin filetype:xls"
+  },
+  {
+    "dork": "inurl:admin intitle:login"
+  },
+  {
+    "dork": "intitle:admin intitle:login"
+  },
+  {
+    "dork": "# phpMyAdmin MySQL-Dump filetype:txt"
+  },
+  {
+    "dork": "# phpMyAdmin MySQL-Dump INSERT INTO -the"
+  },
+  {
+    "dork": "intitle:index.of cgiirc.config"
+  },
+  {
+    "dork": "inurl:cgiirc.config"
+  },
+  {
+    "dork": "inurl:ipsec.secrets -history -bugs"
+  },
+  {
+    "dork": "inurl:ipsec.secrets holds shared secrets"
+  },
+  {
+    "dork": "inurl:ipsec.conf -intitle:manpage"
+  },
+  {
+    "dork": "intitle:statistics of advanced web statistics"
+  },
+  {
+    "dork": "intitle:Usage Statistics for Generated by Webalizer"
+  },
+  {
+    "dork": "robots.txt Disallow: filetype:txt"
+  },
+  {
+    "dork": "phpMyAdmin running on inurl:main.php"
+  },
+  {
+    "dork": "inurl:main.php phpMyAdmin"
+  },
+  {
+    "dork": "inurl:main.php Welcome to phpMyAdmin"
+  },
+  {
+    "dork": "intitle:wbem compaq login Compaq Information Technologies Group"
+  },
+  {
+    "dork": "intitle:index.of Apache server at"
+  },
+  {
+    "dork": "intitle:index.of dead.letter"
+  },
+  {
+    "dork": "intitle:index.of ws_ftp.ini"
+  },
+  {
+    "dork": "intitle:index.of mystuff.xml"
+  },
+  {
+    "dork": "site:edu admin grades"
+  },
+  {
+    "dork": "These statistics were produced by getstats"
+  },
+  {
+    "dork": "This summary was generated by wwwstat"
+  },
+  {
+    "dork": "intitle:index.of haccess.ctl"
+  },
+  {
+    "dork": "filetype:ctl Basic"
+  },
+  {
+    "dork": "intitle:index.of robots.txt"
+  },
+  {
+    "dork": "This report was generated by WebLog"
+  },
+  {
+    "dork": "intitle:Ganglia Cluster Report for"
+  },
+  {
+    "dork": "# Dumping data for table"
+  },
+  {
+    "dork": "intitle:index.of finances.xls"
+  },
+  {
+    "dork": "intitle:Index of finance.xls"
+  },
+  {
+    "dork": "intitle:Index of dbconvert.exe chats"
+  },
+  {
+    "dork": "cacheserverreport for This analysis was produced by calamaris"
+  },
+  {
+    "dork": "buddylist.blt"
+  },
+  {
+    "dork": "intitle:index.of mt-db-pass.cgi"
+  }
+]

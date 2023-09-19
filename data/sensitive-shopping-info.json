@@ -1,0 +1,47 @@
+[
+  {
+    "dork": "site:mail.* intitle:Dashboard"
+  },
+  {
+    "dork": "inurl:product-list.php?id="
+  },
+  {
+    "dork": "inurl:\\/commodities.php?id="
+  },
+  {
+    "dork": "intext: Design & Developed by Antique Touch - INDIA"
+  },
+  {
+    "dork": "intext:Dumping data for table `orders`"
+  },
+  {
+    "dork": "dcid= bn= pin code="
+  },
+  {
+    "dork": "intext:Powered by X-Cart: shopping cart software -site:x-cart.com"
+  },
+  {
+    "dork": "intext:powered by Hosting Controller intitle:Hosting.Controller"
+  },
+  {
+    "dork": "site:ups.com intitle:Ups Package tracking intext:1Z ### ### ## #### ### #"
+  },
+  {
+    "dork": "inurl:shopdbtest.asp"
+  },
+  {
+    "dork": "More Info about MetaCart Free"
+  },
+  {
+    "dork": "inurl:midicart.mdb"
+  },
+  {
+    "dork": "inurl:\\/database\\/comersus.mdb"
+  },
+  {
+    "dork": "inurl:shopadmin.asp Shop Administrators only"
+  },
+  {
+    "dork": "POWERED BY HIT JAMMER 1.0!"
+  }
+]
